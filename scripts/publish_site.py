@@ -64,7 +64,8 @@ def main():
     if not a.no_screens and os.path.isdir(src_scr):
         ext = compress_screens(src_scr, os.path.join(mdir, "screens"), a.quality)
         if ext == "jpg":
-            html = html.replace('.png"', '.jpg"')
+            # SÓLO las rutas de capturas; no tocar p.ej. la URL de tiles OSM ({z}/{x}/{y}.png)
+            html = re.sub(r'(screens/[^"\']+)\.png(["\'])', r'\1.jpg\2', html)
     else:
         html = re.sub(r'"shot": ?"screens/[^"]+"', '"shot": null', html)
     open(os.path.join(mdir, "index.html"), "w", encoding="utf-8").write(html)
