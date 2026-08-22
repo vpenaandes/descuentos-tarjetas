@@ -63,7 +63,22 @@ pre.cond{white-space:pre-wrap;font:12px/1.45 ui-monospace,Consolas,monospace;bac
 .mk.fal{background:var(--fal)}.mk.san{background:var(--san)}
 .mk.aprox{background:#fff!important;border:2px dashed #555}
 .legend{background:#fff;padding:6px 8px;border-radius:6px;font-size:12px;box-shadow:0 1px 4px rgba(0,0,0,.2);line-height:1.6}
-@media (max-width:1000px){#main{grid-template-columns:1fr;height:auto}#map{height:55vh;position:relative;border-left:0;border-top:1px solid var(--line)}#tablewrap{max-height:none}}
+.viewtabs{display:none}
+#ftoggle{display:none}
+@media (max-width:1000px){
+  #main{display:block;height:auto}
+  #tablewrap{padding:0 6px 80px}
+  #map{display:none;height:calc(100vh - 120px);position:relative;border-left:0;border-top:1px solid var(--line)}
+  body.view-map #tablewrap{display:none}
+  body.view-map #map{display:block}
+  .viewtabs{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+  .viewtabs button{border:0;background:#fff;padding:6px 14px;font-size:13px;cursor:pointer}
+  .viewtabs button.on{background:var(--acc);color:#fff}
+  #ftoggle{display:inline-block}
+  #filters.collapsed .fgroup.col, #filters.collapsed .toggle{display:none}
+  th:nth-child(4),td:nth-child(4){display:none}
+  td,th{padding:6px 5px}
+}
 </style>
 </head>
 <body>
@@ -73,11 +88,13 @@ pre.cond{white-space:pre-wrap;font:12px/1.45 ui-monospace,Consolas,monospace;bac
   <span class="meta">Verificación: cada fila enlaza a la página del banco (fuente); “Condiciones” muestra el texto íntegro capturado; “Captura” abre el screenshot si existe.</span>
 </header>
 <div id="filters">
-  <div class="fgroup" id="f-banco"><label>Banco</label></div>
+  <div class="fgroup"><span class="viewtabs"><button type="button" id="vt-list" class="on" onclick="setView('list')">Lista</button><button type="button" id="vt-map" onclick="setView('map')">Mapa</button></span>
+    <button class="btn" id="ftoggle" type="button">Filtros ▾</button></div>
   <div class="fgroup" id="f-dia"><label>Día</label></div>
-  <div class="fgroup" id="f-tarj"><label>Tarjeta</label></div>
-  <div class="fgroup"><label>Comuna</label><select id="sel-com"><option value="">(agregar comuna…)</option></select><span id="f-com" class="fgroup"></span></div>
-  <div class="fgroup"><label>Buscar</label><input type="text" id="q" placeholder="comercio, lugar, condición…"></div>
+  <div class="fgroup col" id="f-banco"><label>Banco</label></div>
+  <div class="fgroup col" id="f-tarj"><label>Tarjeta</label></div>
+  <div class="fgroup col"><label>Comuna</label><select id="sel-com"><option value="">(agregar comuna…)</option></select><span id="f-com" class="fgroup"></span></div>
+  <div class="fgroup col"><label>Buscar</label><input type="text" id="q" placeholder="comercio, lugar, condición…"></div>
   <label class="toggle"><input type="checkbox" id="tg-aprox"> mostrar ubicaciones aproximadas (ciudad/por nombre)</label>
   <label class="toggle"><input type="checkbox" id="tg-geo"> sólo con punto en mapa</label>
   <button class="btn" id="clear">Limpiar filtros</button>
@@ -197,15 +214,38 @@ function render(){
       cluster.addLayer(m); (markersById[d.id]=markersById[d.id]||[]).push(m); pts.push([u.lat,u.lng]);
     });
   });
-  if(pts.length){ map.fitBounds(L.latLngBounds(pts).pad(0.15),{maxZoom:14}); }
+  lastPts = pts;
+  fitCurrent();
 }
+let lastPts = [];
+function fitCurrent(){
+  if(!lastPts.length || map.getContainer().offsetWidth===0) return;
+  const b = L.latLngBounds(lastPts);
+  // si los puntos abarcan medio país, centrar en Santiago (la mayoría) en vez de zoom 4
+  if(b.getNorth()-b.getSouth() > 3){ const rm = lastPts.filter(p=>p[0]>-33.75 && p[0]<-33.2 && p[1]>-70.95 && p[1]<-70.4); if(rm.length){ map.fitBounds(L.latLngBounds(rm).pad(0.1),{maxZoom:13}); return; } }
+  map.fitBounds(b.pad(0.15),{maxZoom:14});
+}
+const isMobile = () => window.matchMedia("(max-width:1000px)").matches;
+function setView(v){
+  document.body.classList.toggle("view-map", v==="map");
+  document.getElementById("vt-list").classList.toggle("on", v!=="map");
+  document.getElementById("vt-map").classList.toggle("on", v==="map");
+  if(v==="map"){ setTimeout(()=>{ map.invalidateSize(); fitCurrent(); }, 60); }
+}
+window.addEventListener("resize", ()=>{ map.invalidateSize(); });
+const ftoggle = document.getElementById("ftoggle");
+ftoggle.onclick = ()=>{ const f=document.getElementById("filters"); f.classList.toggle("collapsed"); ftoggle.textContent = f.classList.contains("collapsed") ? "Filtros ▾" : "Filtros ▴"; };
+if(isMobile()){ document.getElementById("filters").classList.add("collapsed"); }
 function toggleDet(id){ const e=document.getElementById("d-"+id); e.style.display = e.style.display==="none"?"":"none"; }
 function selectRow(id, fromTable){
   document.querySelectorAll("tr.row.sel").forEach(r=>r.classList.remove("sel"));
   const r=document.getElementById("r-"+id); if(!r) return; r.classList.add("sel");
   if(!fromTable) r.scrollIntoView({block:"center",behavior:"smooth"});
   const ms = markersById[id]||[];
-  if(ms.length){ const b=L.latLngBounds(ms.map(m=>m.getLatLng())); if(ms.length===1){ map.setView(ms[0].getLatLng(), Math.max(map.getZoom(),16)); cluster.zoomToShowLayer(ms[0],()=>ms[0].openPopup()); } else map.fitBounds(b.pad(0.3)); }
+  if(!ms.length) return;
+  const go = ()=>{ const b=L.latLngBounds(ms.map(m=>m.getLatLng())); if(ms.length===1){ map.setView(ms[0].getLatLng(), Math.max(map.getZoom(),16)); cluster.zoomToShowLayer(ms[0],()=>ms[0].openPopup()); } else map.fitBounds(b.pad(0.3)); };
+  if(isMobile() && !document.body.classList.contains("view-map")){ document.body.classList.add("view-map"); document.getElementById("vt-list").classList.remove("on"); document.getElementById("vt-map").classList.add("on"); setTimeout(()=>{ map.invalidateSize(); go(); }, 80); }
+  else go();
 }
 function showShot(id){
   const d = DATA.find(x=>x.id===id); if(!d) return;
