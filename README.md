@@ -75,6 +75,17 @@ git add -A && git commit -m "Descuentos AAAA-MM" && git push
 Pages tarda ~1 min en reflejar el push. Si algún mes no se quiere publicar con capturas:
 `--no-screens`.
 
+### Versión privada (Artifact de claude.ai, sólo con tu login)
+https://claude.ai/code/artifact/3fcb8cc4-fb3b-4023-a783-130f19b68870 — tarjetas móviles, día "hoy"
+preseleccionado, filtros, links Verificar/Maps, condiciones. Sin mapa ni capturas (claude.ai bloquea
+recursos externos). Regenerar y republicar cada mes:
+```bash
+python scripts/build_artifact.py --mes AAAA-MM      # -> output/AAAA-MM/descuentos_restaurantes_AAAA-MM_artifact.html
+# luego: herramienta Artifact de Claude Code con ese archivo y url=<la de arriba> para mantener el link
+```
+Nota GitHub: la cuenta es plan Free → Pages sólo funciona con repo público; con repo privado el sitio se
+apaga (probado 2026-08-22). Para página privada gratis con mapa: Cloudflare Pages + Access (requiere cuenta).
+
 ## Plan de verificación (no confundir local, no confiar ciegamente en la heurística)
 
 1. **Fuente siempre a un clic (lo principal)**: cada fila/popup tiene "Verificar ↗" → abre DIRECTO la
