@@ -61,6 +61,20 @@ output/AAAA-MM/               resultados de cada mes (histórico)
    ```
    Abrir `output/AAAA-MM/descuentos_restaurantes_AAAA-MM.html`.
 
+## Publicar (GitHub Pages, gratis, se ve desde el celular)
+
+URL pública: **https://vpenaandes.github.io/descuentos-tarjetas/** (redirige al mes más reciente;
+`/AAAA-MM/` para un mes específico). Repo: https://github.com/vpenaandes/descuentos-tarjetas (público;
+Pages sirve `main:/docs`). Las capturas van comprimidas a JPEG (~26 MB/mes); las PNG crudas quedan
+fuera del repo (`.gitignore`).
+
+```bash
+python scripts/publish_site.py --mes AAAA-MM     # arma docs/AAAA-MM/ + docs/index.html
+git add -A && git commit -m "Descuentos AAAA-MM" && git push
+```
+Pages tarda ~1 min en reflejar el push. Si algún mes no se quiere publicar con capturas:
+`--no-screens`.
+
 ## Plan de verificación (no confundir local, no confiar ciegamente en la heurística)
 
 1. **Fuente siempre a un clic (lo principal)**: cada fila/popup tiene "Verificar ↗" → abre DIRECTO la
