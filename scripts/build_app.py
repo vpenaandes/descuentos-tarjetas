@@ -200,7 +200,7 @@ const DIAS = ["Lunes","Martes","Miércoles","Jueves","Viernes","Sábado","Doming
 const state = {banco:new Set(), dia:new Set(), tarj:new Set(), com:new Set(), q:"", aprox:false, geo:false, sel:null};
 const bk = b => b==="Banco Falabella"?"fal":"san";
 const esc = s => String(s??"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const normtxt = s => (s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase();
+const normtxt = s => (s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
 
 document.getElementById("mes").textContent = META.mes;
 document.getElementById("metatxt").textContent = `${META.n} beneficios · ${META.bancos.join(" + ")} · generado ${META.generado}`;
