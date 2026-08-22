@@ -1,0 +1,112 @@
+# DescuentosTarjetas — scraping mensual de descuentos en restaurantes
+
+Objetivo: cada mes (inicio de mes, cuando los bancos renuevan promociones) generar una tabla + mapa
+con **lugar específico · horario · tope máximo · días · tarjeta** de los descuentos en restaurantes,
+con link al banco para verificar y filtros por comuna / día / tarjeta.
+
+Bancos cubiertos hoy: **Banco Falabella (CMR/Débito)** y **Santander**. Diseñado para agregar más.
+
+## Estructura
+
+```
+scripts/
+  rsc.py                      util: extrae payload RSC de páginas Next.js (Falabella)
+  common.py                   esquema común + heurísticas (días, horario, tope, lugares)
+  scrape_falabella.py         Falabella: lista + páginas de detalle -> JSON + MD
+  santander_fetch_browser.js  Santander: snippet que se ejecuta EN EL NAVEGADOR (Akamai bloquea curl)
+  process_santander.py        Santander: JSON crudo -> esquema común -> JSON + MD
+  build_report.py             combina bancos -> descuentos_<cat>_<mes>.md / .csv / .json
+  geocode.py                  lugares -> lat/lng + comuna (Nominatim/OSM + diccionario de malls + caché)
+  screenshots.py              captura la página del banco de cada descuento (Playwright) -> screens/
+  build_app.py                app HTML: filtros (banco/día/tarjeta/comuna/texto) + tabla + mapa Leaflet
+data/geocache.json            caché Nominatim persistente (no borrar: ahorra ~200 consultas/mes)
+output/AAAA-MM/               resultados de cada mes (histórico)
+  descuentos_restaurantes_AAAA-MM.html   <- LA APP (doble clic; mapa requiere internet)
+  descuentos_restaurantes_AAAA-MM.md/.csv/.json/.geo.json
+  screens/<id>.png + _log.json           capturas de evidencia
+```
+
+## Procedimiento mensual (≈20 min, casi todo desatendido)
+
+1. **Falabella** (HTTP puro):
+   ```bash
+   python scripts/scrape_falabella.py --categoria restaurantes
+   ```
+   Lista `https://www.bancofalabella.cl/descuentos/restaurantes` es Next.js SSR: datos embebidos en
+   `self.__next_f.push(...)` (`benefitCardsData`); detalle `/descuentos/detalle/<slug>` trae
+   `benefitData` (condiciones rich-text, legal, tarjetas, días, tope, región). Se parsea con
+   `raw_decode` sobre `{"benefitData":` (el split por líneas falla en ~14/95).
+
+2. **Santander** (API tras Akamai Bot Manager → curl/urllib = 403; hay que estar en un navegador):
+   - Abrir `https://banco.santander.cl/beneficios/descuentos-restaurantes` en el navegador integrado
+     de Claude Code (`mcp__Claude_Browser__*`, no hace falta Chrome del usuario) o en DevTools.
+   - Ejecutar `scripts/santander_fetch_browser.js` (`javascript_tool`). Llama a
+     `/beneficios/promociones.json?per_page=9999&tags=cat-sabores&custom_fields=true`.
+   - Guardar el resultado como `output/AAAA-MM/santander_raw_cat-sabores.json` (sirve tal cual el
+     archivo `tool-results/*.txt` que deja Claude Code cuando la salida es grande).
+   - `python scripts/process_santander.py output/AAAA-MM/santander_raw_cat-sabores.json`
+   - Tags útiles: días (`lunes`…`domingo`), tarjetas (`wm-limited`, `exclusivo-amex`,
+     `todas-las-tarjetas`, `life-y-debito`), cobertura (`metropolitana`, `regiones`). El campo
+     "Comuna cobertura" viene lleno en muchos → se usa para el filtro por comuna.
+     **Días: el texto manda** (los tags a veces quedan desactualizados, p.ej. Don Carlos).
+
+3. **Reporte, mapa y app**:
+   ```bash
+   python scripts/build_report.py --mes AAAA-MM
+   python scripts/geocode.py --mes AAAA-MM          # ~3 min la 1ª vez, después casi todo del caché
+   # opcional (evidencia con fecha; ~10 min):
+   python scripts/screenshots.py --mes AAAA-MM --only falabella
+   python scripts/screenshots.py --mes AAAA-MM --only santander --channel chrome --idle-timeout 4000
+   python scripts/build_app.py --mes AAAA-MM
+   ```
+   Abrir `output/AAAA-MM/descuentos_restaurantes_AAAA-MM.html`.
+
+## Plan de verificación (no confundir local, no confiar ciegamente en la heurística)
+
+1. **Fuente siempre a un clic (lo principal)**: cada fila/popup tiene "Verificar ↗" → abre DIRECTO la
+   página de ese restaurante en el banco (deep link por slug). El nombre del comercio también es link.
+   Cada ubicación tiene "Maps ↗" → Google Maps en el punto (o la dirección si no hay punto).
+   Las capturas (paso 3) son OPCIONALES: sólo evidencia congelada con fecha, útil porque Santander
+   borra promos vencidas y los bancos cambian locales a mitad de mes. Si apura, saltar ese paso.
+2. **Texto íntegro del banco**: botón "Condiciones" muestra tal cual lo que publicó el banco (fuente de
+   verdad). Si la heurística dejó "—" en lugar/horario, ahí está la respuesta.
+3. **Capturas de pantalla** (`screenshots.py`, Playwright): botón "Captura" abre
+   `screens/<id>.png` con fecha de captura. Falabella: Chromium headless OK. Santander: Chromium
+   headless es bloqueado por Akamai ("Internet Connection Error") → usar `--channel chrome`
+   (Chrome instalado, headless pasa) o `--headed`. El script detecta páginas bloqueadas/vacías y las
+   deja marcadas `ok:false` para reintentar; re-correr el script sólo reintenta las que faltan.
+4. **Precisión del mapa** (badge en cada punto):
+   - `exacta` = OSM devolvió el número de casa · `mall` = recinto conocido (diccionario `MALLS` en
+     `geocode.py`) · `calle` = sólo la calle (±cuadras; verificar) · `ciudad`/`nombre`/`zona` =
+     aproximado, se dibujan punteados y sólo con el toggle "mostrar ubicaciones aproximadas".
+   - Por nombre sólo se acepta si OSM devuelve un local gastronómico cuyo nombre contiene la frase
+     completa (evita "Social" → Ministerio de Desarrollo Social).
+5. **Diff mes a mes** (pendiente): comparar `descuentos_*.json` de dos meses → altas/bajas/cambios de
+   condiciones. Los JSON quedan en `output/AAAA-MM/` para eso.
+6. **Muestreo manual**: antes de usar un descuento caro, abrir el link. Los bancos cambian locales y
+   topes sin aviso.
+
+## Calidad / limitaciones conocidas (ago-2026)
+
+- Falabella: 95 beneficios; ~16 sin dirección (cadenas / "exclusivo presencial"). Patrón típico
+  "40% CMR / 30% Débito"; tope casi siempre "Sin tope". Multilocal con días distintos por local
+  ("Mallplaza Egaña: lunes a jueves") → se listan todos; el filtro por día usa la unión.
+- Santander: 83 beneficios; tope explícito casi siempre; ~7 sin lugar (online/delivery).
+- Horario casi nunca publicado; cuando sí (Panchita "hasta las 17:00", Open Kennedy "desde 19:00") se
+  captura en `horario` o queda en el texto del local.
+- Geocodificación: ~200 puntos; ~70 exacta, ~85 mall, ~35 calle, resto aprox/sin geo. Nominatim
+  1 req/s.
+
+## Cómo agregar otro banco
+
+1. `scripts/scrape_<banco>.py` (o fetch por navegador + `process_<banco>.py`) que produzca
+   `output/AAAA-MM/<banco>_<categoria>.json` con el esquema de `common.py` (docstring).
+2. `build_report.py` lo toma automáticamente (glob `*_<categoria>.json`); geocode/app también.
+3. En `build_app.py`, `tarjetas_filtro()` necesita una rama para normalizar nombres de tarjetas.
+4. Reutilizar `common.dias_desde_texto / tope_desde_texto / lugares_desde_texto / horario_desde_texto`.
+
+Candidatos: BCI, Banco de Chile, Scotiabank, Itaú, Tenpo/MACH.
+
+## Historial
+
+- 2026-08-22: primera corrida. Falabella 95, Santander 83 (178). Geocodificación + app + capturas.

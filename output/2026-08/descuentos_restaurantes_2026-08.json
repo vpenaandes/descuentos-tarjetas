@@ -1,0 +1,4474 @@
+[
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Coppelia",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos:\n\n- Todos los Lunes\n- 40% de descuento pagando con tu CMR y 30% de descuento pagando con Débito Banco Falabella.\nCONDICIONES \n- Solo Presencial\n- No acumulable sobre otras promociones",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/coppelia"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Petit",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alto las Condes"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite",
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2025-11-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella\n- De lunes a domingo\n- Exclusivo Alto las Condes",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/petit"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Patio Bulnes Restobar",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Buin",
+   "Manuel Bulnes 491, comuna de Buin, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-06-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los Lunes\n*Dirección: Manuel Bulnes 491, comuna de Buin, Región Metropolitana",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/patio-bulnes-restobar"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Hijo Del Sol Santiago",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Hijo Del Sol Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Hijo Del Sol Santiago\n- lunes y martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/hijo-del-sol-santiago"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "La Maestranza",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Miércoles",
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Avenida Vitacura 5468, Vitacura – Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en La Maestranza\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los lunes, miércoles y viernes\n- *Dirección: Avenida Vitacura 5468, Vitacura – Santiago",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/la-maestranza"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "De Barrio",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "De Barrio"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-04-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- De Barrio\n- De lunes a jueves\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/de-barrio"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Kento Gourmet",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alto Las Condes (Av Presidente Kennedy Lateral 9001)",
+   "Parque Arauco (Av Presidente Kennedy 5413)",
+   "Av. Vitacura 5460"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "¡Sin Tope! Disfruta con un 40% de dcto pagando con tu CMR y 30% de dcto pagando con débito Banco Falabella\nLocales:\n- Alto Las Condes (Av Presidente Kennedy Lateral 9001)\n- Parque Arauco (Av Presidente Kennedy 5413)\n- Av. Vitacura 5460\nCondiciones:\n- Excluye promociones\n- Exclusivo presencial\n- lunes a jueves",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/kento-gourmet"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Frida Kahlo",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Costanera Center: lunes a jueves"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Costanera Center: lunes a jueves",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Vapiano",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Miércoles",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Vapiano\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los Lunes, Miércoles, Viernes, Sábados y Domingos\n*Dirección: Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/vapiano"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Muu grill",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Mallplaza Oeste: Todos los días",
+   "Mallplaza Egaña: Todos los días",
+   "Mallplaza Vespucio: Todos los días",
+   "Mallplaza Tobalaba: Todos los días",
+   "Mallplaza Los Dominicos: Todos los días",
+   "AV Isidora Goyenechea 3000, las condes: Todos los días",
+   "Vivo panorámico: Todos los días",
+   "Mercado Bulnes: Todos los días",
+   "Costanera Center: Todos los días",
+   "Mall Marina Viña: Todos los días",
+   "Mallplaza Antofagasta: Lunes a miércoles"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago, Región de Valparaíso",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Oeste: Todos los días\n- Mallplaza Egaña: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Mallplaza Los Dominicos: Todos los días\n- AV Isidora Goyenechea 3000, las condes: Todos los días\n- Vivo panorámico: Todos los días\n- Mercado Bulnes: Todos los días\n- Costanera Center: Todos los días\n- Mall Marina Viña: Todos los días\n- Mallplaza Antofagasta: Lunes a miércoles",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Cabrera al Paso",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Mallplaza Egaña: lunes a domingo"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Egaña: lunes a domingo",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Tanta",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Isidora 3000: Viernes a domingo",
+   "Mallplaza Norte: lunes a jueves",
+   "Mall Florida Center: Todos los dias",
+   "Mallplaza Tobalaba: Todos los dias",
+   "Mallplaza Egaña: lunes a miércoles"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago, Región de Valparaíso",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Isidora 3000: Viernes a domingo\n- Mallplaza Norte: lunes a jueves\n- Mall Florida Center: Todos los dias\n- Mallplaza Tobalaba: Todos los dias\n- Mallplaza Egaña: lunes a miércoles",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Mamma mia",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Mallplaza Tobalaba: Todos los días",
+   "Vivo Panorámico: Todos los días",
+   "Parque Arauco: Todos los días",
+   "Mallplaza Antofagasta: lunes a miércoles"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Tobalaba: Todos los días\n- Vivo Panorámico: Todos los días\n- Parque Arauco: Todos los días\n- Mallplaza Antofagasta: lunes a miércoles.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Berlín Doner Kebab",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2025-10-01 → 2026-08-31",
+  "condiciones": "Locales:\nGerónimo de Alderete 1579, Vitacura.\nIrarrázaval 1520, Ñuñoa.\nCondiciones:\n- Excluye promociones",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/berlin-doner-kebab"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Kairos garden",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Mall Plaza Vespucio: lunes y martes"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Plaza Vespucio: lunes y martes",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/kairos-garden"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "La piazza",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "Open Kennedy desde las 19:00hrs: miércoles a domingo",
+  "lugares": [
+   "Mall Plaza Vespucio: Todos los días",
+   "Open Kennedy: lunes y martes",
+   "Open Kennedy desde las 19:00hrs: miércoles a domingo"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Plaza Vespucio: Todos los días\n- Open Kennedy: lunes y martes\n- Open Kennedy desde las 19:00hrs: miércoles a domingo",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "La patrona",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Patrona Mall Plaza Vespucio: lunes a jueves"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- La Patrona Mall Plaza Vespucio: lunes a jueves",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-patrona"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Paris texas",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Paris Texas Mallplaza Vespucio: lunes a jueves"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Paris Texas Mallplaza Vespucio: lunes a jueves",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-paris-texas"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Take a wok",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Mallplaza Oeste: Todos los días",
+   "Mallplaza Egaña: lunes a jueves",
+   "Mallplaza Los Dominicos: Todos los días",
+   "Mallplaza Vespucio: Todos los días",
+   "Mallplaza Tobalaba: Todos los días",
+   "Mallplaza Antofagasta: Lunes a viernes",
+   "Vivo Imperio: sábados y domingos",
+   "Parque Arauco : Todos los días"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Oeste: Todos los días\n- Mallplaza Egaña: lunes a jueves\n- Mallplaza Los Dominicos: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Mallplaza Antofagasta: Lunes a viernes\n- Vivo Imperio: sábados y domingos\n- Parque Arauco : Todos los días",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "La sanguchera del barrio",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Mall Plaza Egaña",
+   "Mercado Bulnes",
+   "Vivo Imperio",
+   "Costanera Center",
+   "Mallplaza Tobalaba"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo\nVálido en locales:\n- Mall Plaza Egaña\n- Mercado Bulnes\n- Vivo Imperio\n- Costanera Center\n- Mallplaza Tobalaba",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Ekeko",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Mercado Bulnes: todos los días"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mercado Bulnes: todos los días",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Badass",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Parque Arauco"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Parque Arauco",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/badass"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Vendetta",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "locales seleccionados",
+   "Mall Plaza Egaña: de lunes a jueves",
+   "Mall Plaza Los Dominicos: de lunes a jueves",
+   "Mall Plaza Vespucio: de lunes a jueves",
+   "Patio Bellavista: de lunes a jueves"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Plaza Egaña: de lunes a jueves\n- Mall Plaza Los Dominicos: de lunes a jueves\n- Mall Plaza Vespucio: de lunes a jueves\n- Patio Bellavista: de lunes a jueves",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/vendetta"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Milá",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Mall Vivo Imperio: Todos los días",
+   "Alto Las Condes: Lunes y martes"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Vivo Imperio: Todos los días\n- Alto Las Condes: Lunes y martes",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Barra Chalaca",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Mall Plaza Egaña: lunes a Jueves",
+   "Mall Alto Las Condes: lunes a jueves",
+   "Mall Plaza norte: lunes a viernes",
+   "Mall Plaza Vespucio: lunes y martes",
+   "Mall Vivo Panoramico: lunes a domingo"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago, Región de Valparaíso",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Plaza Egaña: lunes a Jueves\n- Mall Alto Las Condes: lunes a jueves\n- Mall Plaza norte: lunes a viernes\n- Mall Plaza Vespucio: lunes y martes\n- Mall Vivo Panoramico: lunes a domingo",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "El Bodegon",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "Open Kennedy desde las 19:00: miércoles a domingo",
+  "lugares": [
+   "Open Kennedy: lunes y martes",
+   "Open Kennedy desde las 19:00: miércoles a domingo"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Open Kennedy: lunes y martes\n- Open Kennedy desde las 19:00: miércoles a domingo",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/el-bodegon"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Fuente Suiza",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "Open Kennedy desde 19:00hrs: miércoles a domingo",
+  "lugares": [
+   "Mall plaza egaña: lunes a miércoles",
+   "Mall plaza oeste: lunes a miércoles",
+   "Open Kennedy: lunes y martes",
+   "Open Kennedy desde 19:00hrs: miércoles a domingo"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall plaza egaña: lunes a miércoles\n- Mall plaza oeste: lunes a miércoles\n- Open Kennedy: lunes y martes\n- Open Kennedy desde 19:00hrs: miércoles a domingo",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Cantina Varas",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a sábado)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Antonio Varas 443, Providencia"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-07-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a sábado\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Exclusivo presencial\nDirección: Antonio Varas 443, Providencia",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/cantina-varas"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Siete cortes",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "Open Kennedy desde las 19:00: miércoles a domingo",
+  "lugares": [
+   "Open Kennedy: lunes y martes",
+   "Open Kennedy desde las 19:00: miércoles a domingo"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Open Kennedy: lunes y martes\n- Open Kennedy desde las 19:00: miércoles a domingo",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "El japones",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Mall Florida Center: lunes a domingo",
+   "Mall plaza Tobalaba : lunes a domingo",
+   "Vivo Panoramico: lunes a domingo",
+   "Isidora 3000 : viernes a domingo"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Florida Center: lunes a domingo\n- Mall plaza Tobalaba : lunes a domingo\n- Vivo Panoramico: lunes a domingo\n- Isidora 3000 : viernes a domingo",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Jalisco",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Parque Arauco",
+   "Open Kennedy",
+   "Vivo Panomarico"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo\nVálido en locales:\n- Parque Arauco\n- Open Kennedy\n- Vivo Panomarico",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "La argentina",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a viernes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Mall plaza Oeste: Lunes a miercoles",
+   "Mall Florida Center: Lunes a domingo",
+   "Mall plaza Tobalaba: Lunes a domingo"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-04 → 2026-08-31",
+  "condiciones": "Conoce el detalle\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a viernes\nVálido en local:\n- Mall plaza Oeste: Lunes a miercoles\n- Mall Florida Center: Lunes a domingo\n- Mall plaza Tobalaba: Lunes a domingo\n- Vivo Panoramico : Lunes a domingo\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/la-argentina"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Meson del marinero",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "Open Kennedy desde las 19:00hrs: miércoles a domingo",
+  "lugares": [
+   "Open Kennedy: lunes y martes",
+   "Open Kennedy desde las 19:00hrs: miércoles a domingo",
+   "Mallplaza Antofagasta: lunes a miércoles"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Open Kennedy: lunes y martes\n- Open Kennedy desde las 19:00hrs: miércoles a domingo\n- Mallplaza Antofagasta: lunes a miércoles.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Muu Steak",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.)",
+  "descuento_pct": 1,
+  "tope": "Sin tope",
+  "dias": [
+   "Lunes",
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.\nCondiciones:\n- Solo Presencial en Alto Las Condes.\n- Todos los Lunes y Martes",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/muu-steak"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "MISCELANEO",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2025-09-29 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.\nVálido en locales:\n- Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana\n- Martes a Sábado\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Miscelaneo",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/miscelaneo"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Exò Nuit",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-03 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en EXO\n- Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana\nCondiciones:\n- Exclusivo presencial y online\n- No acumulable sobre otras promociones",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/exo-nuit"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Cantina Montt",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes y sábados)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes",
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Avenida Manuel Montt 1201, Providencia"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-06 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes y sábados\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Exclusivo presencial\nDirección: Avenida Manuel Montt 1201, Providencia",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/cantina-montt"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Kechua",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "BordeRío",
+   "Kechua BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-04-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Kechua BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/borderio-kechua"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Krossbar",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "BordeRío",
+   "Krossbar BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-04-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Krossbar BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/martes-de-borderio-krossbar"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Pulmay",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "BordeRío",
+   "Pulmay BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-04-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Pulmay BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/borderio-pulmay"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Bistro Cascade",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "BordeRío",
+   "Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-04-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/borderio-bistro-cascade"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Anima Cocktail Lab",
+  "descuento": "40% (40% dcto pagando con tu CMR y 30% dcto pagando con débito Banco Falabella Sin Tope)",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Miércoles",
+   "Jueves",
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-05-01 → 2026-08-31",
+  "condiciones": "40% dcto pagando con tu CMR y 30% dcto pagando con débito Banco Falabella Sin Tope\nCondiciones:\n- Exclusivo presencial\n- No acumulable sobre otras promociones",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/anima-cocktail-lab"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Danés",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Cristobal Colon 4455, Las Condes, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Danés\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n*Dirección: Cristobal Colon 4455, Las Condes, Región Metropolitana",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/danes"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Nelí",
+  "descuento": "40% (40% dcto sin tope pagando con CMR y 30% dcto sin tope pagando con débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Boulevard Parque Arauco - Av. Pdte. Kennedy 5413, local 363 A, piso 1, Las Condes"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "40% dcto sin tope pagando con CMR y 30% dcto sin tope pagando con débito Banco Falabella\n- Boulevard Parque Arauco - Av. Pdte. Kennedy 5413, local 363 A, piso 1, Las Condes\nCondiciones:\n- No acumulable con otras promociones\n- Exclusivo presencial\n- Válido día miércoles",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/neli"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "La santoría",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a domingo)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Santoría: Manuel Montt 422, Providencia"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a domingo\nVálido en locales:\n- La Santoría: Manuel Montt 422, Providencia\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en La Santoría",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/la-santoria"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Tigre Bravo",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Mall Arauco Maipú"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Arauco Maipú\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Tigre Bravo",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/tigre-bravo"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Kato",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-02-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Kato\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/kato"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Hijo Del Sol 5ta Region",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Hijo Del Sol Maitencillo",
+   "Hijo Del Sol Algarrobo"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Valparaíso",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Hijo Del Sol Maitencillo\n- Hijo Del Sol Algarrobo\n- lunes y martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/hijo-del-sol-5ta-region"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Sushi & Burger Home",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Viña del Mar y Reñaca",
+   "Sushi & Burger Home"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Valparaíso",
+  "vigencia": "2026-06-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles\nVálido en locales:\n- Sushi & Burger Home\n- Todos los Miercoles\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Sushi & Burger Home",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/sushi-y-burger-home"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Sushi Home",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los jueves)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Reñaca",
+   "Sushi Home"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Valparaíso",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los jueves\nVálido en locales:\n- Sushi Home\n- Todos los jueves\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Sushi Home",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/sushi-home"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Fidelio",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Reñaca",
+   "Reñaca Norte 25, Viña del Mar"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Valparaíso",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "¡Sin Tope! 40% de descuento pagando con tu CMR y 30% pagando con débito Banco Falabella\nDirección: Reñaca Norte 25, Viña del Mar",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/fidelio"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Barros Negros",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de O'Higgins",
+  "vigencia": "2026-05-31 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Barros Negros\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/barros-negros"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "La Fabrica Talca",
+  "descuento": "40 (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Talca",
+   "Av. 2 Ote. 1254, Talca, Región del Maule"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Maule",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los martes\n*Dirección: Av. 2 Ote. 1254, Talca, Región del Maule.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/la-fabrica-talca"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Dynos Chillan",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Chillán",
+   "El Roble 558, Chillán"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Ñuble",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles\nVálido en locales:\n- El Roble 558, Chillán\n- Todos los Miércoles\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Dynos Chillan",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/dynos-chillan"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Taurus Steak Bar Chillan",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Chillan",
+   "Taurus Steak Bar Chillan"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Ñuble",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes\nVálido en locales:\n- Taurus Steak Bar Chillan\n- Todos los Martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Taurus Steak Bar Chillan",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/taurus-steak-bar-chillan"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Augusta Bar",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Concepción",
+   "Augusta Bar: Paso Hondo 209, Lomas de San Andrés. Bio bío"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región del Biobío",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Augusta Bar: Paso Hondo 209, Lomas de San Andrés. Bio bío.\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Augusta Bar",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/augusta-bar"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Terralenga Hualpen",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Terralenga Hualpen"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Biobío",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes\nVálido en locales:\n- Terralenga Hualpen\n- Todos los Martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/terralenga-hualpen"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Terraangamos",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Talcahuano",
+   "Colón 1062, 4260000 Talcahuano, Bío Bío"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Biobío",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Colón 1062, 4260000 Talcahuano, Bío Bío",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/terraangamos"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Lebol Restobar",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Concepción"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región del Biobío",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "¡Sin Tope! 40% de descuento pagando con tu CMR y 30% pagando con débito Banco Falabella.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/lebol-restobar"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Baqueano Temuco",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Temuco",
+   "Baqueano Temuco"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de La Araucanía",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes\nVálido en locales:\n- Baqueano Temuco\n- Todos los Martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Baqueano Temuco",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/baqueano-temuco"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Cattedrale Cucina Villarrica",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Villarrica",
+   "Cattedrale Cucina"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de La Araucanía",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes\nVálido en locales:\n- Cattedrale Cucina\n- Todos los Martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Cattedrale Cucina Villarrica",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/cattedrale-cucina-villarrica"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Martina Lounge Bar",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Temuco",
+   "Torremolinos 485, local 116, Temuco, Araucanía"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de La Araucanía",
+  "vigencia": "2025-10-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los Martes\n*Dirección: Torremolinos 485, local 116, Temuco, Araucanía",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/martina-lounge-bar"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Fratello Trattoría",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Temuco",
+   "Av. Miguel Ramírez 715, Rancagua"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de La Araucanía",
+  "vigencia": "2026-01-02 → 2026-08-31",
+  "condiciones": "¡Sin Tope! 40% de descuento pagando con tu CMR y 30% pagando con débito Banco Falabella.\nDirección: Av. Miguel Ramírez 715, Rancagua",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/fratello-trattoria"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Dominga Bistro Valdivia",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Valdivia",
+   "Todos los Miércoles en Dominga Bistró Valdivia"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Los Ríos",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Has tu pedido en cualquier caja de Dominga Bistro\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Cuentas con el 40% de dcto con CMR y el 30% con débito Banco Falabella\nCondiciones:\n*Solo Presencial\n- Todos los Miércoles en Dominga Bistró Valdivia",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-valdivia"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Cervecería Kunstmann Valdivia",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Valdivia",
+   "Cervecería Kunstmann: Ruta T 350 950, Valdivia, Los Ríos"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Los Ríos",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella \nVálido en locales:\n- Cervecería Kunstmann: Ruta T 350 950, Valdivia, Los Ríos\nCondiciones:\n- El descuento no es acumulable con otras promociones . No aplica para souvenir, cigarros, llenado de growlers, menús, propinas ni tour cervecero.\n- Válido solo para compras presenciales en Cervecería Kunstmann Valdivia",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/cerveceria-kunstmann-valdivia"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Umami Bar Nikkei",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércoles)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Valdivia",
+   "Umami Bar Nikkei: Espacio Bayo, Valdivia, Los Ríos"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Los Ríos",
+  "vigencia": "2026-06-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércoles\nVálido en locales:\n- Umami Bar Nikkei: Espacio Bayo, Valdivia, Los Ríos\nCondiciones:\n- El descuento no es acumulable con otras promociones . No aplica para souvenir, cigarros, llenado de growlers, menús, propinas ni tour cervecero.\n- Válido solo para compras presenciales en Umami Bar Nikkei Valdivia",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/umami-bar-nikkei"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Fogon Greed",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Osorno",
+   "Ignacio Zenteno 2661, Osorno, Los Lagos"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Los Lagos",
+  "vigencia": "2026-01-06 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados\nDirección: Ignacio Zenteno 2661, Osorno, Los Lagos",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/fogon-greed"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Greed Taproom",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Osorno",
+   "Ignacio Zenteno 2661, Osorno, Los Lagos"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Los Lagos",
+  "vigencia": "2026-05-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nDirección: Ignacio Zenteno 2661, Osorno, Los Lagos",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/greed-taproom"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Panchita",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes"
+  ],
+  "horario": "Descuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2025-11-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/panchita"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "La Tabla",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "BordeRío",
+   "La Tabla BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-04-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- La Tabla BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/la-tabla-borderio"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "ROCOTO",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Avenida Pedro de Valdivia 2573, Ñuñoa, Chile (solo delivery y retiro)",
+   "Avenida las Condes 7134, Las Condes, Chile",
+   "Roberto Espinoza 718, Santiago Centro, Chile",
+   "Partenón 1727, Vitacura, Chile",
+   "Avenida Francisco Bilbao 2752, Providencia, Chile"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "¡Sin Tope! Disfruta con un 40% de dcto pagando con tu CMR y 30% de dcto pagando con débito Banco Falabella\nLocales:\n- Avenida Pedro de Valdivia 2573, Ñuñoa, Chile (solo delivery y retiro)\n- Avenida las Condes 7134, Las Condes, Chile\n- Roberto Espinoza 718, Santiago Centro, Chile\n- Partenón 1727, Vitacura, Chile\n- Avenida Francisco Bilbao 2752, Providencia, Chile\nCondiciones:\n- No aplica sobre otros descuentos\n- Exclusivo presencial\n- Válido sábados",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/rocoto"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Chokolata Cafeteria",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Villarrica",
+   "General Urrutia 891"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de La Araucanía",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n\nDirección: General Urrutia 891",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/chokolata-cafeteria"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Dominga Bistro Iquique",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Iquique",
+   "Todos los Martes en Dominga Bistró Iquique"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Tarapacá",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Has tu pedido en cualquier caja de Dominga Bistro\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Cuentas con el 40% de dcto con CMR y el 30% con débito Banco Falabella\nCondiciones:\n*Solo Presencial\n- Todos los Martes en Dominga Bistró Iquique",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-iquique"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Santo Aire Restobar",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Concepción"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Biobío",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/santo-aire-restobar"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Sakura",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella presencial y online los sábados)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial, Online",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella presencial y online los sábados\n- Para compras online ingresa al sitio web de Sakura.\n- Ingresa los 6 primeros dígitos de tu tarjeta como cupón de descuento y selecciona como método de pago alguna de tus tarjetas Banco Falabella\n- Tendrás un 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella en rolls y hosomakis\nCondiciones:\n- Válido para compras presencial y online\n- Válido para rolls y hosomakis\n- No acumulable sobre otras promociones",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/sakura"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Taberna Nose Puerto Varas",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Puerto Varas"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Los Lagos",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Taberna Nose Puerto Varas",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/taberna-nose-puerto-varas"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Waldos Bistro",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Isidora Goyenechea 2800, Piso -1, Las Condes, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-03-01 → 2026-08-31",
+  "condiciones": "- Exclusivo presencial\n- Isidora Goyenechea 2800, Piso -1, Las Condes, Región Metropolitana",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/waldos-bistro"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Waldos",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Cantagallo Las Condes: Nueva Las Condes 12280",
+   "Lyon Providencia: Nueva de Lyon 45, Local 7L, Providencia, Chile",
+   "Estación Central: Calle Libertador Bernardo O'Higgins 3750 , local 209 (2do piso terminal buses)",
+   "Rancagua: Astorga 408, Rancagua, Chile"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago, Región de Maule, Región de O'Higgins",
+  "vigencia": "2026-03-01 → 2026-08-31",
+  "condiciones": "Locales\n- Cantagallo Las Condes: Nueva Las Condes 12280\n- Lyon Providencia: Nueva de Lyon 45, Local 7L, Providencia, Chile\n- Estación Central: Calle Libertador Bernardo O'Higgins 3750 , local 209 (2do piso terminal buses)\n- Rancagua: Astorga 408, Rancagua, Chile\nCondiciones \n- Exclusivo presencial\n- Excluye pizzas congeladas",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/waldos"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Club de restaurantes",
+  "descuento": "20%",
+  "descuento_pct": 20,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Arica y Parinacota, Región de Tarapacá, Región de Antofagasta, Región de Atacama, Región de Coquimbo, Región de Valparaíso, Región Metropolitana de Santiago, Región de O'Higgins, Región del Maule, Región de Ñuble, Región del Biobío, Región de La Araucanía, Región de Los Ríos, Región de Los Lagos, Región de Aysén del General Carlos Ibáñez del Campo, Región de Magallanes y de la Antártica Chilena, Región de Maule, Región de Biobío",
+  "vigencia": "2023-07-09 → 2026-12-31",
+  "condiciones": "Sigue estos pasos:\n- Ingresa al sitio web de Club de Restaurantes\n- Selecciona tu restaurante favorito\n- Descuento se aplicará al momento de la compra en el domicilio o en el local\n- Consultar antes con cada local si el descuento es válido en feriados especiales o festivos como 14 de febrero, día de la madre, día del padre, día del niño, Navidad y Año Nuevo ante cualquier duda\nTodos los días",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Social",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Social"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-07-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite\nVálido en locales:\n- Social\n- Todos los viernes.\nCondiciones:\n- El descuento no es acumulable con otras promociones",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/social"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Viña Viu Manent",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de O'Higgins",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\nRESTAURANTE\n- 40% de dcto pagando con tu CMR y 30% de dcto pagando con débito Banco Falabella. Rayuela\nADICIONAL\n- 30% de descuento en una selección de 6 tours y degustaciones de Viu Manent mediante cupón de descuento CMR30%. Ingresa aquí Tours.\n- 40% de descuento en nuestro e-commerce de vinos, también mediante cupón de descuento CMR40%. Ingresa aquí E-commerce.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/vina-viu-manent"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Cuponera Gastronómica",
+  "descuento": "40% dcto",
+  "descuento_pct": 1,
+  "tope": "Sin tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial, Online",
+  "region": "Región de Arica y Parinacota, Región de Tarapacá, Región de Antofagasta, Región de Atacama, Región de Coquimbo, Región de Valparaíso, Región Metropolitana de Santiago, Región de O'Higgins, Región de Maule, Región de Ñuble, Región de Biobío, Región de La Araucanía, Región de Los Ríos, Región de Los Lagos, Región de Aysén del General Carlos Ibáñez del Campo, Región de Magallanes y de la Antártica Chilena, Región del Biobío, Región del Maule",
+  "vigencia": "2026-06-05 → 2026-12-31",
+  "condiciones": "",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Tropicalia",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alianza 1723, Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Tropicalia\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los miércoles\n*Dirección: Alianza 1723, Vitacura, Región Metropolitana.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/tropicalia"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Bar Enigma",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
+  "descuento_pct": 40,
+  "tope": "dcto",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Avenida Larrain 5941, La Reina"
+  ],
+  "tarjetas": [
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite",
+   "CMR Mastercard Premium",
+   "CMR Mastercard"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\n- Miércoles\n- Avenida Larrain 5941, La Reina",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/enigma"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Demencia",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Demencia\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/demencia"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Local Burger",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Jueves)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Local Burger"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial, Online",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Jueves\nVálido en locales:\n- Local Burger\n- Todos los Jueves\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido para compras presenciales y online",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/local-burger"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Estación Tropera",
+  "descuento": "40% (40% dcto pagando con CMR y 30% dcto pagando con débito sin tope.)",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Vitacura 3285, Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "40% dcto pagando con CMR y 30% dcto pagando con débito sin tope.\nDirección: Av. Vitacura 3285, Vitacura, Región Metropolitana.\nCondiciones:\n- Excluye promociones, descuentos y facturas\n- Exclusivamente presencial",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/estacion-tropera"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Doga Sushi",
+  "descuento": "40% (40% dcto pagando con CMR y 30% dcto pagando con débito sin tope.)",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "40% dcto pagando con CMR y 30% dcto pagando con débito sin tope.\nCondiciones:\n- Excluye promociones, descuentos y facturas\n- Exclusivamente presencial",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/doga-sushi"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Majestic",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Kennedy 5600, esquina Luis Carrera, Vitacura"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2025-08-01 → 2026-08-31",
+  "condiciones": "Majestic\n\nExclusivo Presencial\n- Av. Kennedy 5600, esquina Luis Carrera, Vitacura",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/majestic"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Mirador Gourmet",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Mirador Gourmet: Golf Lomas de La Dehesa 11480, Lo Barnechea"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite los martes\nVálido en locales:\n- Mirador Gourmet: Golf Lomas de La Dehesa 11480, Lo Barnechea",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/mirador-gourmet"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "YMA",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Nueva Costanera 3900"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-08-01 → 2026-08-31",
+  "condiciones": "Sigue estos pasos\n\n*Av. Nueva Costanera 3900\n*¿Aún no tienes tu CMR? Pídela aquí",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/yma"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Pescados capitales",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Pescados Capitales: Av. Nueva Costanera 3723, Vitacura"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite los jueves\nVálido en locales:\n- Pescados Capitales: Av. Nueva Costanera 3723, Vitacura",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/pescados-capitales"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Cosenza",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-03-01 → 2026-08-31",
+  "condiciones": "Condiciones:\n- Exclusivo presencial con tu CMR Elite\n- No acumulable sobre otras promociones",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/cosenza"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "La Sociedad",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-08-31",
+  "condiciones": "Condiciones:\n- Exclusivo presencial\n- No acumulable sobre otras promociones",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/la-sociedad"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Docetrece",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércoles)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Docetrece: Av. Tobalaba #1213, Providencia, Santiago y Av. Pedro de Valdivia #2785, Ñuñoa, Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-04-01 → 2026-08-31",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércoles\nVálido en locales:\n- Docetrece: Av. Tobalaba #1213, Providencia, Santiago y Av. Pedro de Valdivia #2785, Ñuñoa, Santiago.\n- Todos los miércoles\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Docetrece",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/docetrece"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Helados Timaukel",
+  "descuento": "40% dcto. todos los miércoles.",
+  "descuento_pct": 40,
+  "tope": "$30.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Online / delivery",
+  "region": "",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Heladería artesanal\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Solo online en www.timaukel.cl\n- No acumulable con otras promociones.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $30.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/helados-timaukel"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Casa Mar Sushi",
+  "descuento": "30% dcto. todos los miércoles.",
+  "descuento_pct": 30,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Blanca Estela 1927, Concón"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Recuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local.\n- Av. Blanca Estela 1927, Concón\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/casa-mar-sushi"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Holy Moly",
+  "descuento": "40% dcto. todos los sábados",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av hernando de aguirre 129, Providencia",
+   "Merced 318, Santiago"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Hamburguesería al mejor estilo americano.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Av hernando de aguirre 129, Providencia\n- Merced 318, Santiago\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/holy-moly-2"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "El Dorado",
+  "descuento": "40% dcto todos los domingos",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Barros 348, Concepción"
+  ],
+  "tarjetas": [
+   "Exclusivo pagando con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "modalidad": "Presencial",
+  "region": "Regiones",
+  "vigencia": "",
+  "condiciones": "Desayunos, Brunch, restaurante y bar\nRecuerda que:\n- Exclusivo pagando con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Barros 348, Concepción\n- Tope de descuento de $100.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/el-dorado"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "La Barra CCU",
+  "descuento": "20% dcto adicional los jueves y acumula 1 Milla LATAM Pass adicional",
+  "descuento_pct": 20,
+  "tope": "$20.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander pagando con Webpay Oneclick",
+   "Acumulación incremental de millas exclusivo pagando con Tarjetas de Crédito Santander LATAM Pass a través de Webpay Oneclick"
+  ],
+  "modalidad": "Online / delivery",
+  "region": "",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Venta de bebestible con amplio portafolio del mercado \nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander pagando con Webpay Oneclick \n- Válido en labarra.cl o en la app\n- Descuento automático en el carro pagando con Webpay Oneclick\n- No acumulable con cupones de descuento.\n- Acumulación incremental de millas exclusivo pagando con Tarjetas de Crédito Santander LATAM Pass a través de Webpay Oneclick\n- Una transacción por cliente al día.\n- Descuento máximo por pedido de $20.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/la-barra-ccu"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "De Costa a Costa",
+  "descuento": "40% dcto. todos los miércoles.",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Los mejores productos del mar\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en locales y en decostacosta.cl\n- No acumulable con otras promociones, no incluye packs, no se pueden programar pedidos para otro día.\n- Tope dcto. $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/de-costa-a-costa"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Rubaiyat",
+  "descuento": "30% dcto. en exclusiva experiencia gastronómica Rubaiyat",
+  "descuento_pct": 30,
+  "tope": "",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Evento a realizarse el 28 de julio de 2026 en Rubaiyat Chile, Av. Nueva Costanera 4031, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo pagando online con tus Tarjetas de Crédito The Platinum Card American Express&reg; y WorldMember Santander LATAM Pass American Express."
+  ],
+  "modalidad": "Online / delivery",
+  "region": "",
+  "vigencia": "Evento a realizarse el 28 de julio de 2026",
+  "condiciones": "Celebra los 10 años de Rubaiyat Chile con un exclusivo menú de degustación junto al chef Diego Rojas. \nRecuerda que:\n- Exclusivo pagando online con tus Tarjetas de Crédito The Platinum Card American Express&reg; y WorldMember Santander LATAM Pass American Express.\n- Válido para la experiencia gastronómica &quot;Rubaiyat Invita&quot;, en el marco de la celebración de los 10 años de Rubaiyat Chile.\n- Evento a realizarse el 28 de julio de 2026 en Rubaiyat Chile, Av. Nueva Costanera 4031, Vitacura.\n- Valor referencial: $120.000 por persona antes del descuento.\n- Cupos limitados, sujetos a disponibilidad y asignados por orden de inscripción.\n- Reserva previa a través del formulario habilitado para la actividad.",
+  "url": "https://banco.santander.cl/beneficios/promociones/rubaiyat"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Corrales del Sur",
+  "descuento": "20% dcto. todos los lunes.",
+  "descuento_pct": 20,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander"
+  ],
+  "modalidad": "Online / delivery",
+  "region": "",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "¡El mejor corte de carne en Corrales del Sur!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Válido en tiendas y corralesdelsur.cl\n- Exclusivo en categoría hogar.\n- No acumulable a otras promociones.\n- Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/corrales-del-sur-4"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Punta del Sol",
+  "descuento": "50% de dcto. todos los lunes",
+  "descuento_pct": 50,
+  "tope": "$50.000",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. del Mar 2730, Maitencillo"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Desde el 01 de junio al 30 de noviembre de 2026",
+  "condiciones": "Cocina del mar \nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Av. del Mar 2730, Maitencillo\n- Tope de descuento de $50.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/punta-del-sol"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Gaia Restaurante",
+  "descuento": "40% dcto. todos los miércoles.",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Playa brava 3322, Iquique"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Regiones",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Cocina catalana clásica  \nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Playa brava 3322, Iquique.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/gaia-restaurante"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Pettra",
+  "descuento": "40% de dcto. todos los martes",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Imperial 0561, Puerto Varas"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Restaurante\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander.\n- Válido en local.\n- Av. Imperial 0561, Puerto Varas.\n- Descuento máximo de $100.000\n- No acumulable con otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/pettra"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Majka",
+  "descuento": "40% dcto. todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Principe de Gales 7102, La Reina"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Cocina fusión y de autor\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local\n- Principe de Gales 7102, La Reina\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/majka"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Lumiere Bistró",
+  "descuento": "40% dcto. todos los sábados",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Puerta del Sol 19, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Lumiere Bistró\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local\n- Puerta del Sol 19, Las Condes\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/lumiere-bistro"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Cosenza",
+  "descuento": "50% dcto. todos los jueves",
+  "descuento_pct": 50,
+  "tope": "$50.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Nueva Costanera 3900, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Desde el 01 de junio hasta el 31 de agosto de 2026",
+  "condiciones": "Cosenza\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido en local.\n- Av. Nueva Costanera 3900, Vitacura\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $50.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/cosenza"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Vicenzo Cucina",
+  "descuento": "40% dcto. todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Apoquindo 6554, Las Condes",
+   "Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Vicenzo Cucina\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local\n- Av. Apoquindo 6554, Las Condes.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/vicenzo-cucina"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Ruta 41",
+  "descuento": "40% dcto. todos los viernes.",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av Vitacura 3708, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Ruta 41\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local, delivery web y retiro en local.\n- Av Vitacura 3708, Vitacura.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/ruta-41"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Toro Bayo",
+  "descuento": "40% dcto. todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Cam. Las Rastras, km 2,3, Talca",
+   "Talca"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Maule",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Torobayo\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Cam. Las Rastras, km 2,3, Talca.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/torobayo"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Riccione",
+  "descuento": "40% dcto. todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Pablo Neruda 2451, Temuco",
+   "Temuco"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "La Araucanía",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Riccione\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local\n-  Av. Pablo Neruda 2451, Temuco.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/riccione"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Gatopardo Bistró",
+  "descuento": "40% de dcto. todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 4308, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Gatopardo Bistró\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander.\n- Válido en local\n- Alonso de Córdova 4308, Vitacura.\n- Descuento máximo de $100.000\n- No acumulable con otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/gatopardo-bistro"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "La Parrilla del Guatón Jeréz",
+  "descuento": "40% de dcto. todos miércoles",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Padre Hurtado Nte 1460, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "La Parrilla del Guatón Jeréz\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander.\n- Válido en local.\n- Av. Padre Hurtado Nte 1460, Vitacura.\n- Descuento máximo de $100.000\n- No acumulable con otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/la-parrilla-del-guaton-jerez"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Kevin Bacon",
+  "descuento": "40% dcto. todos los lunes.",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Pdte. Kennedy 5601, piso 4 terraza, Las Condes",
+   "Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Kevin Bacon\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local, delivery web y retiro en local.\n- Av. Pdte. Kennedy 5601, piso 4 terraza, Las Condes.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/kevin-bacon"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Jeronimo",
+  "descuento": "40%. dcto. todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 4355, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Cocina del mundo\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Alonso de Córdova 4355, Vitacura.\n- Tope de descuento de $100.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/jeronimo"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Miscelaneo",
+  "descuento": "40%. dcto. todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Santa María 5870, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Comida para compartir\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Válido para consumo en local.\n- Santa María 5870, Vitacura.\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/miscelaneo"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Vapiano",
+  "descuento": "40% dcto. todos los martes y jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Martes",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Válido con Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto 2026.",
+  "condiciones": "Cadena internacional de comida italiana\n- Válido con Tarjetas de Crédito y Débito Santander.\n- Válido presencial\n- No acumulable a otras promociones.\n- Descuento máximo es de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/vapiano-2"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Cascade Bistró",
+  "descuento": "40%. dcto. todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Costanera Sur S.J.E. de Balaguer 6400 local 8, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Calidad, más de 50 años de tradición y una renovada carta\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para compras en local.\n- Costanera Sur S.J.E. de Balaguer 6400 local 8, Vitacura\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/cascade-bistro"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Chilis",
+  "descuento": "40% dcto. todos los miércoles.",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Italia 1484, Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Entregar lo mejor en comida tex-mex, como en ningún otro lugar directo en tu hogar!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local, delivery web y retiro en local.\n- Av. Italia 1484, Providencia\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/chilis"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Santa Brasa",
+  "descuento": "40% dcto. todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Parque Arauco, Avenida Presidente Kennedy 5413, Las Condes",
+   "Avenida Jose Alcalde Delano, Los Trapenses",
+   "Alto las Condes, Avenida Presidente Kennedy Lateral 9001, Las Condes",
+   "Avenida Larraín 5862",
+   "Avenida Padre Hurtado Sur 785, las condes",
+   "Santa Elena 671, Concón",
+   "San Martín 435, Viña del Mar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Increíbles cortes de carne.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Parque Arauco, Avenida Presidente Kennedy 5413, Las Condes.\n- Avenida Jose Alcalde Delano, Los Trapenses. \n- Alto las Condes, Avenida Presidente Kennedy Lateral 9001, Las Condes. \n- Avenida Larraín 5862.\n- Avenida Padre Hurtado Sur 785, las condes.\n- Santa Elena 671, Concón.\n- San Martín 435, Viña del Mar.\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/santa-brasa-3"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Pizzería Capri",
+  "descuento": "40% dcto. todos los lunes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Avenida El Rodeo 13.052, Lo Barnechea",
+   "Gerónimo Alderete 1423, Vitacura",
+   "Lo Barnechea, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Disfruta de la comida italiana como pizzas, pastas y más\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local y online con retiro en tienda.\n- Avenida El Rodeo 13.052, Lo Barnechea\n- Gerónimo Alderete 1423, Vitacura\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/pizzeria-capri"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Exò Nuit",
+  "descuento": "30%. dcto. todos los miércoles",
+  "descuento_pct": 30,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Candelaria Goyenechea 3868, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "restaurante y bar de cocina japonesa&ndash;mediterránea\nRecuerda que:\n- Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.\n- Válido para consumo en local.\n- Candelaria Goyenechea 3868, Vitacura.\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/exo-nuit"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Delivery Gourmet",
+  "descuento": "30% dcto. todos los miércoles",
+  "descuento_pct": 30,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro",
+   "Vitacura, Providencia, Santiago"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Tus comidas favoritas en un solo pedido\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local, delivery web y retiro en local.\n- Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/delivery-gourmet"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Curry",
+  "descuento": "30% dcto. todos los miércoles",
+  "descuento_pct": 30,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro",
+   "Vitacura, Providencia, Santiago"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Comida Tailandesa\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local, delivery web y retiro en local.\n- Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/curry-2"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Rocoto",
+  "descuento": "30% dcto. todos los miércoles",
+  "descuento_pct": 30,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro",
+   "Vitacura, Providencia, Santiago"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Sabores peruanos auténticos en tu hogar\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local, delivery web y retiro en local\n- Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/rocoto"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "La Maestranza",
+  "descuento": "40% dcto. todos los sábados",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av.Vitacura 5468, Las Condes",
+   "Presidente Kennedy 9001, Vitacura",
+   "Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Hamburguesas premium \nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Av.Vitacura 5468, Las Condes.\n- Presidente Kennedy 9001, Vitacura.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/la-maestranza-2"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Social Bar",
+  "descuento": "40% dcto. todos los lunes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Vitacura 3396, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Burgas, drinks y el good food mood que ya amas.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local \n- Av. Vitacura 3396, Vitacura.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/social-bar"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "La Yunta",
+  "descuento": "40% dcto. todos los domingos",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Tabancura 1344, Vitacura, Av. El Bosque Central 18, Las Condes, Av. Manuel Montt 748, Providencia",
+   "Providencia, Las Condes, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Los mejores sandwiches con recetas de norte a sur de Chile\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Av. Tabancura 1344, Vitacura, Av. El Bosque Central 18, Las Condes, Av. Manuel Montt 748, Providencia\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/la-yunta-2"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Streat Burger",
+  "descuento": "40% dcto. todos los miércoles.",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Las Condes, Lo Barnechea, Ñuñoa, La Florida, San Francisco de Mostazal, Hijuelas, Chillán, San Fernando, Llay Llay"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana, O'Higgins, Ñuble, Valparaíso",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Streat Makes You Happy\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en locales presenciales y en delivery a través de PedidosYa\n- Válido en locales Santiago y Carretera.\n- Válido dos cupones semanales por persona.\n- Excluye categoría helados y combo full.\n- No acumulable con otras promociones. \n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/streat-burger"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Expendio Montt",
+  "descuento": "30% dcto. todos los miércoles.",
+  "descuento_pct": 30,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Manuel Montt 727, Providencia",
+   "Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Los mejores tacos y cervezas\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local.\n- Manuel Montt 727, Providencia.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/expendio-montt"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Bar Porfirio",
+  "descuento": "30% dcto. todos los miércoles.",
+  "descuento_pct": 30,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Manuel Montt 697, Providencia",
+   "Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Tacos, tragos y pura buena onda para cortar la semana con sabor\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local.\n- Manuel Montt 697, Providencia.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/bar-porfirio"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Kento Sushi",
+  "descuento": "30% dcto. todos los miércoles.",
+  "descuento_pct": 30,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Parque Arauco, Alto las Condes y Av. Vitacura 5460",
+   "Las Condes, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Los mejores sushi, nikkei, Sin arroz, Vegetarianos, Ceviche y más\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local y online.\n- Parque Arauco, Alto las Condes y Av. Vitacura 5460\n- No acumulable con otras promociones.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/kento-sushi"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Hijo del Inca",
+  "descuento": "30% dcto. todos los miércoles",
+  "descuento_pct": 30,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Príncipe de Gales 6992, La Reina",
+   "Santa magdalena 168 local 102 Providencia",
+   "La Reina"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Restaurante peruano.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para compras en local.\n- Príncipe de Gales 6992, La Reina.\n- Santa magdalena 168 local 102 Providencia.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/hijo-del-inca"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Siete Olas",
+  "descuento": "50%. dcto. todos los miércoles",
+  "descuento_pct": 50,
+  "tope": "$50.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Cachagua 269, Zapallar",
+   "Zapallar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Nuevas Tarjetas de Crédito Santander American Express."
+  ],
+  "modalidad": "Presencial",
+  "region": "Valparaíso",
+  "vigencia": "Desde el 01 de junio hasta el 30 de noviembre de 2026",
+  "condiciones": "Las mejores pizzas napolitanas y hamburguesas artesanales.\nRecuerda que:\n- Exclusivo con tus Nuevas Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Av. Cachagua 269, Zapallar.\n- Tope de descuento de $50.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/siete-olas"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Dagan",
+  "descuento": "40%. dcto. todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Nueva Costanera 3750, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Comida de algún lugar del mediterráneo. Inspirada en la cultura que comparten Europa, Asia y África.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Av. Nueva Costanera 3750, Vitacura.\n- Tope de descuento de $100.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/dagan"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Le Vice Chocolat",
+  "descuento": "40% dcto. todos los jueves.",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Online / delivery",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Exquisitos chocolates de la más alta calidad, elaborados con ingredientes seleccionados cuidadosamente y un toque artesanal.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en tiendas y www.levicechocolat.com\n- Sin tope de descuento.\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+  "url": "https://banco.santander.cl/beneficios/promociones/le-vice-chocolat"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Sushi Nikkei 17",
+  "descuento": "40% dcto. todos los martes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Los Piñones 011, Providencia",
+   "Providencia."
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Mejores restaurantes de cocina nikkei de Santiago.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Valido en local\n- Los Piñones 011, Providencia.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar en local.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/sushi-nikkei-17"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Berlin Döner Kebab",
+  "descuento": "30% dcto. todos los miércoles",
+  "descuento_pct": 30,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Ñuñoa, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Restaurant de sandwich turco-alemanes\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/berlin-doner-kebab"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Chicken Love You",
+  "descuento": "40% dcto. todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Santiago,Vitacura,Las Condes,Maipú,La Reina,La Florida,Lo Barnechea,Viña del Mar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana,Valparaíso",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Los mejores sandwich de pollo frito.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Válido para consumo en locales y online.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Se excluyen propinas, menús y happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/chicken-love-you"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Juan Esparraguito",
+  "descuento": "30% dcto. todos los miércoles.",
+  "descuento_pct": 30,
+  "tope": "$100.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Las Condes, Lo Barnechea, Vitacura, La Reina, Ñuñoa, Providencia y Santiago"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "modalidad": "Online / delivery",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Mucho más que frutas y verduras, productos de temporada y seleccionados uno a uno\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en www.juanesparraguito.com\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.\n- Descuento máximo por pedido de $100.000\n- Exclusivo en frutas y verduras.",
+  "url": "https://banco.santander.cl/beneficios/promociones/juan-esparraguito"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Vinolia",
+  "descuento": "50% de dcto. todos los lunes",
+  "descuento_pct": 50,
+  "tope": "$50.000",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Monroy 2869, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Nuevas Tarjetas de Crédito Santander American Express."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Desde el 01 de junio al 31 de agosto de 2026.",
+  "condiciones": "Propuesta gastronómica innovadora, que combina sabores sorprendentes con una cuidada selección de coctelería, vinos y destilados.\nRecuerda que:\n- Exclusivo con tus Nuevas Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Alonso de Monroy 2869, Vitacura.\n- El descuento no aplica en tienda ni botellas.\n- Tope de descuento de $50.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/vinolia"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Maillard",
+  "descuento": "40% dcto. todos los martes",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Nueva Costanera 3802, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Bar de carnes y cocteles del autor\nRecuerda:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Nueva Costanera 3802, Vitacura\n- Tope de descuento de $100.000.\n- Pide tu descuento al momento de pagar.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/maillard"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "El Mundo del Vino",
+  "descuento": "40% dcto. todos los lunes en viñas seleccionadas.",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   " Providencia, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "¡El mejor vino para ti!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para compras en local y www.elmundodelvino.cl\n- No acumulable a otras promociones.\n- En viñas seleccionadas: Concha y Toro, Clos de Luz, Barón Philippe, Tres Palacio, Las  Veletas, San Pedro, Tarapaca, Miguel Torres, Errazuriz, Arboleda.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $100.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/el-mundo-del-vino-9"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Bozzo",
+  "descuento": "40% dcto. todos los martes en bozzochocolates.cl y 20% dcto. en tiendas",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Las Condes, Vitacura, Lo Barnechea, Providencia, Santiago, Peñalolén, La Florida"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "¡Disfruta los mejores chocolates, receta de tradición italiana!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en www.bozzochocolates.cl y presencial.\n- 20% dcto. en tiendas válido solo en Región Metropolitana.\n- No acumulable a otras promociones.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Para hacer efectivo el descuento debes mostrar y pagar con tus Tarjetas Santander.\n- Descuento máximo por pedido de $40.000.\n- Descuento aplica solamente para personas naturales.",
+  "url": "https://banco.santander.cl/beneficios/promociones/bozzo-4"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "El Taller",
+  "descuento": "40% dcto. todos los martes",
+  "descuento_pct": 40,
+  "tope": "$15.000",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Providencia 1467, Providencia",
+   "Av. La Dehesa 1570, Lo Barnechea",
+   "Av. Apoquindo 2730, Las Condes",
+   "Providencia, Lo Barnechea, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Helados Artesanales de Alta Calidad, reconocidos entre los mejores del Mundo\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido para consumo en locales y www.eltallerchile.cl\n- Av. Providencia 1467, Providencia.\n- Av. La Dehesa 1570, Lo Barnechea.\n- Av. Apoquindo 2730, Las Condes.\n- Tope de descuento de $15.000.\n- Para compras presenciales pide tu descuento al momento de pagar.\n- Para compras online ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/el-taller"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "La Caperucita y el Lobo",
+  "descuento": "40% dcto. todos los jueves.",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Ferrari 75, Valparaíso",
+   "Valparaíso"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "modalidad": "Presencial",
+  "region": "Valparaíso",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "Sabores que relatan historia y preparaciones con harto cuento\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en local.\n- Ferrari 75, Valparaíso\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $100.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/la-caperucita-y-el-lobo"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Jardín Mallinkrodt",
+  "descuento": "40%. dcto. todos los martes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Vitacura 6780, local F01, Vitacura",
+   "Mallinkrodt 170, Providencia",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo pagando con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Conoce toda la gastronomía global y coctelería innovadora.\nRecuerda que:\n- Exclusivo pagando con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Av. Vitacura 6780, local F01, Vitacura.\n- Mallinkrodt 170, Providencia.\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/jardin-mallinkrodt"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "99 Restaurante",
+  "descuento": "50%. dcto. todos los sábados",
+  "descuento_pct": 50,
+  "tope": "$50.000",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 4355, Galería CV, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Nuevas Tarjetas de Crédito Santander American Express."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Desde el 01 de junio hasta el 31 de agosto de 2026",
+  "condiciones": "Disfruta de la gastronomía típica chilena de norte a sur hasta la mesa.\nRecuerda que:\n- Exclusivo con tus Nuevas Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Alonso de Córdova 4355, Galería CV, Vitacura.\n- Tope de descuento de $50.000.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/99-restaurante"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Rústico restobar",
+  "descuento": "40% dcto. todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Presidente Manuel Bulnes 299, Punta Arenas",
+   "Punta Arenas"
+  ],
+  "tarjetas": [
+   "Exclusivo pagando con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Magallanes",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "¡Karaoke, cocteles y comida!\nRecuerda que:\n- Exclusivo pagando con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Av. Presidente Manuel Bulnes 299, Punta Arenas\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/rustico-restobar"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Ari Nikkei",
+  "descuento": "30%. dcto. todos los viernes",
+  "descuento_pct": 30,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo pagando con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Nuevo concepto de sushi\nRecuerda que:\n- Exclusivo pagando con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/ari-nikkei"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Raidho",
+  "descuento": "40% dcto. todos los viernes.",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Camino Las Rastras Km 7, Talca",
+   "Talca"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "modalidad": "Presencial",
+  "region": "Maule",
+  "vigencia": "Hasta el 31 de agosto 2026.",
+  "condiciones": "Un nuevo viaje culinario hacia sabores inolvidables\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en local.\n- Camino Las Rastras Km 7, Talca\n- No acumulable a otras promociones.\n- Descuento máximo de $100.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/raidho"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Sumoku",
+  "descuento": "50%. dcto. todos los martes",
+  "descuento_pct": 50,
+  "tope": "$50.000",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Bellavista 703, Reñaca",
+   "Reñaca"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander American Express"
+  ],
+  "modalidad": "Presencial",
+  "region": "Valparaíso",
+  "vigencia": "Desde el 01 de junio hasta el 30 de noviembre de 2026",
+  "condiciones": "Comida del mar que garantiza un viaje entre clásicos sabores japoneses con notas sofisticadas de alta cocina.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express\n- Válido para consumo en local.\n- Bellavista 703, Reñaca.\n- Tope de descuento de $50.000.\n- Pide tu descuento al momento de pagar.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/sumoku"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Demencia",
+  "descuento": "40%. dcto. todos los martes",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Vitacura 3520, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo pagando con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Decoración circense y alta gastronomía, coctelería de autor y shows en vivo.\nRecuerda que:\n- Exclusivo pagando con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Av. Vitacura 3520, Vitacura.\n- Tope de descuento de $100.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/demencia-2"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Carmine",
+  "descuento": "50% dcto. todos los jueves",
+  "descuento_pct": 50,
+  "tope": "$50.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Edmundo Eluchans 595, Viña del Mar",
+   "Viña del Mar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+  ],
+  "modalidad": "Presencial",
+  "region": "Valparaíso",
+  "vigencia": "Desde el 01 de junio hasta el 30 de novimbre de 2026",
+  "condiciones": "Raíces profundas de una tradición gastronómica que ha sido transmitida de generación en generación.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido en local.\n- Av. Edmundo Eluchans 595, Viña del Mar.\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $50.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/carmine"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Roberta Pizzas",
+  "descuento": "40% dcto. todos los miércoles.",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "1 Poniente 572, Viña del Mar y Norte 25 local 2, Reñaca",
+   "Viña del Mar, Reñaca"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Valparaíso",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Pizzas hechas en horno Napolitano.\n \nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local, retiro y www.robertapizzas.cl\n- 1 Poniente 572, Viña del Mar y Norte 25 local 2, Reñaca.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/roberta-pizzas"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Cosecha del Mar",
+  "descuento": "40% dcto. todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+   "Válido en local, pagando con tu tarjeta física."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "¡Explora el mundo del salmón!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en local, pagando con tu tarjeta física. \n- Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas.\n- Tope de dcto. mensual $100.000\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/cosecha-del-mar-4"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "De Pura Madre",
+  "descuento": "40% dcto. todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Vitacura, Lo Barnechea, Colina"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "¡Las mejores pizzas y pan de masa madre!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido presencial en Vitacura 5321\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/depuramadre"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Naoki",
+  "descuento": "50%. dcto. todos los miércoles",
+  "descuento_pct": 50,
+  "tope": "$50.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Vitacura 3875, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Desde el 1 de junio hasta el 31 de agosto de 2026",
+  "condiciones": "Sabores y técnicas japonesas se combinan con elementos locales de la costa chilena para crear una experiencia gastronómica única\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Av. Vitacura 3875, Vitacura.\n- Tope de descuento de $50.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/naoki-2"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Don Carlos",
+  "descuento": "40% dcto. todos los domingos",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Isidora Goyenechea 2895, Las Condes",
+   "Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Más de 35 años de experiencia parrilla y una gran variedad de cortes.\nRecuerda que: \n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Isidora Goyenechea 2895, Las Condes.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Tope de descuento $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/don-carlos"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Caoba Bar",
+  "descuento": "40% dcto. todos los lunes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 4156, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "¡Disfruta de un increíble bar!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Válido para consumo en local.\n- Alonso de Córdova 4156, Vitacura.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Tope de descuento $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/caoba-bar-2"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Hijo del Sol",
+  "descuento": "40% dcto. todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Reina, Las Condes, Vitacura, Santiago"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Disfruta del rico sabor de una causa limeña \nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/hijo-del-sol-2"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Pescados Capitales",
+  "descuento": "50% dcto. todos los viernes.",
+  "descuento_pct": 50,
+  "tope": "$50.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Nueva Costanera 3723, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Desde el 01 de junio hasta el 31 de agosto de 2026",
+  "condiciones": "¡Lo mejor del mar!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Nueva Costanera 3723, Vitacura.\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $50.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/pescados-capitales-3"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "La Cabrera",
+  "descuento": "40% dcto. todos los lunes",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 4263, Vitacura y Isidora Goyenechea 3275, Las Condes",
+   "Vitacura, Las Condes, Pudahuel"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Lo mejor en carnes\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Alonso de Córdova 4263, Vitacura y Isidora Goyenechea 3275, Las Condes\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $100.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/la-cabrera-3"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Kobo Sushi",
+  "descuento": "40% dcto. todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Providencia, Las Condes, San Miguel"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "Delicada comida de Japón con la frescura y del toque picante del Perú\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local y en www.kobo.cl\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/kobo-2"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Fork",
+  "descuento": "40% dcto. todos los viernes.",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   " La Reina, Las Condes, Lo Barnechea, Providencia, Santiago, Macul, Vitacura, Ñuñoa"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander.",
+   "Válido en tiendas Fork pagando con tu tarjeta Santander. Y en Forkchile.cl ingresando los primeros 6 dígitos de tu tarjeta en el botón &quot;CÓDIGO PROMO&quot; al momento de pagar."
+  ],
+  "modalidad": "Online / delivery",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "¡Platos preparados todos los días, frescos y sin conservantes!\nRecuerda que:\n40% descuento:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en tiendas Fork pagando con tu tarjeta Santander. Y en Forkchile.cl ingresando los primeros 6 dígitos de tu tarjeta en el botón &quot;CÓDIGO PROMO&quot; al momento de pagar.\n- Tope de dcto. de $40.000.\n- No acumulable con otras promociones; Productos seleccionados en https://forkchile.cl/categoria/191/descuento-santander\n- Aplica a productos Fork seleccionados: platos refrigerados individuales y familiares (excepto ensaladas, wraps y platos livianos, salmón a la gremolata y beef bourguignon), sopas, quiches individuales y familiares, sándwiches, cocktail congelado Fork, postres individuales y postres familiares (excepto tortas).\n- Descuento aplicable únicamente a los productos incluidos en la categoría &quot;Descuento Santander&quot;, no incluye productos de otras categorías.",
+  "url": "https://banco.santander.cl/beneficios/promociones/fork-4"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Work/Café",
+  "descuento": "40% dcto. todos los lunes y 30% dcto. de martes a viernes",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes"
+  ],
+  "horario": "Sin tope de descuento.Horarios de Atención: | Lunes a jueves de 9:00 a 14:00 hrs y horario tarde de 15:30 a 17:00 hrs. Viernes de 9:00 a 14:00 hrs.",
+  "lugares": [
+   "Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "¡Comienza tu día en el mejor lugar, conoce todas las sucursales Work/Café!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en locales y www.workcafe.cl, 30% los otros días de la semana.\n- Pide tu descuento al momento de pagar.\n- Sin tope de descuento.Horarios de Atención: \nLunes a jueves de 9:00 a 14:00 hrs y horario tarde de 15:30 a 17:00 hrs. Viernes de 9:00 a 14:00 hrs.",
+  "url": "https://banco.santander.cl/beneficios/promociones/work-cafe-4"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Winecaina",
+  "descuento": "40% dcto. todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Borgoño 22900, Concón",
+   "Concón"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "modalidad": "Presencial",
+  "region": "Valparaíso",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "¡Disfruta las clásicas preparaciones peruanas! \nRecuerda que:\n- \n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Av. Borgoño 22900, Concón.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Tope de descuento de $100.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/winecaina-2"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "eCook",
+  "descuento": "40% dcto. todos los martes y jueves",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Martes",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Online / delivery",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "¡Lleva tus platos favoritos con el mejor descuento!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en ecook.cl\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Sin tope de descuento.",
+  "url": "https://banco.santander.cl/beneficios/promociones/ecook-4"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Dominó",
+  "descuento": "40% dcto. todos los martes.",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Las Condes, La Reina, Providencia, Vitacura, Santiago, Ñuñoa, Peñalolén, Macul, Recoleta, La Florida, Huechuraba, Puente Alto, Maipú, Independencia, Viña del Mar, Puerto Montt, Antofagasta, Concepción"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana, Valparaíso, Los Lagos, Antofagasta, Bío-Bío",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "¡Los martes ahora son Dinámicos!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido todos los martes en la App Club Dominó y 20% dcto. en locales.\n- Para compras en la App Club Dominó: Selecciona tu pedido &gt; Cupones y Promos &gt; Promos &gt; Ingresa tu código Promocional (ingresando los 6 primeros dígitos de tu tarjeta) &gt; Banco Santander\n- Para compras presenciales: Pide tu descuento al momento de pagar con tus Tarjetas Santander.\n- Sin tope de descuento.\n- Excluye locales de aeropuerto.\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/domino-2"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "CuracaRibs",
+  "descuento": "40% dcto. todos lunes online.",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Florida, Cerrillos, Las Condes, Providencia, Huechuraba, Curacaví"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "modalidad": "Online / delivery",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "¡Disfruta carnes ahumadas 100% a leña!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en www.curacaribs.cl\n- Selecciona el medio de pago &quot;Tarjetas de Crédito Santander / Promo 40% día Lunes&quot;\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/curacaribs-4"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Sakura",
+  "descuento": "40% dcto. en Rolls todos los viernes.",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Las Condes, Lo Barnechea, Ñuñoa, Vitacura, La Reina"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "¡Mucho más que sushi!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en locales, www.sakura.cl\n- Tope dcto. $40.000.\n- Para compras con despacho el monto mínimo es de $12.000.\n- Exclusivo en categorías de Rolls y Hosomaki.\n- Excluye combinaciones, Bento Box.\n- No válida en días feriados.\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+  "url": "https://banco.santander.cl/beneficios/promociones/sakura-4"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Corrales del Sur",
+  "descuento": "30% dcto. todos los jueves.",
+  "descuento_pct": 30,
+  "tope": "$100.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "carnes Corrales del Sur y embutidos",
+   "Vitacura, Providencia, Peñalolén, Osorno, Puerto Varas"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana, Los Lagos",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "¡El mejor Angus nacional en Corrales del Sur!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local y en www.corralesdelsur.cl.\n- Exclusivo en carnes Corrales del Sur y embutidos.\n- No acumulable a otras promociones.\n- Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $100.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/corrales-del-sur-3"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Burger King",
+  "descuento": "40% dcto. todos los jueves.",
+  "descuento_pct": 40,
+  "tope": "$15.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Las Condes, Santiago, La Reina, Providencia, Vitacura, Ñuñoa, Peñalolén, Macul, Huechuraba, Lo Barnechea, Independencia, San Miguel, La Florida, Maipú, Quilicura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander y Débito Santander.",
+   "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander."
+  ],
+  "modalidad": "",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "¡Disfruta las mejores burger a la parrilla, desde 1954!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander y Débito Santander.\n- Válido en Autoking y locales, exclusivamente en mesones, no aplica a tótem de autoservicio.\n- Descuento no aplica para productos en promociones o con descuentos.\n- Por compras mínimas de $3.000 y tope descuento de $15.000.\n- Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
+  "url": "https://banco.santander.cl/beneficios/promociones/burger-king-2"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Melt Pizzas",
+  "descuento": "40% dcto. todos los martes.",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Reina, Vitacura, Santiago, Las Condes, Providencia, Peñalolén, Recoleta, Huechuraba, Lo Barnechea, San Miguel, La Florida, Puente Alto, Ñuñoa, "
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana, Maule, O'Higgins, Bío-Bío, Antofagasta, Valparaíso, La Araucanía",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "¡Las mejores pizzas están en Melt! Arma tu pizza como más te guste.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en locales, App MELT y en www.meltpizzas.com\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Excluye productos de las categorías Promos, bebidas, Holy Cheese y precios promocionales.\n- Tope dcto. $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/melt"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Aquality",
+  "descuento": "40% dcto. todos los martes y acumula 1 Milla LATAM Pass adicional",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "modalidad": "Online / delivery",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026",
+  "condiciones": "¡Compra pescados y mariscos congelados de calidad superior! Además, acumula 1 Milla LATAM Pass adicional del 01 al 07 de cada mes.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en www.aqualitysoluciones.cl\n- No acumulable a otras promociones.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Despacho aplica en Región Metropolitana y Punto de retiro aplica en Chicureo y Concón.\n- Descuento máximo por pedido de $100.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/aquality-3"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Al Pesto",
+  "descuento": "30% dcto. todos los viernes.",
+  "descuento_pct": 30,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Colina"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander.Válido para consumo en local.Boulevard Los Ingleses, Av. Chicureo Km 2, Colina.No acumulable a otras promociones.Pide tu descuento al momento de pagar.Descuento máximo por pedido de $40.000Se excluyen propinas, menús, happy hours."
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de agosto de 2026.",
+  "condiciones": "¡Disfruta las delicias culinarias y tendencias italianas auténticas!\nRecuerda que: \nExclusivo con tus Tarjetas de Crédito Santander.Válido para consumo en local.Boulevard Los Ingleses, Av. Chicureo Km 2, Colina.No acumulable a otras promociones.Pide tu descuento al momento de pagar.Descuento máximo por pedido de $40.000Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/al-pesto"
+ }
+]
