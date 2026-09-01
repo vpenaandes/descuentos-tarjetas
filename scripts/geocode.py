@@ -31,6 +31,9 @@ import unicodedata
 import urllib.parse
 import urllib.request
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import slug_id  # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE_PATH = os.path.join(ROOT, "data", "geocache.json")
 UA = "DescuentosTarjetas/1.0 (uso personal; contacto: software@andeselectronics.cl)"
@@ -376,7 +379,7 @@ def main():
     geo = Geocoder(net=not a.no_net)
     n_ub = 0
     for idx, it in enumerate(items):
-        it["id"] = f"{norm(it['banco'])[:4]}-{idx:03d}-{norm(it['comercio'])[:20]}"
+        it["id"] = slug_id(it["banco"], it.get("url"), it["comercio"])
         hint = region_hint_de(it)
         ubic = []
         for lug in it.get("lugares") or []:

@@ -2,17 +2,57 @@
  {
   "banco": "Banco Falabella",
   "categoria": "restaurantes",
-  "comercio": "Coppelia",
-  "titulo_card": "Coppelia",
-  "descripcion_card": "Exclusivo Presencial",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/coppelia",
+  "comercio": "Sicily Pizzería",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Exclusivo presencial",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/sicily-pizzeria",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
   "dias": [
    "Lunes"
   ],
-  "vigencia_inicio": "2026-08-01",
+  "vigencia_inicio": "2026-07-01",
+  "vigencia_fin": "2026-09-30",
+  "region": [
+   "Región Metropolitana de Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "elite": false,
+  "destacado": false,
+  "descripcion_comercio": "Sicily es una pizzería contemporánea con inspiración siciliana, que destaca por sus masas artesanales de larga fermentación y harinas no refinadas. Ofrece pizzas gourmet, antipastos y cócteles en un ambiente moderno y elegante. También puedes disfrutar de sus helados artesanales de Oggi, elaborados con ingredientes naturales.",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los lunes\nVálido en locales:\n- Sicily: Alonso de Córdova 4226, 7630000 Vitacura, Región Metropolitana\n- Todos los lunes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Sicily",
+  "condiciones2": "",
+  "legal": "Oferta válida hasta el 30 de septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para mayor información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "https://www.siciliapizzas.cl/pedir",
+  "es_cupon": false,
+  "categorias": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Pristino",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Exclusivo presencial",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/pristino",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Martes"
+  ],
+  "vigencia_inicio": "2026-01-01",
   "vigencia_fin": "2026-09-30",
   "region": [
    "Región Metropolitana de Santiago"
@@ -24,20 +64,19 @@
    "CMR Mastercard Elite"
   ],
   "elite": false,
-  "destacado": true,
+  "destacado": false,
+  "descripcion_comercio": "Prístino es un restaurante en Santiago de Chile enfocado en la cocina chilena contemporánea y de autor, creado por el reconocido chef Claudio Úbeda.",
   "modalidad": [
    "Presencial"
   ],
-  "condiciones": "Sigue estos pasos:\n\n- Todos los Lunes\n- 40% de descuento pagando con tu CMR y 30% de descuento pagando con Débito Banco Falabella.\nCONDICIONES \n- Solo Presencial\n- No acumulable sobre otras promociones",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- El Coihue 3807, Vitacura, Región Metropolitana",
   "condiciones2": "",
-  "legal": "Promoción válida todos los días hasta el 30 de Septiembre de 2026 con CMR o Débito Banco Falabella en BXO Boxing de manera presencial. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. No acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl",
+  "legal": "Oferta válida hasta el 30 de septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para mayor información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
-  "sitio_comercio": "https://coppelia.cl/",
+  "sitio_comercio": "https://www.pristinorestaurante.cl/",
   "es_cupon": false,
   "categorias": [
-   "Restaurantes",
-   "Antojos",
-   "Otros"
+   "Restaurantes"
   ]
  },
  {
@@ -72,6 +111,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Petit Cafetería es una marca de bollería premium y café de especialidad en Santiago. Famosa por su \"bollería de autor\", destaca por sus croissants rellenos y masa hojaldrada dulce o salada",
   "modalidad": [
    "Presencial"
   ],
@@ -88,17 +128,23 @@
  {
   "banco": "Banco Falabella",
   "categoria": "restaurantes",
-  "comercio": "Patio Bulnes Restobar",
+  "comercio": "Udon",
   "titulo_card": "Dcto en Restaurante",
-  "descripcion_card": "Presencial en Buin",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/patio-bulnes-restobar",
+  "descripcion_card": "Presencial. Revisa día según local",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/udon",
   "descuento": "40%",
   "descuento_pct": 40,
-  "tope": "Sin Tope",
+  "tope": "Sin tope",
   "dias": [
-   "Lunes"
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
   ],
-  "vigencia_inicio": "2026-06-01",
+  "vigencia_inicio": "2026-01-01",
   "vigencia_fin": "2026-09-30",
   "region": [
    "Región Metropolitana de Santiago"
@@ -111,18 +157,60 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Udon es una cadena internacional especializada en cocina asiática moderna, inspirada en los sabores de Japón y el sudeste asiático. Ofrece platos como noodles, arroces, sushi y opciones saludables, preparados con ingredientes frescos y recetas auténticas. Es el lugar perfecto para disfrutar comida oriental en un ambiente contemporáneo.",
   "modalidad": [
    "Presencial"
   ],
-  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los Lunes\n*Dirección: Manuel Bulnes 491, comuna de Buin, Región Metropolitana",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo\nVálido en locales:\n- Alto las Condes\n- Portal la dehesa\n- Costanera Center",
   "condiciones2": "",
-  "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para mayor información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 31 de julio de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Válido solo para compras presenciales y consumo en el local. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
-  "sitio_comercio": "",
+  "sitio_comercio": "https://www.udon.cl/",
   "es_cupon": false,
   "categorias": [
-   "Regiones",
    "Restaurantes"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Coppelia",
+  "titulo_card": "Coppelia",
+  "descripcion_card": "Exclusivo Presencial",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/coppelia",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes"
+  ],
+  "vigencia_inicio": "2026-08-01",
+  "vigencia_fin": "2026-09-30",
+  "region": [
+   "Región Metropolitana de Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "elite": false,
+  "destacado": true,
+  "descripcion_comercio": "Coppelia es una tradicional cadena chilena de cafeterías, heladerías y pastelerías. Es reconocida por sus helados artesanales, postres, tortas, cafés y platos de cafetería, siendo un punto de encuentro para varias generaciones de chilenos.",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Sigue estos pasos:\n\n- Todos los Lunes\n- 40% de descuento pagando con tu CMR y 30% de descuento pagando con Débito Banco Falabella.\nCONDICIONES \n- Solo Presencial\n- No acumulable sobre otras promociones",
+  "condiciones2": "",
+  "legal": "Promoción válida todos los días hasta el 30 de Septiembre de 2026 con CMR o Débito Banco Falabella en BXO Boxing de manera presencial. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. No acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl",
+  "locations": [],
+  "sitio_comercio": "https://coppelia.cl/",
+  "es_cupon": false,
+  "categorias": [
+   "Restaurantes",
+   "Antojos",
+   "Otros"
   ]
  },
  {
@@ -153,6 +241,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "La Maestranza es un restaurante chileno que combina tradición y modernidad, inspirado en la cultura ferroviaria y el espíritu de las antiguas maestranzas. Destaca por sus cortes de carne premium, parrillas y platos típicos, acompañados de una cuidada selección de vinos. Es ideal para disfrutar gastronomía chilena en un ambiente elegante y acogedor.",
   "modalidad": [
    "Presencial"
   ],
@@ -195,6 +284,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Kento Gourmet es un restaurante de estilo nikkei/sushi gourmet que ofrece rolls, nigiris, tiraditos, ceviches y platos con opciones veganas o sin arroz",
   "modalidad": [
    "Presencial"
   ],
@@ -222,7 +312,10 @@
    "Lunes",
    "Martes",
    "Miércoles",
-   "Jueves"
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
   ],
   "vigencia_inicio": "2026-01-01",
   "vigencia_fin": "2026-09-30",
@@ -237,10 +330,11 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante temático inspirado en la cultura mexicana y la artista Frida Kahlo. Destaca por sus platos típicos y decoración vibrante.",
   "modalidad": [
    "Presencial"
   ],
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Costanera Center: lunes a jueves",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Costanera Center: lunes a domingo",
   "condiciones2": "",
   "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
@@ -280,6 +374,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Cadena internacional de comida italiana, famosa por sus pastas frescas y pizzas artesanales. Combina rapidez con calidad en un ambiente casual.",
   "modalidad": [
    "Presencial"
   ],
@@ -326,10 +421,11 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante especializado en carnes a la parrilla y cortes premium. Ideal para disfrutar sabores intensos en un ambiente acogedor.",
   "modalidad": [
    "Presencial"
   ],
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Oeste: Todos los días\n- Mallplaza Egaña: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Mallplaza Los Dominicos: Todos los días\n- AV Isidora Goyenechea 3000, las condes: Todos los días\n- Vivo panorámico: Todos los días\n- Mercado Bulnes: Todos los días\n- Costanera Center: Todos los días\n- Mall Marina Viña: Todos los días\n- Mallplaza Antofagasta: Lunes a miércoles",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Costanera Center: Todos los días\n- AV Isidora Goyenechea 3000, las condes: Todos los días\n- Mercado Bulnes: Todos los días\n- Mallplaza Oeste: Todos los días\n- Mallplaza Los Dominicos: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Mall Marina Viña: Todos los días\n- Mallplaza Antofagasta: Lunes a miércoles",
   "condiciones2": "",
   "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
@@ -372,6 +468,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Local especializado en sándwiches y comidas rápidas con ingredientes frescos. Ideal para quienes buscan sabor casero y rapidez.",
   "modalidad": [
    "Presencial"
   ],
@@ -418,6 +515,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Cadena de restaurantes creada por Gastón Acurio, presente en Chile, que ofrece cocina peruana contemporánea. Destaca por ceviches, tiraditos y postres típicos en un ambiente moderno y acogedor.",
   "modalidad": [
    "Presencial"
   ],
@@ -464,6 +562,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante especializado en pizzas y pastas al estilo italiano. Destaca por sus recetas tradicionales y ambiente familiar.",
   "modalidad": [
    "Presencial"
   ],
@@ -505,6 +604,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante inspirado en la tradición alemana del kebab, con carnes asadas y salsas únicas. Ofrece opciones rápidas y sabrosas para amantes de la comida internacional.",
   "modalidad": [
    "Presencial"
   ],
@@ -545,6 +645,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante que ofrece cocina saludable y experiencias en un entorno natural. Ideal para quienes buscan platos frescos y bienestar en un ambiente relajado.",
   "modalidad": [
    "Presencial"
   ],
@@ -590,6 +691,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante inspirado en la gastronomía italiana, con pizzas y pastas frescas. Perfecto para compartir en un ambiente familiar.",
   "modalidad": [
    "Presencial"
   ],
@@ -632,6 +734,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante que celebra la cocina mexicana con tacos, enchiladas y margaritas. Ofrece un ambiente colorido y auténtico.",
   "modalidad": [
    "Presencial"
   ],
@@ -674,6 +777,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Una cadena estilo Tex‑Mex y americana ubicada en Mallplaza, famosa por sus ribs jugosas, hamburguesas artesanales y papas fritas crujientes. Su formato de atención rápida en food court lo hace ideal para comidas casuales entre compras.",
   "modalidad": [
    "Presencial"
   ],
@@ -719,10 +823,11 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante de comida asiática rápida en Santiago, especializado en woks personalizados con ingredientes frescos. Ofrece opciones vegetarianas, veganas y proteínas variadas, todo preparado al momento.",
   "modalidad": [
    "Presencial"
   ],
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Oeste: Todos los días\n- Mallplaza Egaña: lunes a jueves\n- Mallplaza Los Dominicos: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Mallplaza Antofagasta: Lunes a viernes\n- Vivo Imperio: sábados y domingos\n- Parque Arauco : Todos los días",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Parque Arauco : Todos los días\n- Mallplaza Oeste: Todos los días\n- Mallplaza Los Dominicos: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Vivo Imperio: Sábado y Domingo\n- Mallplaza Egaña: Lunes a Jueves\n- Mallplaza Antofagasta: Lunes a viernes",
   "condiciones2": "",
   "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportuniadades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
@@ -765,6 +870,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Cadena chilena famosa por sus sándwiches artesanales y recetas tradicionales. Ideal para quienes buscan sabor casero y abundante.",
   "modalidad": [
    "Presencial"
   ],
@@ -811,6 +917,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Marca que celebra la cocina peruana y latinoamericana con platos llenos de sabor y tradición. Ofrece opciones variadas en un ambiente acogedor y cultural.",
   "modalidad": [
    "Presencial"
   ],
@@ -856,10 +963,11 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Un espacio urbano en Parque Arauco, nacido para quienes buscan experiencias modernas y sociales. Destaca por su coctelería de autor y platos como Sexy Ceviche, boneless con salsa coreana y pokes frescos. Perfecto para after office y encuentros entre amigos.",
   "modalidad": [
    "Presencial"
   ],
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Parque Arauco",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Parque Arauco todos los dias.",
   "condiciones2": "",
   "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
@@ -898,6 +1006,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante-bar temático en Santiago inspirado en la cultura italiana y el cine, con carta de pizzas, pastas y coctelería. Ambiente elegante con música en vivo y eventos especiales. [bancofalabella.cl], [unesco.org]",
   "modalidad": [
    "Presencial"
   ],
@@ -906,6 +1015,46 @@
   "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
   "sitio_comercio": "https://www.vendettarestaurante.cl/",
+  "es_cupon": false,
+  "categorias": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Bistro Cascade",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Exclusivo presencial en BordeRío",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/borderio-bistro-cascade",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "vigencia_inicio": "2026-04-01",
+  "vigencia_fin": "2026-09-30",
+  "region": [
+   "Región Metropolitana de Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "elite": false,
+  "destacado": false,
+  "descripcion_comercio": "Restaurante estilo bistró con influencia europea, ideal para disfrutar platos gourmet y vinos selectos. Perfecto para una experiencia elegante.",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
+  "condiciones2": "",
+  "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "https://lacascade.cl/",
   "es_cupon": false,
   "categorias": [
    "Restaurantes"
@@ -943,6 +1092,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante que fusiona cocina mediterránea y chilena, con platos frescos y creativos. Ideal para quienes buscan sabores únicos.",
   "modalidad": [
    "Presencial"
   ],
@@ -989,10 +1139,11 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante peruano que ofrece ceviches, tiraditos y cocina marina. Perfecto para disfrutar sabores frescos y auténticos.",
   "modalidad": [
    "Presencial"
   ],
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Plaza Egaña: lunes a Jueves\n- Mall Alto Las Condes: lunes a jueves\n- Mall Plaza norte: lunes a viernes\n- Mall Plaza Vespucio: lunes y martes\n- Mall Vivo Panoramico: lunes a domingo",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Plaza Egaña: lunes a Jueves\n- Mall Alto Las Condes: lunes a viernes\n- Mall Plaza Norte: lunes a viernes\n- Mall Plaza Vespucio: lunes y martes\n- Mall Vivo Panorámico: lunes a domingo",
   "condiciones2": "",
   "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
@@ -1035,6 +1186,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "El Bodegón Taberna Limeña es un restaurante en Las Condes, Santiago, especializado en cocina peruana moderna. Ofrece platos criollos generosos, ideales para compartir en familia o con amigos. Su ambiente es cálido y festivo: un lugar de encuentro donde se brinda, se ríe y se disfruta.",
   "modalidad": [
    "Presencial"
   ],
@@ -1080,10 +1232,11 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Fuente Suiza Mall Plaza Egaña es un punto de restauración estilo fuente de soda chilena ubicado en Mall Plaza Egaña (Avenida Larraín 5862, La Reina / Ñuñoa, Santiago, Chile). Ofrece sánguches clásicos chilenos (como churrascos, vienesas, completos), hamburguesas y otras preparaciones tradicionales, con un ambiente informal ideal para comidas rápidas o casuales dentro del centro comercial",
   "modalidad": [
    "Presencial"
   ],
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall plaza egaña: lunes a miércoles\n- Mall plaza oeste: lunes a miércoles\n- Open Kennedy: lunes y martes\n- Open Kennedy desde 19:00hrs: miércoles a domingo",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Oeste: lunes a miércoles\n- Open Kennedy: lunes y martes\n- Open Kennedy desde 19:00hrs: miércoles a domingo",
   "condiciones2": "",
   "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
@@ -1125,6 +1278,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante parrillero que ofrece cortes premium y carnes a la brasa. Ideal para quienes buscan una experiencia gastronómica de alto nivel.",
   "modalidad": [
    "Presencial"
   ],
@@ -1170,6 +1324,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante especializado en cocina japonesa, con sushi, sashimi y platos tradicionales. Ideal para amantes del sabor oriental.",
   "modalidad": [
    "Presencial"
   ],
@@ -1216,6 +1371,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante que rinde homenaje a la gastronomía mexicana tradicional. Ofrece tacos, enchiladas y margaritas en un ambiente lleno de color y cultura.",
   "modalidad": [
    "Presencial"
   ],
@@ -1261,6 +1417,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "La pizzería argentina es una tradición culinaria nacida de la inmigración italiana, caracterizada por la \"pizza al molde\" de masa gruesa, esponjosa y base crocante. Se distingue por la abundancia de queso mozzarella, llegando hasta los bordes, y porciones generosas. Es un elemento de identidad cultural, consumida en ambientes populares o tradicionales de pie (al corte). Destacan clásicos como la fugazzeta y, a diferencia de la italiana, prioriza la cocción en moldes de hierro con intenso sabor. Es un emblema gastronómico presente en encuentros sociales y celebraciones.",
   "modalidad": [
    "Presencial"
   ],
@@ -1296,7 +1453,8 @@
   "vigencia_inicio": "2026-01-01",
   "vigencia_fin": "2026-09-30",
   "region": [
-   "Región Metropolitana de Santiago"
+   "Región Metropolitana de Santiago",
+   "Región de Antofagasta"
   ],
   "tarjetas": [
    "Tarjeta Débito Banco Falabella",
@@ -1306,6 +1464,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante especializado en pescados y mariscos ubicado en el 4.º piso del Open Kennedy / Parque Arauco. Su propuesta lleva el frescor de la costa a la ciudad, con ingredientes de pesca responsable, empanadas, ceviches, platos a la plancha y coctelería variada.",
   "modalidad": [
    "Presencial"
   ],
@@ -1346,10 +1505,11 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Es una cadena de restaurantes en Chile, parte del Grupo Mil Sabores, especializada en cortes de carne de alta calidad y comida a la parrilla. Destaca por utilizar carne Certified Angus Beef del medio oeste norteamericano, cocinada principalmente al horno Josper (parrilla cerrada) para lograr sabores intensos.",
   "modalidad": [
    "Presencial"
   ],
-  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.\nCondiciones:\n- Solo Presencial en Alto Las Condes.\n- Todos los Lunes y Martes",
+  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.\nCondiciones:\n- Alto Las Condes: Lunes y Martes\n- Exclusivo presencial",
   "condiciones2": "",
   "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
@@ -1389,6 +1549,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante que fusiona sabores internacionales en un ambiente moderno. Ofrece platos creativos y coctelería de autor.",
   "modalidad": [
    "Presencial"
   ],
@@ -1432,6 +1593,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Exò Nuit es un restaurante y bar contemporáneo en Vitacura, Santiago. Su propuesta combina cocina japonesa y mediterránea con un enfoque fresco y creativo. Durante el día ofrece un ambiente relajado con platos como nigiris, rolls y tartares. Por la noche se transforma en un espacio íntimo, acompañado de coctelería de autor y atmósfera sensorial.",
   "modalidad": [
    "Presencial"
   ],
@@ -1472,6 +1634,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Cantina Montt es un popular bar de barrio ubicado en la comuna de Providencia, en Santiago de Chile. Se especializa en cervezas artesanales y en rescatar sabores tradicionales destacando a productores locales y de pequeña escala.",
   "modalidad": [
    "Presencial"
   ],
@@ -1511,6 +1674,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante inspirado en la cocina peruana, con platos tradicionales y fusión. Ideal para quienes buscan sabores auténticos del Perú.",
   "modalidad": [
    "Presencial"
   ],
@@ -1550,6 +1714,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Bar cervecero que ofrece variedades artesanales de la reconocida marca Kross. Combina buena comida, música y experiencias para amantes de la cerveza.",
   "modalidad": [
    "Presencial"
   ],
@@ -1558,45 +1723,6 @@
   "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
   "sitio_comercio": "https://www.kross.cl/krossbar?srsltid=AfmBOor3bWqlUdJQ8z1RzyiNzt7RhJyz9Xb0IYxXImcOb3pxs3-NPXHi",
-  "es_cupon": false,
-  "categorias": [
-   "Restaurantes"
-  ]
- },
- {
-  "banco": "Banco Falabella",
-  "categoria": "restaurantes",
-  "comercio": "Bistro Cascade",
-  "titulo_card": "Dcto en Restaurante",
-  "descripcion_card": "Exclusivo presencial en BordeRío",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/borderio-bistro-cascade",
-  "descuento": "40%",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Martes"
-  ],
-  "vigencia_inicio": "2026-04-01",
-  "vigencia_fin": "2026-09-30",
-  "region": [
-   "Región Metropolitana de Santiago"
-  ],
-  "tarjetas": [
-   "CMR Mastercard",
-   "CMR Mastercard Premium",
-   "CMR Mastercard Elite",
-   "Tarjeta Débito Banco Falabella"
-  ],
-  "elite": false,
-  "destacado": false,
-  "modalidad": [
-   "Presencial"
-  ],
-  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
-  "condiciones2": "",
-  "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
-  "locations": [],
-  "sitio_comercio": "https://lacascade.cl/",
   "es_cupon": false,
   "categorias": [
    "Restaurantes"
@@ -1628,6 +1754,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Tropera Drugstore es un bar‑restaurante y cervecería artesanal que combina su propia línea de cervezas Tropera con una propuesta culinaria gourmet basada en productos frescos, como hamburguesas Angus, tártaro, pizzas y ensaladas",
   "modalidad": [
    "Presencial"
   ],
@@ -1667,6 +1794,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante ubicado en Santiago, reconocido por su cocina chilena y platos tradicionales. Ofrece sabores caseros y un ambiente acogedor para compartir.",
   "modalidad": [
    "Presencial"
   ],
@@ -1706,6 +1834,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Nelí es un restaurante contemporáneo del grupo Margó que destaca por su propuesta gastronómica versátil: aperitivos creativos, pizzas gourmet, platos mediterráneos y coctelería inspirada.",
   "modalidad": [
    "Presencial"
   ],
@@ -1749,6 +1878,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante que fusiona sabores chilenos con propuestas modernas. Destaca por su coctelería creativa y platos para compartir en un ambiente relajado.",
   "modalidad": [
    "Presencial"
   ],
@@ -1788,6 +1918,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Tigre Bravo es la vibrante propuesta del chef Emilio Peschiera, pionero de la cocina peruana en Chile. Con locales en Providencia y Maipú, ofrece una carta con clásicos como el lomo saltado, cebiche mixto, seco de vacuno y anticuchos, todo con un toque moderno y precios accesibles. Su ambiente relajado y coctelería 2x1 lo convierten en un imperdible para disfrutar la sazón peruana en versión pop",
   "modalidad": [
    "Presencial"
   ],
@@ -1828,6 +1959,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Kató Tasty Caos es un restaurante pan-asiático ubicado en Isidora Goyenechea 3275, Las Condes, Santiago (Región Metropolitana, Chile) que ofrece una propuesta de street food asiática sofisticada, fusionando sabores de Japón, Tailandia, Vietnam, Corea y China en platos como ramen, wantanes, sushi y salteados, acompañados de coctelería creativa en un ambiente moderno y con diseño visual llamativo",
   "modalidad": [
    "Presencial"
   ],
@@ -1867,6 +1999,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Roberta Ostería es una propuesta moderna ubicada en Viña del Mar y Reñaca, especializada en pizzas napolitanas al horno de leña, cocina de autor y coctelería. Destaca por su ambiente relajado y su carta creativa que incluye picoteos gourmet y cervezas artesanalestodos nuestros descuentos?",
   "modalidad": [
    "Presencial"
   ],
@@ -1907,6 +2040,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Sushi & Burger Home es una propuesta gastronómica que fusiona sushi y hamburguesas gourmet en un mismo lugar, con un estilo moderno y juvenil.",
   "modalidad": [
    "Presencial"
   ],
@@ -1947,6 +2081,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Sushi Home se define como una experiencia gastronómica nikkei , que va más allá de un simple restaurante de sushi. Su enfoque principal es la fusión de la cocina japonesa con la sazón y los ingredientes peruanos, creando una propuesta de sabores única .",
   "modalidad": [
    "Presencial"
   ],
@@ -1955,46 +2090,6 @@
   "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
   "sitio_comercio": "https://www.sushihome.cl/",
-  "es_cupon": false,
-  "categorias": [
-   "Restaurantes",
-   "Regiones"
-  ]
- },
- {
-  "banco": "Banco Falabella",
-  "categoria": "restaurantes",
-  "comercio": "Fidelio",
-  "titulo_card": "Dcto en Café Fidelio",
-  "descripcion_card": "Presencial en Reñaca",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/fidelio",
-  "descuento": "40%",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Jueves"
-  ],
-  "vigencia_inicio": "2026-01-01",
-  "vigencia_fin": "2026-09-30",
-  "region": [
-   "Región de Valparaíso"
-  ],
-  "tarjetas": [
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite",
-   "CMR Mastercard Premium",
-   "CMR Mastercard"
-  ],
-  "elite": false,
-  "destacado": false,
-  "modalidad": [
-   "Presencial"
-  ],
-  "condiciones": "¡Sin Tope! 40% de descuento pagando con tu CMR y 30% pagando con débito Banco Falabella\nDirección: Reñaca Norte 25, Viña del Mar",
-  "condiciones2": "",
-  "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones, happy hour, menús especiales y productos emporio. Válido únicamente para consumo presencial. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
-  "locations": [],
-  "sitio_comercio": "",
   "es_cupon": false,
   "categorias": [
    "Restaurantes",
@@ -2027,6 +2122,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Bar y lounge ubicado en Miguel Ramírez 715, con terraza y horario extendido hasta las 3 AM. Ofrece cócteles y cerveza artesanal en un espacio moderno y sofisticado",
   "modalidad": [
    "Presencial"
   ],
@@ -2067,6 +2163,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante Barros Negros es un local gastronómico ubicado en Machalí, que se caracteriza por ser un lugar cálido y acogedor, rodeado de naturaleza. Destaca por su excelente atención y por su especialidad en parrilladas con carnes premium, ideal para compartir en familia o con amigos en un ambiente relajado",
   "modalidad": [
    "Presencial"
   ],
@@ -2107,6 +2204,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restobar en 2 Oriente #1254, con cocina americana, hamburguesas, ceviches y coctelería creativa. Es conocido por su ambiente moderno, música en vivo y platos elaborados con ingredientes frescos.",
   "modalidad": [
    "Presencial"
   ],
@@ -2115,46 +2213,6 @@
   "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
   "sitio_comercio": "https://www.lafabricarestobar.com/",
-  "es_cupon": false,
-  "categorias": [
-   "Restaurantes",
-   "Regiones"
-  ]
- },
- {
-  "banco": "Banco Falabella",
-  "categoria": "restaurantes",
-  "comercio": "Dynos Chillan",
-  "titulo_card": "Dcto en Restaurante",
-  "descripcion_card": "Presencial en Chillán",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/dynos-chillan",
-  "descuento": "40%",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Miércoles"
-  ],
-  "vigencia_inicio": "2026-01-01",
-  "vigencia_fin": "2026-09-30",
-  "region": [
-   "Región de Ñuble"
-  ],
-  "tarjetas": [
-   "CMR Mastercard",
-   "CMR Mastercard Premium",
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite"
-  ],
-  "elite": false,
-  "destacado": false,
-  "modalidad": [
-   "Presencial"
-  ],
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles\nVálido en locales:\n- El Roble 558, Chillán\n- Todos los Miércoles\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Dynos Chillan",
-  "condiciones2": "",
-  "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
-  "locations": [],
-  "sitio_comercio": "https://www.dynos.cl/",
   "es_cupon": false,
   "categorias": [
    "Restaurantes",
@@ -2187,6 +2245,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Taurus Steakbar en Chillán es un destacado restaurante de carnes con más de 25 años de experiencia, posicionado como el primer \"steakbar\" de la ciudad. Ofrece cortes premium, como Flat Iron y filete, destacando por su gastronomía de autor y ambiente exclusivo. Cuenta con tres locales en la zona, incluyendo una ubicación en el Jardín del Este",
   "modalidad": [
    "Presencial"
   ],
@@ -2227,6 +2286,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restobar con una propuesta diversa que combina hamburguesas artesanales, carnes a la plancha, ceviches y tablas para compartir. Ofrece también opciones de mariscos y platos para grupos, en un ambiente relajado ideal para reuniones sociales y experiencias gastronómicas variadas.",
   "modalidad": [
    "Presencial"
   ],
@@ -2244,13 +2304,13 @@
  {
   "banco": "Banco Falabella",
   "categoria": "restaurantes",
-  "comercio": "Terralenga Hualpen",
+  "comercio": "Terraangamos",
   "titulo_card": "Dcto en Restaurante",
-  "descripcion_card": "Presencial Hualpen",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/terralenga-hualpen",
+  "descripcion_card": "Presencial en Talcahuano",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/terraangamos",
   "descuento": "40%",
   "descuento_pct": 40,
-  "tope": "Sin Tope",
+  "tope": "Sin tope",
   "dias": [
    "Martes"
   ],
@@ -2267,46 +2327,7 @@
   ],
   "elite": false,
   "destacado": false,
-  "modalidad": [
-   "Presencial"
-  ],
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes\nVálido en locales:\n- Terralenga Hualpen\n- Todos los Martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales.",
-  "condiciones2": "",
-  "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
-  "locations": [],
-  "sitio_comercio": "https://www.instagram.com/terralenga_/",
-  "es_cupon": false,
-  "categorias": [
-   "Restaurantes",
-   "Regiones"
-  ]
- },
- {
-  "banco": "Banco Falabella",
-  "categoria": "restaurantes",
-  "comercio": "Terraangamos",
-  "titulo_card": "Dcto en Restaurante",
-  "descripcion_card": "Presencial en Talcahuano",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/terraangamos",
-  "descuento": "40%",
-  "descuento_pct": 40,
-  "tope": "Sin tope",
-  "dias": [
-   "Jueves"
-  ],
-  "vigencia_inicio": "2026-01-01",
-  "vigencia_fin": "2026-09-30",
-  "region": [
-   "Región de Biobío"
-  ],
-  "tarjetas": [
-   "CMR Mastercard",
-   "CMR Mastercard Premium",
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite"
-  ],
-  "elite": false,
-  "destacado": false,
+  "descripcion_comercio": "Restaurante especializado en Mariscos, Carnes, Pescados y Parrilladas. Además de contar con variada coctelería .",
   "modalidad": [
    "Presencial"
   ],
@@ -2347,6 +2368,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Terralomas Restaurant, en Lomas San Andrés, Concepción, ofrece gastronomía marina con productos frescos del día. Su carta incluye ceviches, chupes, empanadas de mariscos y platos de fondo con pescados y mariscos locales.",
   "modalidad": [
    "Presencial"
   ],
@@ -2387,6 +2409,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restobar en Concepción que fusiona cocina tradicional con toques contemporáneos. Su carta incluye bowls, ceviches, crudos, burger y pastas, y destaca por un ambiente acogedor y coctelería artesanal.",
   "modalidad": [
    "Presencial"
   ],
@@ -2427,6 +2450,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Es un espacio gastronómico que mezcla tradición chilena con propuestas contemporáneas. Su carta incluye carnes, pescados y preparaciones locales con un toque creativo. El ambiente es cálido y relajado, ideal para compartir en pareja o con amigos",
   "modalidad": [
    "Presencial"
   ],
@@ -2467,6 +2491,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Cattedrale Cucina es un restaurante de cocina italiana y mediterránea ubicado en Villarrica. Destaca por su alta calidad gastronómica, excelente atención y ambiente acogedor. Está entre los mejores restaurantes de la ciudad, ideal para almuerzos o cenas especiales.",
   "modalidad": [
    "Presencial"
   ],
@@ -2507,6 +2532,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Ubicado en Torremolinos 485, Martina Lounge Bar ofrece hamburguesas caseras, tablas para compartir y coctelería de autor. Es un punto de encuentro popular por su ambiente relajado, terraza y atención cercana.",
   "modalidad": [
    "Presencial"
   ],
@@ -2547,6 +2573,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante italiano en Santiago que combina tradición y modernidad, especializado en pastas frescas, pizzas al horno y antipastos. Destaca por su ambiente familiar y carta inspirada en recetas clásicas con ingredientes de alta calidad.",
   "modalidad": [
    "Presencial"
   ],
@@ -2587,6 +2614,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Un restaurante fusión ubicado a orillas del río Calle Calle en Valdivia, que combina cocina creativa con productos locales y coctelería de autor. Destaca por su ambiente acogedor, vista privilegiada y platos que reinventan sabores tradicionales con toques modernos.",
   "modalidad": [
    "Presencial"
   ],
@@ -2627,6 +2655,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Nace en Valdivia en 1991 por Armin Kunstmann, inspirada en las tradiciones cerveceras alemanas tras el terremoto de 1960. Fabrican cerveza artesanal basada en Reinheitsgebot y agua pura de Torobayo, con variedad de estilos, tours cerveceros y el festival Bierfest, posicionándose como ícono del craft en Chile.",
   "modalidad": [
    "Presencial"
   ],
@@ -2667,6 +2696,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Umami Bar Nikkei es un restaurante/bar en Valdivia (sector Torobayo) especializado en cocina nikkei, que mezcla sabores japoneses y peruanos. Ofrece platos como sushi, makis, ceviches y fusión asiática, en formato de almuerzo y cena. Destaca por su buena valoración y experiencia gastronómica moderna, con bar y ambiente para compartir.",
   "modalidad": [
    "Presencial"
   ],
@@ -2707,6 +2737,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Fogón Greed es un restaurante de carnes a la brasa, parrilla y también pastas, con foco en calidad de ingredientes locales.",
   "modalidad": [
    "Presencial"
   ],
@@ -2747,6 +2778,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Greed Taproom Osorno es el taproom de la cervecería artesanal Greed Brewing Co., Es un bar–cervecería donde se sirven cervezas artesanales hechas en la misma planta, junto a pizza, burgers, sándwiches, ensaladas y platos de autor. Está enfocado en la experiencia cervecera, con ambiente para compartir, a veces música en vivo y muy buenas valoraciones en Tripadvisor.",
   "modalidad": [
    "Presencial"
   ],
@@ -2787,6 +2819,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante especializado en carnes y parrilla, con cortes premium y acompañamientos. Perfecto para compartir en un ambiente cálido.",
   "modalidad": [
    "Presencial"
   ],
@@ -2826,6 +2859,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Fundado hace más de 14 años, este referente de la cocina peruana en Santiago se ha destacado por su premiado delivery y múltiples sucursales (Vitacura, Las Condes, Ñuñoa y Centro). Su carta ofrece ceviches tradicionales y mixtos, causas variadas (atún, camarones, pulpo), tartar y entradas como chicharrón y empanadas de ají de gallina. También sirven fondos emblemáticos como lomo saltado, ají de gallina y arroz chaufa, junto a pulpo salteado y jaleas mixtas. Ideal para compartir o pedir a domicilio, combina sabores auténticos con promociones y reconocimientos como mejores opciones de delivery gourmet.",
   "modalidad": [
    "Presencial"
   ],
@@ -2865,6 +2899,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Chokolata es una reconocida cafetería y pastelería de Villarrica, destacada por sus cafés, chocolates, tortas, kuchenes y repostería artesanal. Ofrece además desayunos, brunch y una amplia variedad de productos dulces y salados en un ambiente familiar.",
   "modalidad": [
    "Presencial"
   ],
@@ -2873,46 +2908,6 @@
   "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
   "sitio_comercio": "",
-  "es_cupon": false,
-  "categorias": [
-   "Restaurantes",
-   "Regiones"
-  ]
- },
- {
-  "banco": "Banco Falabella",
-  "categoria": "restaurantes",
-  "comercio": "Santo Aire Restobar",
-  "titulo_card": "Dcto en Restaurante",
-  "descripcion_card": "Presencial en Concepción",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/santo-aire-restobar",
-  "descuento": "40%",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Jueves"
-  ],
-  "vigencia_inicio": "2026-08-01",
-  "vigencia_fin": "2026-09-30",
-  "region": [
-   "Región de Biobío"
-  ],
-  "tarjetas": [
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite",
-   "CMR Mastercard Premium",
-   "CMR Mastercard"
-  ],
-  "elite": false,
-  "destacado": false,
-  "modalidad": [
-   "Presencial"
-  ],
-  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
-  "condiciones2": "",
-  "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
-  "locations": [],
-  "sitio_comercio": "https://www.instagram.com/barrosnegros_restaurant/",
   "es_cupon": false,
   "categorias": [
    "Restaurantes",
@@ -2945,57 +2940,18 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Restaurante inspirado en la gastronomía japonesa, famoso por su sushi y platos tradicionales. Combina frescura, calidad y presentación.",
   "modalidad": [
    "Presencial",
    "Online"
   ],
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella presencial y online los sábados\n- Para compras online ingresa al sitio web de Sakura.\n- Ingresa los 6 primeros dígitos de tu tarjeta como cupón de descuento y selecciona como método de pago alguna de tus tarjetas Banco Falabella\n- Tendrás un 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella en rolls y hosomakis\nCondiciones:\n- Válido para compras presencial y online\n- Válido para rolls y hosomakis\n- No acumulable sobre otras promociones",
   "condiciones2": "",
-  "legal": "$5f",
+  "legal": "$5d",
   "locations": [],
   "sitio_comercio": "https://sakuraexpress.cl/sakura/home",
   "es_cupon": false,
   "categorias": [
-   "Restaurantes"
-  ]
- },
- {
-  "banco": "Banco Falabella",
-  "categoria": "restaurantes",
-  "comercio": "Taberna Nose Puerto Varas",
-  "titulo_card": "Dcto en Restaurante",
-  "descripcion_card": "Presencial en Puerto Varas",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/taberna-nose-puerto-varas",
-  "descuento": "40%",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Viernes"
-  ],
-  "vigencia_inicio": "2026-08-01",
-  "vigencia_fin": "2026-09-30",
-  "region": [
-   "Región de Los Lagos"
-  ],
-  "tarjetas": [
-   "CMR Mastercard",
-   "CMR Mastercard Premium",
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite"
-  ],
-  "elite": false,
-  "destacado": false,
-  "modalidad": [
-   "Presencial"
-  ],
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Taberna Nose Puerto Varas",
-  "condiciones2": "",
-  "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
-  "locations": [],
-  "sitio_comercio": "",
-  "es_cupon": false,
-  "categorias": [
-   "Regiones",
    "Restaurantes"
   ]
  },
@@ -3048,6 +3004,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Programa exclusivo de Banco Falabella que entrega beneficios y descuentos en restaurantes destacados. Ideal para disfrutar experiencias gastronómicas con ventajas únicas a lo largo de todo el país.",
   "modalidad": [
    "Presencial"
   ],
@@ -3060,6 +3017,162 @@
   "categorias": [
    "Restaurantes",
    "Regiones"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Panchita",
+  "titulo_card": "Dcto en Restaurante ",
+  "descripcion_card": "Presencial hasta las 17:00",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/panchita",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes"
+  ],
+  "vigencia_inicio": "2025-11-01",
+  "vigencia_fin": "2026-09-30",
+  "region": [
+   "Región Metropolitana de Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "elite": true,
+  "destacado": false,
+  "descripcion_comercio": "Panchita es un reconocido restaurante de cocina peruana y tradicional criolla, fundado por el famoso chef Gastón Acurio y la chef Martha Palacios. Destaca por sus sabores caseros, ambiente festivo y porciones generosas",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00",
+  "condiciones2": "",
+  "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para mayor información. Oferta válida pagando con tarjeta CMR Elite Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 31 de julio de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "https://www.panchita.pe/",
+  "es_cupon": false,
+  "categorias": [
+   "Elite",
+   "Restaurantes"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Naoki",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Exclusivo Tarjeta CMR Elite",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/naoki",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes"
+  ],
+  "vigencia_inicio": "2026-04-30",
+  "vigencia_fin": "2026-09-30",
+  "region": [
+   "Región Metropolitana de Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "elite": true,
+  "destacado": false,
+  "descripcion_comercio": "Restaurante japonés de alta gama, reconocido por su sushi y platos tradicionales. Combina técnica, frescura y presentación impecable.",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite los lunes\nVálido en locales:\n- Av Vitacura 3875, Vitacura",
+  "condiciones2": "",
+  "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR ELITE. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no válido para bombas especiales y no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "",
+  "es_cupon": false,
+  "categorias": [
+   "Elite",
+   "Restaurantes"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Dagan",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Presencial con CMR Elite",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/dagan",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "vigencia_inicio": "2026-01-01",
+  "vigencia_fin": "2026-09-30",
+  "region": [
+   "Región Metropolitana de Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "elite": true,
+  "destacado": false,
+  "descripcion_comercio": "Inaugurado en 2024 en Vitacura, Santiago, Dagan es una propuesta gastronómica inspirada en la cocina mediterránea y del Medio Oriente. Su carta incluye platos como kebabs, hummus, arroz árabe, dumplings de cordero y feta batido, todos diseñados para compartir. Fundado por Marcelo Breitling, el restaurante destaca por su ambiente sofisticado, coctelería de autor y una experiencia culinaria que combina tradición milenaria con creatividad moderna.",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite los martes\nVálido en locales:\n- Dagan: Nueva Costanera 3750, Santiago.",
+  "condiciones2": "",
+  "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjeta CMR Elite Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2025. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "",
+  "es_cupon": false,
+  "categorias": [
+   "Elite",
+   "Restaurantes"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Sabor y Aroma",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Exclusivo Tarjeta CMR Elite",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-sabor-y-aroma",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Jueves"
+  ],
+  "vigencia_inicio": "2026-01-02",
+  "vigencia_fin": "2026-09-30",
+  "region": [
+   "Región Metropolitana de Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "elite": true,
+  "destacado": false,
+  "descripcion_comercio": "Restaurante ubicado en La Dehesa (Lo Barnechea) que fusiona cocina peruana y asiática en platos como ceviches, tiraditos y sushi teppanyaki. Reconocido con el sello Travelers’ Choice por su innovadora gastronomía, ambiente elegante y atención distinguida",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Sigue estos pasos\n\n*Av. Raúl Labbé 12559\n*¿Aún no tienes tu CMR? Pídela aquí",
+  "condiciones2": "",
+  "legal": "Oferta válida hasta el 28 de Septiembre de 2026, pagando con tarjetas CMR ELITE. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no válido para bombas especiales y no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "https://oddmenu.com/es/p/saboryaroma",
+  "es_cupon": false,
+  "categorias": [
+   "Elite",
+   "Restaurantes"
   ]
  },
  {
@@ -3085,6 +3198,7 @@
   ],
   "elite": true,
   "destacado": false,
+  "descripcion_comercio": "Social Bar & Cocinas es un popular espacio gastronómico y de entretenimiento en Santiago, conocido por su ambiente relajado, buena música y propuesta de \"carrete\". Tienen sucursales en sectores como Vitacura y Las Condes",
   "modalidad": [
    "Presencial"
   ],
@@ -3093,6 +3207,82 @@
   "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR ELITE. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no válido para bombas especiales y no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
   "sitio_comercio": "https://socialbyfoodlab.com/",
+  "es_cupon": false,
+  "categorias": [
+   "Elite",
+   "Restaurantes"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Caoba Bar",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Exclusivo presencial",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/caoba-bar",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Viernes"
+  ],
+  "vigencia_inicio": "2026-01-06",
+  "vigencia_fin": "2026-09-30",
+  "region": [
+   "Región Metropolitana de Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "elite": true,
+  "destacado": false,
+  "descripcion_comercio": "Bar contemporáneo ubicado en Alonso de Córdova (Vitacura, Santiago), con coctelería de autor y gastronomía moderna. Destaca por su ambiente refinado, terraza climatizada y servicio atento; reconocido por su espectáculo de preparación de cócteles.",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Detalle\n\n- En el total de tu boleta en Caoba Bar\n- Exclusivo con CMR Elite\n- Alonso de Córdova 4156, Vitacura\n- ¿Aún no tienes tu CMR? Pídela aquí",
+  "condiciones2": "",
+  "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjeta CMR Elite Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta, excluyendo propina . Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "https://caobabar.cl/",
+  "es_cupon": false,
+  "categorias": [
+   "Elite",
+   "Restaurantes"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Don Carlos",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Presencial con CMR Elite",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/don-carlos",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Sábado"
+  ],
+  "vigencia_inicio": "2026-04-30",
+  "vigencia_fin": "2026-09-30",
+  "region": [
+   "Región Metropolitana de Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "elite": true,
+  "destacado": false,
+  "descripcion_comercio": "Clásico restaurante de carnes premium en Las Condes con más de 35 años de historia. Especializado en carnes premium al estilo argentino, como ojo de bife y costilla Angus, acompañado de vinos y atención personalizada",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite los sábados\nVálido en locales:\n- Isidora Goyenechea 2895, Las Condes, Región Metropolitana",
+  "condiciones2": "",
+  "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjeta CMR Elite Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "",
   "es_cupon": false,
   "categorias": [
    "Elite",
@@ -3125,6 +3315,7 @@
   ],
   "elite": false,
   "destacado": true,
+  "descripcion_comercio": "Viña Viu Manent es una reconocida viña del Valle de Colchagua, famosa por sus vinos premium y experiencias enoturísticas. Cuenta con el restaurante Rayuela Wine & Grill, especializado en carnes, productos locales y maridajes con vinos de la viña. Ofrece tours, degustaciones y experiencias gastronómicas entre viñedos, siendo uno de los destinos enológicos más destacados de Chile.",
   "modalidad": [
    "Presencial"
   ],
@@ -3191,6 +3382,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "",
   "modalidad": [
    "Presencial",
    "Online"
@@ -3232,6 +3424,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Local Burger es una hamburguesería de estilo americano en Chile, destacada por sus preparaciones jugosas y de alta calidad. Ofrece hamburguesas artesanales, incluyendo opciones dobles y la famosa Big Local, caracterizadas por el uso de carne nacional y sabores intensos. Su propuesta incluye ingredientes frescos, salsas de la casa y opciones como Fried Chicken Burger, con un empaque sustentable. Son ideales para delivery por su rápida entrega, destacando en Santiago. ¡Perfectas para disfrutar con buena comida casera!.",
   "modalidad": [
    "Presencial",
    "Online"
@@ -3241,6 +3434,92 @@
   "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
   "sitio_comercio": "https://www.localburger.cl/",
+  "es_cupon": false,
+  "categorias": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Zulu",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Exclusivo presencial",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/zulu",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Sábado"
+  ],
+  "vigencia_inicio": "2026-01-01",
+  "vigencia_fin": "2026-09-30",
+  "region": [
+   "Región Metropolitana de Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "elite": false,
+  "destacado": false,
+  "descripcion_comercio": "Zulu es un restaurante en Santiago con una propuesta de cocina contemporánea, enfocado en platos actuales y una experiencia gastronómica moderna",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados\nVálido en locales:\n- Alonso de Córdova 2337, Vitacura, Región Metropolitana",
+  "condiciones2": "",
+  "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "https://gour.media/zulu-bar/",
+  "es_cupon": false,
+  "categorias": [
+   "Restaurantes"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Enrique Tomás",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Presencial. Revisa día según local",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/enrique-tomas",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "vigencia_inicio": "2026-01-01",
+  "vigencia_fin": "2026-09-30",
+  "region": [
+   "Región Metropolitana de Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "elite": false,
+  "destacado": false,
+  "descripcion_comercio": "Enrique Tomás es una reconocida marca española especializada en jamón ibérico, con más de 40 años de tradición. En su tienda del Costanera Center encontrarás jamones, embutidos y productos gourmet, además de degustaciones y packs exclusivos. Es el lugar ideal para los amantes del sabor auténtico del jamón ibérico.",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Enrique Tomás\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\nSolo Presencial en Costanera Center todos los días",
+  "condiciones2": "",
+  "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para junior información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de junio de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Válido solo para compras presenciales y consumo en el local. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "https://enriquetomas.com/?srsltid=AfmBOoqlvz_IauEWqnXzdy-myYVopELDKCWlnDAMN71AAVfenxmxWk7v",
   "es_cupon": false,
   "categorias": [
    "Restaurantes"
@@ -3272,6 +3551,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Tololo Beach es un restaurante frente al mar en La Serena, reconocido por su propuesta basada en pescados, mariscos y cocina chilena. Destaca por sus productos frescos, vista al océano y ambiente costero.",
   "modalidad": [
    "Presencial"
   ],
@@ -3312,6 +3592,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Tololo Beef es un restaurante especializado en carnes a la parrilla, cortes premium y cocina internacional. Destaca por su propuesta gastronómica junto al mar, combinando carnes, mariscos y una amplia carta de vinos y cócteles.",
   "modalidad": [
    "Presencial"
   ],
@@ -3352,6 +3633,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Café Haussmann es una tradicional cafetería del sur de Chile, reconocida por su repostería y cocina de inspiración alemana.Destaca por sus kuchenes, tortas y sándwiches artesanales.Ideal para disfrutar desayunos, almuerzos y onces en un ambiente acogedor.",
   "modalidad": [
    "Presencial"
   ],
@@ -3392,6 +3674,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Sello de Raza es un restaurante de cocina chilena y parrilla, reconocido por sus cortes de carne y preparaciones tradicionales del sur de Chile.Destaca por su enfoque en productos locales, parrilladas y una selección de vinos para acompañar la experiencia gastronómica.",
   "modalidad": [
    "Presencial"
   ],
@@ -3432,6 +3715,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Sempre Pasta es un restaurante italiano, especializado en pastas frescas, lasañas y recetas inspiradas en la tradición italiana. Destaca por sus preparaciones artesanales, elaboradas con recetas caseras y productos de calidad. Una propuesta ideal para disfrutar auténticos sabores italianos en un ambiente cercano y familiar.",
   "modalidad": [
    "Presencial"
   ],
@@ -3472,6 +3756,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Barra Olivo es un restaurante de comida peruana y marisquería ubicado en Chicureo, Chile.",
   "modalidad": [
    "Presencial"
   ],
@@ -3511,6 +3796,7 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "Kila Coffee es una acogedora cafetería y espacio de bienestar ubicada en la comuna de Ñuñoa, Santiago de Chile",
   "modalidad": [
    "Presencial"
   ],
@@ -3527,15 +3813,15 @@
  {
   "banco": "Banco Falabella",
   "categoria": "restaurantes",
-  "comercio": "Pristino",
+  "comercio": "Nomade Nikkei",
   "titulo_card": "Dcto en Restaurante",
-  "descripcion_card": "Exclusivo presencial",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/pristino",
+  "descripcion_card": "Presencial en Buin",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/nomade-nikkei",
   "descuento": "40%",
   "descuento_pct": 40,
-  "tope": "Sin tope",
+  "tope": "Sin Tope",
   "dias": [
-   "Martes"
+   "Miércoles"
   ],
   "vigencia_inicio": "2026-01-01",
   "vigencia_fin": "2026-09-30",
@@ -3550,17 +3836,179 @@
   ],
   "elite": false,
   "destacado": false,
+  "descripcion_comercio": "",
   "modalidad": [
    "Presencial"
   ],
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- El Coihue 3807, Vitacura, Región Metropolitana",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Nomade Nikkei\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los Miércoles\n*Dirección: Espacio Villaseca - Villaseca 445, Buin, Región Metropolitana",
   "condiciones2": "",
-  "legal": "Oferta válida hasta el 30 de septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para mayor información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
   "locations": [],
-  "sitio_comercio": "https://www.pristinorestaurante.cl/",
+  "sitio_comercio": "",
   "es_cupon": false,
   "categorias": [
+   "Regiones",
    "Restaurantes"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Boreal bar Rancagua",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Presencial en Rancagua",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/boreal-bar-rancagua",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "vigencia_inicio": "2026-01-01",
+  "vigencia_fin": "2026-09-30",
+  "region": "$2a:props:benefitCardsData:48:region",
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "elite": false,
+  "destacado": false,
+  "descripcion_comercio": "Bar y lounge ubicado en Miguel Ramírez 715, con terraza y horario extendido hasta las 3 AM. Ofrece cócteles y cerveza artesanal en un espacio moderno y sofisticado",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Boreal bar Rancagua\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los miércoles\n*Dirección: Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins.",
+  "condiciones2": "",
+  "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "",
+  "es_cupon": false,
+  "categorias": [
+   "Restaurantes",
+   "Regiones"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Mamma Gaucha Coyhaique",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Jueves en Coyhaique",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/mamma-gaucha-coyhaique",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Descuento",
+  "dias": [
+   "Jueves"
+  ],
+  "vigencia_inicio": "2026-06-01",
+  "vigencia_fin": "2026-09-30",
+  "region": [
+   "Región de Aysén del General Carlos Ibáñez del Campo"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "elite": false,
+  "destacado": false,
+  "descripcion_comercio": "",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "¡Sin Tope! Disfruta con un 40% de dcto pagando con tu CMR y 30% de dcto pagando con débito Banco Falabella\nLocales:\n- Cuerno 47, 5951627 Coyhaique, Aysén\nCondiciones:\n- Excluye promociones\n- Exclusivo presencial",
+  "condiciones2": "",
+  "legal": "Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "",
+  "es_cupon": false,
+  "categorias": [
+   "Restaurantes",
+   "Regiones"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Taurus Steak Bar Chillan",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Presencial en Chillan",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/taurus-steak-bar-chillan",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "vigencia_inicio": "2026-01-01",
+  "vigencia_fin": "2026-09-30",
+  "region": "$2a:props:benefitCardsData:51:region",
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "elite": false,
+  "destacado": false,
+  "descripcion_comercio": "Taurus Steakbar en Chillán es un destacado restaurante de carnes con más de 25 años de experiencia, posicionado como el primer \"steakbar\" de la ciudad. Ofrece cortes premium, como Flat Iron y filete, destacando por su gastronomía de autor y ambiente exclusivo. Cuenta con tres locales en la zona, incluyendo una ubicación en el Jardín del Este",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes\nVálido en locales:\n- Taurus Steak Bar Chillan\n- Todos los Martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Taurus Steak Bar Chillan",
+  "condiciones2": "",
+  "legal": "El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre del 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "https://taurussteakbar.cl/",
+  "es_cupon": false,
+  "categorias": [
+   "Restaurantes",
+   "Regiones"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "categoria": "restaurantes",
+  "comercio": "Dominga Bistro Pucon",
+  "titulo_card": "Dcto en Restaurante",
+  "descripcion_card": "Presencial en Pucon",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-pucon",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "vigencia_inicio": "2026-08-01",
+  "vigencia_fin": "2026-09-30",
+  "region": [
+   "Región de Los Ríos"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "elite": false,
+  "destacado": false,
+  "descripcion_comercio": "Dominga Bistró es un restaurante de cocina fusión y coctelería de autor ubicado en la Península de Cavancha, Iquique. Destaca por sus platos de mar, cocina internacional y tragos de autor en un ambiente moderno. Ofrece una experiencia gastronómica pensada para disfrutar, compartir y vivir los detalles.",
+  "modalidad": [
+   "Presencial"
+  ],
+  "condiciones": "Sigue estos pasos\n\n- Has tu pedido en cualquier caja de Dominga Bistro\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Cuentas con el 40% de dcto con CMR y el 30% con débito Banco Falabella\nCondiciones:\n*Solo Presencial\n- Todos los Miércoles en Dominga Bistró Pucón",
+  "condiciones2": "",
+  "legal": "Oferta válida todos los miércoles hasta el 30 de septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. No acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para mayor información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.",
+  "locations": [],
+  "sitio_comercio": "",
+  "es_cupon": false,
+  "categorias": [
+   "Restaurantes",
+   "Regiones"
   ]
  }
 ]

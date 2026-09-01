@@ -1,0 +1,587 @@
+{
+ "mes": "2026-09",
+ "prev": "2026-08",
+ "generado": "2026-09-01",
+ "altas": [
+  "banc-sicily-pizzeria",
+  "banc-pristino",
+  "banc-udon",
+  "banc-tropera-drugstore",
+  "banc-roberta-osteria",
+  "banc-boreal-bar-rancagua",
+  "banc-terralomas-concepcion",
+  "banc-naoki",
+  "banc-dagan",
+  "banc-40-sabor-y-aroma",
+  "banc-caoba-bar",
+  "banc-don-carlos",
+  "banc-zulu",
+  "banc-enrique-tomas",
+  "banc-tololo-beach",
+  "banc-tololo-beef",
+  "banc-cafe-haussmann",
+  "banc-sello-de-raza",
+  "banc-sempre-pasta",
+  "banc-barra-olivo",
+  "banc-kila-coffee",
+  "banc-nomade-nikkei",
+  "banc-mamma-gaucha-coyhaique",
+  "banc-dominga-bistro-pucon",
+  "sant-domani",
+  "sant-santo-aire",
+  "sant-ramblas",
+  "sant-taurus-steak-bar",
+  "sant-bar-tpm",
+  "sant-sushi-home",
+  "sant-vicenta",
+  "sant-1213",
+  "sant-hitomi-tomi",
+  "sant-zulu",
+  "sant-estacion-tropera",
+  "sant-estro-3",
+  "sant-lima-fusion",
+  "sant-pristino",
+  "sant-taringa-4",
+  "sant-brunetti",
+  "sant-brunapoli",
+  "sant-oh-bok",
+  "sant-milan",
+  "sant-ciros",
+  "sant-la-mulata",
+  "sant-sociedad-0306",
+  "sant-infiltrados",
+  "sant-do-sushi-6",
+  "sant-restaurante-hotel-awa",
+  "sant-ica-2",
+  "sant-la-dicha-4",
+  "sant-barraandalue",
+  "sant-dominga-nikkei",
+  "sant-pfchang",
+  "sant-augusta-bar",
+  "sant-la-biferia-2",
+  "sant-local-burger-2",
+  "sant-piegari-2"
+ ],
+ "bajas": [
+  {
+   "id": "banc-patio-bulnes-restobar",
+   "comercio": "Patio Bulnes Restobar",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/patio-bulnes-restobar"
+  },
+  {
+   "id": "banc-hijo-del-sol-santiago",
+   "comercio": "Hijo Del Sol Santiago",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/hijo-del-sol-santiago"
+  },
+  {
+   "id": "banc-de-barrio",
+   "comercio": "De Barrio",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/de-barrio"
+  },
+  {
+   "id": "banc-cantina-varas",
+   "comercio": "Cantina Varas",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/cantina-varas"
+  },
+  {
+   "id": "banc-borderio-pulmay",
+   "comercio": "Pulmay",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/borderio-pulmay"
+  },
+  {
+   "id": "banc-anima-cocktail-lab",
+   "comercio": "Anima Cocktail Lab",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/anima-cocktail-lab"
+  },
+  {
+   "id": "banc-hijo-del-sol-5ta-region",
+   "comercio": "Hijo Del Sol 5ta Region",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/hijo-del-sol-5ta-region"
+  },
+  {
+   "id": "banc-fidelio",
+   "comercio": "Fidelio",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/fidelio"
+  },
+  {
+   "id": "banc-dynos-chillan",
+   "comercio": "Dynos Chillan",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/dynos-chillan"
+  },
+  {
+   "id": "banc-terralenga-hualpen",
+   "comercio": "Terralenga Hualpen",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/terralenga-hualpen"
+  },
+  {
+   "id": "banc-dominga-bistro-iquique",
+   "comercio": "Dominga Bistro Iquique",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-iquique"
+  },
+  {
+   "id": "banc-santo-aire-restobar",
+   "comercio": "Santo Aire Restobar",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/santo-aire-restobar"
+  },
+  {
+   "id": "banc-taberna-nose-puerto-varas",
+   "comercio": "Taberna Nose Puerto Varas",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/taberna-nose-puerto-varas"
+  },
+  {
+   "id": "banc-waldos-bistro",
+   "comercio": "Waldos Bistro",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/waldos-bistro"
+  },
+  {
+   "id": "banc-waldos",
+   "comercio": "Waldos",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/waldos"
+  },
+  {
+   "id": "banc-tropicalia",
+   "comercio": "Tropicalia",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/tropicalia"
+  },
+  {
+   "id": "banc-enigma",
+   "comercio": "Bar Enigma",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/enigma"
+  },
+  {
+   "id": "banc-demencia",
+   "comercio": "Demencia",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/demencia"
+  },
+  {
+   "id": "banc-estacion-tropera",
+   "comercio": "Estación Tropera",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/estacion-tropera"
+  },
+  {
+   "id": "banc-doga-sushi",
+   "comercio": "Doga Sushi",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/doga-sushi"
+  },
+  {
+   "id": "banc-majestic",
+   "comercio": "Majestic",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/majestic"
+  },
+  {
+   "id": "banc-mirador-gourmet",
+   "comercio": "Mirador Gourmet",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/mirador-gourmet"
+  },
+  {
+   "id": "banc-yma",
+   "comercio": "YMA",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/yma"
+  },
+  {
+   "id": "banc-pescados-capitales",
+   "comercio": "Pescados capitales",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/pescados-capitales"
+  },
+  {
+   "id": "banc-cosenza",
+   "comercio": "Cosenza",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/cosenza"
+  },
+  {
+   "id": "banc-la-sociedad",
+   "comercio": "La Sociedad",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/la-sociedad"
+  },
+  {
+   "id": "banc-docetrece",
+   "comercio": "Docetrece",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/docetrece"
+  },
+  {
+   "id": "sant-holy-moly-2",
+   "comercio": "Holy Moly",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/holy-moly-2"
+  },
+  {
+   "id": "sant-el-dorado",
+   "comercio": "El Dorado",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/el-dorado"
+  },
+  {
+   "id": "sant-la-barra-ccu",
+   "comercio": "La Barra CCU",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/la-barra-ccu"
+  },
+  {
+   "id": "sant-gaia-restaurante",
+   "comercio": "Gaia Restaurante",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/gaia-restaurante"
+  },
+  {
+   "id": "sant-pettra",
+   "comercio": "Pettra",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/pettra"
+  },
+  {
+   "id": "sant-lumiere-bistro",
+   "comercio": "Lumiere Bistró",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/lumiere-bistro"
+  },
+  {
+   "id": "sant-vicenzo-cucina",
+   "comercio": "Vicenzo Cucina",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/vicenzo-cucina"
+  },
+  {
+   "id": "sant-ruta-41",
+   "comercio": "Ruta 41",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/ruta-41"
+  },
+  {
+   "id": "sant-riccione",
+   "comercio": "Riccione",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/riccione"
+  },
+  {
+   "id": "sant-gatopardo-bistro",
+   "comercio": "Gatopardo Bistró",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/gatopardo-bistro"
+  },
+  {
+   "id": "sant-la-parrilla-del-guaton-jerez",
+   "comercio": "La Parrilla del Guatón Jeréz",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/la-parrilla-del-guaton-jerez"
+  },
+  {
+   "id": "sant-kevin-bacon",
+   "comercio": "Kevin Bacon",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/kevin-bacon"
+  },
+  {
+   "id": "sant-jeronimo",
+   "comercio": "Jeronimo",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/jeronimo"
+  },
+  {
+   "id": "sant-miscelaneo",
+   "comercio": "Miscelaneo",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/miscelaneo"
+  },
+  {
+   "id": "sant-cascade-bistro",
+   "comercio": "Cascade Bistró",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/cascade-bistro"
+  },
+  {
+   "id": "sant-chilis",
+   "comercio": "Chilis",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/chilis"
+  },
+  {
+   "id": "sant-la-maestranza-2",
+   "comercio": "La Maestranza",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/la-maestranza-2"
+  },
+  {
+   "id": "sant-la-yunta-2",
+   "comercio": "La Yunta",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/la-yunta-2"
+  },
+  {
+   "id": "sant-dagan",
+   "comercio": "Dagan",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/dagan"
+  },
+  {
+   "id": "sant-sushi-nikkei-17",
+   "comercio": "Sushi Nikkei 17",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/sushi-nikkei-17"
+  },
+  {
+   "id": "sant-vinolia",
+   "comercio": "Vinolia",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/vinolia"
+  },
+  {
+   "id": "sant-maillard",
+   "comercio": "Maillard",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/maillard"
+  },
+  {
+   "id": "sant-la-caperucita-y-el-lobo",
+   "comercio": "La Caperucita y el Lobo",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/la-caperucita-y-el-lobo"
+  },
+  {
+   "id": "sant-jardin-mallinkrodt",
+   "comercio": "Jardín Mallinkrodt",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/jardin-mallinkrodt"
+  },
+  {
+   "id": "sant-99-restaurante",
+   "comercio": "99 Restaurante",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/99-restaurante"
+  },
+  {
+   "id": "sant-rustico-restobar",
+   "comercio": "Rústico restobar",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/rustico-restobar"
+  },
+  {
+   "id": "sant-raidho",
+   "comercio": "Raidho",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/raidho"
+  },
+  {
+   "id": "sant-demencia-2",
+   "comercio": "Demencia",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/demencia-2"
+  },
+  {
+   "id": "sant-roberta-pizzas",
+   "comercio": "Roberta Pizzas",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/roberta-pizzas"
+  },
+  {
+   "id": "sant-depuramadre",
+   "comercio": "De Pura Madre",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/depuramadre"
+  },
+  {
+   "id": "sant-don-carlos",
+   "comercio": "Don Carlos",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/don-carlos"
+  },
+  {
+   "id": "sant-pescados-capitales-3",
+   "comercio": "Pescados Capitales",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/pescados-capitales-3"
+  },
+  {
+   "id": "sant-la-cabrera-3",
+   "comercio": "La Cabrera",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/la-cabrera-3"
+  },
+  {
+   "id": "sant-kobo-2",
+   "comercio": "Kobo Sushi",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/kobo-2"
+  },
+  {
+   "id": "sant-winecaina-2",
+   "comercio": "Winecaina",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/winecaina-2"
+  }
+ ],
+ "cambios": {
+  "banc-frida-kahlo": {
+   "dias": {
+    "antes": "Lunes; Martes; Miércoles; Jueves",
+    "ahora": "Lunes; Martes; Miércoles; Jueves; Viernes; Sábado; Domingo"
+   },
+   "lugares": {
+    "antes": "Costanera Center: lunes a jueves",
+    "ahora": "Costanera Center: lunes a domingo"
+   }
+  },
+  "banc-40-de-dcto-en-restaurantes-mallplaza-muu-grill": {
+   "lugares": {
+    "antes": "Mallplaza Oeste: Todos los días; Mallplaza Egaña: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mallplaza Los Dominicos: Todos los días; AV Isidora Goyenechea 3000, las condes: Todos los días; Vivo panorámico: Todos los días; Mercado Bulnes: Todos los días; Costanera Center: Todos los días; Mall Marina Viña: Todos los días; Mallplaza Antofagasta: Lunes a miércoles",
+    "ahora": "Costanera Center: Todos los días; AV Isidora Goyenechea 3000, las condes: Todos los días; Mercado Bulnes: Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mall Marina Viña: Todos los días; Mallplaza Antofagasta: Lunes a miércoles"
+   }
+  },
+  "banc-40-de-dcto-en-restaurantes-mallplaza-take-a-wok": {
+   "lugares": {
+    "antes": "Mallplaza Oeste: Todos los días; Mallplaza Egaña: lunes a jueves; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mallplaza Antofagasta: Lunes a viernes; Vivo Imperio: sábados y domingos; Parque Arauco : Todos los días",
+    "ahora": "Parque Arauco : Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Vivo Imperio: Sábado y Domingo; Mallplaza Egaña: Lunes a Jueves; Mallplaza Antofagasta: Lunes a viernes"
+   }
+  },
+  "banc-badass": {
+   "lugares": {
+    "antes": "Parque Arauco",
+    "ahora": "Parque Arauco todos los dias"
+   }
+  },
+  "banc-40-de-dcto-en-restaurantes-mallplaza-barra-chala": {
+   "lugares": {
+    "antes": "Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a jueves; Mall Plaza norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Panoramico: lunes a domingo",
+    "ahora": "Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Panorámico: lunes a domingo"
+   }
+  },
+  "banc-fuente-suiza": {
+   "lugares": {
+    "antes": "Mall plaza egaña: lunes a miércoles; Mall plaza oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo",
+    "ahora": "Mallplaza Oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo"
+   }
+  },
+  "banc-muu-steak": {
+   "lugares": {
+    "antes": "",
+    "ahora": "Alto Las Condes: Lunes y Martes"
+   }
+  },
+  "banc-terraangamos": {
+   "dias": {
+    "antes": "Jueves",
+    "ahora": "Martes"
+   }
+  },
+  "sant-casa-mar-sushi": {
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+    "ahora": "Exclusivo con tus Tarjetas de Crédito Santander."
+   }
+  },
+  "sant-cosenza": {
+   "descuento": {
+    "antes": "50% dcto. todos los jueves",
+    "ahora": "40% dcto. todos los viernes"
+   },
+   "tope": {
+    "antes": "$50.000",
+    "ahora": "$100.000"
+   },
+   "dias": {
+    "antes": "Jueves",
+    "ahora": "Viernes"
+   },
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Santander American Express.",
+    "ahora": "Exclusivo con tus Tarjetas de Crédito WoldMember Limited Santander LATAM Pass."
+   }
+  },
+  "sant-santa-brasa-3": {
+   "descuento": {
+    "antes": "40% dcto. todos los jueves",
+    "ahora": "50% dcto. todos los martes"
+   },
+   "tope": {
+    "antes": "$40.000",
+    "ahora": "$50.000"
+   },
+   "dias": {
+    "antes": "Jueves",
+    "ahora": "Martes"
+   },
+   "lugares": {
+    "antes": "Parque Arauco, Avenida Presidente Kennedy 5413, Las Condes; Avenida Jose Alcalde Delano, Los Trapenses; Alto las Condes, Avenida Presidente Kennedy Lateral 9001, Las Condes; Avenida Larraín 5862; Avenida Padre Hurtado Sur 785, las condes; Santa Elena 671, Concón; San Martín 435, Viña del Mar",
+    "ahora": "Alonso de Córdova 4260, Vitacura"
+   },
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Santander.",
+    "ahora": "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+   }
+  },
+  "sant-sumoku": {
+   "descuento": {
+    "antes": "50%. dcto. todos los martes",
+    "ahora": "Hasta 50%. dcto. todos los martes y miercoles"
+   },
+   "dias": {
+    "antes": "Martes",
+    "ahora": "Martes; Miércoles"
+   },
+   "lugares": {
+    "antes": "Bellavista 703, Reñaca; Reñaca",
+    "ahora": "Bellavista 703, Reñaca.Con Tarjetas de Crédito Santander American Express; Reñaca"
+   },
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Santander American Express",
+    "ahora": "Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito WorldMember Limited Santander LATAM Pass"
+   }
+  },
+  "sant-naoki-2": {
+   "descuento": {
+    "antes": "50%. dcto. todos los miércoles",
+    "ahora": "40%. dcto. todos los miércoles"
+   },
+   "tope": {
+    "antes": "$50.000",
+    "ahora": "$100.000"
+   },
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Santander American Express.",
+    "ahora": "Exclusivo con tu Tarjeta de Crédito WorldMember Limited Santander"
+   }
+  },
+  "sant-corrales-del-sur-3": {
+   "lugares": {
+    "antes": "carnes Corrales del Sur y embutidos; Vitacura, Providencia, Peñalolén, Osorno, Puerto Varas",
+    "ahora": "Vitacura, Providencia, Peñalolén, Osorno, Puerto Varas"
+   }
+  },
+  "sant-al-pesto": {
+   "descuento": {
+    "antes": "30% dcto. todos los viernes.",
+    "ahora": "40% dcto. todos los martes."
+   },
+   "dias": {
+    "antes": "Viernes",
+    "ahora": "Martes"
+   }
+  }
+ }
+}

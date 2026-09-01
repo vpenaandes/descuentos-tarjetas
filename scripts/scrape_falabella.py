@@ -149,6 +149,7 @@ def scrape(categoria, workers=6, limit=None):
         if d:
             item.update({
                 "comercio": d.get("commerceName") or item["comercio"],
+                "descripcion_comercio": clean(d.get("commerceInfoDescription")),
                 "modalidad": d.get("benefitsMode"),
                 "condiciones": clean(rich_to_text(d.get("detailBanner1"))),
                 "condiciones2": clean(rich_to_text(d.get("detailBanner2"))) if d.get("detailBanner2") else "",

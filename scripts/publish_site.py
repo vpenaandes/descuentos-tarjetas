@@ -12,6 +12,7 @@ Después: git add docs && git commit && git push  (Pages sirve desde main:/docs)
 import argparse
 import datetime as dt
 import glob
+import json
 import os
 import re
 import shutil
@@ -46,6 +47,62 @@ def compress_screens(src_dir, dst_dir, quality):
     return "jpg"
 
 
+def write_pwa(docs, ultimo_mes):
+    """manifest + service worker + iconos: la web se instala como app en el celular."""
+    manifest = {
+        "name": "Descuentos restaurantes", "short_name": "Descuentos",
+        "description": "Descuentos de restaurantes con tarjetas Falabella y Santander",
+        "start_url": "./", "scope": "./", "display": "standalone",
+        "background_color": "#f6f7f9", "theme_color": "#2563eb", "lang": "es-CL",
+        "icons": [{"src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+                  {"src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"},
+                  {"src": "./icon-180.png", "sizes": "180x180", "type": "image/png"}],
+    }
+    json.dump(manifest, open(os.path.join(docs, "manifest.webmanifest"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    _icons(docs)
+    # SW: cache-first para la app del mes vigente; red primero para lo demás.
+    sw = f"""// generado por publish_site.py
+const CACHE = "descuentos-{ultimo_mes}-v1";
+const CORE = ["./", "./{ultimo_mes}/", "./manifest.webmanifest"];
+self.addEventListener("install", e => {{
+  e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE).catch(() => {{}})).then(() => self.skipWaiting()));
+}});
+self.addEventListener("activate", e => {{
+  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim()));
+}});
+self.addEventListener("fetch", e => {{
+  const url = new URL(e.request.url);
+  if (e.request.method !== "GET" || url.origin !== location.origin) return;   // tiles OSM: siempre red
+  e.respondWith(
+    fetch(e.request).then(r => {{
+      const copy = r.clone();
+      caches.open(CACHE).then(c => c.put(e.request, copy)).catch(() => {{}});
+      return r;
+    }}).catch(() => caches.match(e.request).then(r => r || caches.match("./{ultimo_mes}/")))
+  );
+}});
+"""
+    open(os.path.join(docs, "sw.js"), "w", encoding="utf-8").write(sw)
+
+
+def _icons(docs):
+    try:
+        from PIL import Image, ImageDraw
+    except ImportError:
+        return
+    for size in (192, 512, 180):
+        im = Image.new("RGB", (size, size), "#2563eb")
+        d = ImageDraw.Draw(im)
+        r = int(size * 0.30)
+        d.ellipse([size * .18, size * .18, size * .18 + r, size * .18 + r], fill="#ffffff")          # plato
+        d.rectangle([size * .60, size * .18, size * .64, size * .58], fill="#ffffff")                # cuchillo
+        d.rectangle([size * .72, size * .18, size * .75, size * .58], fill="#ffffff")                # tenedor
+        d.rectangle([size * .78, size * .18, size * .81, size * .58], fill="#ffffff")
+        d.ellipse([size * .30, size * .60, size * .30 + size * .34, size * .60 + size * .30], fill="#ffffff")
+        d.text((size * .40, size * .66), "%", fill="#2563eb")
+        im.save(os.path.join(docs, f"icon-{size}.png"), "PNG", optimize=True)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--mes", default=dt.date.today().strftime("%Y-%m"))
@@ -78,6 +135,7 @@ def main():
 <body style="font:16px system-ui;padding:20px"><p>Redirigiendo a <a href="{meses[0]}/">{meses[0]}</a>…</p>
 <p>Meses:</p><ul>{links}</ul></body></html>""")
     open(os.path.join(DOCS, ".nojekyll"), "w").close()
+    write_pwa(DOCS, meses[0])
     print(f"OK docs/{a.mes}/index.html + docs/index.html (meses: {', '.join(meses)})", file=sys.stderr)
 
 

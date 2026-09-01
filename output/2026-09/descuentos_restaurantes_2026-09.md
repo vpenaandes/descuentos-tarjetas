@@ -1,394 +1,423 @@
 # Descuentos restaurantes — 2026-09
 
-Generado 2026-09-01 · 167 beneficios · Banco Falabella: 85 · Santander: 82
+Generado 2026-09-01 · 176 beneficios · Banco Falabella: 94 · Santander: 82
 
 Campos: lugar específico · horario · tope · días · tarjeta. Cuando un campo dice — es que el banco no lo publica; revisar `Condiciones` o la URL.
 
 ## Por día
 
-### Lunes (47)
+### Lunes (51)
 
-| Banco | Comercio | Dcto | Tope | Horario | Lugar | Tarjetas |
-|---|---|---|---|---|---|---|
-| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a jueves; Mall Plaza norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Panor… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Berlín Doner Kebab](https://www.bancofalabella.cl/descuentos/detalle/berlin-doner-kebab) | 40% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Cafe Haussmann](https://www.bancofalabella.cl/descuentos/detalle/cafe-haussmann) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Valdivia | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Coppelia](https://www.bancofalabella.cl/descuentos/detalle/coppelia) | 40% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Frida Kahlo](https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: lunes a jueves | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mall plaza egaña: lunes a miércoles; Mall plaza oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Kairos garden](https://www.bancofalabella.cl/descuentos/detalle/kairos-garden) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Vespucio: lunes y martes | CMR Mastercard; CMR Mastercard Elite; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Kento Gourmet](https://www.bancofalabella.cl/descuentos/detalle/kento-gourmet) | 40% | Sin Tope | — | Alto Las Condes (Av Presidente Kennedy Lateral 9001); Parque Arauco (Av Presidente Kennedy 5413); Av. Vitacura 5460 | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
-| Banco Falabella | [La Maestranza](https://www.bancofalabella.cl/descuentos/detalle/la-maestranza) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Vitacura 5468, Vitacura – Santiago | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La patrona](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-patrona) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | La Patrona Mall Plaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mallplaza Los Dominic… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Muu Steak](https://www.bancofalabella.cl/descuentos/detalle/muu-steak) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.) | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Paris texas](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-paris-texas) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Paris Texas Mallplaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Patio Bulnes Restobar](https://www.bancofalabella.cl/descuentos/detalle/patio-bulnes-restobar) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Buin; Manuel Bulnes 491, comuna de Buin, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: lunes a jueves; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobala… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Tololo Beach](https://www.bancofalabella.cl/descuentos/detalle/tololo-beach) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | La Serena | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Tololo Beef](https://www.bancofalabella.cl/descuentos/detalle/tololo-beef) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | La Serena | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Vapiano](https://www.bancofalabella.cl/descuentos/detalle/vapiano) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Vendetta](https://www.bancofalabella.cl/descuentos/detalle/vendetta) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | locales seleccionados; Mall Plaza Egaña: de lunes a jueves; Mall Plaza Los Dominicos: de lunes a jueves; Mall Plaza Vespucio: de lunes a jueves; Patio Bellavis… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Santander | [Caoba Bar](https://banco.santander.cl/beneficios/promociones/caoba-bar-2) | 40% dcto. todos los lunes | $40.000 | — | Alonso de Córdova 4156, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander |
-| Santander | [Corrales del Sur](https://banco.santander.cl/beneficios/promociones/corrales-del-sur-4) | 20% dcto. todos los lunes. | $40.000 | — | — | Exclusivo con tus Tarjetas de Crédito Santander |
-| Santander | [CuracaRibs](https://banco.santander.cl/beneficios/promociones/curacaribs-4) | 40% dcto. todos lunes online. | $40.000 | — | La Florida, Cerrillos, Las Condes, Providencia, Huechuraba, Curacaví | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Domani](https://banco.santander.cl/beneficios/promociones/domani) | 40% dcto. todos los lunes | $40.000 | — | Local Las Condes y Providencia | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [El Mundo del Vino](https://banco.santander.cl/beneficios/promociones/el-mundo-del-vino-9) | 40% dcto. todos los lunes en viñas seleccionadas. | $100.000 | — | Providencia, Las Condes | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
-| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
-| Santander | [La Dicha](https://banco.santander.cl/beneficios/promociones/la-dicha-4) | 40% dcto. todos los lunes. | $100.000 | — | Alonso de Córdova 4355,Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
-| Santander | [Pizzería Capri](https://banco.santander.cl/beneficios/promociones/pizzeria-capri) | 40% dcto. todos los lunes | $40.000 | — | Avenida El Rodeo 13.052, Lo Barnechea; Gerónimo Alderete 1423, Vitacura; Lo Barnechea, Vitacura | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Punta del Sol](https://banco.santander.cl/beneficios/promociones/punta-del-sol) | 50% de dcto. todos los lunes | $50.000 | — | Av. del Mar 2730, Maitencillo | Exclusivo con tus Tarjetas de Crédito Santander American Express. |
-| Santander | [Social Bar](https://banco.santander.cl/beneficios/promociones/social-bar) | 40% dcto. todos los lunes | $40.000 | — | Av. Vitacura 3396, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Work/Café](https://banco.santander.cl/beneficios/promociones/work-cafe-4) | 40% dcto. todos los lunes y 30% dcto. de martes a viernes | Sin tope | Sin tope de descuento.Horarios de Atención: / Lunes a jueves de 9:00 a 14:00 hr… | Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Banco | Comercio | Tipo | Dcto | Tope | Horario | Lugar | Tarjetas |
+|---|---|---|---|---|---|---|---|
+| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | Restaurante peruano que ofrece ceviches, tiradito… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Pano… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Berlín Doner Kebab](https://www.bancofalabella.cl/descuentos/detalle/berlin-doner-kebab) | Restaurante inspirado en la tradición alemana del… | 40% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | Local especializado en sándwiches y comidas rápid… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Cafe Haussmann](https://www.bancofalabella.cl/descuentos/detalle/cafe-haussmann) | Café Haussmann es una tradicional cafetería del s… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Valdivia | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | Programa exclusivo de Banco Falabella que entrega… | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Coppelia](https://www.bancofalabella.cl/descuentos/detalle/coppelia) | Coppelia es una tradicional cadena chilena de caf… | 40% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | — | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | Marca que celebra la cocina peruana y latinoameri… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | El Bodegón Taberna Limeña es un restaurante en La… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | Restaurante especializado en cocina japonesa, con… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Enrique Tomás](https://www.bancofalabella.cl/descuentos/detalle/enrique-tomas) | Enrique Tomás es una reconocida marca española es… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Frida Kahlo](https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo) | Restaurante temático inspirado en la cultura mexi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | Fuente Suiza Mall Plaza Egaña es un punto de rest… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mallplaza Oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | Restaurante que rinde homenaje a la gastronomía m… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Kairos garden](https://www.bancofalabella.cl/descuentos/detalle/kairos-garden) | Restaurante que ofrece cocina saludable y experie… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Vespucio: lunes y martes | CMR Mastercard; CMR Mastercard Elite; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Kento Gourmet](https://www.bancofalabella.cl/descuentos/detalle/kento-gourmet) | Kento Gourmet es un restaurante de estilo nikkei/… | 40% | Sin Tope | — | Alto Las Condes (Av Presidente Kennedy Lateral 9001); Parque Arauco (Av Presidente Kennedy 5413); Av. Vitacura 5460 | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | La pizzería argentina es una tradición culinaria … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
+| Banco Falabella | [La Maestranza](https://www.bancofalabella.cl/descuentos/detalle/la-maestranza) | La Maestranza es un restaurante chileno que combi… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Vitacura 5468, Vitacura – Santiago | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La patrona](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-patrona) | Restaurante que celebra la cocina mexicana con ta… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | La Patrona Mall Plaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | Restaurante inspirado en la gastronomía italiana,… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | Cadena chilena famosa por sus sándwiches artesana… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | Restaurante especializado en pizzas y pastas al e… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | Restaurante especializado en pescados y mariscos … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | Restaurante que fusiona cocina mediterránea y chi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | Restaurante especializado en carnes a la parrilla… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: Todos los días; AV Isidora Goyenechea 3000, las condes: Todos los días; Mercado Bulnes: Todos los días; Mallplaza Oeste: Todos los días; Mall… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Muu Steak](https://www.bancofalabella.cl/descuentos/detalle/muu-steak) | Es una cadena de restaurantes en Chile, parte del… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.) | Sin tope | — | Alto Las Condes: Lunes y Martes | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Naoki](https://www.bancofalabella.cl/descuentos/detalle/naoki) | Restaurante japonés de alta gama, reconocido por … | 40% | Sin Tope | — | Av Vitacura 3875, Vitacura | CMR Mastercard Elite |
+| Banco Falabella | [Panchita](https://www.bancofalabella.cl/descuentos/detalle/panchita) | Panchita es un reconocido restaurante de cocina p… | 40% | Sin Tope | Descuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00 | — | CMR Mastercard Elite |
+| Banco Falabella | [Paris texas](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-paris-texas) | Una cadena estilo Tex‑Mex y americana ubicada en … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Paris Texas Mallplaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | Petit Cafetería es una marca de bollería premium … | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Sicily Pizzería](https://www.bancofalabella.cl/descuentos/detalle/sicily-pizzeria) | Sicily es una pizzería contemporánea con inspirac… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los lunes) | Sin Tope | — | Sicily: Alonso de Córdova 4226, 7630000 Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | Restaurante parrillero que ofrece cortes premium … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | Restaurante de comida asiática rápida en Santiago… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco : Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalab… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | Cadena de restaurantes creada por Gastón Acurio, … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Tololo Beach](https://www.bancofalabella.cl/descuentos/detalle/tololo-beach) | Tololo Beach es un restaurante frente al mar en L… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | La Serena | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Tololo Beef](https://www.bancofalabella.cl/descuentos/detalle/tololo-beef) | Tololo Beef es un restaurante especializado en ca… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | La Serena | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Udon](https://www.bancofalabella.cl/descuentos/detalle/udon) | Udon es una cadena internacional especializada en… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin tope | — | Alto las Condes; Portal la dehesa; Costanera Center | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Vapiano](https://www.bancofalabella.cl/descuentos/detalle/vapiano) | Cadena internacional de comida italiana, famosa p… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Vendetta](https://www.bancofalabella.cl/descuentos/detalle/vendetta) | Restaurante-bar temático en Santiago inspirado en… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | locales seleccionados; Mall Plaza Egaña: de lunes a jueves; Mall Plaza Los Dominicos: de lunes a jueves; Mall Plaza Vespucio: de lunes a jueves; Patio Bellavis… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Santander | [Caoba Bar](https://banco.santander.cl/beneficios/promociones/caoba-bar-2) | Disfruta de un increíble bar | 40% dcto. todos los lunes | $40.000 | — | Alonso de Córdova 4156, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander |
+| Santander | [Corrales del Sur](https://banco.santander.cl/beneficios/promociones/corrales-del-sur-4) | El mejor corte de carne en Corrales del Sur | 20% dcto. todos los lunes. | $40.000 | — | — | Exclusivo con tus Tarjetas de Crédito Santander |
+| Santander | [CuracaRibs](https://banco.santander.cl/beneficios/promociones/curacaribs-4) | Disfruta carnes ahumadas 100% a leña | 40% dcto. todos lunes online. | $40.000 | — | La Florida, Cerrillos, Las Condes, Providencia, Huechuraba, Curacaví | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Domani](https://banco.santander.cl/beneficios/promociones/domani) | Pizzería napolitana | 40% dcto. todos los lunes | $40.000 | — | Local Las Condes y Providencia | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [El Mundo del Vino](https://banco.santander.cl/beneficios/promociones/el-mundo-del-vino-9) | El mejor vino para ti | 40% dcto. todos los lunes en viñas seleccionadas. | $100.000 | — | Providencia, Las Condes | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
+| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Deléitate con carnes, pescados y mariscos | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
+| Santander | [La Dicha](https://banco.santander.cl/beneficios/promociones/la-dicha-4) | Descubre los mejores platos gourmet | 40% dcto. todos los lunes. | $100.000 | — | Alonso de Córdova 4355,Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
+| Santander | [Pizzería Capri](https://banco.santander.cl/beneficios/promociones/pizzeria-capri) | Disfruta de la comida italiana como pizzas, pasta… | 40% dcto. todos los lunes | $40.000 | — | Avenida El Rodeo 13.052, Lo Barnechea; Gerónimo Alderete 1423, Vitacura; Lo Barnechea, Vitacura | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Punta del Sol](https://banco.santander.cl/beneficios/promociones/punta-del-sol) | Cocina del mar | 50% de dcto. todos los lunes | $50.000 | — | Av. del Mar 2730, Maitencillo | Exclusivo con tus Tarjetas de Crédito Santander American Express. |
+| Santander | [Social Bar](https://banco.santander.cl/beneficios/promociones/social-bar) | Burgas, drinks y el good food mood que ya amas | 40% dcto. todos los lunes | $40.000 | — | Av. Vitacura 3396, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Work/Café](https://banco.santander.cl/beneficios/promociones/work-cafe-4) | Comienza tu día en el mejor lugar, conoce todas l… | 40% dcto. todos los lunes y 30% dcto. de martes a viernes | Sin tope | Sin tope de descuento.Horarios de Atención: / Lunes a jueves de 9:00 a 14:00 hr… | Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
 
-### Martes (64)
+### Martes (69)
 
-| Banco | Comercio | Dcto | Tope | Horario | Lugar | Tarjetas |
-|---|---|---|---|---|---|---|
-| Banco Falabella | [Augusta Bar](https://www.bancofalabella.cl/descuentos/detalle/augusta-bar) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Concepción; Augusta Bar: Paso Hondo 209, Lomas de San Andrés. Bio bío | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Baqueano Temuco](https://www.bancofalabella.cl/descuentos/detalle/baqueano-temuco) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) | Sin Tope | — | Temuco; Baqueano Temuco | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a jueves; Mall Plaza norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Panor… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Berlín Doner Kebab](https://www.bancofalabella.cl/descuentos/detalle/berlin-doner-kebab) | 40% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Bistro Cascade](https://www.bancofalabella.cl/descuentos/detalle/borderio-bistro-cascade) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin Tope | — | BordeRío; Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Cantina Montt](https://www.bancofalabella.cl/descuentos/detalle/cantina-montt) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes … | Sin Tope | — | Avenida Manuel Montt 1201, Providencia | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Cattedrale Cucina Villarrica](https://www.bancofalabella.cl/descuentos/detalle/cattedrale-cucina-villarrica) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) | Sin Tope | — | Villarrica; Cattedrale Cucina | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Chokolata Cafeteria](https://www.bancofalabella.cl/descuentos/detalle/chokolata-cafeteria) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Villarrica; General Urrutia 891 | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Exò Nuit](https://www.bancofalabella.cl/descuentos/detalle/exo-nuit) | 40% | Sin tope | — | Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Frida Kahlo](https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: lunes a jueves | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mall plaza egaña: lunes a miércoles; Mall plaza oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Kairos garden](https://www.bancofalabella.cl/descuentos/detalle/kairos-garden) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Vespucio: lunes y martes | CMR Mastercard; CMR Mastercard Elite; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Kechua](https://www.bancofalabella.cl/descuentos/detalle/borderio-kechua) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin Tope | — | BordeRío; Kechua BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Kento Gourmet](https://www.bancofalabella.cl/descuentos/detalle/kento-gourmet) | 40% | Sin Tope | — | Alto Las Condes (Av Presidente Kennedy Lateral 9001); Parque Arauco (Av Presidente Kennedy 5413); Av. Vitacura 5460 | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Kila Coffee](https://www.bancofalabella.cl/descuentos/detalle/kila-coffee) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin tope | — | Román Díaz 2023, Ñuñoa, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Krossbar](https://www.bancofalabella.cl/descuentos/detalle/martes-de-borderio-krossbar) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin Tope | — | BordeRío; Krossbar BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
-| Banco Falabella | [La Fabrica Talca](https://www.bancofalabella.cl/descuentos/detalle/la-fabrica-talca) | 40 (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Talca; Av. 2 Ote. 1254, Talca, Región del Maule | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [La patrona](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-patrona) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | La Patrona Mall Plaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La Tabla](https://www.bancofalabella.cl/descuentos/detalle/la-tabla-borderio) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin Tope | — | BordeRío; La Tabla BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Martina Lounge Bar](https://www.bancofalabella.cl/descuentos/detalle/martina-lounge-bar) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Temuco; Torremolinos 485, local 116, Temuco, Araucanía | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [MISCELANEO](https://www.bancofalabella.cl/descuentos/detalle/miscelaneo) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.) | Sin Tope | — | Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mallplaza Los Dominic… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Muu Steak](https://www.bancofalabella.cl/descuentos/detalle/muu-steak) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.) | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Paris texas](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-paris-texas) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Paris Texas Mallplaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Pristino](https://www.bancofalabella.cl/descuentos/detalle/pristino) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin tope | — | El Coihue 3807, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Sello de Raza](https://www.bancofalabella.cl/descuentos/detalle/sello-de-raza) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Valdivia | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: lunes a jueves; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobala… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Taurus Steak Bar Chillan](https://www.bancofalabella.cl/descuentos/detalle/taurus-steak-bar-chillan) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) | Sin Tope | — | Chillan; Taurus Steak Bar Chillan | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Terralenga Hualpen](https://www.bancofalabella.cl/descuentos/detalle/terralenga-hualpen) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) | Sin Tope | — | Terralenga Hualpen | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Vendetta](https://www.bancofalabella.cl/descuentos/detalle/vendetta) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | locales seleccionados; Mall Plaza Egaña: de lunes a jueves; Mall Plaza Los Dominicos: de lunes a jueves; Mall Plaza Vespucio: de lunes a jueves; Patio Bellavis… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Santander | [Al Pesto](https://banco.santander.cl/beneficios/promociones/al-pesto) | 40% dcto. todos los martes. | $40.000 | — | Colina | Exclusivo con tus Tarjetas de Crédito Santander.Válido para consumo en local.Boulevard Lo… |
-| Santander | [Aquality](https://banco.santander.cl/beneficios/promociones/aquality-3) | 40% dcto. todos los martes y acumula 1 Milla LATAM Pass adicional | $100.000 | — | — | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
-| Santander | [Bozzo](https://banco.santander.cl/beneficios/promociones/bozzo-4) | 40% dcto. todos los martes en bozzochocolates.cl y 20% dcto. en tiendas | $40.000 | — | Las Condes, Vitacura, Lo Barnechea, Providencia, Santiago, Peñalolén, La Florida | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [Brunapoli](https://banco.santander.cl/beneficios/promociones/brunapoli) | 40% dcto. todos los martes | $100.000 | — | Nueva Costanera 3961, Vitacura; Av. José Alcalde Délano, Lo Barnechea; Camino El Alba 11969, Las Condes; Vitacura, Las Condes, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
-| Santander | [Dominó](https://banco.santander.cl/beneficios/promociones/domino-2) | 40% dcto. todos los martes. | Sin tope | — | Las Condes, La Reina, Providencia, Vitacura, Santiago, Ñuñoa, Peñalolén, Macul, Recoleta, La Florida, Huechuraba, Puente Alto, Maipú, Independencia, Viña del M… | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [eCook](https://banco.santander.cl/beneficios/promociones/ecook-4) | 40% dcto. todos los martes y jueves | Sin tope | — | — | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [El Taller](https://banco.santander.cl/beneficios/promociones/el-taller) | 40% dcto. todos los martes | $15.000 | — | Av. Providencia 1467, Providencia; Av. La Dehesa 1570, Lo Barnechea; Av. Apoquindo 2730, Las Condes; Providencia, Lo Barnechea, Las Condes | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
-| Santander | [Melt Pizzas](https://banco.santander.cl/beneficios/promociones/melt) | 40% dcto. todos los martes. | $40.000 | — | La Reina, Vitacura, Santiago, Las Condes, Providencia, Peñalolén, Recoleta, Huechuraba, Lo Barnechea, San Miguel, La Florida, Puente Alto, Ñuñoa, | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [Ramblas](https://banco.santander.cl/beneficios/promociones/ramblas) | 40% dcto. todos los martes | $40.000 | — | Manuel Montt 370, Providencia | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Rubaiyat](https://banco.santander.cl/beneficios/promociones/rubaiyat) | 30% dcto. en exclusiva experiencia gastronómica Rubaiyat | — | — | Evento a realizarse el 28 de julio de 2026 en Rubaiyat Chile, Av. Nueva Costanera 4031, Vitacura | Exclusivo pagando online con tus Tarjetas de Crédito The Platinum Card American Express&r… |
-| Santander | [Santa Brasa](https://banco.santander.cl/beneficios/promociones/santa-brasa-3) | 50% dcto. todos los martes | $50.000 | — | Alonso de Córdova 4260, Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express. |
-| Santander | [Sociedad 0306](https://banco.santander.cl/beneficios/promociones/sociedad-0306) | 40% dcto. todos los martes | $40.000 | — | Av. Sta. Isabel 0306, Providencia; Providencia | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Sumoku](https://banco.santander.cl/beneficios/promociones/sumoku) | Hasta 50%. dcto. todos los martes y miercoles | $50.000 | — | Bellavista 703, Reñaca.Con Tarjetas de Crédito Santander American Express; Reñaca | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
-| Santander | [Vapiano](https://banco.santander.cl/beneficios/promociones/vapiano-2) | 40% dcto. todos los martes y jueves | $40.000 | — | — | Válido con Tarjetas de Crédito y Débito Santander. |
-| Santander | [Vicenta](https://banco.santander.cl/beneficios/promociones/vicenta) | 40% dcto. todos los martes. | $100.000 | — | Av. O&rsquo;Higgins 1414, Antofagasta; Antofagasta | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander. |
-| Santander | [Work/Café](https://banco.santander.cl/beneficios/promociones/work-cafe-4) | 40% dcto. todos los lunes y 30% dcto. de martes a viernes | Sin tope | Sin tope de descuento.Horarios de Atención: / Lunes a jueves de 9:00 a 14:00 hr… | Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Banco | Comercio | Tipo | Dcto | Tope | Horario | Lugar | Tarjetas |
+|---|---|---|---|---|---|---|---|
+| Banco Falabella | [Augusta Bar](https://www.bancofalabella.cl/descuentos/detalle/augusta-bar) | Restobar con una propuesta diversa que combina ha… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Concepción; Augusta Bar: Paso Hondo 209, Lomas de San Andrés. Bio bío | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Baqueano Temuco](https://www.bancofalabella.cl/descuentos/detalle/baqueano-temuco) | Es un espacio gastronómico que mezcla tradición c… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) | Sin Tope | — | Temuco; Baqueano Temuco | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | Restaurante peruano que ofrece ceviches, tiradito… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Pano… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Berlín Doner Kebab](https://www.bancofalabella.cl/descuentos/detalle/berlin-doner-kebab) | Restaurante inspirado en la tradición alemana del… | 40% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Bistro Cascade](https://www.bancofalabella.cl/descuentos/detalle/borderio-bistro-cascade) | Restaurante estilo bistró con influencia europea,… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin Tope | — | BordeRío; Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | Local especializado en sándwiches y comidas rápid… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Cantina Montt](https://www.bancofalabella.cl/descuentos/detalle/cantina-montt) | Cantina Montt es un popular bar de barrio ubicado… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes … | Sin Tope | — | Avenida Manuel Montt 1201, Providencia | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Cattedrale Cucina Villarrica](https://www.bancofalabella.cl/descuentos/detalle/cattedrale-cucina-villarrica) | Cattedrale Cucina es un restaurante de cocina ita… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) | Sin Tope | — | Villarrica; Cattedrale Cucina | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Chokolata Cafeteria](https://www.bancofalabella.cl/descuentos/detalle/chokolata-cafeteria) | Chokolata es una reconocida cafetería y pastelerí… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Villarrica; General Urrutia 891 | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | Programa exclusivo de Banco Falabella que entrega… | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | — | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Dagan](https://www.bancofalabella.cl/descuentos/detalle/dagan) | Inaugurado en 2024 en Vitacura, Santiago, Dagan e… | 40% | Sin Tope | — | Dagan: Nueva Costanera 3750, Santiago | CMR Mastercard Elite |
+| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | Marca que celebra la cocina peruana y latinoameri… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | El Bodegón Taberna Limeña es un restaurante en La… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | Restaurante especializado en cocina japonesa, con… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Enrique Tomás](https://www.bancofalabella.cl/descuentos/detalle/enrique-tomas) | Enrique Tomás es una reconocida marca española es… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Exò Nuit](https://www.bancofalabella.cl/descuentos/detalle/exo-nuit) | Exò Nuit es un restaurante y bar contemporáneo en… | 40% | Sin tope | — | Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Frida Kahlo](https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo) | Restaurante temático inspirado en la cultura mexi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | Fuente Suiza Mall Plaza Egaña es un punto de rest… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mallplaza Oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | Restaurante que rinde homenaje a la gastronomía m… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Kairos garden](https://www.bancofalabella.cl/descuentos/detalle/kairos-garden) | Restaurante que ofrece cocina saludable y experie… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Vespucio: lunes y martes | CMR Mastercard; CMR Mastercard Elite; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Kechua](https://www.bancofalabella.cl/descuentos/detalle/borderio-kechua) | Restaurante inspirado en la cocina peruana, con p… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin Tope | — | BordeRío; Kechua BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Kento Gourmet](https://www.bancofalabella.cl/descuentos/detalle/kento-gourmet) | Kento Gourmet es un restaurante de estilo nikkei/… | 40% | Sin Tope | — | Alto Las Condes (Av Presidente Kennedy Lateral 9001); Parque Arauco (Av Presidente Kennedy 5413); Av. Vitacura 5460 | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Kila Coffee](https://www.bancofalabella.cl/descuentos/detalle/kila-coffee) | Kila Coffee es una acogedora cafetería y espacio … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin tope | — | Román Díaz 2023, Ñuñoa, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Krossbar](https://www.bancofalabella.cl/descuentos/detalle/martes-de-borderio-krossbar) | Bar cervecero que ofrece variedades artesanales d… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin Tope | — | BordeRío; Krossbar BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | La pizzería argentina es una tradición culinaria … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
+| Banco Falabella | [La Fabrica Talca](https://www.bancofalabella.cl/descuentos/detalle/la-fabrica-talca) | Restobar en 2 Oriente #1254, con cocina americana… | 40 (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Talca; Av. 2 Ote. 1254, Talca, Región del Maule | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [La patrona](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-patrona) | Restaurante que celebra la cocina mexicana con ta… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | La Patrona Mall Plaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | Restaurante inspirado en la gastronomía italiana,… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | Cadena chilena famosa por sus sándwiches artesana… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La Tabla](https://www.bancofalabella.cl/descuentos/detalle/la-tabla-borderio) | Restaurante especializado en carnes y parrilla, c… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin Tope | — | BordeRío; La Tabla BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | Restaurante especializado en pizzas y pastas al e… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Martina Lounge Bar](https://www.bancofalabella.cl/descuentos/detalle/martina-lounge-bar) | Ubicado en Torremolinos 485, Martina Lounge Bar o… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Temuco; Torremolinos 485, local 116, Temuco, Araucanía | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | Restaurante especializado en pescados y mariscos … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | Restaurante que fusiona cocina mediterránea y chi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [MISCELANEO](https://www.bancofalabella.cl/descuentos/detalle/miscelaneo) | Restaurante que fusiona sabores internacionales e… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.) | Sin Tope | — | Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | Restaurante especializado en carnes a la parrilla… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: Todos los días; AV Isidora Goyenechea 3000, las condes: Todos los días; Mercado Bulnes: Todos los días; Mallplaza Oeste: Todos los días; Mall… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Muu Steak](https://www.bancofalabella.cl/descuentos/detalle/muu-steak) | Es una cadena de restaurantes en Chile, parte del… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.) | Sin tope | — | Alto Las Condes: Lunes y Martes | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Panchita](https://www.bancofalabella.cl/descuentos/detalle/panchita) | Panchita es un reconocido restaurante de cocina p… | 40% | Sin Tope | Descuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00 | — | CMR Mastercard Elite |
+| Banco Falabella | [Paris texas](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-paris-texas) | Una cadena estilo Tex‑Mex y americana ubicada en … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Paris Texas Mallplaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | Petit Cafetería es una marca de bollería premium … | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Pristino](https://www.bancofalabella.cl/descuentos/detalle/pristino) | Prístino es un restaurante en Santiago de Chile e… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin tope | — | El Coihue 3807, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Sello de Raza](https://www.bancofalabella.cl/descuentos/detalle/sello-de-raza) | Sello de Raza es un restaurante de cocina chilena… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Valdivia | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | Restaurante parrillero que ofrece cortes premium … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | Restaurante de comida asiática rápida en Santiago… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco : Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalab… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | Cadena de restaurantes creada por Gastón Acurio, … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Taurus Steak Bar Chillan](https://www.bancofalabella.cl/descuentos/detalle/taurus-steak-bar-chillan) | Taurus Steakbar en Chillán es un destacado restau… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) | Sin Tope | — | Chillan; Taurus Steak Bar Chillan | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Taurus Steak Bar Chillan](https://www.bancofalabella.cl/descuentos/detalle/taurus-steak-bar-chillan) | Taurus Steakbar en Chillán es un destacado restau… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) | Sin Tope | — | Chillan; Taurus Steak Bar Chillan | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Terraangamos](https://www.bancofalabella.cl/descuentos/detalle/terraangamos) | Restaurante especializado en Mariscos, Carnes, Pe… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | — | Talcahuano; Colón 1062, 4260000 Talcahuano, Bío Bío | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Udon](https://www.bancofalabella.cl/descuentos/detalle/udon) | Udon es una cadena internacional especializada en… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin tope | — | Alto las Condes; Portal la dehesa; Costanera Center | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Vendetta](https://www.bancofalabella.cl/descuentos/detalle/vendetta) | Restaurante-bar temático en Santiago inspirado en… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | locales seleccionados; Mall Plaza Egaña: de lunes a jueves; Mall Plaza Los Dominicos: de lunes a jueves; Mall Plaza Vespucio: de lunes a jueves; Patio Bellavis… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Santander | [Al Pesto](https://banco.santander.cl/beneficios/promociones/al-pesto) | Disfruta las delicias culinarias y tendencias ita… | 40% dcto. todos los martes. | $40.000 | — | Colina | Exclusivo con tus Tarjetas de Crédito Santander.Válido para consumo en local.Boulevard Lo… |
+| Santander | [Aquality](https://banco.santander.cl/beneficios/promociones/aquality-3) | Compra pescados y mariscos congelados de calidad … | 40% dcto. todos los martes y acumula 1 Milla LATAM Pass adicional | $100.000 | — | — | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
+| Santander | [Bozzo](https://banco.santander.cl/beneficios/promociones/bozzo-4) | Disfruta los mejores chocolates, receta de tradic… | 40% dcto. todos los martes en bozzochocolates.cl y 20% dcto. en tiendas | $40.000 | — | Las Condes, Vitacura, Lo Barnechea, Providencia, Santiago, Peñalolén, La Florida | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [Brunapoli](https://banco.santander.cl/beneficios/promociones/brunapoli) | Vive la experiencia de una auténtica pizza Napoli… | 40% dcto. todos los martes | $100.000 | — | Nueva Costanera 3961, Vitacura; Av. José Alcalde Délano, Lo Barnechea; Camino El Alba 11969, Las Condes; Vitacura, Las Condes, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
+| Santander | [Dominó](https://banco.santander.cl/beneficios/promociones/domino-2) | Los martes ahora son Dinámicos | 40% dcto. todos los martes. | Sin tope | — | Las Condes, La Reina, Providencia, Vitacura, Santiago, Ñuñoa, Peñalolén, Macul, Recoleta, La Florida, Huechuraba, Puente Alto, Maipú, Independencia, Viña del M… | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [eCook](https://banco.santander.cl/beneficios/promociones/ecook-4) | Lleva tus platos favoritos con el mejor descuento | 40% dcto. todos los martes y jueves | Sin tope | — | — | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [El Taller](https://banco.santander.cl/beneficios/promociones/el-taller) | Helados Artesanales de Alta Calidad, reconocidos … | 40% dcto. todos los martes | $15.000 | — | Av. Providencia 1467, Providencia; Av. La Dehesa 1570, Lo Barnechea; Av. Apoquindo 2730, Las Condes; Providencia, Lo Barnechea, Las Condes | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Deléitate con carnes, pescados y mariscos | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
+| Santander | [Melt Pizzas](https://banco.santander.cl/beneficios/promociones/melt) | Las mejores pizzas están en Melt! | 40% dcto. todos los martes. | $40.000 | — | La Reina, Vitacura, Santiago, Las Condes, Providencia, Peñalolén, Recoleta, Huechuraba, Lo Barnechea, San Miguel, La Florida, Puente Alto, Ñuñoa, | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [Ramblas](https://banco.santander.cl/beneficios/promociones/ramblas) | Bar con música en vivo | 40% dcto. todos los martes | $40.000 | — | Manuel Montt 370, Providencia | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Rubaiyat](https://banco.santander.cl/beneficios/promociones/rubaiyat) | Celebra los 10 años de Rubaiyat Chile con un excl… | 30% dcto. en exclusiva experiencia gastronómica Rubaiyat | — | — | Evento a realizarse el 28 de julio de 2026 en Rubaiyat Chile, Av. Nueva Costanera 4031, Vitacura | Exclusivo pagando online con tus Tarjetas de Crédito The Platinum Card American Express&r… |
+| Santander | [Santa Brasa](https://banco.santander.cl/beneficios/promociones/santa-brasa-3) | Increíbles cortes de carne | 50% dcto. todos los martes | $50.000 | — | Alonso de Córdova 4260, Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express. |
+| Santander | [Sociedad 0306](https://banco.santander.cl/beneficios/promociones/sociedad-0306) | 4 cocinas de autor + Bar | 40% dcto. todos los martes | $40.000 | — | Av. Sta. Isabel 0306, Providencia; Providencia | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Sumoku](https://banco.santander.cl/beneficios/promociones/sumoku) | Comida del mar que garantiza un viaje entre clási… | Hasta 50%. dcto. todos los martes y miercoles | $50.000 | — | Bellavista 703, Reñaca.Con Tarjetas de Crédito Santander American Express; Reñaca | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
+| Santander | [Vapiano](https://banco.santander.cl/beneficios/promociones/vapiano-2) | Cadena internacional de comida italiana | 40% dcto. todos los martes y jueves | $40.000 | — | — | Válido con Tarjetas de Crédito y Débito Santander. |
+| Santander | [Vicenta](https://banco.santander.cl/beneficios/promociones/vicenta) | Un espacio para disfrutar en Antofagasta | 40% dcto. todos los martes. | $100.000 | — | Av. O&rsquo;Higgins 1414, Antofagasta; Antofagasta | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander. |
+| Santander | [Work/Café](https://banco.santander.cl/beneficios/promociones/work-cafe-4) | Comienza tu día en el mejor lugar, conoce todas l… | 40% dcto. todos los lunes y 30% dcto. de martes a viernes | Sin tope | Sin tope de descuento.Horarios de Atención: / Lunes a jueves de 9:00 a 14:00 hr… | Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
 
-### Miércoles (80)
+### Miércoles (85)
 
-| Banco | Comercio | Dcto | Tope | Horario | Lugar | Tarjetas |
-|---|---|---|---|---|---|---|
-| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a jueves; Mall Plaza norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Panor… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Barra Olivo](https://www.bancofalabella.cl/descuentos/detalle/barra-olivo) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércol… | Sin tope | — | km2 chicureo Boulevar - Av. Chicureo, Los Ingleses, local16, Colina, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Barros Negros](https://www.bancofalabella.cl/descuentos/detalle/barros-negros) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Boreal bar Rancagua](https://www.bancofalabella.cl/descuentos/detalle/boreal-bar-rancagua) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Rancagua; Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Danés](https://www.bancofalabella.cl/descuentos/detalle/danes) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Cristobal Colon 4455, Las Condes, Región Metropolitana | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Dominga Bistro Valdivia](https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-valdivia) | 40% | Sin Tope | — | Valdivia; Todos los Miércoles en Dominga Bistró Valdivia | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Dynos Chillan](https://www.bancofalabella.cl/descuentos/detalle/dynos-chillan) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercol… | Sin Tope | — | Chillán; El Roble 558, Chillán | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Exò Nuit](https://www.bancofalabella.cl/descuentos/detalle/exo-nuit) | 40% | Sin tope | — | Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Frida Kahlo](https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: lunes a jueves | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mall plaza egaña: lunes a miércoles; Mall plaza oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Kento Gourmet](https://www.bancofalabella.cl/descuentos/detalle/kento-gourmet) | 40% | Sin Tope | — | Alto Las Condes (Av Presidente Kennedy Lateral 9001); Parque Arauco (Av Presidente Kennedy 5413); Av. Vitacura 5460 | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
-| Banco Falabella | [La Maestranza](https://www.bancofalabella.cl/descuentos/detalle/la-maestranza) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Vitacura 5468, Vitacura – Santiago | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La patrona](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-patrona) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | La Patrona Mall Plaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La santoría](https://www.bancofalabella.cl/descuentos/detalle/la-santoria) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | La Santoría: Manuel Montt 422, Providencia | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [MISCELANEO](https://www.bancofalabella.cl/descuentos/detalle/miscelaneo) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.) | Sin Tope | — | Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mallplaza Los Dominic… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Nelí](https://www.bancofalabella.cl/descuentos/detalle/neli) | 40% (40% dcto sin tope pagando con CMR y 30% dcto sin tope pagando con débito Banco Falab… | Sin Tope | — | Boulevard Parque Arauco - Av. Pdte. Kennedy 5413, local 363 A, piso 1, Las Condes | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Paris texas](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-paris-texas) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Paris Texas Mallplaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Roberta Ostería](https://www.bancofalabella.cl/descuentos/detalle/roberta-osteria) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Sempre Pasta](https://www.bancofalabella.cl/descuentos/detalle/sempre-pasta) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Concepción | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Sushi & Burger Home](https://www.bancofalabella.cl/descuentos/detalle/sushi-y-burger-home) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercol… | Sin Tope | — | Viña del Mar y Reñaca; Sushi & Burger Home | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: lunes a jueves; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobala… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Terralomas Concepción](https://www.bancofalabella.cl/descuentos/detalle/terralomas-concepcion) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin tope | — | Concepción; Ramón Carrasco 355, Bío Bío | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Tigre Bravo](https://www.bancofalabella.cl/descuentos/detalle/tigre-bravo) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Arauco Maipú | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Tropera Drugstore](https://www.bancofalabella.cl/descuentos/detalle/tropera-drugstore) | 40% (40% dcto pagando con CMR y 30% dcto pagando con débito sin tope.) | Sin tope | — | Andrés de Fuenzalida 48, Providencia | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Umami Bar Nikkei](https://www.bancofalabella.cl/descuentos/detalle/umami-bar-nikkei) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércol… | Sin Tope | — | Valdivia; Umami Bar Nikkei: Espacio Bayo, Valdivia, Los Ríos | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Vapiano](https://www.bancofalabella.cl/descuentos/detalle/vapiano) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Vendetta](https://www.bancofalabella.cl/descuentos/detalle/vendetta) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | locales seleccionados; Mall Plaza Egaña: de lunes a jueves; Mall Plaza Los Dominicos: de lunes a jueves; Mall Plaza Vespucio: de lunes a jueves; Patio Bellavis… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Santander | [Augusta Bar](https://banco.santander.cl/beneficios/promociones/augusta-bar) | 40% dcto. todos los miércoles. | $40.000 | — | Paso Hondo 209, Concepción; Concepción | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Bar Porfirio](https://banco.santander.cl/beneficios/promociones/bar-porfirio) | 30% dcto. todos los miércoles. | $40.000 | — | Manuel Montt 697, Providencia; Providencia | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [Bar TPM](https://banco.santander.cl/beneficios/promociones/bar-tpm) | 30% dcto. todos los miércoles | $40.000 | — | — | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Barra Andalúe](https://banco.santander.cl/beneficios/promociones/barraandalue) | 40% dcto. todos los miércoles. | $40.000 | — | Av. Andalue 2295 local 1, Concepción; Concepción | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Berlin Döner Kebab](https://banco.santander.cl/beneficios/promociones/berlin-doner-kebab) | 30% dcto. todos los miércoles | $40.000 | — | Ñuñoa, Vitacura | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Brunetti](https://banco.santander.cl/beneficios/promociones/brunetti) | 40% dcto. todos los miércoles. | $40.000 | — | Diaz gana 845, Antofagasta; Antofagasta | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Casa Mar Sushi](https://banco.santander.cl/beneficios/promociones/casa-mar-sushi) | 30% dcto. todos los miércoles. | $40.000 | — | Av. Blanca Estela 1927, Concón | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Chicken Love You](https://banco.santander.cl/beneficios/promociones/chicken-love-you) | 40% dcto. todos los miércoles | $40.000 | — | Santiago,Vitacura,Las Condes,Maipú,La Reina,La Florida,Lo Barnechea,Viña del Mar | Exclusivo con tus Tarjetas de Crédito Santander |
-| Santander | [Curry](https://banco.santander.cl/beneficios/promociones/curry-2) | 30% dcto. todos los miércoles | $40.000 | — | Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro; Vitacura, Providencia, Santiago | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [De Costa a Costa](https://banco.santander.cl/beneficios/promociones/de-costa-a-costa) | 40% dcto. todos los miércoles. | $40.000 | — | — | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Delivery Gourmet](https://banco.santander.cl/beneficios/promociones/delivery-gourmet) | 30% dcto. todos los miércoles | $40.000 | — | Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro; Vitacura, Providencia, Santiago | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [Expendio Montt](https://banco.santander.cl/beneficios/promociones/expendio-montt) | 30% dcto. todos los miércoles. | $40.000 | — | Manuel Montt 727, Providencia; Providencia | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [Exò Nuit](https://banco.santander.cl/beneficios/promociones/exo-nuit) | 30%. dcto. todos los miércoles | $40.000 | — | Candelaria Goyenechea 3868, Vitacura; Vitacura | Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [Helados Timaukel](https://banco.santander.cl/beneficios/promociones/helados-timaukel) | 40% dcto. todos los miércoles. | $30.000 | — | — | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [Hijo del Inca](https://banco.santander.cl/beneficios/promociones/hijo-del-inca) | 30% dcto. todos los miércoles | $40.000 | — | Príncipe de Gales 6992, La Reina; Santa magdalena 168 local 102 Providencia; La Reina | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Hijo del Sol](https://banco.santander.cl/beneficios/promociones/hijo-del-sol-2) | 40% dcto. todos los miércoles | $40.000 | — | La Reina, Las Condes, Vitacura, Santiago | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
-| Santander | [Juan Esparraguito](https://banco.santander.cl/beneficios/promociones/juan-esparraguito) | 30% dcto. todos los miércoles. | $100.000 | — | Las Condes, Lo Barnechea, Vitacura, La Reina, Ñuñoa, Providencia y Santiago | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
-| Santander | [Kento Sushi](https://banco.santander.cl/beneficios/promociones/kento-sushi) | 30% dcto. todos los miércoles. | $40.000 | — | Parque Arauco, Alto las Condes y Av. Vitacura 5460; Las Condes, Vitacura | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [La Bifería](https://banco.santander.cl/beneficios/promociones/la-biferia-2) | 40% dcto. todos los miércoles | $40.000 | — | Av. Pedro de Valdivia 065, Providencia; Providencia | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [La Mulata](https://banco.santander.cl/beneficios/promociones/la-mulata) | 40% dcto. todos los miércoles. | $100.000 | — | Av. Arturo Prat Chacón 902, Iquique; Iquique | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
-| Santander | [Lima Fusión](https://banco.santander.cl/beneficios/promociones/lima-fusion) | 40% dcto. todos los miércoles. | $40.000 | — | Manuel Bulnes 314, Quillota; Quillota | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Local Burger](https://banco.santander.cl/beneficios/promociones/local-burger-2) | 40% dcto. todos los miércoles. | $40.000 | — | — | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Milán](https://banco.santander.cl/beneficios/promociones/milan) | 40% de dcto. todos los miércoles. | $40.000 | — | Inés de Suarez 1330 y Andres Bello 580, Temuco; Temuco | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Naoki](https://banco.santander.cl/beneficios/promociones/naoki-2) | 40%. dcto. todos los miércoles | $100.000 | — | Av. Vitacura 3875, Vitacura; Vitacura | Exclusivo con tu Tarjeta de Crédito WorldMember Limited Santander |
-| Santander | [PF Chang’s](https://banco.santander.cl/beneficios/promociones/pfchang) | 40% dcto. todos los miércoles | $40.000 | — | Isidora Goyenechea 2940, Parque Arauco y Alto Las Condes, Las Condes; Las Condes | 40% pagando con tus Tarjetas de Crédito Santander |
-| Santander | [Piegari](https://banco.santander.cl/beneficios/promociones/piegari-2) | 40% dcto. todos los miercoles. | $100.000 | — | Nueva Costanera 4092, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
-| Santander | [Rocoto](https://banco.santander.cl/beneficios/promociones/rocoto) | 30% dcto. todos los miércoles | $40.000 | — | Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro; Vitacura, Providencia, Santiago | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [Siete Olas](https://banco.santander.cl/beneficios/promociones/siete-olas) | 50%. dcto. todos los miércoles | $50.000 | — | Av. Cachagua 269, Zapallar; Zapallar | Exclusivo con tus Nuevas Tarjetas de Crédito Santander American Express. |
-| Santander | [Streat Burger](https://banco.santander.cl/beneficios/promociones/streat-burger) | 40% dcto. todos los miércoles. | $40.000 | — | Las Condes, Lo Barnechea, Ñuñoa, La Florida, San Francisco de Mostazal, Hijuelas, Chillán, San Fernando, Llay Llay | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Sumoku](https://banco.santander.cl/beneficios/promociones/sumoku) | Hasta 50%. dcto. todos los martes y miercoles | $50.000 | — | Bellavista 703, Reñaca.Con Tarjetas de Crédito Santander American Express; Reñaca | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
-| Santander | [Sushi Home](https://banco.santander.cl/beneficios/promociones/sushi-home) | 40% dcto. todos los miércoles. | $40.000 | — | Av. Central 191, Viña del mar; Viña del mar | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Taurus Steak bar](https://banco.santander.cl/beneficios/promociones/taurus-steak-bar) | 40% dcto. todos los miércoles. | $40.000 | — | Avenida Vicente Méndez 2361 PC2, Chillán | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Toro Bayo](https://banco.santander.cl/beneficios/promociones/torobayo) | 40% dcto. todos los miércoles | $40.000 | — | Cam. Las Rastras, km 2,3, Talca; Talca | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Work/Café](https://banco.santander.cl/beneficios/promociones/work-cafe-4) | 40% dcto. todos los lunes y 30% dcto. de martes a viernes | Sin tope | Sin tope de descuento.Horarios de Atención: / Lunes a jueves de 9:00 a 14:00 hr… | Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Banco | Comercio | Tipo | Dcto | Tope | Horario | Lugar | Tarjetas |
+|---|---|---|---|---|---|---|---|
+| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | Restaurante peruano que ofrece ceviches, tiradito… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Pano… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Barra Olivo](https://www.bancofalabella.cl/descuentos/detalle/barra-olivo) | Barra Olivo es un restaurante de comida peruana y… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércol… | Sin tope | — | km2 chicureo Boulevar - Av. Chicureo, Los Ingleses, local16, Colina, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Barros Negros](https://www.bancofalabella.cl/descuentos/detalle/barros-negros) | Restaurante Barros Negros es un local gastronómic… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Boreal bar Rancagua](https://www.bancofalabella.cl/descuentos/detalle/boreal-bar-rancagua) | Bar y lounge ubicado en Miguel Ramírez 715, con t… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Rancagua; Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Boreal bar Rancagua](https://www.bancofalabella.cl/descuentos/detalle/boreal-bar-rancagua) | Bar y lounge ubicado en Miguel Ramírez 715, con t… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Rancagua; Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | Local especializado en sándwiches y comidas rápid… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | Programa exclusivo de Banco Falabella que entrega… | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | — | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Danés](https://www.bancofalabella.cl/descuentos/detalle/danes) | Restaurante ubicado en Santiago, reconocido por s… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Cristobal Colon 4455, Las Condes, Región Metropolitana | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Dominga Bistro Pucon](https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-pucon) | Dominga Bistró es un restaurante de cocina fusión… | 40% | Sin Tope | — | Pucon; Todos los Miércoles en Dominga Bistró Pucón | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Dominga Bistro Valdivia](https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-valdivia) | Un restaurante fusión ubicado a orillas del río C… | 40% | Sin Tope | — | Valdivia; Todos los Miércoles en Dominga Bistró Valdivia | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | Marca que celebra la cocina peruana y latinoameri… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | El Bodegón Taberna Limeña es un restaurante en La… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | Restaurante especializado en cocina japonesa, con… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Enrique Tomás](https://www.bancofalabella.cl/descuentos/detalle/enrique-tomas) | Enrique Tomás es una reconocida marca española es… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Exò Nuit](https://www.bancofalabella.cl/descuentos/detalle/exo-nuit) | Exò Nuit es un restaurante y bar contemporáneo en… | 40% | Sin tope | — | Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Frida Kahlo](https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo) | Restaurante temático inspirado en la cultura mexi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | Fuente Suiza Mall Plaza Egaña es un punto de rest… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mallplaza Oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | Restaurante que rinde homenaje a la gastronomía m… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Kento Gourmet](https://www.bancofalabella.cl/descuentos/detalle/kento-gourmet) | Kento Gourmet es un restaurante de estilo nikkei/… | 40% | Sin Tope | — | Alto Las Condes (Av Presidente Kennedy Lateral 9001); Parque Arauco (Av Presidente Kennedy 5413); Av. Vitacura 5460 | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | La pizzería argentina es una tradición culinaria … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
+| Banco Falabella | [La Maestranza](https://www.bancofalabella.cl/descuentos/detalle/la-maestranza) | La Maestranza es un restaurante chileno que combi… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Vitacura 5468, Vitacura – Santiago | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La patrona](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-patrona) | Restaurante que celebra la cocina mexicana con ta… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | La Patrona Mall Plaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | Restaurante inspirado en la gastronomía italiana,… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | Cadena chilena famosa por sus sándwiches artesana… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La santoría](https://www.bancofalabella.cl/descuentos/detalle/la-santoria) | Restaurante que fusiona sabores chilenos con prop… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | La Santoría: Manuel Montt 422, Providencia | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | Restaurante especializado en pizzas y pastas al e… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | Restaurante especializado en pescados y mariscos … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | Restaurante que fusiona cocina mediterránea y chi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [MISCELANEO](https://www.bancofalabella.cl/descuentos/detalle/miscelaneo) | Restaurante que fusiona sabores internacionales e… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.) | Sin Tope | — | Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | Restaurante especializado en carnes a la parrilla… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: Todos los días; AV Isidora Goyenechea 3000, las condes: Todos los días; Mercado Bulnes: Todos los días; Mallplaza Oeste: Todos los días; Mall… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Nelí](https://www.bancofalabella.cl/descuentos/detalle/neli) | Nelí es un restaurante contemporáneo del grupo Ma… | 40% (40% dcto sin tope pagando con CMR y 30% dcto sin tope pagando con débito Banco Falab… | Sin Tope | — | Boulevard Parque Arauco - Av. Pdte. Kennedy 5413, local 363 A, piso 1, Las Condes | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Nomade Nikkei](https://www.bancofalabella.cl/descuentos/detalle/nomade-nikkei) | — | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Buin; Espacio Villaseca - Villaseca 445, Buin, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Panchita](https://www.bancofalabella.cl/descuentos/detalle/panchita) | Panchita es un reconocido restaurante de cocina p… | 40% | Sin Tope | Descuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00 | — | CMR Mastercard Elite |
+| Banco Falabella | [Paris texas](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-paris-texas) | Una cadena estilo Tex‑Mex y americana ubicada en … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Paris Texas Mallplaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | Petit Cafetería es una marca de bollería premium … | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Roberta Ostería](https://www.bancofalabella.cl/descuentos/detalle/roberta-osteria) | Roberta Ostería es una propuesta moderna ubicada … | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Sempre Pasta](https://www.bancofalabella.cl/descuentos/detalle/sempre-pasta) | Sempre Pasta es un restaurante italiano, especial… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Concepción | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | Restaurante parrillero que ofrece cortes premium … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Sushi & Burger Home](https://www.bancofalabella.cl/descuentos/detalle/sushi-y-burger-home) | Sushi & Burger Home es una propuesta gastronómica… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercol… | Sin Tope | — | Viña del Mar y Reñaca; Sushi & Burger Home | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | Restaurante de comida asiática rápida en Santiago… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco : Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalab… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | Cadena de restaurantes creada por Gastón Acurio, … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Terralomas Concepción](https://www.bancofalabella.cl/descuentos/detalle/terralomas-concepcion) | Terralomas Restaurant, en Lomas San Andrés, Conce… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin tope | — | Concepción; Ramón Carrasco 355, Bío Bío | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Tigre Bravo](https://www.bancofalabella.cl/descuentos/detalle/tigre-bravo) | Tigre Bravo es la vibrante propuesta del chef Emi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Arauco Maipú | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Tropera Drugstore](https://www.bancofalabella.cl/descuentos/detalle/tropera-drugstore) | Tropera Drugstore es un bar‑restaurante y cervece… | 40% (40% dcto pagando con CMR y 30% dcto pagando con débito sin tope.) | Sin tope | — | Andrés de Fuenzalida 48, Providencia | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Udon](https://www.bancofalabella.cl/descuentos/detalle/udon) | Udon es una cadena internacional especializada en… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin tope | — | Alto las Condes; Portal la dehesa; Costanera Center | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Umami Bar Nikkei](https://www.bancofalabella.cl/descuentos/detalle/umami-bar-nikkei) | Umami Bar Nikkei es un restaurante/bar en Valdivi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércol… | Sin Tope | — | Valdivia; Umami Bar Nikkei: Espacio Bayo, Valdivia, Los Ríos | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Vapiano](https://www.bancofalabella.cl/descuentos/detalle/vapiano) | Cadena internacional de comida italiana, famosa p… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Vendetta](https://www.bancofalabella.cl/descuentos/detalle/vendetta) | Restaurante-bar temático en Santiago inspirado en… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | locales seleccionados; Mall Plaza Egaña: de lunes a jueves; Mall Plaza Los Dominicos: de lunes a jueves; Mall Plaza Vespucio: de lunes a jueves; Patio Bellavis… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Santander | [Augusta Bar](https://banco.santander.cl/beneficios/promociones/augusta-bar) | Disfruta de una variada gastronomía y cócteles de… | 40% dcto. todos los miércoles. | $40.000 | — | Paso Hondo 209, Concepción; Concepción | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Bar Porfirio](https://banco.santander.cl/beneficios/promociones/bar-porfirio) | Tacos, tragos y pura buena onda para cortar la se… | 30% dcto. todos los miércoles. | $40.000 | — | Manuel Montt 697, Providencia; Providencia | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [Bar TPM](https://banco.santander.cl/beneficios/promociones/bar-tpm) | — | 30% dcto. todos los miércoles | $40.000 | — | — | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Barra Andalúe](https://banco.santander.cl/beneficios/promociones/barraandalue) | Disfruta de la mejor gastronomía y tragos de auto… | 40% dcto. todos los miércoles. | $40.000 | — | Av. Andalue 2295 local 1, Concepción; Concepción | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Berlin Döner Kebab](https://banco.santander.cl/beneficios/promociones/berlin-doner-kebab) | Restaurant de sandwich turco-alemanes | 30% dcto. todos los miércoles | $40.000 | — | Ñuñoa, Vitacura | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Brunetti](https://banco.santander.cl/beneficios/promociones/brunetti) | Cafetería y restaurant | 40% dcto. todos los miércoles. | $40.000 | — | Diaz gana 845, Antofagasta; Antofagasta | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Casa Mar Sushi](https://banco.santander.cl/beneficios/promociones/casa-mar-sushi) | — | 30% dcto. todos los miércoles. | $40.000 | — | Av. Blanca Estela 1927, Concón | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Chicken Love You](https://banco.santander.cl/beneficios/promociones/chicken-love-you) | Los mejores sandwich de pollo frito | 40% dcto. todos los miércoles | $40.000 | — | Santiago,Vitacura,Las Condes,Maipú,La Reina,La Florida,Lo Barnechea,Viña del Mar | Exclusivo con tus Tarjetas de Crédito Santander |
+| Santander | [Curry](https://banco.santander.cl/beneficios/promociones/curry-2) | Comida Tailandesa | 30% dcto. todos los miércoles | $40.000 | — | Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro; Vitacura, Providencia, Santiago | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [De Costa a Costa](https://banco.santander.cl/beneficios/promociones/de-costa-a-costa) | Los mejores productos del mar | 40% dcto. todos los miércoles. | $40.000 | — | — | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Delivery Gourmet](https://banco.santander.cl/beneficios/promociones/delivery-gourmet) | Tus comidas favoritas en un solo pedido | 30% dcto. todos los miércoles | $40.000 | — | Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro; Vitacura, Providencia, Santiago | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [Expendio Montt](https://banco.santander.cl/beneficios/promociones/expendio-montt) | Los mejores tacos y cervezas | 30% dcto. todos los miércoles. | $40.000 | — | Manuel Montt 727, Providencia; Providencia | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [Exò Nuit](https://banco.santander.cl/beneficios/promociones/exo-nuit) | restaurante y bar de cocina japonesa–mediterránea | 30%. dcto. todos los miércoles | $40.000 | — | Candelaria Goyenechea 3868, Vitacura; Vitacura | Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [Helados Timaukel](https://banco.santander.cl/beneficios/promociones/helados-timaukel) | Heladería artesanal | 40% dcto. todos los miércoles. | $30.000 | — | — | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [Hijo del Inca](https://banco.santander.cl/beneficios/promociones/hijo-del-inca) | Restaurante peruano | 30% dcto. todos los miércoles | $40.000 | — | Príncipe de Gales 6992, La Reina; Santa magdalena 168 local 102 Providencia; La Reina | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Hijo del Sol](https://banco.santander.cl/beneficios/promociones/hijo-del-sol-2) | Disfruta del rico sabor de una causa limeña | 40% dcto. todos los miércoles | $40.000 | — | La Reina, Las Condes, Vitacura, Santiago | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Deléitate con carnes, pescados y mariscos | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
+| Santander | [Juan Esparraguito](https://banco.santander.cl/beneficios/promociones/juan-esparraguito) | Mucho más que frutas y verduras, productos de tem… | 30% dcto. todos los miércoles. | $100.000 | — | Las Condes, Lo Barnechea, Vitacura, La Reina, Ñuñoa, Providencia y Santiago | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
+| Santander | [Kento Sushi](https://banco.santander.cl/beneficios/promociones/kento-sushi) | Los mejores sushi, nikkei, Sin arroz, Vegetariano… | 30% dcto. todos los miércoles. | $40.000 | — | Parque Arauco, Alto las Condes y Av. Vitacura 5460; Las Condes, Vitacura | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [La Bifería](https://banco.santander.cl/beneficios/promociones/la-biferia-2) | Cortes únicos de carne a la parrilla | 40% dcto. todos los miércoles | $40.000 | — | Av. Pedro de Valdivia 065, Providencia; Providencia | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [La Mulata](https://banco.santander.cl/beneficios/promociones/la-mulata) | La mejor cocina fusión peruana - japonesa | 40% dcto. todos los miércoles. | $100.000 | — | Av. Arturo Prat Chacón 902, Iquique; Iquique | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
+| Santander | [Lima Fusión](https://banco.santander.cl/beneficios/promociones/lima-fusion) | Gastronomía Peruana, Criollas y Nikkei se reinven… | 40% dcto. todos los miércoles. | $40.000 | — | Manuel Bulnes 314, Quillota; Quillota | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Local Burger](https://banco.santander.cl/beneficios/promociones/local-burger-2) | Disfruta las mejores hamburguesas | 40% dcto. todos los miércoles. | $40.000 | — | — | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Milán](https://banco.santander.cl/beneficios/promociones/milan) | Sandwich Gourmet, Hamburguesas, Pizzas, Crepes y … | 40% de dcto. todos los miércoles. | $40.000 | — | Inés de Suarez 1330 y Andres Bello 580, Temuco; Temuco | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Naoki](https://banco.santander.cl/beneficios/promociones/naoki-2) | Sabores y técnicas japonesas se combinan con elem… | 40%. dcto. todos los miércoles | $100.000 | — | Av. Vitacura 3875, Vitacura; Vitacura | Exclusivo con tu Tarjeta de Crédito WorldMember Limited Santander |
+| Santander | [PF Chang’s](https://banco.santander.cl/beneficios/promociones/pfchang) | Lo mejor de la comida asiatica | 40% dcto. todos los miércoles | $40.000 | — | Isidora Goyenechea 2940, Parque Arauco y Alto Las Condes, Las Condes; Las Condes | 40% pagando con tus Tarjetas de Crédito Santander |
+| Santander | [Piegari](https://banco.santander.cl/beneficios/promociones/piegari-2) | Cocina italiana tradicional | 40% dcto. todos los miercoles. | $100.000 | — | Nueva Costanera 4092, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
+| Santander | [Rocoto](https://banco.santander.cl/beneficios/promociones/rocoto) | Sabores peruanos auténticos en tu hogar | 30% dcto. todos los miércoles | $40.000 | — | Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro; Vitacura, Providencia, Santiago | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [Siete Olas](https://banco.santander.cl/beneficios/promociones/siete-olas) | Las mejores pizzas napolitanas y hamburguesas art… | 50%. dcto. todos los miércoles | $50.000 | — | Av. Cachagua 269, Zapallar; Zapallar | Exclusivo con tus Nuevas Tarjetas de Crédito Santander American Express. |
+| Santander | [Streat Burger](https://banco.santander.cl/beneficios/promociones/streat-burger) | Streat Makes You Happy | 40% dcto. todos los miércoles. | $40.000 | — | Las Condes, Lo Barnechea, Ñuñoa, La Florida, San Francisco de Mostazal, Hijuelas, Chillán, San Fernando, Llay Llay | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Sumoku](https://banco.santander.cl/beneficios/promociones/sumoku) | Comida del mar que garantiza un viaje entre clási… | Hasta 50%. dcto. todos los martes y miercoles | $50.000 | — | Bellavista 703, Reñaca.Con Tarjetas de Crédito Santander American Express; Reñaca | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
+| Santander | [Sushi Home](https://banco.santander.cl/beneficios/promociones/sushi-home) | — | 40% dcto. todos los miércoles. | $40.000 | — | Av. Central 191, Viña del mar; Viña del mar | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Taurus Steak bar](https://banco.santander.cl/beneficios/promociones/taurus-steak-bar) | — | 40% dcto. todos los miércoles. | $40.000 | — | Avenida Vicente Méndez 2361 PC2, Chillán | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Toro Bayo](https://banco.santander.cl/beneficios/promociones/torobayo) | Torobayo | 40% dcto. todos los miércoles | $40.000 | — | Cam. Las Rastras, km 2,3, Talca; Talca | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Work/Café](https://banco.santander.cl/beneficios/promociones/work-cafe-4) | Comienza tu día en el mejor lugar, conoce todas l… | 40% dcto. todos los lunes y 30% dcto. de martes a viernes | Sin tope | Sin tope de descuento.Horarios de Atención: / Lunes a jueves de 9:00 a 14:00 hr… | Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
 
-### Jueves (51)
+### Jueves (53)
 
-| Banco | Comercio | Dcto | Tope | Horario | Lugar | Tarjetas |
-|---|---|---|---|---|---|---|
-| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a jueves; Mall Plaza norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Panor… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Berlín Doner Kebab](https://www.bancofalabella.cl/descuentos/detalle/berlin-doner-kebab) | 40% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Cervecería Kunstmann Valdivia](https://www.bancofalabella.cl/descuentos/detalle/cerveceria-kunstmann-valdivia) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Valdivia; Cervecería Kunstmann: Ruta T 350 950, Valdivia, Los Ríos | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Exò Nuit](https://www.bancofalabella.cl/descuentos/detalle/exo-nuit) | 40% | Sin tope | — | Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Fidelio](https://www.bancofalabella.cl/descuentos/detalle/fidelio) | 40% | Sin Tope | — | Reñaca; Reñaca Norte 25, Viña del Mar | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Frida Kahlo](https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: lunes a jueves | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mall plaza egaña: lunes a miércoles; Mall plaza oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Kento Gourmet](https://www.bancofalabella.cl/descuentos/detalle/kento-gourmet) | 40% | Sin Tope | — | Alto Las Condes (Av Presidente Kennedy Lateral 9001); Parque Arauco (Av Presidente Kennedy 5413); Av. Vitacura 5460 | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
-| Banco Falabella | [La patrona](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-patrona) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | La Patrona Mall Plaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La santoría](https://www.bancofalabella.cl/descuentos/detalle/la-santoria) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | La Santoría: Manuel Montt 422, Providencia | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Local Burger](https://www.bancofalabella.cl/descuentos/detalle/local-burger) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Jueves) | Sin Tope | — | Local Burger | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [MISCELANEO](https://www.bancofalabella.cl/descuentos/detalle/miscelaneo) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.) | Sin Tope | — | Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mallplaza Los Dominic… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Paris texas](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-paris-texas) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Paris Texas Mallplaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Santo Aire Restobar](https://www.bancofalabella.cl/descuentos/detalle/santo-aire-restobar) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Concepción | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Sushi Home](https://www.bancofalabella.cl/descuentos/detalle/sushi-home) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los jueves) | Sin Tope | — | Reñaca; Sushi Home | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: lunes a jueves; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobala… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Terraangamos](https://www.bancofalabella.cl/descuentos/detalle/terraangamos) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | — | Talcahuano; Colón 1062, 4260000 Talcahuano, Bío Bío | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Vendetta](https://www.bancofalabella.cl/descuentos/detalle/vendetta) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | locales seleccionados; Mall Plaza Egaña: de lunes a jueves; Mall Plaza Los Dominicos: de lunes a jueves; Mall Plaza Vespucio: de lunes a jueves; Patio Bellavis… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Santander | [Burger King](https://banco.santander.cl/beneficios/promociones/burger-king-2) | 40% dcto. todos los jueves. | $15.000 | — | Las Condes, Santiago, La Reina, Providencia, Vitacura, Ñuñoa, Peñalolén, Macul, Huechuraba, Lo Barnechea, Independencia, San Miguel, La Florida, Maipú, Quilicu… | Exclusivo con tus Tarjetas de Crédito Santander y Débito Santander.; Para hacer efectivo … |
-| Santander | [Carmine](https://banco.santander.cl/beneficios/promociones/carmine) | 50% dcto. todos los jueves | $50.000 | — | Av. Edmundo Eluchans 595, Viña del Mar; Viña del Mar | Exclusivo con tus Tarjetas de Crédito Santander American Express. |
-| Santander | [Corrales del Sur](https://banco.santander.cl/beneficios/promociones/corrales-del-sur-3) | 30% dcto. todos los jueves. | $100.000 | — | Vitacura, Providencia, Peñalolén, Osorno, Puerto Varas | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
-| Santander | [eCook](https://banco.santander.cl/beneficios/promociones/ecook-4) | 40% dcto. todos los martes y jueves | Sin tope | — | — | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [Estró](https://banco.santander.cl/beneficios/promociones/estro-3) | 40% dcto. todos los jueves. | $100.000 | — | El Alcalde 15, Las Condes | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
-| Santander | [Hitomi Tomi](https://banco.santander.cl/beneficios/promociones/hitomi-tomi) | 40% dcto. todos los jueves | $40.000 | — | Av. Tobalaba 947, Providencia; Providencia | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
-| Santander | [Le Vice Chocolat](https://banco.santander.cl/beneficios/promociones/le-vice-chocolat) | 40% dcto. todos los jueves. | Sin tope | — | Vitacura | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [Majka](https://banco.santander.cl/beneficios/promociones/majka) | 40% dcto. todos los jueves | $40.000 | — | Principe de Gales 7102, La Reina | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Oh Bok](https://banco.santander.cl/beneficios/promociones/oh-bok) | 40% dcto. todos los jueves | $40.000 | — | Av. Vitacura 4085 y Av. Vitacura 7261,Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Restaurante Hotel AWA](https://banco.santander.cl/beneficios/promociones/restaurante-hotel-awa) | 40% dcto. todos los jueves | $40.000 | — | Ruta 225, Km. 27, Puerto Varas; Puerto Varas | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Santo Aire](https://banco.santander.cl/beneficios/promociones/santo-aire) | 40% dcto. todos los jueves. | $100.000 | — | Lincoyán 142, Concepción | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
-| Santander | [Vapiano](https://banco.santander.cl/beneficios/promociones/vapiano-2) | 40% dcto. todos los martes y jueves | $40.000 | — | — | Válido con Tarjetas de Crédito y Débito Santander. |
-| Santander | [Work/Café](https://banco.santander.cl/beneficios/promociones/work-cafe-4) | 40% dcto. todos los lunes y 30% dcto. de martes a viernes | Sin tope | Sin tope de descuento.Horarios de Atención: / Lunes a jueves de 9:00 a 14:00 hr… | Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [Zulu](https://banco.santander.cl/beneficios/promociones/zulu) | 50%. dcto. todos los jueves | $50.000 | — | Alonso de Córdova 2337, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express. |
+| Banco | Comercio | Tipo | Dcto | Tope | Horario | Lugar | Tarjetas |
+|---|---|---|---|---|---|---|---|
+| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | Restaurante peruano que ofrece ceviches, tiradito… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Pano… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Berlín Doner Kebab](https://www.bancofalabella.cl/descuentos/detalle/berlin-doner-kebab) | Restaurante inspirado en la tradición alemana del… | 40% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | Local especializado en sándwiches y comidas rápid… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Cervecería Kunstmann Valdivia](https://www.bancofalabella.cl/descuentos/detalle/cerveceria-kunstmann-valdivia) | Nace en Valdivia en 1991 por Armin Kunstmann, ins… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Valdivia; Cervecería Kunstmann: Ruta T 350 950, Valdivia, Los Ríos | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | Programa exclusivo de Banco Falabella que entrega… | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | — | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | Marca que celebra la cocina peruana y latinoameri… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | El Bodegón Taberna Limeña es un restaurante en La… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | Restaurante especializado en cocina japonesa, con… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Enrique Tomás](https://www.bancofalabella.cl/descuentos/detalle/enrique-tomas) | Enrique Tomás es una reconocida marca española es… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Exò Nuit](https://www.bancofalabella.cl/descuentos/detalle/exo-nuit) | Exò Nuit es un restaurante y bar contemporáneo en… | 40% | Sin tope | — | Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Frida Kahlo](https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo) | Restaurante temático inspirado en la cultura mexi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | Fuente Suiza Mall Plaza Egaña es un punto de rest… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mallplaza Oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | Restaurante que rinde homenaje a la gastronomía m… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Kento Gourmet](https://www.bancofalabella.cl/descuentos/detalle/kento-gourmet) | Kento Gourmet es un restaurante de estilo nikkei/… | 40% | Sin Tope | — | Alto Las Condes (Av Presidente Kennedy Lateral 9001); Parque Arauco (Av Presidente Kennedy 5413); Av. Vitacura 5460 | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | La pizzería argentina es una tradición culinaria … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
+| Banco Falabella | [La patrona](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-patrona) | Restaurante que celebra la cocina mexicana con ta… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | La Patrona Mall Plaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | Restaurante inspirado en la gastronomía italiana,… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | Cadena chilena famosa por sus sándwiches artesana… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La santoría](https://www.bancofalabella.cl/descuentos/detalle/la-santoria) | Restaurante que fusiona sabores chilenos con prop… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | La Santoría: Manuel Montt 422, Providencia | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Local Burger](https://www.bancofalabella.cl/descuentos/detalle/local-burger) | Local Burger es una hamburguesería de estilo amer… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Jueves) | Sin Tope | — | Local Burger | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Mamma Gaucha Coyhaique](https://www.bancofalabella.cl/descuentos/detalle/mamma-gaucha-coyhaique) | — | 40% | Descuento | — | Cuerno 47, 5951627 Coyhaique, Aysén | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | Restaurante especializado en pizzas y pastas al e… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | Restaurante especializado en pescados y mariscos … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | Restaurante que fusiona cocina mediterránea y chi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [MISCELANEO](https://www.bancofalabella.cl/descuentos/detalle/miscelaneo) | Restaurante que fusiona sabores internacionales e… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.) | Sin Tope | — | Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | Restaurante especializado en carnes a la parrilla… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: Todos los días; AV Isidora Goyenechea 3000, las condes: Todos los días; Mercado Bulnes: Todos los días; Mallplaza Oeste: Todos los días; Mall… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Panchita](https://www.bancofalabella.cl/descuentos/detalle/panchita) | Panchita es un reconocido restaurante de cocina p… | 40% | Sin Tope | Descuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00 | — | CMR Mastercard Elite |
+| Banco Falabella | [Paris texas](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-paris-texas) | Una cadena estilo Tex‑Mex y americana ubicada en … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Paris Texas Mallplaza Vespucio: lunes a jueves | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | Petit Cafetería es una marca de bollería premium … | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Sabor y Aroma](https://www.bancofalabella.cl/descuentos/detalle/40-sabor-y-aroma) | Restaurante ubicado en La Dehesa (Lo Barnechea) q… | 40% | Sin Tope | — | Av. Raúl Labbé 12559 | CMR Mastercard Elite |
+| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | Restaurante parrillero que ofrece cortes premium … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Sushi Home](https://www.bancofalabella.cl/descuentos/detalle/sushi-home) | Sushi Home se define como una experiencia gastron… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los jueves) | Sin Tope | — | Reñaca; Sushi Home | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | Restaurante de comida asiática rápida en Santiago… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco : Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalab… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | Cadena de restaurantes creada por Gastón Acurio, … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Udon](https://www.bancofalabella.cl/descuentos/detalle/udon) | Udon es una cadena internacional especializada en… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin tope | — | Alto las Condes; Portal la dehesa; Costanera Center | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Vendetta](https://www.bancofalabella.cl/descuentos/detalle/vendetta) | Restaurante-bar temático en Santiago inspirado en… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | locales seleccionados; Mall Plaza Egaña: de lunes a jueves; Mall Plaza Los Dominicos: de lunes a jueves; Mall Plaza Vespucio: de lunes a jueves; Patio Bellavis… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Santander | [Burger King](https://banco.santander.cl/beneficios/promociones/burger-king-2) | Disfruta las mejores burger a la parrilla, desde … | 40% dcto. todos los jueves. | $15.000 | — | Las Condes, Santiago, La Reina, Providencia, Vitacura, Ñuñoa, Peñalolén, Macul, Huechuraba, Lo Barnechea, Independencia, San Miguel, La Florida, Maipú, Quilicu… | Exclusivo con tus Tarjetas de Crédito Santander y Débito Santander.; Para hacer efectivo … |
+| Santander | [Carmine](https://banco.santander.cl/beneficios/promociones/carmine) | Raíces profundas de una tradición gastronómica qu… | 50% dcto. todos los jueves | $50.000 | — | Av. Edmundo Eluchans 595, Viña del Mar; Viña del Mar | Exclusivo con tus Tarjetas de Crédito Santander American Express. |
+| Santander | [Corrales del Sur](https://banco.santander.cl/beneficios/promociones/corrales-del-sur-3) | El mejor Angus nacional en Corrales del Sur | 30% dcto. todos los jueves. | $100.000 | — | Vitacura, Providencia, Peñalolén, Osorno, Puerto Varas | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
+| Santander | [eCook](https://banco.santander.cl/beneficios/promociones/ecook-4) | Lleva tus platos favoritos con el mejor descuento | 40% dcto. todos los martes y jueves | Sin tope | — | — | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [Estró](https://banco.santander.cl/beneficios/promociones/estro-3) | Cocina chilena con los mejores productos locales | 40% dcto. todos los jueves. | $100.000 | — | El Alcalde 15, Las Condes | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
+| Santander | [Hitomi Tomi](https://banco.santander.cl/beneficios/promociones/hitomi-tomi) | Descubre los sabores de Asia en Hitomi Tomi | 40% dcto. todos los jueves | $40.000 | — | Av. Tobalaba 947, Providencia; Providencia | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Deléitate con carnes, pescados y mariscos | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
+| Santander | [Le Vice Chocolat](https://banco.santander.cl/beneficios/promociones/le-vice-chocolat) | Exquisitos chocolates de la más alta calidad, ela… | 40% dcto. todos los jueves. | Sin tope | — | Vitacura | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [Majka](https://banco.santander.cl/beneficios/promociones/majka) | Cocina fusión y de autor | 40% dcto. todos los jueves | $40.000 | — | Principe de Gales 7102, La Reina | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Oh Bok](https://banco.santander.cl/beneficios/promociones/oh-bok) | Autentica parrilla Koreana | 40% dcto. todos los jueves | $40.000 | — | Av. Vitacura 4085 y Av. Vitacura 7261,Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Restaurante Hotel AWA](https://banco.santander.cl/beneficios/promociones/restaurante-hotel-awa) | Cocina contemporánea con platos internacionales c… | 40% dcto. todos los jueves | $40.000 | — | Ruta 225, Km. 27, Puerto Varas; Puerto Varas | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Santo Aire](https://banco.santander.cl/beneficios/promociones/santo-aire) | Gastronomía, cava y bar | 40% dcto. todos los jueves. | $100.000 | — | Lincoyán 142, Concepción | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass. |
+| Santander | [Vapiano](https://banco.santander.cl/beneficios/promociones/vapiano-2) | Cadena internacional de comida italiana | 40% dcto. todos los martes y jueves | $40.000 | — | — | Válido con Tarjetas de Crédito y Débito Santander. |
+| Santander | [Work/Café](https://banco.santander.cl/beneficios/promociones/work-cafe-4) | Comienza tu día en el mejor lugar, conoce todas l… | 40% dcto. todos los lunes y 30% dcto. de martes a viernes | Sin tope | Sin tope de descuento.Horarios de Atención: / Lunes a jueves de 9:00 a 14:00 hr… | Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [Zulu](https://banco.santander.cl/beneficios/promociones/zulu) | Disfruta de la cocina Internacional | 50%. dcto. todos los jueves | $50.000 | — | Alonso de Córdova 2337, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express. |
 
-### Viernes (40)
+### Viernes (44)
 
-| Banco | Comercio | Dcto | Tope | Horario | Lugar | Tarjetas |
-|---|---|---|---|---|---|---|
-| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a jueves; Mall Plaza norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Panor… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Exò Nuit](https://www.bancofalabella.cl/descuentos/detalle/exo-nuit) | 40% | Sin tope | — | Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Fratello Trattoría](https://www.bancofalabella.cl/descuentos/detalle/fratello-trattoria) | 40% | Sin Tope | — | Temuco; Av. Miguel Ramírez 715, Rancagua | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mall plaza egaña: lunes a miércoles; Mall plaza oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
-| Banco Falabella | [La Maestranza](https://www.bancofalabella.cl/descuentos/detalle/la-maestranza) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Vitacura 5468, Vitacura – Santiago | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La santoría](https://www.bancofalabella.cl/descuentos/detalle/la-santoria) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | La Santoría: Manuel Montt 422, Providencia | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Lebol Restobar](https://www.bancofalabella.cl/descuentos/detalle/lebol-restobar) | 40% | Sin tope | — | Concepción | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [MISCELANEO](https://www.bancofalabella.cl/descuentos/detalle/miscelaneo) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.) | Sin Tope | — | Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mallplaza Los Dominic… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Social](https://www.bancofalabella.cl/descuentos/detalle/social) | 40% | Sin Tope | — | Social | CMR Mastercard Elite |
-| Banco Falabella | [Taberna Nose Puerto Varas](https://www.bancofalabella.cl/descuentos/detalle/taberna-nose-puerto-varas) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Puerto Varas | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: lunes a jueves; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobala… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Vapiano](https://www.bancofalabella.cl/descuentos/detalle/vapiano) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Viña Viu Manent](https://www.bancofalabella.cl/descuentos/detalle/vina-viu-manent) | 40% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Santander | [Ari Nikkei](https://banco.santander.cl/beneficios/promociones/ari-nikkei) | 30%. dcto. todos los viernes | $40.000 | — | Las Condes | Exclusivo pagando con tus Tarjetas de Crédito Santander. |
-| Santander | [Cosecha del Mar](https://banco.santander.cl/beneficios/promociones/cosecha-del-mar-4) | 40% dcto. todos los viernes | $100.000 | — | Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.; Válido e… |
-| Santander | [Cosenza](https://banco.santander.cl/beneficios/promociones/cosenza) | 40% dcto. todos los viernes | $100.000 | — | Av. Nueva Costanera 3900, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito WoldMember Limited Santander LATAM Pass. |
-| Santander | [Dominga Nikkei](https://banco.santander.cl/beneficios/promociones/dominga-nikkei) | 40%. dcto. todos los viernes | $40.000 | — | El Rodeo 12699, Lo Barnechea; Lo Barnechea | Exclusivo con tu Tarjetas de Crédito Santander |
-| Santander | [Estación Tropera](https://banco.santander.cl/beneficios/promociones/estacion-tropera) | 40% dcto. todos los viernes | $40.000 | — | Av. Vitacura 3285, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Fork](https://banco.santander.cl/beneficios/promociones/fork-4) | 40% dcto. todos los viernes. | $40.000 | — | La Reina, Las Condes, Lo Barnechea, Providencia, Santiago, Macul, Vitacura, Ñuñoa | Exclusivo con tus Tarjetas de Crédito Santander.; Válido en tiendas Fork pagando con tu t… |
-| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
-| Santander | [Sakura](https://banco.santander.cl/beneficios/promociones/sakura-4) | 40% dcto. en Rolls todos los viernes. | $40.000 | — | Las Condes, Lo Barnechea, Ñuñoa, Vitacura, La Reina | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
-| Santander | [Work/Café](https://banco.santander.cl/beneficios/promociones/work-cafe-4) | 40% dcto. todos los lunes y 30% dcto. de martes a viernes | Sin tope | Sin tope de descuento.Horarios de Atención: / Lunes a jueves de 9:00 a 14:00 hr… | Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Banco | Comercio | Tipo | Dcto | Tope | Horario | Lugar | Tarjetas |
+|---|---|---|---|---|---|---|---|
+| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | Restaurante peruano que ofrece ceviches, tiradito… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Pano… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | Local especializado en sándwiches y comidas rápid… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Caoba Bar](https://www.bancofalabella.cl/descuentos/detalle/caoba-bar) | Bar contemporáneo ubicado en Alonso de Córdova (V… | 40% | Sin Tope | — | Alonso de Córdova 4156, Vitacura | CMR Mastercard Elite |
+| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | Programa exclusivo de Banco Falabella que entrega… | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | — | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | Marca que celebra la cocina peruana y latinoameri… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | El Bodegón Taberna Limeña es un restaurante en La… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | Restaurante especializado en cocina japonesa, con… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Enrique Tomás](https://www.bancofalabella.cl/descuentos/detalle/enrique-tomas) | Enrique Tomás es una reconocida marca española es… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Exò Nuit](https://www.bancofalabella.cl/descuentos/detalle/exo-nuit) | Exò Nuit es un restaurante y bar contemporáneo en… | 40% | Sin tope | — | Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Fratello Trattoría](https://www.bancofalabella.cl/descuentos/detalle/fratello-trattoria) | Restaurante italiano en Santiago que combina trad… | 40% | Sin Tope | — | Temuco; Av. Miguel Ramírez 715, Rancagua | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Frida Kahlo](https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo) | Restaurante temático inspirado en la cultura mexi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | Fuente Suiza Mall Plaza Egaña es un punto de rest… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mallplaza Oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | Restaurante que rinde homenaje a la gastronomía m… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | La pizzería argentina es una tradición culinaria … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
+| Banco Falabella | [La Maestranza](https://www.bancofalabella.cl/descuentos/detalle/la-maestranza) | La Maestranza es un restaurante chileno que combi… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Vitacura 5468, Vitacura – Santiago | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | Restaurante inspirado en la gastronomía italiana,… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | Cadena chilena famosa por sus sándwiches artesana… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La santoría](https://www.bancofalabella.cl/descuentos/detalle/la-santoria) | Restaurante que fusiona sabores chilenos con prop… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | La Santoría: Manuel Montt 422, Providencia | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Lebol Restobar](https://www.bancofalabella.cl/descuentos/detalle/lebol-restobar) | Restobar en Concepción que fusiona cocina tradici… | 40% | Sin tope | — | Concepción | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | Restaurante especializado en pizzas y pastas al e… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | Restaurante especializado en pescados y mariscos … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | Restaurante que fusiona cocina mediterránea y chi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [MISCELANEO](https://www.bancofalabella.cl/descuentos/detalle/miscelaneo) | Restaurante que fusiona sabores internacionales e… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.) | Sin Tope | — | Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | Restaurante especializado en carnes a la parrilla… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: Todos los días; AV Isidora Goyenechea 3000, las condes: Todos los días; Mercado Bulnes: Todos los días; Mallplaza Oeste: Todos los días; Mall… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Panchita](https://www.bancofalabella.cl/descuentos/detalle/panchita) | Panchita es un reconocido restaurante de cocina p… | 40% | Sin Tope | Descuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00 | — | CMR Mastercard Elite |
+| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | Petit Cafetería es una marca de bollería premium … | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | Restaurante parrillero que ofrece cortes premium … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Social](https://www.bancofalabella.cl/descuentos/detalle/social) | Social Bar & Cocinas es un popular espacio gastro… | 40% | Sin Tope | — | Social | CMR Mastercard Elite |
+| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | Restaurante de comida asiática rápida en Santiago… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco : Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalab… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | Cadena de restaurantes creada por Gastón Acurio, … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Udon](https://www.bancofalabella.cl/descuentos/detalle/udon) | Udon es una cadena internacional especializada en… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin tope | — | Alto las Condes; Portal la dehesa; Costanera Center | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Vapiano](https://www.bancofalabella.cl/descuentos/detalle/vapiano) | Cadena internacional de comida italiana, famosa p… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Viña Viu Manent](https://www.bancofalabella.cl/descuentos/detalle/vina-viu-manent) | Viña Viu Manent es una reconocida viña del Valle … | 40% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Santander | [Ari Nikkei](https://banco.santander.cl/beneficios/promociones/ari-nikkei) | Nuevo concepto de sushi | 30%. dcto. todos los viernes | $40.000 | — | Las Condes | Exclusivo pagando con tus Tarjetas de Crédito Santander. |
+| Santander | [Cosecha del Mar](https://banco.santander.cl/beneficios/promociones/cosecha-del-mar-4) | Explora el mundo del salmón | 40% dcto. todos los viernes | $100.000 | — | Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas | Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.; Válido e… |
+| Santander | [Cosenza](https://banco.santander.cl/beneficios/promociones/cosenza) | — | 40% dcto. todos los viernes | $100.000 | — | Av. Nueva Costanera 3900, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito WoldMember Limited Santander LATAM Pass. |
+| Santander | [Dominga Nikkei](https://banco.santander.cl/beneficios/promociones/dominga-nikkei) | Sushi Nikkei, Omakase, Coctelería de autor asiáti… | 40%. dcto. todos los viernes | $40.000 | — | El Rodeo 12699, Lo Barnechea; Lo Barnechea | Exclusivo con tu Tarjetas de Crédito Santander |
+| Santander | [Estación Tropera](https://banco.santander.cl/beneficios/promociones/estacion-tropera) | Tropera es un sueño colectivo, nacido entre Itali… | 40% dcto. todos los viernes | $40.000 | — | Av. Vitacura 3285, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Fork](https://banco.santander.cl/beneficios/promociones/fork-4) | Platos preparados todos los días, frescos y sin c… | 40% dcto. todos los viernes. | $40.000 | — | La Reina, Las Condes, Lo Barnechea, Providencia, Santiago, Macul, Vitacura, Ñuñoa | Exclusivo con tus Tarjetas de Crédito Santander.; Válido en tiendas Fork pagando con tu t… |
+| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Deléitate con carnes, pescados y mariscos | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
+| Santander | [Sakura](https://banco.santander.cl/beneficios/promociones/sakura-4) | Mucho más que sushi | 40% dcto. en Rolls todos los viernes. | $40.000 | — | Las Condes, Lo Barnechea, Ñuñoa, Vitacura, La Reina | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
+| Santander | [Work/Café](https://banco.santander.cl/beneficios/promociones/work-cafe-4) | Comienza tu día en el mejor lugar, conoce todas l… | 40% dcto. todos los lunes y 30% dcto. de martes a viernes | Sin tope | Sin tope de descuento.Horarios de Atención: / Lunes a jueves de 9:00 a 14:00 hr… | Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú | Exclusivo con tus Tarjetas de Crédito y Débito Santander. |
 
-### Sábado (36)
+### Sábado (41)
 
-| Banco | Comercio | Dcto | Tope | Horario | Lugar | Tarjetas |
-|---|---|---|---|---|---|---|
-| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a jueves; Mall Plaza norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Panor… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Cantina Montt](https://www.bancofalabella.cl/descuentos/detalle/cantina-montt) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes … | Sin Tope | — | Avenida Manuel Montt 1201, Providencia | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Exò Nuit](https://www.bancofalabella.cl/descuentos/detalle/exo-nuit) | 40% | Sin tope | — | Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Fogon Greed](https://www.bancofalabella.cl/descuentos/detalle/fogon-greed) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados) | Sin Tope | — | Osorno; Ignacio Zenteno 2661, Osorno, Los Lagos | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mall plaza egaña: lunes a miércoles; Mall plaza oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Greed Taproom](https://www.bancofalabella.cl/descuentos/detalle/greed-taproom) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin Tope | — | Osorno; Ignacio Zenteno 2661, Osorno, Los Lagos | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Kato](https://www.bancofalabella.cl/descuentos/detalle/kato) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
-| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La santoría](https://www.bancofalabella.cl/descuentos/detalle/la-santoria) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | La Santoría: Manuel Montt 422, Providencia | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [MISCELANEO](https://www.bancofalabella.cl/descuentos/detalle/miscelaneo) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.) | Sin Tope | — | Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mallplaza Los Dominic… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [ROCOTO](https://www.bancofalabella.cl/descuentos/detalle/rocoto) | 40% | Sin Tope | — | Avenida Pedro de Valdivia 2573, Ñuñoa, Chile (solo delivery y retiro); Avenida las Condes 7134, Las Condes, Chile; Roberto Espinoza 718, Santiago Centro, Chile… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Sakura](https://www.bancofalabella.cl/descuentos/detalle/sakura) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella presencial … | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: lunes a jueves; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobala… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Vapiano](https://www.bancofalabella.cl/descuentos/detalle/vapiano) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Santander | [Ciros](https://banco.santander.cl/beneficios/promociones/ciros) | 40% dcto. todos los sábados | $40.000 | — | Isidora Goyenechea 2971, Las Condes; Las Condes | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [ICA](https://banco.santander.cl/beneficios/promociones/ica-2) | 40% dcto. todos los sábados | $40.000 | — | Isidora Goyenechea 2939, Las Condes; Las Condes | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
-| Santander | [Prístino](https://banco.santander.cl/beneficios/promociones/pristino) | 50% dcto. todos los sábados | $50.000 | — | El Coihue 3807, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express. |
-| Santander | [Taringa](https://banco.santander.cl/beneficios/promociones/taringa-4) | 40% dcto. todos los sábados. | $40.000 | — | Av. Vitacura 5336, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Banco | Comercio | Tipo | Dcto | Tope | Horario | Lugar | Tarjetas |
+|---|---|---|---|---|---|---|---|
+| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | Restaurante peruano que ofrece ceviches, tiradito… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Pano… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | Local especializado en sándwiches y comidas rápid… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Cantina Montt](https://www.bancofalabella.cl/descuentos/detalle/cantina-montt) | Cantina Montt es un popular bar de barrio ubicado… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes … | Sin Tope | — | Avenida Manuel Montt 1201, Providencia | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | Programa exclusivo de Banco Falabella que entrega… | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | — | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Don Carlos](https://www.bancofalabella.cl/descuentos/detalle/don-carlos) | Clásico restaurante de carnes premium en Las Cond… | 40% | Sin Tope | — | Isidora Goyenechea 2895, Las Condes, Región Metropolitana | CMR Mastercard Elite |
+| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | Marca que celebra la cocina peruana y latinoameri… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | El Bodegón Taberna Limeña es un restaurante en La… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | Restaurante especializado en cocina japonesa, con… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Enrique Tomás](https://www.bancofalabella.cl/descuentos/detalle/enrique-tomas) | Enrique Tomás es una reconocida marca española es… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Exò Nuit](https://www.bancofalabella.cl/descuentos/detalle/exo-nuit) | Exò Nuit es un restaurante y bar contemporáneo en… | 40% | Sin tope | — | Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Fogon Greed](https://www.bancofalabella.cl/descuentos/detalle/fogon-greed) | Fogón Greed es un restaurante de carnes a la bras… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados) | Sin Tope | — | Osorno; Ignacio Zenteno 2661, Osorno, Los Lagos | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Frida Kahlo](https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo) | Restaurante temático inspirado en la cultura mexi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | Fuente Suiza Mall Plaza Egaña es un punto de rest… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mallplaza Oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Greed Taproom](https://www.bancofalabella.cl/descuentos/detalle/greed-taproom) | Greed Taproom Osorno es el taproom de la cervecer… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) | Sin Tope | — | Osorno; Ignacio Zenteno 2661, Osorno, Los Lagos | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | Restaurante que rinde homenaje a la gastronomía m… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Kato](https://www.bancofalabella.cl/descuentos/detalle/kato) | Kató Tasty Caos es un restaurante pan-asiático ub… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | La pizzería argentina es una tradición culinaria … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
+| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | Restaurante inspirado en la gastronomía italiana,… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | Cadena chilena famosa por sus sándwiches artesana… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La santoría](https://www.bancofalabella.cl/descuentos/detalle/la-santoria) | Restaurante que fusiona sabores chilenos con prop… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | La Santoría: Manuel Montt 422, Providencia | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | Restaurante especializado en pizzas y pastas al e… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | Restaurante especializado en pescados y mariscos … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | Restaurante que fusiona cocina mediterránea y chi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [MISCELANEO](https://www.bancofalabella.cl/descuentos/detalle/miscelaneo) | Restaurante que fusiona sabores internacionales e… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.) | Sin Tope | — | Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | Restaurante especializado en carnes a la parrilla… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: Todos los días; AV Isidora Goyenechea 3000, las condes: Todos los días; Mercado Bulnes: Todos los días; Mallplaza Oeste: Todos los días; Mall… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | Petit Cafetería es una marca de bollería premium … | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [ROCOTO](https://www.bancofalabella.cl/descuentos/detalle/rocoto) | Fundado hace más de 14 años, este referente de la… | 40% | Sin Tope | — | Avenida Pedro de Valdivia 2573, Ñuñoa, Chile (solo delivery y retiro); Avenida las Condes 7134, Las Condes, Chile; Roberto Espinoza 718, Santiago Centro, Chile… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Sakura](https://www.bancofalabella.cl/descuentos/detalle/sakura) | Restaurante inspirado en la gastronomía japonesa,… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella presencial … | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | Restaurante parrillero que ofrece cortes premium … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | Restaurante de comida asiática rápida en Santiago… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco : Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalab… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | Cadena de restaurantes creada por Gastón Acurio, … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Udon](https://www.bancofalabella.cl/descuentos/detalle/udon) | Udon es una cadena internacional especializada en… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin tope | — | Alto las Condes; Portal la dehesa; Costanera Center | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Vapiano](https://www.bancofalabella.cl/descuentos/detalle/vapiano) | Cadena internacional de comida italiana, famosa p… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Zulu](https://www.bancofalabella.cl/descuentos/detalle/zulu) | Zulu es un restaurante en Santiago con una propue… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados) | Sin tope | — | Alonso de Córdova 2337, Vitacura, Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Santander | [Ciros](https://banco.santander.cl/beneficios/promociones/ciros) | Comida chilena y de ultramar | 40% dcto. todos los sábados | $40.000 | — | Isidora Goyenechea 2971, Las Condes; Las Condes | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [ICA](https://banco.santander.cl/beneficios/promociones/ica-2) | Conoce la mejor cocina Peruana Criolla popular | 40% dcto. todos los sábados | $40.000 | — | Isidora Goyenechea 2939, Las Condes; Las Condes | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Deléitate con carnes, pescados y mariscos | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
+| Santander | [Prístino](https://banco.santander.cl/beneficios/promociones/pristino) | Preparaciones chilenas gourmet | 50% dcto. todos los sábados | $50.000 | — | El Coihue 3807, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express. |
+| Santander | [Taringa](https://banco.santander.cl/beneficios/promociones/taringa-4) | Comida, cocteles, música y más | 40% dcto. todos los sábados. | $40.000 | — | Av. Vitacura 5336, Vitacura; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander. |
 
-### Domingo (27)
+### Domingo (30)
 
-| Banco | Comercio | Dcto | Tope | Horario | Lugar | Tarjetas |
-|---|---|---|---|---|---|---|
-| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a jueves; Mall Plaza norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Panor… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mall plaza egaña: lunes a miércoles; Mall plaza oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Kato](https://www.bancofalabella.cl/descuentos/detalle/kato) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
-| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [La santoría](https://www.bancofalabella.cl/descuentos/detalle/la-santoria) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | La Santoría: Manuel Montt 422, Providencia | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
-| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mallplaza Los Dominic… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Oeste: Todos los días; Mallplaza Egaña: lunes a jueves; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobala… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
-| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Banco Falabella | [Vapiano](https://www.bancofalabella.cl/descuentos/detalle/vapiano) | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
-| Santander | [1213](https://banco.santander.cl/beneficios/promociones/1213) | 40% dcto. todos los domingo | $40.000 | — | Av. Tobalaba #1213 y Av. Pedro de Valdivia #2785; Providencia | Exclusivo con tus Tarjetas de Crédito Santander. |
-| Santander | [Do Sushi](https://banco.santander.cl/beneficios/promociones/do-sushi-6) | 50% dcto. todos los domingos | $50.000 | — | Suecia 0155, local 102, Providencia; Providencia | Exclusivo con tus Tarjetas de Crédito Santander American Express. |
-| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
+| Banco | Comercio | Tipo | Dcto | Tope | Horario | Lugar | Tarjetas |
+|---|---|---|---|---|---|---|---|
+| Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | Restaurante peruano que ofrece ceviches, tiradito… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Pano… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | Local especializado en sándwiches y comidas rápid… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Club de restaurantes](https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes) | Programa exclusivo de Banco Falabella que entrega… | 20% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Cuponera Gastronómica](https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica) | — | 40% dcto | Sin tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Ekeko](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko) | Marca que celebra la cocina peruana y latinoameri… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mercado Bulnes: todos los días | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El Bodegon](https://www.bancofalabella.cl/descuentos/detalle/el-bodegon) | El Bodegón Taberna Limeña es un restaurante en La… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [El japones](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones) | Restaurante especializado en cocina japonesa, con… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Enrique Tomás](https://www.bancofalabella.cl/descuentos/detalle/enrique-tomas) | Enrique Tomás es una reconocida marca española es… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Frida Kahlo](https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo) | Restaurante temático inspirado en la cultura mexi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Fuente Suiza](https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza) | Fuente Suiza Mall Plaza Egaña es un punto de rest… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin tope | Open Kennedy desde 19:00hrs: miércoles a domingo | Mallplaza Oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Jalisco](https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco) | Restaurante que rinde homenaje a la gastronomía m… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Parque Arauco; Open Kennedy; Vivo Panomarico | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Kato](https://www.bancofalabella.cl/descuentos/detalle/kato) | Kató Tasty Caos es un restaurante pan-asiático ub… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La argentina](https://www.bancofalabella.cl/descuentos/detalle/la-argentina) | La pizzería argentina es una tradición culinaria … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo | Tarjeta Débito Banco Falabella; CMR Mastercard; CMR Mastercard Premium; CMR Mastercard El… |
+| Banco Falabella | [La piazza](https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza) | Restaurante inspirado en la gastronomía italiana,… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La sanguchera del barrio](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio) | Cadena chilena famosa por sus sándwiches artesana… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin Tope | — | Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [La santoría](https://www.bancofalabella.cl/descuentos/detalle/la-santoria) | Restaurante que fusiona sabores chilenos con prop… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércole… | Sin Tope | — | La Santoría: Manuel Montt 422, Providencia | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Mamma mia](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia) | Restaurante especializado en pizzas y pastas al e… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Meson del marinero](https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero) | Restaurante especializado en pescados y mariscos … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00hrs: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Milá](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila) | Restaurante que fusiona cocina mediterránea y chi… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
+| Banco Falabella | [Muu grill](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill) | Restaurante especializado en carnes a la parrilla… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Costanera Center: Todos los días; AV Isidora Goyenechea 3000, las condes: Todos los días; Mercado Bulnes: Todos los días; Mallplaza Oeste: Todos los días; Mall… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Petit](https://www.bancofalabella.cl/descuentos/detalle/petit) | Petit Cafetería es una marca de bollería premium … | 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) | Sin Tope | — | Alto las Condes | CMR Mastercard Elite; CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Siete cortes](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes) | Restaurante parrillero que ofrece cortes premium … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | Open Kennedy desde las 19:00: miércoles a domingo | Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Take a wok](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok) | Restaurante de comida asiática rápida en Santiago… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco : Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalab… | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Tanta](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta) | Cadena de restaurantes creada por Gastón Acurio, … | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lun… | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Banco Falabella | [Udon](https://www.bancofalabella.cl/descuentos/detalle/udon) | Udon es una cadena internacional especializada en… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a … | Sin tope | — | Alto las Condes; Portal la dehesa; Costanera Center | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
+| Banco Falabella | [Vapiano](https://www.bancofalabella.cl/descuentos/detalle/vapiano) | Cadena internacional de comida italiana, famosa p… | 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) | Sin Tope | — | Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
+| Santander | [1213](https://banco.santander.cl/beneficios/promociones/1213) | Los mejores Sánguches & Hamburguesas | 40% dcto. todos los domingo | $40.000 | — | Av. Tobalaba #1213 y Av. Pedro de Valdivia #2785; Providencia | Exclusivo con tus Tarjetas de Crédito Santander. |
+| Santander | [Do Sushi](https://banco.santander.cl/beneficios/promociones/do-sushi-6) | Disfruta de la cocina Japonesa | 50% dcto. todos los domingos | $50.000 | — | Suecia 0155, local 102, Providencia; Providencia | Exclusivo con tus Tarjetas de Crédito Santander American Express. |
+| Santander | [Infiltrados](https://banco.santander.cl/beneficios/promociones/infiltrados) | Deléitate con carnes, pescados y mariscos | Hasta 50%. dcto. todos los días viernes y sábados | $50.000 | — | Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura | Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Wor… |
 
 ## Por comercio (detalle completo)
 
 ### 1213 — Santander
+- *Los mejores Sánguches & Hamburguesas*
 - **Descuento:** 40% dcto. todos los domingo · **Tope:** $40.000
 - **Días:** Domingo · **Horario:** —
 - **Lugar(es):** Av. Tobalaba #1213 y Av. Pedro de Valdivia #2785; Providencia
@@ -407,6 +436,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/1213
 
 ### Al Pesto — Santander
+- *Disfruta las delicias culinarias y tendencias italianas auténticas*
 - **Descuento:** 40% dcto. todos los martes. · **Tope:** $40.000
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Colina
@@ -421,6 +451,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/al-pesto
 
 ### Aquality — Santander
+- *Compra pescados y mariscos congelados de calidad superior!*
 - **Descuento:** 40% dcto. todos los martes y acumula 1 Milla LATAM Pass adicional · **Tope:** $100.000
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -440,6 +471,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/aquality-3
 
 ### Ari Nikkei — Santander
+- *Nuevo concepto de sushi*
 - **Descuento:** 30%. dcto. todos los viernes · **Tope:** $40.000
 - **Días:** Viernes · **Horario:** —
 - **Lugar(es):** Las Condes
@@ -457,6 +489,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/ari-nikkei
 
 ### Augusta Bar — Banco Falabella
+- *Restobar con una propuesta diversa que combina hamburguesas artesanales, carnes a la plancha, ceviches y tablas para com*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Concepción; Augusta Bar: Paso Hondo 209, Lomas de San Andrés. Bio bío
@@ -475,6 +508,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/augusta-bar
 
 ### Augusta Bar — Santander
+- *Disfruta de una variada gastronomía y cócteles de autor*
 - **Descuento:** 40% dcto. todos los miércoles. · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Paso Hondo 209, Concepción; Concepción
@@ -494,9 +528,10 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/augusta-bar
 
 ### Badass — Banco Falabella
+- *Un espacio urbano en Parque Arauco, nacido para quienes buscan experiencias modernas y sociales*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
-- **Lugar(es):** Parque Arauco
+- **Lugar(es):** Parque Arauco todos los dias
 - **Tarjetas:** Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Mastercard
 - **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-01-01 → 2026-09-30
 - **Condiciones (texto del banco):**
@@ -504,11 +539,12 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Conoce el detalle
   Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
   Válido en locales:
-  - Parque Arauco
+  - Parque Arauco todos los dias.
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/badass
 
 ### Baqueano Temuco — Banco Falabella
+- *Es un espacio gastronómico que mezcla tradición chilena con propuestas contemporáneas*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) · **Tope:** Sin Tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Temuco; Baqueano Temuco
@@ -528,6 +564,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/baqueano-temuco
 
 ### Bar Porfirio — Santander
+- *Tacos, tragos y pura buena onda para cortar la semana con sabor*
 - **Descuento:** 30% dcto. todos los miércoles. · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Manuel Montt 697, Providencia; Providencia
@@ -564,6 +601,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/bar-tpm
 
 ### Barra Andalúe — Santander
+- *Disfruta de la mejor gastronomía y tragos de autor de San Pedro de la Paz*
 - **Descuento:** 40% dcto. todos los miércoles. · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Av. Andalue 2295 local 1, Concepción; Concepción
@@ -584,9 +622,10 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/barraandalue
 
 ### Barra Chalaca — Banco Falabella
+- *Restaurante peruano que ofrece ceviches, tiraditos y cocina marina*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
-- **Lugar(es):** Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a jueves; Mall Plaza norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Panoramico: lunes a domingo
+- **Lugar(es):** Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Panorámico: lunes a domingo
 - **Tarjetas:** Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Mastercard
 - **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago, Región de Valparaíso · **Vigencia:** 2026-01-01 → 2026-09-30
 - **Condiciones (texto del banco):**
@@ -595,14 +634,15 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
   Válido en locales:
   - Mall Plaza Egaña: lunes a Jueves
-  - Mall Alto Las Condes: lunes a jueves
-  - Mall Plaza norte: lunes a viernes
+  - Mall Alto Las Condes: lunes a viernes
+  - Mall Plaza Norte: lunes a viernes
   - Mall Plaza Vespucio: lunes y martes
-  - Mall Vivo Panoramico: lunes a domingo
+  - Mall Vivo Panorámico: lunes a domingo
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca
 
 ### Barra Olivo — Banco Falabella
+- *Barra Olivo es un restaurante de comida peruana y marisquería ubicado en Chicureo, Chile*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércoles) · **Tope:** Sin tope
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** km2 chicureo Boulevar - Av. Chicureo, Los Ingleses, local16, Colina, Región Metropolitana
@@ -618,6 +658,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/barra-olivo
 
 ### Barros Negros — Banco Falabella
+- *Restaurante Barros Negros es un local gastronómico ubicado en Machalí, que se caracteriza por ser un lugar cálido y acog*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -635,6 +676,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/barros-negros
 
 ### Berlin Döner Kebab — Santander
+- *Restaurant de sandwich turco-alemanes*
 - **Descuento:** 30% dcto. todos los miércoles · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Ñuñoa, Vitacura
@@ -654,6 +696,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/berlin-doner-kebab
 
 ### Berlín Doner Kebab — Banco Falabella
+- *Restaurante inspirado en la tradición alemana del kebab, con carnes asadas y salsas únicas*
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Jueves · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -670,6 +713,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/berlin-doner-kebab
 
 ### Bistro Cascade — Banco Falabella
+- *Restaurante estilo bistró con influencia europea, ideal para disfrutar platos gourmet y vinos selectos*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) · **Tope:** Sin Tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** BordeRío; Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana
@@ -689,6 +733,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/borderio-bistro-cascade
 
 ### Boreal bar Rancagua — Banco Falabella
+- *Bar y lounge ubicado en Miguel Ramírez 715, con terraza y horario extendido hasta las 3 AM*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Rancagua; Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins
@@ -707,7 +752,28 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/boreal-bar-rancagua
 
+### Boreal bar Rancagua — Banco Falabella
+- *Bar y lounge ubicado en Miguel Ramírez 715, con terraza y horario extendido hasta las 3 AM*
+- **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
+- **Días:** Miércoles · **Horario:** —
+- **Lugar(es):** Rancagua; Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins
+- **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** $, 2, a, :, p, r, o, p, s, :, b, e, n, e, f, i, t, C, a, r, d, s, D, a, t, a, :, 4, 8, :, r, e, g, i, o, n · **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  Sigue estos pasos
+  - Has tu reserva en Boreal bar Rancagua
+  - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
+  - Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.
+  Condiciones:
+  *Solo Presencial
+  - Todos los miércoles
+  *Dirección: Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins.
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/boreal-bar-rancagua
+
 ### Bozzo — Santander
+- *Disfruta los mejores chocolates, receta de tradición italiana*
 - **Descuento:** 40% dcto. todos los martes en bozzochocolates.cl y 20% dcto. en tiendas · **Tope:** $40.000
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Las Condes, Vitacura, Lo Barnechea, Providencia, Santiago, Peñalolén, La Florida
@@ -729,6 +795,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/bozzo-4
 
 ### Brunapoli — Santander
+- *Vive la experiencia de una auténtica pizza Napolitana*
 - **Descuento:** 40% dcto. todos los martes · **Tope:** $100.000
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Nueva Costanera 3961, Vitacura; Av. José Alcalde Délano, Lo Barnechea; Camino El Alba 11969, Las Condes; Vitacura, Las Condes, Lo Barnechea
@@ -750,6 +817,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/brunapoli
 
 ### Brunetti — Santander
+- *Cafetería y restaurant*
 - **Descuento:** 40% dcto. todos los miércoles. · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Diaz gana 845, Antofagasta; Antofagasta
@@ -768,6 +836,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/brunetti
 
 ### Burger King — Santander
+- *Disfruta las mejores burger a la parrilla, desde 1954*
 - **Descuento:** 40% dcto. todos los jueves. · **Tope:** $15.000
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** Las Condes, Santiago, La Reina, Providencia, Vitacura, Ñuñoa, Peñalolén, Macul, Huechuraba, Lo Barnechea, Independencia, San Miguel, La Florida, Maipú, Quilicura
@@ -786,6 +855,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/burger-king-2
 
 ### Cabrera al Paso — Banco Falabella
+- *Local especializado en sándwiches y comidas rápidas con ingredientes frescos*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** Mallplaza Egaña: lunes a domingo
@@ -801,6 +871,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso
 
 ### Cafe Haussmann — Banco Falabella
+- *Café Haussmann es una tradicional cafetería del sur de Chile, reconocida por su repostería y cocina de inspiración alema*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Lunes · **Horario:** —
 - **Lugar(es):** Valdivia
@@ -817,6 +888,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/cafe-haussmann
 
 ### Cantina Montt — Banco Falabella
+- *Cantina Montt es un popular bar de barrio ubicado en la comuna de Providencia, en Santiago de Chile*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes y sábados) · **Tope:** Sin Tope
 - **Días:** Martes, Sábado · **Horario:** —
 - **Lugar(es):** Avenida Manuel Montt 1201, Providencia
@@ -833,7 +905,25 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/cantina-montt
 
+### Caoba Bar — Banco Falabella
+- *Bar contemporáneo ubicado en Alonso de Córdova (Vitacura, Santiago), con coctelería de autor y gastronomía moderna*
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Viernes · **Horario:** —
+- **Lugar(es):** Alonso de Córdova 4156, Vitacura
+- **Tarjetas:** CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-01-06 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  Detalle
+  - En el total de tu boleta en Caoba Bar
+  - Exclusivo con CMR Elite
+  - Alonso de Córdova 4156, Vitacura
+  - ¿Aún no tienes tu CMR? Pídela aquí
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/caoba-bar
+
 ### Caoba Bar — Santander
+- *Disfruta de un increíble bar*
 - **Descuento:** 40% dcto. todos los lunes · **Tope:** $40.000
 - **Días:** Lunes · **Horario:** —
 - **Lugar(es):** Alonso de Córdova 4156, Vitacura; Vitacura
@@ -853,6 +943,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/caoba-bar-2
 
 ### Carmine — Santander
+- *Raíces profundas de una tradición gastronómica que ha sido transmitida de generación en generación*
 - **Descuento:** 50% dcto. todos los jueves · **Tope:** $50.000
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** Av. Edmundo Eluchans 595, Viña del Mar; Viña del Mar
@@ -888,6 +979,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/casa-mar-sushi
 
 ### Cattedrale Cucina Villarrica — Banco Falabella
+- *Cattedrale Cucina es un restaurante de cocina italiana y mediterránea ubicado en Villarrica*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) · **Tope:** Sin Tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Villarrica; Cattedrale Cucina
@@ -907,6 +999,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/cattedrale-cucina-villarrica
 
 ### Cervecería Kunstmann Valdivia — Banco Falabella
+- *Nace en Valdivia en 1991 por Armin Kunstmann, inspirada en las tradiciones cerveceras alemanas tras el terremoto de 1960*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** Valdivia; Cervecería Kunstmann: Ruta T 350 950, Valdivia, Los Ríos
@@ -925,6 +1018,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/cerveceria-kunstmann-valdivia
 
 ### Chicken Love You — Santander
+- *Los mejores sandwich de pollo frito*
 - **Descuento:** 40% dcto. todos los miércoles · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Santiago,Vitacura,Las Condes,Maipú,La Reina,La Florida,Lo Barnechea,Viña del Mar
@@ -945,6 +1039,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/chicken-love-you
 
 ### Chokolata Cafeteria — Banco Falabella
+- *Chokolata es una reconocida cafetería y pastelería de Villarrica, destacada por sus cafés, chocolates, tortas, kuchenes*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Villarrica; General Urrutia 891
@@ -962,6 +1057,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/chokolata-cafeteria
 
 ### Ciros — Santander
+- *Comida chilena y de ultramar*
 - **Descuento:** 40% dcto. todos los sábados · **Tope:** $40.000
 - **Días:** Sábado · **Horario:** —
 - **Lugar(es):** Isidora Goyenechea 2971, Las Condes; Las Condes
@@ -982,6 +1078,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/ciros
 
 ### Club de restaurantes — Banco Falabella
+- *Programa exclusivo de Banco Falabella que entrega beneficios y descuentos en restaurantes destacados*
 - **Descuento:** 20% · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -999,6 +1096,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes
 
 ### Coppelia — Banco Falabella
+- *Coppelia es una tradicional cadena chilena de cafeterías, heladerías y pastelerías*
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Lunes · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -1016,6 +1114,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/coppelia
 
 ### Corrales del Sur — Santander
+- *El mejor corte de carne en Corrales del Sur*
 - **Descuento:** 20% dcto. todos los lunes. · **Tope:** $40.000
 - **Días:** Lunes · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -1035,6 +1134,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/corrales-del-sur-4
 
 ### Corrales del Sur — Santander
+- *El mejor Angus nacional en Corrales del Sur*
 - **Descuento:** 30% dcto. todos los jueves. · **Tope:** $100.000
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** Vitacura, Providencia, Peñalolén, Osorno, Puerto Varas
@@ -1054,6 +1154,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/corrales-del-sur-3
 
 ### Cosecha del Mar — Santander
+- *Explora el mundo del salmón*
 - **Descuento:** 40% dcto. todos los viernes · **Tope:** $100.000
 - **Días:** Viernes · **Horario:** —
 - **Lugar(es):** Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas
@@ -1098,6 +1199,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica
 
 ### CuracaRibs — Santander
+- *Disfruta carnes ahumadas 100% a leña*
 - **Descuento:** 40% dcto. todos lunes online. · **Tope:** $40.000
 - **Días:** Lunes · **Horario:** —
 - **Lugar(es):** La Florida, Cerrillos, Las Condes, Providencia, Huechuraba, Curacaví
@@ -1116,6 +1218,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/curacaribs-4
 
 ### Curry — Santander
+- *Comida Tailandesa*
 - **Descuento:** 30% dcto. todos los miércoles · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro; Vitacura, Providencia, Santiago
@@ -1135,7 +1238,24 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://banco.santander.cl/beneficios/promociones/curry-2
 
+### Dagan — Banco Falabella
+- *Inaugurado en 2024 en Vitacura, Santiago, Dagan es una propuesta gastronómica inspirada en la cocina mediterránea y del*
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Martes · **Horario:** —
+- **Lugar(es):** Dagan: Nueva Costanera 3750, Santiago
+- **Tarjetas:** CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  Conoce el detalle
+  Descuento: 40% dcto sin tope con CMR Elite los martes
+  Válido en locales:
+  - Dagan: Nueva Costanera 3750, Santiago.
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/dagan
+
 ### Danés — Banco Falabella
+- *Restaurante ubicado en Santiago, reconocido por su cocina chilena y platos tradicionales*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Cristobal Colon 4455, Las Condes, Región Metropolitana
@@ -1154,6 +1274,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/danes
 
 ### De Costa a Costa — Santander
+- *Los mejores productos del mar*
 - **Descuento:** 40% dcto. todos los miércoles. · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -1171,6 +1292,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/de-costa-a-costa
 
 ### Delivery Gourmet — Santander
+- *Tus comidas favoritas en un solo pedido*
 - **Descuento:** 30% dcto. todos los miércoles · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro; Vitacura, Providencia, Santiago
@@ -1191,6 +1313,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/delivery-gourmet
 
 ### Do Sushi — Santander
+- *Disfruta de la cocina Japonesa*
 - **Descuento:** 50% dcto. todos los domingos · **Tope:** $50.000
 - **Días:** Domingo · **Horario:** —
 - **Lugar(es):** Suecia 0155, local 102, Providencia; Providencia
@@ -1210,6 +1333,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/do-sushi-6
 
 ### Domani — Santander
+- *Pizzería napolitana*
 - **Descuento:** 40% dcto. todos los lunes · **Tope:** $40.000
 - **Días:** Lunes · **Horario:** —
 - **Lugar(es):** Local Las Condes y Providencia
@@ -1227,7 +1351,27 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://banco.santander.cl/beneficios/promociones/domani
 
+### Dominga Bistro Pucon — Banco Falabella
+- *Dominga Bistró es un restaurante de cocina fusión y coctelería de autor ubicado en la Península de Cavancha, Iquique*
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Miércoles · **Horario:** —
+- **Lugar(es):** Pucon; Todos los Miércoles en Dominga Bistró Pucón
+- **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** Región de Los Ríos · **Vigencia:** 2026-08-01 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  Sigue estos pasos
+  - Has tu pedido en cualquier caja de Dominga Bistro
+  - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
+  - Y listo! Cuentas con el 40% de dcto con CMR y el 30% con débito Banco Falabella
+  Condiciones:
+  *Solo Presencial
+  - Todos los Miércoles en Dominga Bistró Pucón
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-pucon
+
 ### Dominga Bistro Valdivia — Banco Falabella
+- *Un restaurante fusión ubicado a orillas del río Calle Calle en Valdivia, que combina cocina creativa con productos local*
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Valdivia; Todos los Miércoles en Dominga Bistró Valdivia
@@ -1246,6 +1390,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-valdivia
 
 ### Dominga Nikkei — Santander
+- *Sushi Nikkei, Omakase, Coctelería de autor asiática y mucho más*
 - **Descuento:** 40%. dcto. todos los viernes · **Tope:** $40.000
 - **Días:** Viernes · **Horario:** —
 - **Lugar(es):** El Rodeo 12699, Lo Barnechea; Lo Barnechea
@@ -1265,6 +1410,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/dominga-nikkei
 
 ### Dominó — Santander
+- *Los martes ahora son Dinámicos*
 - **Descuento:** 40% dcto. todos los martes. · **Tope:** Sin tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Las Condes, La Reina, Providencia, Vitacura, Santiago, Ñuñoa, Peñalolén, Macul, Recoleta, La Florida, Huechuraba, Puente Alto, Maipú, Independencia, Viña del Mar, Puerto Montt, Antofagasta, Concepción
@@ -1284,26 +1430,24 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://banco.santander.cl/beneficios/promociones/domino-2
 
-### Dynos Chillan — Banco Falabella
-- **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles) · **Tope:** Sin Tope
-- **Días:** Miércoles · **Horario:** —
-- **Lugar(es):** Chillán; El Roble 558, Chillán
-- **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
-- **Modalidad:** Presencial · **Región:** Región de Ñuble · **Vigencia:** 2026-01-01 → 2026-09-30
+### Don Carlos — Banco Falabella
+- *Clásico restaurante de carnes premium en Las Condes con más de 35 años de historia*
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Sábado · **Horario:** —
+- **Lugar(es):** Isidora Goyenechea 2895, Las Condes, Región Metropolitana
+- **Tarjetas:** CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-04-30 → 2026-09-30
 - **Condiciones (texto del banco):**
   ```
   Conoce el detalle
-  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles
+  Descuento: 40% dcto sin tope con CMR Elite los sábados
   Válido en locales:
-  - El Roble 558, Chillán
-  - Todos los Miércoles
-  Condiciones:
-  - El descuento no es acumulable con otras promociones
-  - Válido solo para compras presenciales en Dynos Chillan
+  - Isidora Goyenechea 2895, Las Condes, Región Metropolitana
   ```
-- **URL:** https://www.bancofalabella.cl/descuentos/detalle/dynos-chillan
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/don-carlos
 
 ### eCook — Santander
+- *Lleva tus platos favoritos con el mejor descuento*
 - **Descuento:** 40% dcto. todos los martes y jueves · **Tope:** Sin tope
 - **Días:** Martes, Jueves · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -1322,6 +1466,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/ecook-4
 
 ### Ekeko — Banco Falabella
+- *Marca que celebra la cocina peruana y latinoamericana con platos llenos de sabor y tradición*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** Mercado Bulnes: todos los días
@@ -1337,6 +1482,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko
 
 ### El Bodegon — Banco Falabella
+- *El Bodegón Taberna Limeña es un restaurante en Las Condes, Santiago, especializado en cocina peruana moderna*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** Open Kennedy desde las 19:00: miércoles a domingo
 - **Lugar(es):** Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo
@@ -1353,6 +1499,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/el-bodegon
 
 ### El japones — Banco Falabella
+- *Restaurante especializado en cocina japonesa, con sushi, sashimi y platos tradicionales*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo
@@ -1371,6 +1518,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones
 
 ### El Mundo del Vino — Santander
+- *El mejor vino para ti*
 - **Descuento:** 40% dcto. todos los lunes en viñas seleccionadas. · **Tope:** $100.000
 - **Días:** Lunes · **Horario:** —
 - **Lugar(es):**  Providencia, Las Condes
@@ -1390,6 +1538,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/el-mundo-del-vino-9
 
 ### El Taller — Santander
+- *Helados Artesanales de Alta Calidad, reconocidos entre los mejores del Mundo*
 - **Descuento:** 40% dcto. todos los martes · **Tope:** $15.000
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Av. Providencia 1467, Providencia; Av. La Dehesa 1570, Lo Barnechea; Av. Apoquindo 2730, Las Condes; Providencia, Lo Barnechea, Las Condes
@@ -1411,7 +1560,26 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://banco.santander.cl/beneficios/promociones/el-taller
 
+### Enrique Tomás — Banco Falabella
+- *Enrique Tomás es una reconocida marca española especializada en jamón ibérico, con más de 40 años de tradición*
+- **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
+- **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
+- **Lugar(es):** — (ver condiciones)
+- **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  Sigue estos pasos
+  - Has tu reserva en Enrique Tomás
+  - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
+  - Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.
+  Condiciones:
+  Solo Presencial en Costanera Center todos los días
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/enrique-tomas
+
 ### Estación Tropera — Santander
+- *Tropera es un sueño colectivo, nacido entre Italia y la Patagonia*
 - **Descuento:** 40% dcto. todos los viernes · **Tope:** $40.000
 - **Días:** Viernes · **Horario:** —
 - **Lugar(es):** Av. Vitacura 3285, Vitacura; Vitacura
@@ -1430,6 +1598,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/estacion-tropera
 
 ### Estró — Santander
+- *Cocina chilena con los mejores productos locales*
 - **Descuento:** 40% dcto. todos los jueves. · **Tope:** $100.000
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** El Alcalde 15, Las Condes
@@ -1449,6 +1618,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/estro-3
 
 ### Expendio Montt — Santander
+- *Los mejores tacos y cervezas*
 - **Descuento:** 30% dcto. todos los miércoles. · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Manuel Montt 727, Providencia; Providencia
@@ -1467,6 +1637,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/expendio-montt
 
 ### Exò Nuit — Banco Falabella
+- *Exò Nuit es un restaurante y bar contemporáneo en Vitacura, Santiago*
 - **Descuento:** 40% · **Tope:** Sin tope
 - **Días:** Martes, Miércoles, Jueves, Viernes, Sábado · **Horario:** —
 - **Lugar(es):** Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana
@@ -1484,6 +1655,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/exo-nuit
 
 ### Exò Nuit — Santander
+- *restaurante y bar de cocina japonesa–mediterránea*
 - **Descuento:** 30%. dcto. todos los miércoles · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Candelaria Goyenechea 3868, Vitacura; Vitacura
@@ -1502,20 +1674,8 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://banco.santander.cl/beneficios/promociones/exo-nuit
 
-### Fidelio — Banco Falabella
-- **Descuento:** 40% · **Tope:** Sin Tope
-- **Días:** Jueves · **Horario:** —
-- **Lugar(es):** Reñaca; Reñaca Norte 25, Viña del Mar
-- **Tarjetas:** Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Mastercard
-- **Modalidad:** Presencial · **Región:** Región de Valparaíso · **Vigencia:** 2026-01-01 → 2026-09-30
-- **Condiciones (texto del banco):**
-  ```
-  ¡Sin Tope! 40% de descuento pagando con tu CMR y 30% pagando con débito Banco Falabella
-  Dirección: Reñaca Norte 25, Viña del Mar
-  ```
-- **URL:** https://www.bancofalabella.cl/descuentos/detalle/fidelio
-
 ### Fogon Greed — Banco Falabella
+- *Fogón Greed es un restaurante de carnes a la brasa, parrilla y también pastas, con foco en calidad de ingredientes local*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados) · **Tope:** Sin Tope
 - **Días:** Sábado · **Horario:** —
 - **Lugar(es):** Osorno; Ignacio Zenteno 2661, Osorno, Los Lagos
@@ -1530,6 +1690,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/fogon-greed
 
 ### Fork — Santander
+- *Platos preparados todos los días, frescos y sin conservantes*
 - **Descuento:** 40% dcto. todos los viernes. · **Tope:** $40.000
 - **Días:** Viernes · **Horario:** —
 - **Lugar(es):**  La Reina, Las Condes, Lo Barnechea, Providencia, Santiago, Macul, Vitacura, Ñuñoa
@@ -1550,6 +1711,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/fork-4
 
 ### Fratello Trattoría — Banco Falabella
+- *Restaurante italiano en Santiago que combina tradición y modernidad, especializado en pastas frescas, pizzas al horno y*
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Viernes · **Horario:** —
 - **Lugar(es):** Temuco; Av. Miguel Ramírez 715, Rancagua
@@ -1563,9 +1725,10 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/fratello-trattoria
 
 ### Frida Kahlo — Banco Falabella
+- *Restaurante temático inspirado en la cultura mexicana y la artista Frida Kahlo*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
-- **Días:** Lunes, Martes, Miércoles, Jueves · **Horario:** —
-- **Lugar(es):** Costanera Center: lunes a jueves
+- **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
+- **Lugar(es):** Costanera Center: lunes a domingo
 - **Tarjetas:** Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Mastercard
 - **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-01-01 → 2026-09-30
 - **Condiciones (texto del banco):**
@@ -1573,14 +1736,15 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Conoce el detalle
   Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
   Válido en locales:
-  - Costanera Center: lunes a jueves
+  - Costanera Center: lunes a domingo
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo
 
 ### Fuente Suiza — Banco Falabella
+- *Fuente Suiza Mall Plaza Egaña es un punto de restauración estilo fuente de soda chilena ubicado en Mall Plaza Egaña (Ave*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** Open Kennedy desde 19:00hrs: miércoles a domingo
-- **Lugar(es):** Mall plaza egaña: lunes a miércoles; Mall plaza oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo
+- **Lugar(es):** Mallplaza Oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo
 - **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
 - **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-01-01 → 2026-09-30
 - **Condiciones (texto del banco):**
@@ -1588,14 +1752,14 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Conoce el detalle
   Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
   Válido en locales:
-  - Mall plaza egaña: lunes a miércoles
-  - Mall plaza oeste: lunes a miércoles
+  - Mallplaza Oeste: lunes a miércoles
   - Open Kennedy: lunes y martes
   - Open Kennedy desde 19:00hrs: miércoles a domingo
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza
 
 ### Greed Taproom — Banco Falabella
+- *Greed Taproom Osorno es el taproom de la cervecería artesanal Greed Brewing Co., Es un bar–cervecería donde se sirven ce*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) · **Tope:** Sin Tope
 - **Días:** Sábado · **Horario:** —
 - **Lugar(es):** Osorno; Ignacio Zenteno 2661, Osorno, Los Lagos
@@ -1610,6 +1774,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/greed-taproom
 
 ### Helados Timaukel — Santander
+- *Heladería artesanal*
 - **Descuento:** 40% dcto. todos los miércoles. · **Tope:** $30.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -1628,6 +1793,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/helados-timaukel
 
 ### Hijo del Inca — Santander
+- *Restaurante peruano*
 - **Descuento:** 30% dcto. todos los miércoles · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Príncipe de Gales 6992, La Reina; Santa magdalena 168 local 102 Providencia; La Reina
@@ -1647,6 +1813,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/hijo-del-inca
 
 ### Hijo del Sol — Santander
+- *Disfruta del rico sabor de una causa limeña*
 - **Descuento:** 40% dcto. todos los miércoles · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** La Reina, Las Condes, Vitacura, Santiago
@@ -1666,6 +1833,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/hijo-del-sol-2
 
 ### Hitomi Tomi — Santander
+- *Descubre los sabores de Asia en Hitomi Tomi*
 - **Descuento:** 40% dcto. todos los jueves · **Tope:** $40.000
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** Av. Tobalaba 947, Providencia; Providencia
@@ -1684,6 +1852,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/hitomi-tomi
 
 ### ICA — Santander
+- *Conoce la mejor cocina Peruana Criolla popular*
 - **Descuento:** 40% dcto. todos los sábados · **Tope:** $40.000
 - **Días:** Sábado · **Horario:** —
 - **Lugar(es):** Isidora Goyenechea 2939, Las Condes; Las Condes
@@ -1702,6 +1871,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/ica-2
 
 ### Infiltrados — Santander
+- *Deléitate con carnes, pescados y mariscos*
 - **Descuento:** Hasta 50%. dcto. todos los días viernes y sábados · **Tope:** $50.000
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express; Vitacura
@@ -1728,6 +1898,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/infiltrados
 
 ### Jalisco — Banco Falabella
+- *Restaurante que rinde homenaje a la gastronomía mexicana tradicional*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** Parque Arauco; Open Kennedy; Vivo Panomarico
@@ -1745,6 +1916,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco
 
 ### Juan Esparraguito — Santander
+- *Mucho más que frutas y verduras, productos de temporada y seleccionados uno a uno*
 - **Descuento:** 30% dcto. todos los miércoles. · **Tope:** $100.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Las Condes, Lo Barnechea, Vitacura, La Reina, Ñuñoa, Providencia y Santiago
@@ -1764,6 +1936,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/juan-esparraguito
 
 ### Kairos garden — Banco Falabella
+- *Restaurante que ofrece cocina saludable y experiencias en un entorno natural*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes · **Horario:** —
 - **Lugar(es):** Mall Plaza Vespucio: lunes y martes
@@ -1779,6 +1952,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/kairos-garden
 
 ### Kato — Banco Falabella
+- *Kató Tasty Caos es un restaurante pan-asiático ubicado en Isidora Goyenechea 3275, Las Condes, Santiago (Región Metropol*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Sábado, Domingo · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -1796,6 +1970,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/kato
 
 ### Kechua — Banco Falabella
+- *Restaurante inspirado en la cocina peruana, con platos tradicionales y fusión*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) · **Tope:** Sin Tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** BordeRío; Kechua BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana
@@ -1815,6 +1990,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/borderio-kechua
 
 ### Kento Gourmet — Banco Falabella
+- *Kento Gourmet es un restaurante de estilo nikkei/sushi gourmet que ofrece rolls, nigiris, tiraditos, ceviches y platos c*
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves · **Horario:** —
 - **Lugar(es):** Alto Las Condes (Av Presidente Kennedy Lateral 9001); Parque Arauco (Av Presidente Kennedy 5413); Av. Vitacura 5460
@@ -1835,6 +2011,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/kento-gourmet
 
 ### Kento Sushi — Santander
+- *Los mejores sushi, nikkei, Sin arroz, Vegetarianos, Ceviche y más*
 - **Descuento:** 30% dcto. todos los miércoles. · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Parque Arauco, Alto las Condes y Av. Vitacura 5460; Las Condes, Vitacura
@@ -1854,6 +2031,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/kento-sushi
 
 ### Kila Coffee — Banco Falabella
+- *Kila Coffee es una acogedora cafetería y espacio de bienestar ubicada en la comuna de Ñuñoa, Santiago de Chile*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) · **Tope:** Sin tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Román Díaz 2023, Ñuñoa, Región Metropolitana
@@ -1869,6 +2047,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/kila-coffee
 
 ### Krossbar — Banco Falabella
+- *Bar cervecero que ofrece variedades artesanales de la reconocida marca Kross*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) · **Tope:** Sin Tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** BordeRío; Krossbar BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana
@@ -1888,6 +2067,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/martes-de-borderio-krossbar
 
 ### La argentina — Banco Falabella
+- *La pizzería argentina es una tradición culinaria nacida de la inmigración italiana, caracterizada por la "pizza al molde*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a viernes) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo
@@ -1909,6 +2089,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/la-argentina
 
 ### La Bifería — Santander
+- *Cortes únicos de carne a la parrilla*
 - **Descuento:** 40% dcto. todos los miércoles · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Av. Pedro de Valdivia 065, Providencia; Providencia
@@ -1928,6 +2109,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/la-biferia-2
 
 ### La Dicha — Santander
+- *Descubre los mejores platos gourmet*
 - **Descuento:** 40% dcto. todos los lunes. · **Tope:** $100.000
 - **Días:** Lunes · **Horario:** —
 - **Lugar(es):** Alonso de Córdova 4355,Vitacura; Vitacura
@@ -1947,6 +2129,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/la-dicha-4
 
 ### La Fabrica Talca — Banco Falabella
+- *Restobar en 2 Oriente #1254, con cocina americana, hamburguesas, ceviches y coctelería creativa*
 - **Descuento:** 40 (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Talca; Av. 2 Ote. 1254, Talca, Región del Maule
@@ -1965,6 +2148,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/la-fabrica-talca
 
 ### La Maestranza — Banco Falabella
+- *La Maestranza es un restaurante chileno que combina tradición y modernidad, inspirado en la cultura ferroviaria y el esp*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Lunes, Miércoles, Viernes · **Horario:** —
 - **Lugar(es):** Avenida Vitacura 5468, Vitacura – Santiago
@@ -1984,6 +2168,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/la-maestranza
 
 ### La Mulata — Santander
+- *La mejor cocina fusión peruana - japonesa*
 - **Descuento:** 40% dcto. todos los miércoles. · **Tope:** $100.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Av. Arturo Prat Chacón 902, Iquique; Iquique
@@ -2004,6 +2189,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/la-mulata
 
 ### La patrona — Banco Falabella
+- *Restaurante que celebra la cocina mexicana con tacos, enchiladas y margaritas*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves · **Horario:** —
 - **Lugar(es):** La Patrona Mall Plaza Vespucio: lunes a jueves
@@ -2019,6 +2205,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-patrona
 
 ### La piazza — Banco Falabella
+- *Restaurante inspirado en la gastronomía italiana, con pizzas y pastas frescas*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** Open Kennedy desde las 19:00hrs: miércoles a domingo
 - **Lugar(es):** Mall Plaza Vespucio: Todos los días; Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo
@@ -2036,6 +2223,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza
 
 ### La sanguchera del barrio — Banco Falabella
+- *Cadena chilena famosa por sus sándwiches artesanales y recetas tradicionales*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** Mall Plaza Egaña; Mercado Bulnes; Vivo Imperio; Costanera Center; Mallplaza Tobalaba
@@ -2055,6 +2243,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio
 
 ### La santoría — Banco Falabella
+- *Restaurante que fusiona sabores chilenos con propuestas modernas*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a domingo) · **Tope:** Sin Tope
 - **Días:** Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** La Santoría: Manuel Montt 422, Providencia
@@ -2073,6 +2262,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/la-santoria
 
 ### La Tabla — Banco Falabella
+- *Restaurante especializado en carnes y parrilla, con cortes premium y acompañamientos*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) · **Tope:** Sin Tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** BordeRío; La Tabla BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana
@@ -2092,6 +2282,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/la-tabla-borderio
 
 ### Le Vice Chocolat — Santander
+- *Exquisitos chocolates de la más alta calidad, elaborados con ingredientes seleccionados cuidadosamente y un toque artesa*
 - **Descuento:** 40% dcto. todos los jueves. · **Tope:** Sin tope
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** Vitacura
@@ -2110,6 +2301,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/le-vice-chocolat
 
 ### Lebol Restobar — Banco Falabella
+- *Restobar en Concepción que fusiona cocina tradicional con toques contemporáneos*
 - **Descuento:** 40% · **Tope:** Sin tope
 - **Días:** Viernes · **Horario:** —
 - **Lugar(es):** Concepción
@@ -2122,6 +2314,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/lebol-restobar
 
 ### Lima Fusión — Santander
+- *Gastronomía Peruana, Criollas y Nikkei se reinventa con un toque único*
 - **Descuento:** 40% dcto. todos los miércoles. · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Manuel Bulnes 314, Quillota; Quillota
@@ -2142,6 +2335,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/lima-fusion
 
 ### Local Burger — Banco Falabella
+- *Local Burger es una hamburguesería de estilo americano en Chile, destacada por sus preparaciones jugosas y de alta calid*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Jueves) · **Tope:** Sin Tope
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** Local Burger
@@ -2161,6 +2355,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/local-burger
 
 ### Local Burger — Santander
+- *Disfruta las mejores hamburguesas*
 - **Descuento:** 40% dcto. todos los miércoles. · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -2180,6 +2375,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/local-burger-2
 
 ### Majka — Santander
+- *Cocina fusión y de autor*
 - **Descuento:** 40% dcto. todos los jueves · **Tope:** $40.000
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** Principe de Gales 7102, La Reina
@@ -2197,7 +2393,25 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://banco.santander.cl/beneficios/promociones/majka
 
+### Mamma Gaucha Coyhaique — Banco Falabella
+- **Descuento:** 40% · **Tope:** Descuento
+- **Días:** Jueves · **Horario:** —
+- **Lugar(es):** Cuerno 47, 5951627 Coyhaique, Aysén
+- **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** Región de Aysén del General Carlos Ibáñez del Campo · **Vigencia:** 2026-06-01 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  ¡Sin Tope! Disfruta con un 40% de dcto pagando con tu CMR y 30% de dcto pagando con débito Banco Falabella
+  Locales:
+  - Cuerno 47, 5951627 Coyhaique, Aysén
+  Condiciones:
+  - Excluye promociones
+  - Exclusivo presencial
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/mamma-gaucha-coyhaique
+
 ### Mamma mia — Banco Falabella
+- *Restaurante especializado en pizzas y pastas al estilo italiano*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** Mallplaza Tobalaba: Todos los días; Vivo Panorámico: Todos los días; Parque Arauco: Todos los días; Mallplaza Antofagasta: lunes a miércoles
@@ -2216,6 +2430,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia
 
 ### Martina Lounge Bar — Banco Falabella
+- *Ubicado en Torremolinos 485, Martina Lounge Bar ofrece hamburguesas caseras, tablas para compartir y coctelería de autor*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Temuco; Torremolinos 485, local 116, Temuco, Araucanía
@@ -2234,6 +2449,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/martina-lounge-bar
 
 ### Melt Pizzas — Santander
+- *Las mejores pizzas están en Melt!*
 - **Descuento:** 40% dcto. todos los martes. · **Tope:** $40.000
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** La Reina, Vitacura, Santiago, Las Condes, Providencia, Peñalolén, Recoleta, Huechuraba, Lo Barnechea, San Miguel, La Florida, Puente Alto, Ñuñoa, 
@@ -2253,11 +2469,12 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/melt
 
 ### Meson del marinero — Banco Falabella
+- *Restaurante especializado en pescados y mariscos ubicado en el 4.º piso del Open Kennedy / Parque Arauco*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** Open Kennedy desde las 19:00hrs: miércoles a domingo
 - **Lugar(es):** Open Kennedy: lunes y martes; Open Kennedy desde las 19:00hrs: miércoles a domingo; Mallplaza Antofagasta: lunes a miércoles
 - **Tarjetas:** Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Mastercard
-- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-01-01 → 2026-09-30
+- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago, Región de Antofagasta · **Vigencia:** 2026-01-01 → 2026-09-30
 - **Condiciones (texto del banco):**
   ```
   Conoce el detalle
@@ -2270,6 +2487,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero
 
 ### Milá — Banco Falabella
+- *Restaurante que fusiona cocina mediterránea y chilena, con platos frescos y creativos*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** Mall Vivo Imperio: Todos los días; Alto Las Condes: Lunes y martes
@@ -2286,6 +2504,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila
 
 ### Milán — Santander
+- *Sandwich Gourmet, Hamburguesas, Pizzas, Crepes y mucho mas*
 - **Descuento:** 40% de dcto. todos los miércoles. · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Inés de Suarez 1330 y Andres Bello 580, Temuco; Temuco
@@ -2305,6 +2524,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/milan
 
 ### MISCELANEO — Banco Falabella
+- *Restaurante que fusiona sabores internacionales en un ambiente moderno*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Martes, Miércoles, Jueves, Viernes, Sábado · **Horario:** —
 - **Lugar(es):** Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana
@@ -2324,9 +2544,10 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/miscelaneo
 
 ### Muu grill — Banco Falabella
+- *Restaurante especializado en carnes a la parrilla y cortes premium*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
-- **Lugar(es):** Mallplaza Oeste: Todos los días; Mallplaza Egaña: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mallplaza Los Dominicos: Todos los días; AV Isidora Goyenechea 3000, las condes: Todos los días; Vivo panorámico: Todos los días; Mercado Bulnes: Todos los días; Costanera Center: Todos los días; Mall Marina Viña: Todos los días; Mallplaza Antofagasta: Lunes a miércoles
+- **Lugar(es):** Costanera Center: Todos los días; AV Isidora Goyenechea 3000, las condes: Todos los días; Mercado Bulnes: Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mall Marina Viña: Todos los días; Mallplaza Antofagasta: Lunes a miércoles
 - **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabella
 - **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago, Región de Valparaíso · **Vigencia:** 2026-01-01 → 2026-09-30
 - **Condiciones (texto del banco):**
@@ -2334,24 +2555,23 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Conoce el detalle
   Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
   Válido en locales:
+  - Costanera Center: Todos los días
+  - AV Isidora Goyenechea 3000, las condes: Todos los días
+  - Mercado Bulnes: Todos los días
   - Mallplaza Oeste: Todos los días
-  - Mallplaza Egaña: Todos los días
+  - Mallplaza Los Dominicos: Todos los días
   - Mallplaza Vespucio: Todos los días
   - Mallplaza Tobalaba: Todos los días
-  - Mallplaza Los Dominicos: Todos los días
-  - AV Isidora Goyenechea 3000, las condes: Todos los días
-  - Vivo panorámico: Todos los días
-  - Mercado Bulnes: Todos los días
-  - Costanera Center: Todos los días
   - Mall Marina Viña: Todos los días
   - Mallplaza Antofagasta: Lunes a miércoles
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill
 
 ### Muu Steak — Banco Falabella
+- *Es una cadena de restaurantes en Chile, parte del Grupo Mil Sabores, especializada en cortes de carne de alta calidad y*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.) · **Tope:** Sin tope
 - **Días:** Lunes, Martes · **Horario:** —
-- **Lugar(es):** — (ver condiciones)
+- **Lugar(es):** Alto Las Condes: Lunes y Martes
 - **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
 - **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-01-01 → 2026-09-30
 - **Condiciones (texto del banco):**
@@ -2360,12 +2580,29 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
   - Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.
   Condiciones:
-  - Solo Presencial en Alto Las Condes.
-  - Todos los Lunes y Martes
+  - Alto Las Condes: Lunes y Martes
+  - Exclusivo presencial
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/muu-steak
 
+### Naoki — Banco Falabella
+- *Restaurante japonés de alta gama, reconocido por su sushi y platos tradicionales*
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Lunes · **Horario:** —
+- **Lugar(es):** Av Vitacura 3875, Vitacura
+- **Tarjetas:** CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-04-30 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  Conoce el detalle
+  Descuento: 40% dcto sin tope con CMR Elite los lunes
+  Válido en locales:
+  - Av Vitacura 3875, Vitacura
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/naoki
+
 ### Naoki — Santander
+- *Sabores y técnicas japonesas se combinan con elementos locales de la costa chilena para crear una experiencia gastronómi*
 - **Descuento:** 40%. dcto. todos los miércoles · **Tope:** $100.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Av. Vitacura 3875, Vitacura; Vitacura
@@ -2385,6 +2622,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/naoki-2
 
 ### Nelí — Banco Falabella
+- *Nelí es un restaurante contemporáneo del grupo Margó que destaca por su propuesta gastronómica versátil: aperitivos crea*
 - **Descuento:** 40% (40% dcto sin tope pagando con CMR y 30% dcto sin tope pagando con débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Boulevard Parque Arauco - Av. Pdte. Kennedy 5413, local 363 A, piso 1, Las Condes
@@ -2401,7 +2639,27 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/neli
 
+### Nomade Nikkei — Banco Falabella
+- **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
+- **Días:** Miércoles · **Horario:** —
+- **Lugar(es):** Buin; Espacio Villaseca - Villaseca 445, Buin, Región Metropolitana
+- **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  Sigue estos pasos
+  - Has tu reserva en Nomade Nikkei
+  - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
+  - Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.
+  Condiciones:
+  *Solo Presencial
+  - Todos los Miércoles
+  *Dirección: Espacio Villaseca - Villaseca 445, Buin, Región Metropolitana
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/nomade-nikkei
+
 ### Oh Bok — Santander
+- *Autentica parrilla Koreana*
 - **Descuento:** 40% dcto. todos los jueves · **Tope:** $40.000
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** Av. Vitacura 4085 y Av. Vitacura 7261,Vitacura; Vitacura
@@ -2421,7 +2679,22 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://banco.santander.cl/beneficios/promociones/oh-bok
 
+### Panchita — Banco Falabella
+- *Panchita es un reconocido restaurante de cocina peruana y tradicional criolla, fundado por el famoso chef Gastón Acurio*
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Lunes, Martes, Miércoles, Jueves, Viernes · **Horario:** Descuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00
+- **Lugar(es):** — (ver condiciones)
+- **Tarjetas:** CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2025-11-01 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  Conoce el detalle
+  Descuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/panchita
+
 ### Paris texas — Banco Falabella
+- *Una cadena estilo Tex‑Mex y americana ubicada en Mallplaza, famosa por sus ribs jugosas, hamburguesas artesanales y papa*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves · **Horario:** —
 - **Lugar(es):** Paris Texas Mallplaza Vespucio: lunes a jueves
@@ -2436,25 +2709,8 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-paris-texas
 
-### Patio Bulnes Restobar — Banco Falabella
-- **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
-- **Días:** Lunes · **Horario:** —
-- **Lugar(es):** Buin; Manuel Bulnes 491, comuna de Buin, Región Metropolitana
-- **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
-- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-06-01 → 2026-09-30
-- **Condiciones (texto del banco):**
-  ```
-  Sigue estos pasos
-  - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
-  - Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.
-  Condiciones:
-  *Solo Presencial
-  - Todos los Lunes
-  *Dirección: Manuel Bulnes 491, comuna de Buin, Región Metropolitana
-  ```
-- **URL:** https://www.bancofalabella.cl/descuentos/detalle/patio-bulnes-restobar
-
 ### Petit — Banco Falabella
+- *Petit Cafetería es una marca de bollería premium y café de especialidad en Santiago*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** Alto las Condes
@@ -2470,6 +2726,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/petit
 
 ### PF Chang’s — Santander
+- *Lo mejor de la comida asiatica*
 - **Descuento:** 40% dcto. todos los miércoles · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Isidora Goyenechea 2940, Parque Arauco y Alto Las Condes, Las Condes; Las Condes
@@ -2489,6 +2746,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/pfchang
 
 ### Piegari — Santander
+- *Cocina italiana tradicional*
 - **Descuento:** 40% dcto. todos los miercoles. · **Tope:** $100.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Nueva Costanera 4092, Vitacura; Vitacura
@@ -2509,6 +2767,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/piegari-2
 
 ### Pizzería Capri — Santander
+- *Disfruta de la comida italiana como pizzas, pastas y más*
 - **Descuento:** 40% dcto. todos los lunes · **Tope:** $40.000
 - **Días:** Lunes · **Horario:** —
 - **Lugar(es):** Avenida El Rodeo 13.052, Lo Barnechea; Gerónimo Alderete 1423, Vitacura; Lo Barnechea, Vitacura
@@ -2528,6 +2787,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/pizzeria-capri
 
 ### Pristino — Banco Falabella
+- *Prístino es un restaurante en Santiago de Chile enfocado en la cocina chilena contemporánea y de autor, creado por el re*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes) · **Tope:** Sin tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** El Coihue 3807, Vitacura, Región Metropolitana
@@ -2543,6 +2803,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/pristino
 
 ### Prístino — Santander
+- *Preparaciones chilenas gourmet*
 - **Descuento:** 50% dcto. todos los sábados · **Tope:** $50.000
 - **Días:** Sábado · **Horario:** —
 - **Lugar(es):** El Coihue 3807, Vitacura; Vitacura
@@ -2562,6 +2823,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/pristino
 
 ### Punta del Sol — Santander
+- *Cocina del mar*
 - **Descuento:** 50% de dcto. todos los lunes · **Tope:** $50.000
 - **Días:** Lunes · **Horario:** —
 - **Lugar(es):** Av. del Mar 2730, Maitencillo
@@ -2581,6 +2843,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/punta-del-sol
 
 ### Ramblas — Santander
+- *Bar con música en vivo*
 - **Descuento:** 40% dcto. todos los martes · **Tope:** $40.000
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Manuel Montt 370, Providencia
@@ -2599,6 +2862,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/ramblas
 
 ### Restaurante Hotel AWA — Santander
+- *Cocina contemporánea con platos internacionales con técnicas tradicionales locales*
 - **Descuento:** 40% dcto. todos los jueves · **Tope:** $40.000
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** Ruta 225, Km. 27, Puerto Varas; Puerto Varas
@@ -2619,6 +2883,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/restaurante-hotel-awa
 
 ### Roberta Ostería — Banco Falabella
+- *Roberta Ostería es una propuesta moderna ubicada en Viña del Mar y Reñaca, especializada en pizzas napolitanas al horno*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -2637,6 +2902,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/roberta-osteria
 
 ### ROCOTO — Banco Falabella
+- *Fundado hace más de 14 años, este referente de la cocina peruana en Santiago se ha destacado por su premiado delivery y*
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Sábado · **Horario:** —
 - **Lugar(es):** Avenida Pedro de Valdivia 2573, Ñuñoa, Chile (solo delivery y retiro); Avenida las Condes 7134, Las Condes, Chile; Roberto Espinoza 718, Santiago Centro, Chile; Partenón 1727, Vitacura, Chile; Avenida Francisco Bilbao 2752, Providencia, Chile
@@ -2659,6 +2925,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/rocoto
 
 ### Rocoto — Santander
+- *Sabores peruanos auténticos en tu hogar*
 - **Descuento:** 30% dcto. todos los miércoles · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro; Vitacura, Providencia, Santiago
@@ -2679,6 +2946,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/rocoto
 
 ### Rubaiyat — Santander
+- *Celebra los 10 años de Rubaiyat Chile con un exclusivo menú de degustación junto al chef Diego Rojas*
 - **Descuento:** 30% dcto. en exclusiva experiencia gastronómica Rubaiyat · **Tope:** —
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Evento a realizarse el 28 de julio de 2026 en Rubaiyat Chile, Av. Nueva Costanera 4031, Vitacura
@@ -2697,7 +2965,23 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://banco.santander.cl/beneficios/promociones/rubaiyat
 
+### Sabor y Aroma — Banco Falabella
+- *Restaurante ubicado en La Dehesa (Lo Barnechea) que fusiona cocina peruana y asiática en platos como ceviches, tiraditos*
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Jueves · **Horario:** —
+- **Lugar(es):** Av. Raúl Labbé 12559
+- **Tarjetas:** CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-01-02 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  Sigue estos pasos
+  *Av. Raúl Labbé 12559
+  *¿Aún no tienes tu CMR? Pídela aquí
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-sabor-y-aroma
+
 ### Sakura — Banco Falabella
+- *Restaurante inspirado en la gastronomía japonesa, famoso por su sushi y platos tradicionales*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella presencial y online los sábados) · **Tope:** Sin Tope
 - **Días:** Sábado · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -2718,6 +3002,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/sakura
 
 ### Sakura — Santander
+- *Mucho más que sushi*
 - **Descuento:** 40% dcto. en Rolls todos los viernes. · **Tope:** $40.000
 - **Días:** Viernes · **Horario:** —
 - **Lugar(es):** Las Condes, Lo Barnechea, Ñuñoa, Vitacura, La Reina
@@ -2740,6 +3025,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/sakura-4
 
 ### Santa Brasa — Santander
+- *Increíbles cortes de carne*
 - **Descuento:** 50% dcto. todos los martes · **Tope:** $50.000
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Alonso de Córdova 4260, Vitacura
@@ -2758,6 +3044,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/santa-brasa-3
 
 ### Santo Aire — Santander
+- *Gastronomía, cava y bar*
 - **Descuento:** 40% dcto. todos los jueves. · **Tope:** $100.000
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** Lincoyán 142, Concepción
@@ -2776,23 +3063,8 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://banco.santander.cl/beneficios/promociones/santo-aire
 
-### Santo Aire Restobar — Banco Falabella
-- **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
-- **Días:** Jueves · **Horario:** —
-- **Lugar(es):** Concepción
-- **Tarjetas:** Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Mastercard
-- **Modalidad:** Presencial · **Región:** Región de Biobío · **Vigencia:** 2026-08-01 → 2026-09-30
-- **Condiciones (texto del banco):**
-  ```
-  Sigue estos pasos
-  - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
-  - Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.
-  Condiciones:
-  *Solo Presencial
-  ```
-- **URL:** https://www.bancofalabella.cl/descuentos/detalle/santo-aire-restobar
-
 ### Sello de Raza — Banco Falabella
+- *Sello de Raza es un restaurante de cocina chilena y parrilla, reconocido por sus cortes de carne y preparaciones tradici*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Valdivia
@@ -2809,6 +3081,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/sello-de-raza
 
 ### Sempre Pasta — Banco Falabella
+- *Sempre Pasta es un restaurante italiano, especializado en pastas frescas, lasañas y recetas inspiradas en la tradición i*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Concepción
@@ -2824,7 +3097,28 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/sempre-pasta
 
+### Sicily Pizzería — Banco Falabella
+- *Sicily es una pizzería contemporánea con inspiración siciliana, que destaca por sus masas artesanales de larga fermentac*
+- **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los lunes) · **Tope:** Sin Tope
+- **Días:** Lunes · **Horario:** —
+- **Lugar(es):** Sicily: Alonso de Córdova 4226, 7630000 Vitacura, Región Metropolitana
+- **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabella
+- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-07-01 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  Conoce el detalle
+  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los lunes
+  Válido en locales:
+  - Sicily: Alonso de Córdova 4226, 7630000 Vitacura, Región Metropolitana
+  - Todos los lunes
+  Condiciones:
+  - El descuento no es acumulable con otras promociones
+  - Válido solo para compras presenciales en Sicily
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/sicily-pizzeria
+
 ### Siete cortes — Banco Falabella
+- *Restaurante parrillero que ofrece cortes premium y carnes a la brasa*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** Open Kennedy desde las 19:00: miércoles a domingo
 - **Lugar(es):** Open Kennedy: lunes y martes; Open Kennedy desde las 19:00: miércoles a domingo
@@ -2841,6 +3135,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes
 
 ### Siete Olas — Santander
+- *Las mejores pizzas napolitanas y hamburguesas artesanales*
 - **Descuento:** 50%. dcto. todos los miércoles · **Tope:** $50.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Av. Cachagua 269, Zapallar; Zapallar
@@ -2860,6 +3155,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/siete-olas
 
 ### Social — Banco Falabella
+- *Social Bar & Cocinas es un popular espacio gastronómico y de entretenimiento en Santiago, conocido por su ambiente relaj*
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Viernes · **Horario:** —
 - **Lugar(es):** Social
@@ -2878,6 +3174,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/social
 
 ### Social Bar — Santander
+- *Burgas, drinks y el good food mood que ya amas*
 - **Descuento:** 40% dcto. todos los lunes · **Tope:** $40.000
 - **Días:** Lunes · **Horario:** —
 - **Lugar(es):** Av. Vitacura 3396, Vitacura; Vitacura
@@ -2898,6 +3195,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/social-bar
 
 ### Sociedad 0306 — Santander
+- *4 cocinas de autor + Bar*
 - **Descuento:** 40% dcto. todos los martes · **Tope:** $40.000
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Av. Sta. Isabel 0306, Providencia; Providencia
@@ -2917,6 +3215,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/sociedad-0306
 
 ### Streat Burger — Santander
+- *Streat Makes You Happy*
 - **Descuento:** 40% dcto. todos los miércoles. · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Las Condes, Lo Barnechea, Ñuñoa, La Florida, San Francisco de Mostazal, Hijuelas, Chillán, San Fernando, Llay Llay
@@ -2937,6 +3236,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/streat-burger
 
 ### Sumoku — Santander
+- *Comida del mar que garantiza un viaje entre clásicos sabores japoneses con notas sofisticadas de alta cocina*
 - **Descuento:** Hasta 50%. dcto. todos los martes y miercoles · **Tope:** $50.000
 - **Días:** Martes, Miércoles · **Horario:** —
 - **Lugar(es):** Bellavista 703, Reñaca.Con Tarjetas de Crédito Santander American Express; Reñaca
@@ -2963,6 +3263,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/sumoku
 
 ### Sushi & Burger Home — Banco Falabella
+- *Sushi & Burger Home es una propuesta gastronómica que fusiona sushi y hamburguesas gourmet en un mismo lugar, con un est*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles) · **Tope:** Sin Tope
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Viña del Mar y Reñaca; Sushi & Burger Home
@@ -2982,6 +3283,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/sushi-y-burger-home
 
 ### Sushi Home — Banco Falabella
+- *Sushi Home se define como una experiencia gastronómica nikkei , que va más allá de un simple restaurante de sushi*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los jueves) · **Tope:** Sin Tope
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** Reñaca; Sushi Home
@@ -3018,26 +3320,11 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://banco.santander.cl/beneficios/promociones/sushi-home
 
-### Taberna Nose Puerto Varas — Banco Falabella
-- **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
-- **Días:** Viernes · **Horario:** —
-- **Lugar(es):** Puerto Varas
-- **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
-- **Modalidad:** Presencial · **Región:** Región de Los Lagos · **Vigencia:** 2026-08-01 → 2026-09-30
-- **Condiciones (texto del banco):**
-  ```
-  Conoce el detalle
-  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
-  Condiciones:
-  - El descuento no es acumulable con otras promociones
-  - Válido solo para compras presenciales en Taberna Nose Puerto Varas
-  ```
-- **URL:** https://www.bancofalabella.cl/descuentos/detalle/taberna-nose-puerto-varas
-
 ### Take a wok — Banco Falabella
+- *Restaurante de comida asiática rápida en Santiago, especializado en woks personalizados con ingredientes frescos*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
-- **Lugar(es):** Mallplaza Oeste: Todos los días; Mallplaza Egaña: lunes a jueves; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mallplaza Antofagasta: Lunes a viernes; Vivo Imperio: sábados y domingos; Parque Arauco : Todos los días
+- **Lugar(es):** Parque Arauco : Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Vivo Imperio: Sábado y Domingo; Mallplaza Egaña: Lunes a Jueves; Mallplaza Antofagasta: Lunes a viernes
 - **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
 - **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-01-01 → 2026-09-30
 - **Condiciones (texto del banco):**
@@ -3045,18 +3332,19 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Conoce el detalle
   Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
   Válido en locales:
+  - Parque Arauco : Todos los días
   - Mallplaza Oeste: Todos los días
-  - Mallplaza Egaña: lunes a jueves
   - Mallplaza Los Dominicos: Todos los días
   - Mallplaza Vespucio: Todos los días
   - Mallplaza Tobalaba: Todos los días
+  - Vivo Imperio: Sábado y Domingo
+  - Mallplaza Egaña: Lunes a Jueves
   - Mallplaza Antofagasta: Lunes a viernes
-  - Vivo Imperio: sábados y domingos
-  - Parque Arauco : Todos los días
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok
 
 ### Tanta — Banco Falabella
+- *Cadena de restaurantes creada por Gastón Acurio, presente en Chile, que ofrece cocina peruana contemporánea*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lunes a miércoles
@@ -3076,6 +3364,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta
 
 ### Taringa — Santander
+- *Comida, cocteles, música y más*
 - **Descuento:** 40% dcto. todos los sábados. · **Tope:** $40.000
 - **Días:** Sábado · **Horario:** —
 - **Lugar(es):** Av. Vitacura 5336, Vitacura; Vitacura
@@ -3112,6 +3401,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/taurus-steak-bar
 
 ### Taurus Steak Bar Chillan — Banco Falabella
+- *Taurus Steakbar en Chillán es un destacado restaurante de carnes con más de 25 años de experiencia, posicionado como el*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) · **Tope:** Sin Tope
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Chillan; Taurus Steak Bar Chillan
@@ -3130,9 +3420,30 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/taurus-steak-bar-chillan
 
+### Taurus Steak Bar Chillan — Banco Falabella
+- *Taurus Steakbar en Chillán es un destacado restaurante de carnes con más de 25 años de experiencia, posicionado como el*
+- **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) · **Tope:** Sin Tope
+- **Días:** Martes · **Horario:** —
+- **Lugar(es):** Chillan; Taurus Steak Bar Chillan
+- **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** $, 2, a, :, p, r, o, p, s, :, b, e, n, e, f, i, t, C, a, r, d, s, D, a, t, a, :, 5, 1, :, r, e, g, i, o, n · **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  Conoce el detalle
+  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes
+  Válido en locales:
+  - Taurus Steak Bar Chillan
+  - Todos los Martes
+  Condiciones:
+  - El descuento no es acumulable con otras promociones
+  - Válido solo para compras presenciales en Taurus Steak Bar Chillan
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/taurus-steak-bar-chillan
+
 ### Terraangamos — Banco Falabella
+- *Restaurante especializado en Mariscos, Carnes, Pescados y Parrilladas*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin tope
-- **Días:** Jueves · **Horario:** —
+- **Días:** Martes · **Horario:** —
 - **Lugar(es):** Talcahuano; Colón 1062, 4260000 Talcahuano, Bío Bío
 - **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
 - **Modalidad:** Presencial · **Región:** Región de Biobío · **Vigencia:** 2026-01-01 → 2026-09-30
@@ -3145,26 +3456,8 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/terraangamos
 
-### Terralenga Hualpen — Banco Falabella
-- **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) · **Tope:** Sin Tope
-- **Días:** Martes · **Horario:** —
-- **Lugar(es):** Terralenga Hualpen
-- **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
-- **Modalidad:** Presencial · **Región:** Región de Biobío · **Vigencia:** 2026-01-01 → 2026-09-30
-- **Condiciones (texto del banco):**
-  ```
-  Conoce el detalle
-  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes
-  Válido en locales:
-  - Terralenga Hualpen
-  - Todos los Martes
-  Condiciones:
-  - El descuento no es acumulable con otras promociones
-  - Válido solo para compras presenciales.
-  ```
-- **URL:** https://www.bancofalabella.cl/descuentos/detalle/terralenga-hualpen
-
 ### Terralomas Concepción — Banco Falabella
+- *Terralomas Restaurant, en Lomas San Andrés, Concepción, ofrece gastronomía marina con productos frescos del día*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin tope
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Concepción; Ramón Carrasco 355, Bío Bío
@@ -3183,6 +3476,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/terralomas-concepcion
 
 ### Tigre Bravo — Banco Falabella
+- *Tigre Bravo es la vibrante propuesta del chef Emilio Peschiera, pionero de la cocina peruana en Chile*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Mall Arauco Maipú
@@ -3201,6 +3495,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/tigre-bravo
 
 ### Tololo Beach  — Banco Falabella
+- *Tololo Beach es un restaurante frente al mar en La Serena, reconocido por su propuesta basada en pescados, mariscos y co*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Lunes · **Horario:** —
 - **Lugar(es):** La Serena
@@ -3217,6 +3512,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/tololo-beach
 
 ### Tololo Beef — Banco Falabella
+- *Tololo Beef es un restaurante especializado en carnes a la parrilla, cortes premium y cocina internacional*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Lunes · **Horario:** —
 - **Lugar(es):** La Serena
@@ -3233,6 +3529,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/tololo-beef
 
 ### Toro Bayo — Santander
+- *Torobayo*
 - **Descuento:** 40% dcto. todos los miércoles · **Tope:** $40.000
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Cam. Las Rastras, km 2,3, Talca; Talca
@@ -3251,6 +3548,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/torobayo
 
 ### Tropera Drugstore — Banco Falabella
+- *Tropera Drugstore es un bar‑restaurante y cervecería artesanal que combina su propia línea de cervezas Tropera con una p*
 - **Descuento:** 40% (40% dcto pagando con CMR y 30% dcto pagando con débito sin tope.) · **Tope:** Sin tope
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Andrés de Fuenzalida 48, Providencia
@@ -3266,7 +3564,26 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/tropera-drugstore
 
+### Udon — Banco Falabella
+- *Udon es una cadena internacional especializada en cocina asiática moderna, inspirada en los sabores de Japón y el sudest*
+- **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo) · **Tope:** Sin tope
+- **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo · **Horario:** —
+- **Lugar(es):** Alto las Condes; Portal la dehesa; Costanera Center
+- **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  Conoce el detalle
+  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo
+  Válido en locales:
+  - Alto las Condes
+  - Portal la dehesa
+  - Costanera Center
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/udon
+
 ### Umami Bar Nikkei — Banco Falabella
+- *Umami Bar Nikkei es un restaurante/bar en Valdivia (sector Torobayo) especializado en cocina nikkei, que mezcla sabores*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércoles) · **Tope:** Sin Tope
 - **Días:** Miércoles · **Horario:** —
 - **Lugar(es):** Valdivia; Umami Bar Nikkei: Espacio Bayo, Valdivia, Los Ríos
@@ -3285,6 +3602,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/umami-bar-nikkei
 
 ### Vapiano — Banco Falabella
+- *Cadena internacional de comida italiana, famosa por sus pastas frescas y pizzas artesanales*
 - **Descuento:** 40% (40% dcto con CMR y 30% con Débito Banco Falabella.) · **Tope:** Sin Tope
 - **Días:** Lunes, Miércoles, Viernes, Sábado, Domingo · **Horario:** —
 - **Lugar(es):** Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana
@@ -3304,6 +3622,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/vapiano
 
 ### Vapiano — Santander
+- *Cadena internacional de comida italiana*
 - **Descuento:** 40% dcto. todos los martes y jueves · **Tope:** $40.000
 - **Días:** Martes, Jueves · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -3320,6 +3639,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/vapiano-2
 
 ### Vendetta — Banco Falabella
+- *Restaurante-bar temático en Santiago inspirado en la cultura italiana y el cine, con carta de pizzas, pastas y coctelerí*
 - **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves · **Horario:** —
 - **Lugar(es):** locales seleccionados; Mall Plaza Egaña: de lunes a jueves; Mall Plaza Los Dominicos: de lunes a jueves; Mall Plaza Vespucio: de lunes a jueves; Patio Bellavista: de lunes a jueves
@@ -3338,6 +3658,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/vendetta
 
 ### Vicenta — Santander
+- *Un espacio para disfrutar en Antofagasta*
 - **Descuento:** 40% dcto. todos los martes. · **Tope:** $100.000
 - **Días:** Martes · **Horario:** —
 - **Lugar(es):** Av. O&rsquo;Higgins 1414, Antofagasta; Antofagasta
@@ -3356,6 +3677,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://banco.santander.cl/beneficios/promociones/vicenta
 
 ### Viña Viu Manent — Banco Falabella
+- *Viña Viu Manent es una reconocida viña del Valle de Colchagua, famosa por sus vinos premium y experiencias enoturísticas*
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Viernes · **Horario:** —
 - **Lugar(es):** — (ver condiciones)
@@ -3373,6 +3695,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/vina-viu-manent
 
 ### Work/Café — Santander
+- *Comienza tu día en el mejor lugar, conoce todas las sucursales Work/Café*
 - **Descuento:** 40% dcto. todos los lunes y 30% dcto. de martes a viernes · **Tope:** Sin tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes · **Horario:** Sin tope de descuento.Horarios de Atención: | Lunes a jueves de 9:00 a 14:00 hrs y horario tarde de 15:30 a 17:00 hrs. Viernes de 9:00 a 14:00 hrs.
 - **Lugar(es):** Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú
@@ -3390,7 +3713,24 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   ```
 - **URL:** https://banco.santander.cl/beneficios/promociones/work-cafe-4
 
+### Zulu — Banco Falabella
+- *Zulu es un restaurante en Santiago con una propuesta de cocina contemporánea, enfocado en platos actuales y una experien*
+- **Descuento:** 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados) · **Tope:** Sin tope
+- **Días:** Sábado · **Horario:** —
+- **Lugar(es):** Alonso de Córdova 2337, Vitacura, Región Metropolitana
+- **Tarjetas:** CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard Elite
+- **Modalidad:** Presencial · **Región:** Región Metropolitana de Santiago · **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones (texto del banco):**
+  ```
+  Conoce el detalle
+  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados
+  Válido en locales:
+  - Alonso de Córdova 2337, Vitacura, Región Metropolitana
+  ```
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/zulu
+
 ### Zulu — Santander
+- *Disfruta de la cocina Internacional*
 - **Descuento:** 50%. dcto. todos los jueves · **Tope:** $50.000
 - **Días:** Jueves · **Horario:** —
 - **Lugar(es):** Alonso de Córdova 2337, Vitacura; Vitacura

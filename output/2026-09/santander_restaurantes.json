@@ -2,6 +2,7 @@
  {
   "banco": "Santander",
   "comercio": "Helados Timaukel",
+  "tipo": "Heladería artesanal",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles.",
@@ -39,6 +40,7 @@
  {
   "banco": "Santander",
   "comercio": "Casa Mar Sushi",
+  "tipo": "",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30% dcto. todos los miércoles.",
@@ -79,6 +81,7 @@
  {
   "banco": "Santander",
   "comercio": "De Costa a Costa",
+  "tipo": "Los mejores productos del mar",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles.",
@@ -117,6 +120,7 @@
  {
   "banco": "Santander",
   "comercio": "Rubaiyat",
+  "tipo": "Celebra los 10 años de Rubaiyat Chile con un exclusivo menú de degustación junto al chef Diego Rojas",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30% dcto. en exclusiva experiencia gastronómica Rubaiyat",
@@ -157,6 +161,7 @@
  {
   "banco": "Santander",
   "comercio": "Corrales del Sur",
+  "tipo": "El mejor corte de carne en Corrales del Sur",
   "descuento": "20%",
   "descuento_pct": 20,
   "bajada": "20% dcto. todos los lunes.",
@@ -192,6 +197,7 @@
  {
   "banco": "Santander",
   "comercio": "Punta del Sol",
+  "tipo": "Cocina del mar",
   "descuento": "50%",
   "descuento_pct": 50,
   "bajada": "50% de dcto. todos los lunes",
@@ -234,6 +240,7 @@
  {
   "banco": "Santander",
   "comercio": "Domani",
+  "tipo": "Pizzería napolitana",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los lunes",
@@ -273,6 +280,7 @@
  {
   "banco": "Santander",
   "comercio": "Santo Aire",
+  "tipo": "Gastronomía, cava y bar",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los jueves.",
@@ -312,6 +320,7 @@
  {
   "banco": "Santander",
   "comercio": "Majka",
+  "tipo": "Cocina fusión y de autor",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los jueves",
@@ -351,6 +360,7 @@
  {
   "banco": "Santander",
   "comercio": "Ramblas",
+  "tipo": "Bar con música en vivo",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los martes",
@@ -390,6 +400,7 @@
  {
   "banco": "Santander",
   "comercio": "Taurus Steak bar",
+  "tipo": "",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles.",
@@ -431,6 +442,7 @@
  {
   "banco": "Santander",
   "comercio": "Bar TPM",
+  "tipo": "",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30% dcto. todos los miércoles",
@@ -468,6 +480,7 @@
  {
   "banco": "Santander",
   "comercio": "Cosenza",
+  "tipo": "",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los viernes",
@@ -513,6 +526,7 @@
  {
   "banco": "Santander",
   "comercio": "Toro Bayo",
+  "tipo": "Torobayo",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles",
@@ -555,6 +569,7 @@
  {
   "banco": "Santander",
   "comercio": "Sushi Home",
+  "tipo": "",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles.",
@@ -593,6 +608,7 @@
  {
   "banco": "Santander",
   "comercio": "Vicenta",
+  "tipo": "Un espacio para disfrutar en Antofagasta",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los martes.",
@@ -639,6 +655,7 @@
  {
   "banco": "Santander",
   "comercio": "Vapiano",
+  "tipo": "Cadena internacional de comida italiana",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los martes y jueves",
@@ -677,6 +694,7 @@
  {
   "banco": "Santander",
   "comercio": "1213",
+  "tipo": "Los mejores Sánguches & Hamburguesas",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los domingo",
@@ -718,6 +736,7 @@
  {
   "banco": "Santander",
   "comercio": "Hitomi Tomi",
+  "tipo": "Descubre los sabores de Asia en Hitomi Tomi",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los jueves",
@@ -759,6 +778,7 @@
  {
   "banco": "Santander",
   "comercio": "Santa Brasa",
+  "tipo": "Increíbles cortes de carne",
   "descuento": "50%",
   "descuento_pct": 50,
   "bajada": "50% dcto. todos los martes",
@@ -803,6 +823,7 @@
  {
   "banco": "Santander",
   "comercio": "Pizzería Capri",
+  "tipo": "Disfruta de la comida italiana como pizzas, pastas y más",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los lunes",
@@ -845,6 +866,7 @@
  {
   "banco": "Santander",
   "comercio": "Zulu",
+  "tipo": "Disfruta de la cocina Internacional",
   "descuento": "50%",
   "descuento_pct": 50,
   "bajada": "50%. dcto. todos los jueves",
@@ -887,6 +909,7 @@
  {
   "banco": "Santander",
   "comercio": "Estación Tropera",
+  "tipo": "Tropera es un sueño colectivo, nacido entre Italia y la Patagonia",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los viernes",
@@ -928,6 +951,7 @@
  {
   "banco": "Santander",
   "comercio": "Exò Nuit",
+  "tipo": "restaurante y bar de cocina japonesa–mediterránea",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30%. dcto. todos los miércoles",
@@ -969,6 +993,7 @@
  {
   "banco": "Santander",
   "comercio": "Delivery Gourmet",
+  "tipo": "Tus comidas favoritas en un solo pedido",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30% dcto. todos los miércoles",
@@ -1011,6 +1036,7 @@
  {
   "banco": "Santander",
   "comercio": "Curry",
+  "tipo": "Comida Tailandesa",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30% dcto. todos los miércoles",
@@ -1052,6 +1078,7 @@
  {
   "banco": "Santander",
   "comercio": "Rocoto",
+  "tipo": "Sabores peruanos auténticos en tu hogar",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30% dcto. todos los miércoles",
@@ -1092,6 +1119,7 @@
  {
   "banco": "Santander",
   "comercio": "Estró",
+  "tipo": "Cocina chilena con los mejores productos locales",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los jueves.",
@@ -1136,6 +1164,7 @@
  {
   "banco": "Santander",
   "comercio": "Social Bar",
+  "tipo": "Burgas, drinks y el good food mood que ya amas",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los lunes",
@@ -1177,6 +1206,7 @@
  {
   "banco": "Santander",
   "comercio": "Lima Fusión",
+  "tipo": "Gastronomía Peruana, Criollas y Nikkei se reinventa con un toque único",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles.",
@@ -1219,6 +1249,7 @@
  {
   "banco": "Santander",
   "comercio": "Prístino",
+  "tipo": "Preparaciones chilenas gourmet",
   "descuento": "50%",
   "descuento_pct": 50,
   "bajada": "50% dcto. todos los sábados",
@@ -1262,6 +1293,7 @@
  {
   "banco": "Santander",
   "comercio": "Streat Burger",
+  "tipo": "Streat Makes You Happy",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles.",
@@ -1304,6 +1336,7 @@
  {
   "banco": "Santander",
   "comercio": "Expendio Montt",
+  "tipo": "Los mejores tacos y cervezas",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30% dcto. todos los miércoles.",
@@ -1345,6 +1378,7 @@
  {
   "banco": "Santander",
   "comercio": "Bar Porfirio",
+  "tipo": "Tacos, tragos y pura buena onda para cortar la semana con sabor",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30% dcto. todos los miércoles.",
@@ -1388,6 +1422,7 @@
  {
   "banco": "Santander",
   "comercio": "Kento Sushi",
+  "tipo": "Los mejores sushi, nikkei, Sin arroz, Vegetarianos, Ceviche y más",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30% dcto. todos los miércoles.",
@@ -1430,6 +1465,7 @@
  {
   "banco": "Santander",
   "comercio": "Taringa",
+  "tipo": "Comida, cocteles, música y más",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los sábados.",
@@ -1473,6 +1509,7 @@
  {
   "banco": "Santander",
   "comercio": "Brunetti",
+  "tipo": "Cafetería y restaurant",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles.",
@@ -1515,6 +1552,7 @@
  {
   "banco": "Santander",
   "comercio": "Hijo del Inca",
+  "tipo": "Restaurante peruano",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30% dcto. todos los miércoles",
@@ -1558,6 +1596,7 @@
  {
   "banco": "Santander",
   "comercio": "Siete Olas",
+  "tipo": "Las mejores pizzas napolitanas y hamburguesas artesanales",
   "descuento": "50%",
   "descuento_pct": 50,
   "bajada": "50%. dcto. todos los miércoles",
@@ -1602,6 +1641,7 @@
  {
   "banco": "Santander",
   "comercio": "Brunapoli",
+  "tipo": "Vive la experiencia de una auténtica pizza Napolitana",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los martes",
@@ -1648,6 +1688,7 @@
  {
   "banco": "Santander",
   "comercio": "Le Vice Chocolat",
+  "tipo": "Exquisitos chocolates de la más alta calidad, elaborados con ingredientes seleccionados cuidadosamente y un toque artesa",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los jueves.",
@@ -1690,6 +1731,7 @@
  {
   "banco": "Santander",
   "comercio": "Berlin Döner Kebab",
+  "tipo": "Restaurant de sandwich turco-alemanes",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30% dcto. todos los miércoles",
@@ -1728,6 +1770,7 @@
  {
   "banco": "Santander",
   "comercio": "Chicken Love You",
+  "tipo": "Los mejores sandwich de pollo frito",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles",
@@ -1770,6 +1813,7 @@
  {
   "banco": "Santander",
   "comercio": "Juan Esparraguito",
+  "tipo": "Mucho más que frutas y verduras, productos de temporada y seleccionados uno a uno",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30% dcto. todos los miércoles.",
@@ -1814,6 +1858,7 @@
  {
   "banco": "Santander",
   "comercio": "Oh Bok",
+  "tipo": "Autentica parrilla Koreana",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los jueves",
@@ -1855,6 +1900,7 @@
  {
   "banco": "Santander",
   "comercio": "Milán",
+  "tipo": "Sandwich Gourmet, Hamburguesas, Pizzas, Crepes y mucho mas",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% de dcto. todos los miércoles.",
@@ -1897,6 +1943,7 @@
  {
   "banco": "Santander",
   "comercio": "El Mundo del Vino",
+  "tipo": "El mejor vino para ti",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los lunes en viñas seleccionadas.",
@@ -1941,6 +1988,7 @@
  {
   "banco": "Santander",
   "comercio": "Bozzo",
+  "tipo": "Disfruta los mejores chocolates, receta de tradición italiana",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los martes en bozzochocolates.cl y 20% dcto. en tiendas",
@@ -1983,6 +2031,7 @@
  {
   "banco": "Santander",
   "comercio": "El Taller",
+  "tipo": "Helados Artesanales de Alta Calidad, reconocidos entre los mejores del Mundo",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los martes",
@@ -2028,6 +2077,7 @@
  {
   "banco": "Santander",
   "comercio": "Ciros",
+  "tipo": "Comida chilena y de ultramar",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los sábados",
@@ -2069,6 +2119,7 @@
  {
   "banco": "Santander",
   "comercio": "Ari Nikkei",
+  "tipo": "Nuevo concepto de sushi",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30%. dcto. todos los viernes",
@@ -2111,6 +2162,7 @@
  {
   "banco": "Santander",
   "comercio": "La Mulata",
+  "tipo": "La mejor cocina fusión peruana - japonesa",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles.",
@@ -2153,6 +2205,7 @@
  {
   "banco": "Santander",
   "comercio": "Sumoku",
+  "tipo": "Comida del mar que garantiza un viaje entre clásicos sabores japoneses con notas sofisticadas de alta cocina",
   "descuento": "50%",
   "descuento_pct": 50,
   "bajada": "Hasta 50%. dcto. todos los martes y miercoles",
@@ -2199,6 +2252,7 @@
  {
   "banco": "Santander",
   "comercio": "Sociedad 0306",
+  "tipo": "4 cocinas de autor + Bar",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los martes",
@@ -2241,6 +2295,7 @@
  {
   "banco": "Santander",
   "comercio": "Infiltrados",
+  "tipo": "Deléitate con carnes, pescados y mariscos",
   "descuento": "50%",
   "descuento_pct": 50,
   "bajada": "Hasta 50%. dcto. todos los días viernes y sábados",
@@ -2290,6 +2345,7 @@
  {
   "banco": "Santander",
   "comercio": "Do Sushi",
+  "tipo": "Disfruta de la cocina Japonesa",
   "descuento": "50%",
   "descuento_pct": 50,
   "bajada": "50% dcto. todos los domingos",
@@ -2335,6 +2391,7 @@
  {
   "banco": "Santander",
   "comercio": "Carmine",
+  "tipo": "Raíces profundas de una tradición gastronómica que ha sido transmitida de generación en generación",
   "descuento": "50%",
   "descuento_pct": 50,
   "bajada": "50% dcto. todos los jueves",
@@ -2380,6 +2437,7 @@
  {
   "banco": "Santander",
   "comercio": "Restaurante Hotel AWA",
+  "tipo": "Cocina contemporánea con platos internacionales con técnicas tradicionales locales",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los jueves",
@@ -2421,6 +2479,7 @@
  {
   "banco": "Santander",
   "comercio": "ICA",
+  "tipo": "Conoce la mejor cocina Peruana Criolla popular",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los sábados",
@@ -2461,6 +2520,7 @@
  {
   "banco": "Santander",
   "comercio": "La Dicha",
+  "tipo": "Descubre los mejores platos gourmet",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los lunes.",
@@ -2506,6 +2566,7 @@
  {
   "banco": "Santander",
   "comercio": "Cosecha del Mar",
+  "tipo": "Explora el mundo del salmón",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los viernes",
@@ -2552,6 +2613,7 @@
  {
   "banco": "Santander",
   "comercio": "Barra Andalúe",
+  "tipo": "Disfruta de la mejor gastronomía y tragos de autor de San Pedro de la Paz",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles.",
@@ -2592,6 +2654,7 @@
  {
   "banco": "Santander",
   "comercio": "Dominga Nikkei",
+  "tipo": "Sushi Nikkei, Omakase, Coctelería de autor asiática y mucho más",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40%. dcto. todos los viernes",
@@ -2636,6 +2699,7 @@
  {
   "banco": "Santander",
   "comercio": "Naoki",
+  "tipo": "Sabores y técnicas japonesas se combinan con elementos locales de la costa chilena para crear una experiencia gastronómi",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40%. dcto. todos los miércoles",
@@ -2678,6 +2742,7 @@
  {
   "banco": "Santander",
   "comercio": "Caoba Bar",
+  "tipo": "Disfruta de un increíble bar",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los lunes",
@@ -2718,6 +2783,7 @@
  {
   "banco": "Santander",
   "comercio": "PF Chang’s",
+  "tipo": "Lo mejor de la comida asiatica",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles",
@@ -2760,6 +2826,7 @@
  {
   "banco": "Santander",
   "comercio": "Augusta Bar",
+  "tipo": "Disfruta de una variada gastronomía y cócteles de autor",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles.",
@@ -2801,6 +2868,7 @@
  {
   "banco": "Santander",
   "comercio": "La Bifería",
+  "tipo": "Cortes únicos de carne a la parrilla",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles",
@@ -2841,6 +2909,7 @@
  {
   "banco": "Santander",
   "comercio": "Hijo del Sol",
+  "tipo": "Disfruta del rico sabor de una causa limeña",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles",
@@ -2881,6 +2950,7 @@
  {
   "banco": "Santander",
   "comercio": "Local Burger",
+  "tipo": "Disfruta las mejores hamburguesas",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miércoles.",
@@ -2918,6 +2988,7 @@
  {
   "banco": "Santander",
   "comercio": "Fork",
+  "tipo": "Platos preparados todos los días, frescos y sin conservantes",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los viernes.",
@@ -2962,6 +3033,7 @@
  {
   "banco": "Santander",
   "comercio": "Work/Café",
+  "tipo": "Comienza tu día en el mejor lugar, conoce todas las sucursales Work/Café",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los lunes y 30% dcto. de martes a viernes",
@@ -3018,6 +3090,7 @@
  {
   "banco": "Santander",
   "comercio": "eCook",
+  "tipo": "Lleva tus platos favoritos con el mejor descuento",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los martes y jueves",
@@ -3061,6 +3134,7 @@
  {
   "banco": "Santander",
   "comercio": "Dominó",
+  "tipo": "Los martes ahora son Dinámicos",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los martes.",
@@ -3102,6 +3176,7 @@
  {
   "banco": "Santander",
   "comercio": "CuracaRibs",
+  "tipo": "Disfruta carnes ahumadas 100% a leña",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos lunes online.",
@@ -3142,6 +3217,7 @@
  {
   "banco": "Santander",
   "comercio": "Sakura",
+  "tipo": "Mucho más que sushi",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. en Rolls todos los viernes.",
@@ -3185,6 +3261,7 @@
  {
   "banco": "Santander",
   "comercio": "Corrales del Sur",
+  "tipo": "El mejor Angus nacional en Corrales del Sur",
   "descuento": "30%",
   "descuento_pct": 30,
   "bajada": "30% dcto. todos los jueves.",
@@ -3230,6 +3307,7 @@
  {
   "banco": "Santander",
   "comercio": "Burger King",
+  "tipo": "Disfruta las mejores burger a la parrilla, desde 1954",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los jueves.",
@@ -3275,6 +3353,7 @@
  {
   "banco": "Santander",
   "comercio": "Piegari",
+  "tipo": "Cocina italiana tradicional",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los miercoles.",
@@ -3321,6 +3400,7 @@
  {
   "banco": "Santander",
   "comercio": "Melt Pizzas",
+  "tipo": "Las mejores pizzas están en Melt! Arma tu pizza como más te guste",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los martes.",
@@ -3367,6 +3447,7 @@
  {
   "banco": "Santander",
   "comercio": "Aquality",
+  "tipo": "Compra pescados y mariscos congelados de calidad superior! Además, acumula 1 Milla LATAM Pass adicional del 01 al 07 de ",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los martes y acumula 1 Milla LATAM Pass adicional",
@@ -3411,6 +3492,7 @@
  {
   "banco": "Santander",
   "comercio": "Al Pesto",
+  "tipo": "Disfruta las delicias culinarias y tendencias italianas auténticas",
   "descuento": "40%",
   "descuento_pct": 40,
   "bajada": "40% dcto. todos los martes.",

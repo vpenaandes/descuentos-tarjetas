@@ -1,0 +1,30 @@
+{
+ "name": "Descuentos restaurantes",
+ "short_name": "Descuentos",
+ "description": "Descuentos de restaurantes con tarjetas Falabella y Santander",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f6f7f9",
+ "theme_color": "#2563eb",
+ "lang": "es-CL",
+ "icons": [
+  {
+   "src": "./icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "./icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "./icon-180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}

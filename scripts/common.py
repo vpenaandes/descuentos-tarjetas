@@ -50,7 +50,9 @@ def dias_desde_texto(txt):
             found.add(d)
     if re.search(r"fin(es)? de semana", t):
         found.update(["Sábado", "Domingo"])
-    if re.search(r"todos los d[ií]as|toda la semana", t):
+    # "todos los días" sólo si NO viene seguido de días concretos
+    # ("todos los días viernes y sábados" = viernes y sábado, no la semana entera)
+    if re.search(r"todos los d[ií]as(?!\s+(lunes|martes|mi[ée]rcoles|jueves|viernes|s[áa]bado|domingo))|toda la semana", t):
         found.update(DIAS)
     return [d for d in DIAS if d in found]
 
@@ -173,3 +175,20 @@ def lugares_desde_texto(txt):
 def pct_desde_texto(txt):
     m = re.search(r"(\d{1,2})\s?%", txt or "")
     return int(m.group(1)) if m else None
+
+
+def slug_id(banco, url, comercio=""):
+    """ID estable de un beneficio: banco + slug del URL del banco.
+
+    NO usar el índice de la lista: cambia cuando el banco agrega/saca beneficios
+    y desparejaría las capturas ya tomadas (pasó en sept-2026).
+    """
+    import re as _re
+    import unicodedata as _ud
+
+    def _n(s):
+        s = _ud.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower()
+        return _re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+
+    slug = _n((url or "").rstrip("/").split("/")[-1]) or _n(comercio)
+    return f"{_n(banco)[:4]}-{slug[:48]}"

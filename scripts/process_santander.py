@@ -77,6 +77,19 @@ def tarjetas_de(p):
     return out, tags
 
 
+def tipo_de(desc, titulo):
+    """Tipo de local: Santander suele poner una bajada descriptiva en la primera
+    línea, antes de 'Recuerda que:' ("Heladería artesanal", "Pizzería napolitana").
+    Se descarta si es sólo el nombre del comercio o si ya es una condición."""
+    first = ((desc or "").strip().split("\n") or [""])[0].strip(" .¡!")
+    if not first or re.match(r"^(recuerda|exclusivo|v[áa]lido|-|•)", first, re.I):
+        return ""
+    first = first.replace("&ndash;", "–").replace("&amp;", "&")
+    if re.fullmatch(re.escape(titulo.strip()), first, re.I):
+        return ""                      # sólo repite el nombre
+    return first[:120]
+
+
 def modalidad_de(desc):
     d = (desc or "").lower()
     pres = bool(re.search(r"en local|presencial|en el local|en sal[óo]n|consumo en", d))
@@ -113,6 +126,7 @@ def normalize(p):
     return {
         "banco": "Santander",
         "comercio": (p.get("title") or "").strip(),
+        "tipo": tipo_de(desc, p.get("title") or ""),
         "descuento": (re.search(r"\d{1,2}\s?%|2x1|\d+ ?mill?as?", bajada, re.I) or [bajada])[0] if bajada else "",
         "descuento_pct": pct,
         "bajada": bajada.strip(),

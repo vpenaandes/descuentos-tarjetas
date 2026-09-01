@@ -17460,5 +17460,539 @@
     "-70.5975504"
    ]
   }
- ]
+ ],
+ "alonso de córdova 4226, 7630000 vitacura, región metropolitana, chile": [
+  {
+   "place_id": 1892193,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 553743307,
+   "lat": "-33.4029353",
+   "lon": "-70.5891982",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.18844892041965e-05,
+   "addresstype": "amenity",
+   "name": "Sicily",
+   "display_name": "Sicily, 4226, Alonso de Córdova, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "Sicily",
+    "house_number": "4226",
+    "road": "Alonso de Córdova",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4030169",
+    "-33.4028638",
+    "-70.5892790",
+    "-70.5891175"
+   ]
+  }
+ ],
+ "avenida la dehesa 1445, lo barnechea, chile": [
+  {
+   "place_id": 427249178,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 14138759720,
+   "lat": "-33.3571183",
+   "lon": "-70.5142885",
+   "category": "amenity",
+   "type": "atm",
+   "place_rank": 30,
+   "importance": 5.072785534442691e-05,
+   "addresstype": "amenity",
+   "name": "Banco de Chile",
+   "display_name": "Banco de Chile, 1445, Avenida La Dehesa, Villa La Ponderosa, La Dehesa, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "Banco de Chile",
+    "house_number": "1445",
+    "road": "Avenida La Dehesa",
+    "neighbourhood": "Villa La Ponderosa",
+    "quarter": "La Dehesa",
+    "suburb": "Lo Barnechea",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3571683",
+    "-33.3570683",
+    "-70.5143385",
+    "-70.5142385"
+   ]
+  },
+  {
+   "place_id": 1522677,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1109155446,
+   "lat": "-33.3584819",
+   "lon": "-70.5162393",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 5.072785534442691e-05,
+   "addresstype": "amenity",
+   "name": "The Crepe Café",
+   "display_name": "The Crepe Café, 1445, Avenida La Dehesa, Villa La Ponderosa, La Dehesa, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "The Crepe Café",
+    "house_number": "1445",
+    "road": "Avenida La Dehesa",
+    "neighbourhood": "Villa La Ponderosa",
+    "quarter": "La Dehesa",
+    "suburb": "Lo Barnechea",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3585319",
+    "-33.3584319",
+    "-70.5162893",
+    "-70.5161893"
+   ]
+  },
+  {
+   "place_id": 1524373,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 432747434,
+   "lat": "-33.3581802",
+   "lon": "-70.5153709",
+   "category": "amenity",
+   "type": "cafe",
+   "place_rank": 30,
+   "importance": 5.072785534442691e-05,
+   "addresstype": "amenity",
+   "name": "Starbucks",
+   "display_name": "Starbucks, 1445, Avenida La Dehesa, Villa La Ponderosa, La Dehesa, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "Starbucks",
+    "house_number": "1445",
+    "road": "Avenida La Dehesa",
+    "neighbourhood": "Villa La Ponderosa",
+    "quarter": "La Dehesa",
+    "suburb": "Lo Barnechea",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3582302",
+    "-33.3581302",
+    "-70.5154209",
+    "-70.5153209"
+   ]
+  }
+ ],
+ "av vitacura 3875, vitacura, chile": [
+  {
+   "place_id": 1763230,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 406052145,
+   "lat": "-33.3901884",
+   "lon": "-70.5712602",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05338521782253754,
+   "addresstype": "road",
+   "name": "Avenida Vitacura",
+   "display_name": "Avenida Vitacura, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Avenida Vitacura",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3903730",
+    "-33.3900279",
+    "-70.5719209",
+    "-70.5705934"
+   ]
+  },
+  {
+   "place_id": 1765332,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1495768730,
+   "lat": "-33.3995472",
+   "lon": "-70.5898614",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05338521782253754,
+   "addresstype": "road",
+   "name": "Avenida Vitacura",
+   "display_name": "Avenida Vitacura, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Avenida Vitacura",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3995632",
+    "-33.3995312",
+    "-70.5899119",
+    "-70.5898109"
+   ]
+  }
+ ],
+ "S|av vitacura 3875|vitacura": [
+  {
+   "place_id": 1735296,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 276765726,
+   "lat": "-33.3953884",
+   "lon": "-70.5799885",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05338521782253754,
+   "addresstype": "road",
+   "name": "Avenida Vitacura",
+   "display_name": "Avenida Vitacura, Jardín del Este, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Avenida Vitacura",
+    "neighbourhood": "Jardín del Este",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3961059",
+    "-33.3946719",
+    "-70.5810519",
+    "-70.5789245"
+   ]
+  },
+  {
+   "place_id": 1739843,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 276759970,
+   "lat": "-33.3967707",
+   "lon": "-70.5822031",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05338521782253754,
+   "addresstype": "road",
+   "name": "Avenida Vitacura",
+   "display_name": "Avenida Vitacura, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Avenida Vitacura",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3968816",
+    "-33.3966806",
+    "-70.5824516",
+    "-70.5819473"
+   ]
+  },
+  {
+   "place_id": 1724748,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1495768730,
+   "lat": "-33.3995472",
+   "lon": "-70.5898614",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05338521782253754,
+   "addresstype": "road",
+   "name": "Avenida Vitacura",
+   "display_name": "Avenida Vitacura, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Avenida Vitacura",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3995632",
+    "-33.3995312",
+    "-70.5899119",
+    "-70.5898109"
+   ]
+  }
+ ],
+ "nueva costanera 3750, santiago, chile": [
+  {
+   "place_id": 426060950,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 187863213,
+   "lat": "-33.4005776",
+   "lon": "-70.5983929",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.18844892041965e-05,
+   "addresstype": "amenity",
+   "name": "Dagán",
+   "display_name": "Dagán, 3750, Avenida Nueva Costanera, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "Dagán",
+    "house_number": "3750",
+    "road": "Avenida Nueva Costanera",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4006529",
+    "-33.4005302",
+    "-70.5984626",
+    "-70.5983215"
+   ]
+  }
+ ],
+ "av. raúl labbé 12559, región metropolitana, chile": [
+  {
+   "place_id": 2404594,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 111515159,
+   "lat": "-33.3646460",
+   "lon": "-70.5147929",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "12559, Avenida Raúl Labbé, Villa La Ponderosa, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "house_number": "12559",
+    "road": "Avenida Raúl Labbé",
+    "neighbourhood": "Villa La Ponderosa",
+    "suburb": "Lo Barnechea",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3646960",
+    "-33.3645960",
+    "-70.5148429",
+    "-70.5147429"
+   ]
+  }
+ ],
+ "isidora goyenechea 2895, las condes, región metropolitana, chile": [
+  {
+   "place_id": 1734937,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 299278102,
+   "lat": "-33.4141592",
+   "lon": "-70.6017873",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.422064545658072e-05,
+   "addresstype": "amenity",
+   "name": "Don Carlos",
+   "display_name": "Don Carlos, 2895, Isidora Goyenechea, Sanhattan, Las Condes, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "Don Carlos",
+    "house_number": "2895",
+    "road": "Isidora Goyenechea",
+    "neighbourhood": "Sanhattan",
+    "suburb": "Las Condes",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4142353",
+    "-33.4140899",
+    "-70.6019095",
+    "-70.6016654"
+   ]
+  }
+ ],
+ "alonso de córdova 2337, vitacura, región metropolitana, chile": [
+  {
+   "place_id": 1742962,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 269527774,
+   "lat": "-33.4035895",
+   "lon": "-70.5875611",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05338521782253754,
+   "addresstype": "road",
+   "name": "Alonso de Córdova",
+   "display_name": "Alonso de Córdova, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Alonso de Córdova",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4036923",
+    "-33.4034867",
+    "-70.5879308",
+    "-70.5871914"
+   ]
+  },
+  {
+   "place_id": 1764895,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1293023023,
+   "lat": "-33.4003370",
+   "lon": "-70.6005798",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05338521782253754,
+   "addresstype": "road",
+   "name": "Alonso de Córdova",
+   "display_name": "Alonso de Córdova, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Alonso de Córdova",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4004275",
+    "-33.4002465",
+    "-70.6009574",
+    "-70.6002023"
+   ]
+  }
+ ],
+ "espacio villaseca - villaseca 445, buin, región metropolitana, chile": [],
+ "villaseca 445, buin, chile": [
+  {
+   "place_id": 1821405,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1366373948,
+   "lat": "-33.7434056",
+   "lon": "-70.7439064",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 4.932249942774117e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "445, Villaseca, Jardines del Sur, Buin, Provincia de Maipo, Región Metropolitana de Santiago, 9500708, Chile",
+   "address": {
+    "house_number": "445",
+    "road": "Villaseca",
+    "neighbourhood": "Jardines del Sur",
+    "town": "Buin",
+    "county": "Provincia de Maipo",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "9500708",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.7437170",
+    "-33.7430942",
+    "-70.7442348",
+    "-70.7435780"
+   ]
+  }
+ ],
+ "cuerno 47, 5951627 coyhaique, aysén, chile": [],
+ "cuerno 47, coyhaique, chile": [],
+ "S|cuerno 47|coyhaique": [],
+ "taurus steak bar chillan, $, 2, a, :, p, r, o, p, s, :, b, e, n, e, f, i, t, c, a, r, d, s, d, a, t, a, :, 5, 1, :, r, e, g, i, o, n": [],
+ "dominga bistró, pucón, chile": [],
+ "dominga bistró pucón, los ríos": [],
+ "dominga bistró pucón, chile": []
 }

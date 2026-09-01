@@ -1,15 +1,44 @@
 [
  {
   "banco": "Banco Falabella",
-  "comercio": "Coppelia",
-  "descuento": "40%",
+  "comercio": "Sicily Pizzería",
+  "tipo": "Sicily es una pizzería contemporánea con inspiración siciliana, que destaca por sus masas artesanales de larga fermentac",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los lunes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
   "dias": [
    "Lunes"
   ],
   "horario": "",
-  "lugares": [],
+  "lugares": [
+   "Sicily: Alonso de Córdova 4226, 7630000 Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-07-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los lunes\nVálido en locales:\n- Sicily: Alonso de Córdova 4226, 7630000 Vitacura, Región Metropolitana\n- Todos los lunes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Sicily",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/sicily-pizzeria"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Pristino",
+  "tipo": "Prístino es un restaurante en Santiago de Chile enfocado en la cocina chilena contemporánea y de autor, creado por el re",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "El Coihue 3807, Vitacura, Región Metropolitana"
+  ],
   "tarjetas": [
    "CMR Mastercard",
    "CMR Mastercard Premium",
@@ -18,13 +47,14 @@
   ],
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
-  "vigencia": "2026-08-01 → 2026-09-30",
-  "condiciones": "Sigue estos pasos:\n\n- Todos los Lunes\n- 40% de descuento pagando con tu CMR y 30% de descuento pagando con Débito Banco Falabella.\nCONDICIONES \n- Solo Presencial\n- No acumulable sobre otras promociones",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/coppelia"
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- El Coihue 3807, Vitacura, Región Metropolitana",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/pristino"
  },
  {
   "banco": "Banco Falabella",
   "comercio": "Petit",
+  "tipo": "Petit Cafetería es una marca de bollería premium y café de especialidad en Santiago",
   "descuento": "40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -55,17 +85,25 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Patio Bulnes Restobar",
-  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "comercio": "Udon",
+  "tipo": "Udon es una cadena internacional especializada en cocina asiática moderna, inspirada en los sabores de Japón y el sudest",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo)",
   "descuento_pct": 40,
-  "tope": "Sin Tope",
+  "tope": "Sin tope",
   "dias": [
-   "Lunes"
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
   ],
   "horario": "",
   "lugares": [
-   "Buin",
-   "Manuel Bulnes 491, comuna de Buin, Región Metropolitana"
+   "Alto las Condes",
+   "Portal la dehesa",
+   "Costanera Center"
   ],
   "tarjetas": [
    "CMR Mastercard",
@@ -75,13 +113,38 @@
   ],
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
-  "vigencia": "2026-06-01 → 2026-09-30",
-  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los Lunes\n*Dirección: Manuel Bulnes 491, comuna de Buin, Región Metropolitana",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/patio-bulnes-restobar"
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo\nVálido en locales:\n- Alto las Condes\n- Portal la dehesa\n- Costanera Center",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/udon"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Coppelia",
+  "tipo": "Coppelia es una tradicional cadena chilena de cafeterías, heladerías y pastelerías",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-08-01 → 2026-09-30",
+  "condiciones": "Sigue estos pasos:\n\n- Todos los Lunes\n- 40% de descuento pagando con tu CMR y 30% de descuento pagando con Débito Banco Falabella.\nCONDICIONES \n- Solo Presencial\n- No acumulable sobre otras promociones",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/coppelia"
  },
  {
   "banco": "Banco Falabella",
   "comercio": "La Maestranza",
+  "tipo": "La Maestranza es un restaurante chileno que combina tradición y modernidad, inspirado en la cultura ferroviaria y el esp",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -109,6 +172,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Kento Gourmet",
+  "tipo": "Kento Gourmet es un restaurante de estilo nikkei/sushi gourmet que ofrece rolls, nigiris, tiraditos, ceviches y platos c",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -139,6 +203,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Frida Kahlo",
+  "tipo": "Restaurante temático inspirado en la cultura mexicana y la artista Frida Kahlo",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -146,11 +211,14 @@
    "Lunes",
    "Martes",
    "Miércoles",
-   "Jueves"
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
   ],
   "horario": "",
   "lugares": [
-   "Costanera Center: lunes a jueves"
+   "Costanera Center: lunes a domingo"
   ],
   "tarjetas": [
    "Tarjeta Débito Banco Falabella",
@@ -161,12 +229,13 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Costanera Center: lunes a jueves",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Costanera Center: lunes a domingo",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo"
  },
  {
   "banco": "Banco Falabella",
   "comercio": "Vapiano",
+  "tipo": "Cadena internacional de comida italiana, famosa por sus pastas frescas y pizzas artesanales",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -196,6 +265,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Muu grill",
+  "tipo": "Restaurante especializado en carnes a la parrilla y cortes premium",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -210,15 +280,13 @@
   ],
   "horario": "",
   "lugares": [
+   "Costanera Center: Todos los días",
+   "AV Isidora Goyenechea 3000, las condes: Todos los días",
+   "Mercado Bulnes: Todos los días",
    "Mallplaza Oeste: Todos los días",
-   "Mallplaza Egaña: Todos los días",
+   "Mallplaza Los Dominicos: Todos los días",
    "Mallplaza Vespucio: Todos los días",
    "Mallplaza Tobalaba: Todos los días",
-   "Mallplaza Los Dominicos: Todos los días",
-   "AV Isidora Goyenechea 3000, las condes: Todos los días",
-   "Vivo panorámico: Todos los días",
-   "Mercado Bulnes: Todos los días",
-   "Costanera Center: Todos los días",
    "Mall Marina Viña: Todos los días",
    "Mallplaza Antofagasta: Lunes a miércoles"
   ],
@@ -231,12 +299,13 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago, Región de Valparaíso",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Oeste: Todos los días\n- Mallplaza Egaña: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Mallplaza Los Dominicos: Todos los días\n- AV Isidora Goyenechea 3000, las condes: Todos los días\n- Vivo panorámico: Todos los días\n- Mercado Bulnes: Todos los días\n- Costanera Center: Todos los días\n- Mall Marina Viña: Todos los días\n- Mallplaza Antofagasta: Lunes a miércoles",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Costanera Center: Todos los días\n- AV Isidora Goyenechea 3000, las condes: Todos los días\n- Mercado Bulnes: Todos los días\n- Mallplaza Oeste: Todos los días\n- Mallplaza Los Dominicos: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Mall Marina Viña: Todos los días\n- Mallplaza Antofagasta: Lunes a miércoles",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill"
  },
  {
   "banco": "Banco Falabella",
   "comercio": "Cabrera al Paso",
+  "tipo": "Local especializado en sándwiches y comidas rápidas con ingredientes frescos",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -268,6 +337,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Tanta",
+  "tipo": "Cadena de restaurantes creada por Gastón Acurio, presente en Chile, que ofrece cocina peruana contemporánea",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -303,6 +373,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Mamma mia",
+  "tipo": "Restaurante especializado en pizzas y pastas al estilo italiano",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -337,6 +408,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Berlín Doner Kebab",
+  "tipo": "Restaurante inspirado en la tradición alemana del kebab, con carnes asadas y salsas únicas",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -362,6 +434,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Kairos garden",
+  "tipo": "Restaurante que ofrece cocina saludable y experiencias en un entorno natural",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -388,6 +461,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "La piazza",
+  "tipo": "Restaurante inspirado en la gastronomía italiana, con pizzas y pastas frescas",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -421,6 +495,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "La patrona",
+  "tipo": "Restaurante que celebra la cocina mexicana con tacos, enchiladas y margaritas",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -449,6 +524,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Paris texas",
+  "tipo": "Una cadena estilo Tex‑Mex y americana ubicada en Mallplaza, famosa por sus ribs jugosas, hamburguesas artesanales y papa",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -477,6 +553,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Take a wok",
+  "tipo": "Restaurante de comida asiática rápida en Santiago, especializado en woks personalizados con ingredientes frescos",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -491,14 +568,14 @@
   ],
   "horario": "",
   "lugares": [
+   "Parque Arauco : Todos los días",
    "Mallplaza Oeste: Todos los días",
-   "Mallplaza Egaña: lunes a jueves",
    "Mallplaza Los Dominicos: Todos los días",
    "Mallplaza Vespucio: Todos los días",
    "Mallplaza Tobalaba: Todos los días",
-   "Mallplaza Antofagasta: Lunes a viernes",
-   "Vivo Imperio: sábados y domingos",
-   "Parque Arauco : Todos los días"
+   "Vivo Imperio: Sábado y Domingo",
+   "Mallplaza Egaña: Lunes a Jueves",
+   "Mallplaza Antofagasta: Lunes a viernes"
   ],
   "tarjetas": [
    "CMR Mastercard",
@@ -509,12 +586,13 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Oeste: Todos los días\n- Mallplaza Egaña: lunes a jueves\n- Mallplaza Los Dominicos: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Mallplaza Antofagasta: Lunes a viernes\n- Vivo Imperio: sábados y domingos\n- Parque Arauco : Todos los días",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Parque Arauco : Todos los días\n- Mallplaza Oeste: Todos los días\n- Mallplaza Los Dominicos: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Vivo Imperio: Sábado y Domingo\n- Mallplaza Egaña: Lunes a Jueves\n- Mallplaza Antofagasta: Lunes a viernes",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok"
  },
  {
   "banco": "Banco Falabella",
   "comercio": "La sanguchera del barrio",
+  "tipo": "Cadena chilena famosa por sus sándwiches artesanales y recetas tradicionales",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -550,6 +628,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Ekeko",
+  "tipo": "Marca que celebra la cocina peruana y latinoamericana con platos llenos de sabor y tradición",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -581,6 +660,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Badass",
+  "tipo": "Un espacio urbano en Parque Arauco, nacido para quienes buscan experiencias modernas y sociales",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -595,7 +675,7 @@
   ],
   "horario": "",
   "lugares": [
-   "Parque Arauco"
+   "Parque Arauco todos los dias"
   ],
   "tarjetas": [
    "Tarjeta Débito Banco Falabella",
@@ -606,12 +686,13 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Parque Arauco",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Parque Arauco todos los dias.",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/badass"
  },
  {
   "banco": "Banco Falabella",
   "comercio": "Vendetta",
+  "tipo": "Restaurante-bar temático en Santiago inspirado en la cultura italiana y el cine, con carta de pizzas, pastas y coctelerí",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -643,7 +724,35 @@
  },
  {
   "banco": "Banco Falabella",
+  "comercio": "Bistro Cascade",
+  "tipo": "Restaurante estilo bistró con influencia europea, ideal para disfrutar platos gourmet y vinos selectos",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "BordeRío",
+   "Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-04-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/borderio-bistro-cascade"
+ },
+ {
+  "banco": "Banco Falabella",
   "comercio": "Milá",
+  "tipo": "Restaurante que fusiona cocina mediterránea y chilena, con platos frescos y creativos",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -676,6 +785,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Barra Chalaca",
+  "tipo": "Restaurante peruano que ofrece ceviches, tiraditos y cocina marina",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -691,10 +801,10 @@
   "horario": "",
   "lugares": [
    "Mall Plaza Egaña: lunes a Jueves",
-   "Mall Alto Las Condes: lunes a jueves",
-   "Mall Plaza norte: lunes a viernes",
+   "Mall Alto Las Condes: lunes a viernes",
+   "Mall Plaza Norte: lunes a viernes",
    "Mall Plaza Vespucio: lunes y martes",
-   "Mall Vivo Panoramico: lunes a domingo"
+   "Mall Vivo Panorámico: lunes a domingo"
   ],
   "tarjetas": [
    "Tarjeta Débito Banco Falabella",
@@ -705,12 +815,13 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago, Región de Valparaíso",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Plaza Egaña: lunes a Jueves\n- Mall Alto Las Condes: lunes a jueves\n- Mall Plaza norte: lunes a viernes\n- Mall Plaza Vespucio: lunes y martes\n- Mall Vivo Panoramico: lunes a domingo",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Plaza Egaña: lunes a Jueves\n- Mall Alto Las Condes: lunes a viernes\n- Mall Plaza Norte: lunes a viernes\n- Mall Plaza Vespucio: lunes y martes\n- Mall Vivo Panorámico: lunes a domingo",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca"
  },
  {
   "banco": "Banco Falabella",
   "comercio": "El Bodegon",
+  "tipo": "El Bodegón Taberna Limeña es un restaurante en Las Condes, Santiago, especializado en cocina peruana moderna",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -743,6 +854,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Fuente Suiza",
+  "tipo": "Fuente Suiza Mall Plaza Egaña es un punto de restauración estilo fuente de soda chilena ubicado en Mall Plaza Egaña (Ave",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -757,8 +869,7 @@
   ],
   "horario": "Open Kennedy desde 19:00hrs: miércoles a domingo",
   "lugares": [
-   "Mall plaza egaña: lunes a miércoles",
-   "Mall plaza oeste: lunes a miércoles",
+   "Mallplaza Oeste: lunes a miércoles",
    "Open Kennedy: lunes y martes",
    "Open Kennedy desde 19:00hrs: miércoles a domingo"
   ],
@@ -771,12 +882,13 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall plaza egaña: lunes a miércoles\n- Mall plaza oeste: lunes a miércoles\n- Open Kennedy: lunes y martes\n- Open Kennedy desde 19:00hrs: miércoles a domingo",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Oeste: lunes a miércoles\n- Open Kennedy: lunes y martes\n- Open Kennedy desde 19:00hrs: miércoles a domingo",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza"
  },
  {
   "banco": "Banco Falabella",
   "comercio": "Siete cortes",
+  "tipo": "Restaurante parrillero que ofrece cortes premium y carnes a la brasa",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -809,6 +921,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "El japones",
+  "tipo": "Restaurante especializado en cocina japonesa, con sushi, sashimi y platos tradicionales",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -843,6 +956,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Jalisco",
+  "tipo": "Restaurante que rinde homenaje a la gastronomía mexicana tradicional",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -876,6 +990,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "La argentina",
+  "tipo": "La pizzería argentina es una tradición culinaria nacida de la inmigración italiana, caracterizada por la \"pizza al molde",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a viernes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -909,6 +1024,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Meson del marinero",
+  "tipo": "Restaurante especializado en pescados y mariscos ubicado en el 4.º piso del Open Kennedy / Parque Arauco",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -934,7 +1050,7 @@
    "CMR Mastercard"
   ],
   "modalidad": "Presencial",
-  "region": "Región Metropolitana de Santiago",
+  "region": "Región Metropolitana de Santiago, Región de Antofagasta",
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Open Kennedy: lunes y martes\n- Open Kennedy desde las 19:00hrs: miércoles a domingo\n- Mallplaza Antofagasta: lunes a miércoles.",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero"
@@ -942,6 +1058,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Muu Steak",
+  "tipo": "Es una cadena de restaurantes en Chile, parte del Grupo Mil Sabores, especializada en cortes de carne de alta calidad y",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.)",
   "descuento_pct": 1,
   "tope": "Sin tope",
@@ -950,7 +1067,9 @@
    "Martes"
   ],
   "horario": "",
-  "lugares": [],
+  "lugares": [
+   "Alto Las Condes: Lunes y Martes"
+  ],
   "tarjetas": [
    "CMR Mastercard",
    "CMR Mastercard Premium",
@@ -960,12 +1079,13 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.\nCondiciones:\n- Solo Presencial en Alto Las Condes.\n- Todos los Lunes y Martes",
+  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.\nCondiciones:\n- Alto Las Condes: Lunes y Martes\n- Exclusivo presencial",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/muu-steak"
  },
  {
   "banco": "Banco Falabella",
   "comercio": "MISCELANEO",
+  "tipo": "Restaurante que fusiona sabores internacionales en un ambiente moderno",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -995,6 +1115,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Exò Nuit",
+  "tipo": "Exò Nuit es un restaurante y bar contemporáneo en Vitacura, Santiago",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -1024,6 +1145,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Cantina Montt",
+  "tipo": "Cantina Montt es un popular bar de barrio ubicado en la comuna de Providencia, en Santiago de Chile",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes y sábados)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1050,6 +1172,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Kechua",
+  "tipo": "Restaurante inspirado en la cocina peruana, con platos tradicionales y fusión",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1076,6 +1199,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Krossbar",
+  "tipo": "Bar cervecero que ofrece variedades artesanales de la reconocida marca Kross",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1101,33 +1225,8 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Bistro Cascade",
-  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Martes"
-  ],
-  "horario": "",
-  "lugares": [
-   "BordeRío",
-   "Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana"
-  ],
-  "tarjetas": [
-   "CMR Mastercard",
-   "CMR Mastercard Premium",
-   "CMR Mastercard Elite",
-   "Tarjeta Débito Banco Falabella"
-  ],
-  "modalidad": "Presencial",
-  "region": "Región Metropolitana de Santiago",
-  "vigencia": "2026-04-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/borderio-bistro-cascade"
- },
- {
-  "banco": "Banco Falabella",
   "comercio": "Tropera Drugstore",
+  "tipo": "Tropera Drugstore es un bar‑restaurante y cervecería artesanal que combina su propia línea de cervezas Tropera con una p",
   "descuento": "40% (40% dcto pagando con CMR y 30% dcto pagando con débito sin tope.)",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -1153,6 +1252,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Danés",
+  "tipo": "Restaurante ubicado en Santiago, reconocido por su cocina chilena y platos tradicionales",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1178,6 +1278,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Nelí",
+  "tipo": "Nelí es un restaurante contemporáneo del grupo Margó que destaca por su propuesta gastronómica versátil: aperitivos crea",
   "descuento": "40% (40% dcto sin tope pagando con CMR y 30% dcto sin tope pagando con débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1203,6 +1304,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "La santoría",
+  "tipo": "Restaurante que fusiona sabores chilenos con propuestas modernas",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a domingo)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1232,6 +1334,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Tigre Bravo",
+  "tipo": "Tigre Bravo es la vibrante propuesta del chef Emilio Peschiera, pionero de la cocina peruana en Chile",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1257,6 +1360,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Kato",
+  "tipo": "Kató Tasty Caos es un restaurante pan-asiático ubicado en Isidora Goyenechea 3275, Las Condes, Santiago (Región Metropol",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1281,6 +1385,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Roberta Ostería",
+  "tipo": "Roberta Ostería es una propuesta moderna ubicada en Viña del Mar y Reñaca, especializada en pizzas napolitanas al horno",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1304,6 +1409,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Sushi & Burger Home",
+  "tipo": "Sushi & Burger Home es una propuesta gastronómica que fusiona sushi y hamburguesas gourmet en un mismo lugar, con un est",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1330,6 +1436,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Sushi Home",
+  "tipo": "Sushi Home se define como una experiencia gastronómica nikkei , que va más allá de un simple restaurante de sushi",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los jueves)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1355,33 +1462,8 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Fidelio",
-  "descuento": "40%",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Jueves"
-  ],
-  "horario": "",
-  "lugares": [
-   "Reñaca",
-   "Reñaca Norte 25, Viña del Mar"
-  ],
-  "tarjetas": [
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite",
-   "CMR Mastercard Premium",
-   "CMR Mastercard"
-  ],
-  "modalidad": "Presencial",
-  "region": "Región de Valparaíso",
-  "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "¡Sin Tope! 40% de descuento pagando con tu CMR y 30% pagando con débito Banco Falabella\nDirección: Reñaca Norte 25, Viña del Mar",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/fidelio"
- },
- {
-  "banco": "Banco Falabella",
   "comercio": "Boreal bar Rancagua",
+  "tipo": "Bar y lounge ubicado en Miguel Ramírez 715, con terraza y horario extendido hasta las 3 AM",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1408,6 +1490,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Barros Negros",
+  "tipo": "Restaurante Barros Negros es un local gastronómico ubicado en Machalí, que se caracteriza por ser un lugar cálido y acog",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1431,6 +1514,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "La Fabrica Talca",
+  "tipo": "Restobar en 2 Oriente #1254, con cocina americana, hamburguesas, ceviches y coctelería creativa",
   "descuento": "40 (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1456,33 +1540,8 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Dynos Chillan",
-  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles)",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Miércoles"
-  ],
-  "horario": "",
-  "lugares": [
-   "Chillán",
-   "El Roble 558, Chillán"
-  ],
-  "tarjetas": [
-   "CMR Mastercard",
-   "CMR Mastercard Premium",
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite"
-  ],
-  "modalidad": "Presencial",
-  "region": "Región de Ñuble",
-  "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles\nVálido en locales:\n- El Roble 558, Chillán\n- Todos los Miércoles\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Dynos Chillan",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/dynos-chillan"
- },
- {
-  "banco": "Banco Falabella",
   "comercio": "Taurus Steak Bar Chillan",
+  "tipo": "Taurus Steakbar en Chillán es un destacado restaurante de carnes con más de 25 años de experiencia, posicionado como el",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1509,6 +1568,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Augusta Bar",
+  "tipo": "Restobar con una propuesta diversa que combina hamburguesas artesanales, carnes a la plancha, ceviches y tablas para com",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1534,37 +1594,13 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Terralenga Hualpen",
-  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Martes"
-  ],
-  "horario": "",
-  "lugares": [
-   "Terralenga Hualpen"
-  ],
-  "tarjetas": [
-   "CMR Mastercard",
-   "CMR Mastercard Premium",
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite"
-  ],
-  "modalidad": "Presencial",
-  "region": "Región de Biobío",
-  "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes\nVálido en locales:\n- Terralenga Hualpen\n- Todos los Martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales.",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/terralenga-hualpen"
- },
- {
-  "banco": "Banco Falabella",
   "comercio": "Terraangamos",
+  "tipo": "Restaurante especializado en Mariscos, Carnes, Pescados y Parrilladas",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin tope",
   "dias": [
-   "Jueves"
+   "Martes"
   ],
   "horario": "",
   "lugares": [
@@ -1586,6 +1622,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Terralomas Concepción",
+  "tipo": "Terralomas Restaurant, en Lomas San Andrés, Concepción, ofrece gastronomía marina con productos frescos del día",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -1612,6 +1649,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Lebol Restobar",
+  "tipo": "Restobar en Concepción que fusiona cocina tradicional con toques contemporáneos",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -1637,6 +1675,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Baqueano Temuco",
+  "tipo": "Es un espacio gastronómico que mezcla tradición chilena con propuestas contemporáneas",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1663,6 +1702,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Cattedrale Cucina Villarrica",
+  "tipo": "Cattedrale Cucina es un restaurante de cocina italiana y mediterránea ubicado en Villarrica",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1689,6 +1729,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Martina Lounge Bar",
+  "tipo": "Ubicado en Torremolinos 485, Martina Lounge Bar ofrece hamburguesas caseras, tablas para compartir y coctelería de autor",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1715,6 +1756,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Fratello Trattoría",
+  "tipo": "Restaurante italiano en Santiago que combina tradición y modernidad, especializado en pastas frescas, pizzas al horno y",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1741,6 +1783,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Dominga Bistro Valdivia",
+  "tipo": "Un restaurante fusión ubicado a orillas del río Calle Calle en Valdivia, que combina cocina creativa con productos local",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1767,6 +1810,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Cervecería Kunstmann Valdivia",
+  "tipo": "Nace en Valdivia en 1991 por Armin Kunstmann, inspirada en las tradiciones cerveceras alemanas tras el terremoto de 1960",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1793,6 +1837,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Umami Bar Nikkei",
+  "tipo": "Umami Bar Nikkei es un restaurante/bar en Valdivia (sector Torobayo) especializado en cocina nikkei, que mezcla sabores",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércoles)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1819,6 +1864,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Fogon Greed",
+  "tipo": "Fogón Greed es un restaurante de carnes a la brasa, parrilla y también pastas, con foco en calidad de ingredientes local",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1845,6 +1891,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Greed Taproom",
+  "tipo": "Greed Taproom Osorno es el taproom de la cervecería artesanal Greed Brewing Co., Es un bar–cervecería donde se sirven ce",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1871,6 +1918,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "La Tabla",
+  "tipo": "Restaurante especializado en carnes y parrilla, con cortes premium y acompañamientos",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1897,6 +1945,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "ROCOTO",
+  "tipo": "Fundado hace más de 14 años, este referente de la cocina peruana en Santiago se ha destacado por su premiado delivery y",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1926,6 +1975,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Chokolata Cafeteria",
+  "tipo": "Chokolata es una reconocida cafetería y pastelería de Villarrica, destacada por sus cafés, chocolates, tortas, kuchenes",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1951,32 +2001,8 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Santo Aire Restobar",
-  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Jueves"
-  ],
-  "horario": "",
-  "lugares": [
-   "Concepción"
-  ],
-  "tarjetas": [
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite",
-   "CMR Mastercard Premium",
-   "CMR Mastercard"
-  ],
-  "modalidad": "Presencial",
-  "region": "Región de Biobío",
-  "vigencia": "2026-08-01 → 2026-09-30",
-  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/santo-aire-restobar"
- },
- {
-  "banco": "Banco Falabella",
   "comercio": "Sakura",
+  "tipo": "Restaurante inspirado en la gastronomía japonesa, famoso por su sushi y platos tradicionales",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella presencial y online los sábados)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1999,32 +2025,8 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Taberna Nose Puerto Varas",
-  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Viernes"
-  ],
-  "horario": "",
-  "lugares": [
-   "Puerto Varas"
-  ],
-  "tarjetas": [
-   "CMR Mastercard",
-   "CMR Mastercard Premium",
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite"
-  ],
-  "modalidad": "Presencial",
-  "region": "Región de Los Lagos",
-  "vigencia": "2026-08-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Taberna Nose Puerto Varas",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/taberna-nose-puerto-varas"
- },
- {
-  "banco": "Banco Falabella",
   "comercio": "Club de restaurantes",
+  "tipo": "Programa exclusivo de Banco Falabella que entrega beneficios y descuentos en restaurantes destacados",
   "descuento": "20%",
   "descuento_pct": 20,
   "tope": "Sin Tope",
@@ -2053,7 +2055,102 @@
  },
  {
   "banco": "Banco Falabella",
+  "comercio": "Panchita",
+  "tipo": "Panchita es un reconocido restaurante de cocina peruana y tradicional criolla, fundado por el famoso chef Gastón Acurio",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes"
+  ],
+  "horario": "Descuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2025-11-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/panchita"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Naoki",
+  "tipo": "Restaurante japonés de alta gama, reconocido por su sushi y platos tradicionales",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av Vitacura 3875, Vitacura"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-04-30 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite los lunes\nVálido en locales:\n- Av Vitacura 3875, Vitacura",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/naoki"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Dagan",
+  "tipo": "Inaugurado en 2024 en Vitacura, Santiago, Dagan es una propuesta gastronómica inspirada en la cocina mediterránea y del",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Dagan: Nueva Costanera 3750, Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite los martes\nVálido en locales:\n- Dagan: Nueva Costanera 3750, Santiago.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/dagan"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Sabor y Aroma",
+  "tipo": "Restaurante ubicado en La Dehesa (Lo Barnechea) que fusiona cocina peruana y asiática en platos como ceviches, tiraditos",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Raúl Labbé 12559"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-02 → 2026-09-30",
+  "condiciones": "Sigue estos pasos\n\n*Av. Raúl Labbé 12559\n*¿Aún no tienes tu CMR? Pídela aquí",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-sabor-y-aroma"
+ },
+ {
+  "banco": "Banco Falabella",
   "comercio": "Social",
+  "tipo": "Social Bar & Cocinas es un popular espacio gastronómico y de entretenimiento en Santiago, conocido por su ambiente relaj",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2075,7 +2172,54 @@
  },
  {
   "banco": "Banco Falabella",
+  "comercio": "Caoba Bar",
+  "tipo": "Bar contemporáneo ubicado en Alonso de Córdova (Vitacura, Santiago), con coctelería de autor y gastronomía moderna",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 4156, Vitacura"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-06 → 2026-09-30",
+  "condiciones": "Detalle\n\n- En el total de tu boleta en Caoba Bar\n- Exclusivo con CMR Elite\n- Alonso de Córdova 4156, Vitacura\n- ¿Aún no tienes tu CMR? Pídela aquí",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/caoba-bar"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Don Carlos",
+  "tipo": "Clásico restaurante de carnes premium en Las Condes con más de 35 años de historia",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Isidora Goyenechea 2895, Las Condes, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-04-30 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite los sábados\nVálido en locales:\n- Isidora Goyenechea 2895, Las Condes, Región Metropolitana",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/don-carlos"
+ },
+ {
+  "banco": "Banco Falabella",
   "comercio": "Viña Viu Manent",
+  "tipo": "Viña Viu Manent es una reconocida viña del Valle de Colchagua, famosa por sus vinos premium y experiencias enoturísticas",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2099,6 +2243,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Cuponera Gastronómica",
+  "tipo": "",
   "descuento": "40% dcto",
   "descuento_pct": 1,
   "tope": "Sin tope",
@@ -2128,6 +2273,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Local Burger",
+  "tipo": "Local Burger es una hamburguesería de estilo americano en Chile, destacada por sus preparaciones jugosas y de alta calid",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Jueves)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2152,7 +2298,64 @@
  },
  {
   "banco": "Banco Falabella",
+  "comercio": "Zulu",
+  "tipo": "Zulu es un restaurante en Santiago con una propuesta de cocina contemporánea, enfocado en platos actuales y una experien",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados)",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 2337, Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados\nVálido en locales:\n- Alonso de Córdova 2337, Vitacura, Región Metropolitana",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/zulu"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Enrique Tomás",
+  "tipo": "Enrique Tomás es una reconocida marca española especializada en jamón ibérico, con más de 40 años de tradición",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Enrique Tomás\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\nSolo Presencial en Costanera Center todos los días",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/enrique-tomas"
+ },
+ {
+  "banco": "Banco Falabella",
   "comercio": "Tololo Beach ",
+  "tipo": "Tololo Beach es un restaurante frente al mar en La Serena, reconocido por su propuesta basada en pescados, mariscos y co",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2178,6 +2381,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Tololo Beef",
+  "tipo": "Tololo Beef es un restaurante especializado en carnes a la parrilla, cortes premium y cocina internacional",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2203,6 +2407,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Cafe Haussmann",
+  "tipo": "Café Haussmann es una tradicional cafetería del sur de Chile, reconocida por su repostería y cocina de inspiración alema",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2228,6 +2433,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Sello de Raza",
+  "tipo": "Sello de Raza es un restaurante de cocina chilena y parrilla, reconocido por sus cortes de carne y preparaciones tradici",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2253,6 +2459,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Sempre Pasta",
+  "tipo": "Sempre Pasta es un restaurante italiano, especializado en pastas frescas, lasañas y recetas inspiradas en la tradición i",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2278,6 +2485,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Barra Olivo",
+  "tipo": "Barra Olivo es un restaurante de comida peruana y marisquería ubicado en Chicureo, Chile",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércoles)",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -2303,6 +2511,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Kila Coffee",
+  "tipo": "Kila Coffee es una acogedora cafetería y espacio de bienestar ubicada en la comuna de Ñuñoa, Santiago de Chile",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -2327,16 +2536,18 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Pristino",
-  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
+  "comercio": "Nomade Nikkei",
+  "tipo": "",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
-  "tope": "Sin tope",
+  "tope": "Sin Tope",
   "dias": [
-   "Martes"
+   "Miércoles"
   ],
   "horario": "",
   "lugares": [
-   "El Coihue 3807, Vitacura, Región Metropolitana"
+   "Buin",
+   "Espacio Villaseca - Villaseca 445, Buin, Región Metropolitana"
   ],
   "tarjetas": [
    "CMR Mastercard",
@@ -2347,12 +2558,120 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- El Coihue 3807, Vitacura, Región Metropolitana",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/pristino"
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Nomade Nikkei\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los Miércoles\n*Dirección: Espacio Villaseca - Villaseca 445, Buin, Región Metropolitana",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/nomade-nikkei"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Boreal bar Rancagua",
+  "tipo": "Bar y lounge ubicado en Miguel Ramírez 715, con terraza y horario extendido hasta las 3 AM",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Rancagua",
+   "Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "$, 2, a, :, p, r, o, p, s, :, b, e, n, e, f, i, t, C, a, r, d, s, D, a, t, a, :, 4, 8, :, r, e, g, i, o, n",
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Boreal bar Rancagua\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los miércoles\n*Dirección: Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/boreal-bar-rancagua"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Mamma Gaucha Coyhaique",
+  "tipo": "",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Descuento",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Cuerno 47, 5951627 Coyhaique, Aysén"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Aysén del General Carlos Ibáñez del Campo",
+  "vigencia": "2026-06-01 → 2026-09-30",
+  "condiciones": "¡Sin Tope! Disfruta con un 40% de dcto pagando con tu CMR y 30% de dcto pagando con débito Banco Falabella\nLocales:\n- Cuerno 47, 5951627 Coyhaique, Aysén\nCondiciones:\n- Excluye promociones\n- Exclusivo presencial",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/mamma-gaucha-coyhaique"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Taurus Steak Bar Chillan",
+  "tipo": "Taurus Steakbar en Chillán es un destacado restaurante de carnes con más de 25 años de experiencia, posicionado como el",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Chillan",
+   "Taurus Steak Bar Chillan"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "$, 2, a, :, p, r, o, p, s, :, b, e, n, e, f, i, t, C, a, r, d, s, D, a, t, a, :, 5, 1, :, r, e, g, i, o, n",
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes\nVálido en locales:\n- Taurus Steak Bar Chillan\n- Todos los Martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Taurus Steak Bar Chillan",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/taurus-steak-bar-chillan"
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Dominga Bistro Pucon",
+  "tipo": "Dominga Bistró es un restaurante de cocina fusión y coctelería de autor ubicado en la Península de Cavancha, Iquique",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Pucon",
+   "Todos los Miércoles en Dominga Bistró Pucón"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Los Ríos",
+  "vigencia": "2026-08-01 → 2026-09-30",
+  "condiciones": "Sigue estos pasos\n\n- Has tu pedido en cualquier caja de Dominga Bistro\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Cuentas con el 40% de dcto con CMR y el 30% con débito Banco Falabella\nCondiciones:\n*Solo Presencial\n- Todos los Miércoles en Dominga Bistró Pucón",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-pucon"
  },
  {
   "banco": "Santander",
   "comercio": "Helados Timaukel",
+  "tipo": "Heladería artesanal",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$30.000",
@@ -2373,6 +2692,7 @@
  {
   "banco": "Santander",
   "comercio": "Casa Mar Sushi",
+  "tipo": "",
   "descuento": "30% dcto. todos los miércoles.",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -2395,6 +2715,7 @@
  {
   "banco": "Santander",
   "comercio": "De Costa a Costa",
+  "tipo": "Los mejores productos del mar",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -2415,6 +2736,7 @@
  {
   "banco": "Santander",
   "comercio": "Rubaiyat",
+  "tipo": "Celebra los 10 años de Rubaiyat Chile con un exclusivo menú de degustación junto al chef Diego Rojas",
   "descuento": "30% dcto. en exclusiva experiencia gastronómica Rubaiyat",
   "descuento_pct": 30,
   "tope": "",
@@ -2437,6 +2759,7 @@
  {
   "banco": "Santander",
   "comercio": "Corrales del Sur",
+  "tipo": "El mejor corte de carne en Corrales del Sur",
   "descuento": "20% dcto. todos los lunes.",
   "descuento_pct": 20,
   "tope": "$40.000",
@@ -2457,6 +2780,7 @@
  {
   "banco": "Santander",
   "comercio": "Punta del Sol",
+  "tipo": "Cocina del mar",
   "descuento": "50% de dcto. todos los lunes",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -2479,6 +2803,7 @@
  {
   "banco": "Santander",
   "comercio": "Domani",
+  "tipo": "Pizzería napolitana",
   "descuento": "40% dcto. todos los lunes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -2501,6 +2826,7 @@
  {
   "banco": "Santander",
   "comercio": "Santo Aire",
+  "tipo": "Gastronomía, cava y bar",
   "descuento": "40% dcto. todos los jueves.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -2523,6 +2849,7 @@
  {
   "banco": "Santander",
   "comercio": "Majka",
+  "tipo": "Cocina fusión y de autor",
   "descuento": "40% dcto. todos los jueves",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -2545,6 +2872,7 @@
  {
   "banco": "Santander",
   "comercio": "Ramblas",
+  "tipo": "Bar con música en vivo",
   "descuento": "40% dcto. todos los martes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -2567,6 +2895,7 @@
  {
   "banco": "Santander",
   "comercio": "Taurus Steak bar",
+  "tipo": "",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -2589,6 +2918,7 @@
  {
   "banco": "Santander",
   "comercio": "Bar TPM",
+  "tipo": "",
   "descuento": "30% dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -2609,6 +2939,7 @@
  {
   "banco": "Santander",
   "comercio": "Cosenza",
+  "tipo": "",
   "descuento": "40% dcto. todos los viernes",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -2632,6 +2963,7 @@
  {
   "banco": "Santander",
   "comercio": "Toro Bayo",
+  "tipo": "Torobayo",
   "descuento": "40% dcto. todos los miércoles",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -2655,6 +2987,7 @@
  {
   "banco": "Santander",
   "comercio": "Sushi Home",
+  "tipo": "",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -2678,6 +3011,7 @@
  {
   "banco": "Santander",
   "comercio": "Vicenta",
+  "tipo": "Un espacio para disfrutar en Antofagasta",
   "descuento": "40% dcto. todos los martes.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -2701,6 +3035,7 @@
  {
   "banco": "Santander",
   "comercio": "Vapiano",
+  "tipo": "Cadena internacional de comida italiana",
   "descuento": "40% dcto. todos los martes y jueves",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -2722,6 +3057,7 @@
  {
   "banco": "Santander",
   "comercio": "1213",
+  "tipo": "Los mejores Sánguches & Hamburguesas",
   "descuento": "40% dcto. todos los domingo",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -2745,6 +3081,7 @@
  {
   "banco": "Santander",
   "comercio": "Hitomi Tomi",
+  "tipo": "Descubre los sabores de Asia en Hitomi Tomi",
   "descuento": "40% dcto. todos los jueves",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -2768,6 +3105,7 @@
  {
   "banco": "Santander",
   "comercio": "Santa Brasa",
+  "tipo": "Increíbles cortes de carne",
   "descuento": "50% dcto. todos los martes",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -2790,6 +3128,7 @@
  {
   "banco": "Santander",
   "comercio": "Pizzería Capri",
+  "tipo": "Disfruta de la comida italiana como pizzas, pastas y más",
   "descuento": "40% dcto. todos los lunes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -2814,6 +3153,7 @@
  {
   "banco": "Santander",
   "comercio": "Zulu",
+  "tipo": "Disfruta de la cocina Internacional",
   "descuento": "50%. dcto. todos los jueves",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -2837,6 +3177,7 @@
  {
   "banco": "Santander",
   "comercio": "Estación Tropera",
+  "tipo": "Tropera es un sueño colectivo, nacido entre Italia y la Patagonia",
   "descuento": "40% dcto. todos los viernes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -2860,6 +3201,7 @@
  {
   "banco": "Santander",
   "comercio": "Exò Nuit",
+  "tipo": "restaurante y bar de cocina japonesa–mediterránea",
   "descuento": "30%. dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -2883,6 +3225,7 @@
  {
   "banco": "Santander",
   "comercio": "Delivery Gourmet",
+  "tipo": "Tus comidas favoritas en un solo pedido",
   "descuento": "30% dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -2906,6 +3249,7 @@
  {
   "banco": "Santander",
   "comercio": "Curry",
+  "tipo": "Comida Tailandesa",
   "descuento": "30% dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -2929,6 +3273,7 @@
  {
   "banco": "Santander",
   "comercio": "Rocoto",
+  "tipo": "Sabores peruanos auténticos en tu hogar",
   "descuento": "30% dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -2952,6 +3297,7 @@
  {
   "banco": "Santander",
   "comercio": "Estró",
+  "tipo": "Cocina chilena con los mejores productos locales",
   "descuento": "40% dcto. todos los jueves.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -2974,6 +3320,7 @@
  {
   "banco": "Santander",
   "comercio": "Social Bar",
+  "tipo": "Burgas, drinks y el good food mood que ya amas",
   "descuento": "40% dcto. todos los lunes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -2997,6 +3344,7 @@
  {
   "banco": "Santander",
   "comercio": "Lima Fusión",
+  "tipo": "Gastronomía Peruana, Criollas y Nikkei se reinventa con un toque único",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3020,6 +3368,7 @@
  {
   "banco": "Santander",
   "comercio": "Prístino",
+  "tipo": "Preparaciones chilenas gourmet",
   "descuento": "50% dcto. todos los sábados",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -3043,6 +3392,7 @@
  {
   "banco": "Santander",
   "comercio": "Streat Burger",
+  "tipo": "Streat Makes You Happy",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3065,6 +3415,7 @@
  {
   "banco": "Santander",
   "comercio": "Expendio Montt",
+  "tipo": "Los mejores tacos y cervezas",
   "descuento": "30% dcto. todos los miércoles.",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -3088,6 +3439,7 @@
  {
   "banco": "Santander",
   "comercio": "Bar Porfirio",
+  "tipo": "Tacos, tragos y pura buena onda para cortar la semana con sabor",
   "descuento": "30% dcto. todos los miércoles.",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -3111,6 +3463,7 @@
  {
   "banco": "Santander",
   "comercio": "Kento Sushi",
+  "tipo": "Los mejores sushi, nikkei, Sin arroz, Vegetarianos, Ceviche y más",
   "descuento": "30% dcto. todos los miércoles.",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -3134,6 +3487,7 @@
  {
   "banco": "Santander",
   "comercio": "Taringa",
+  "tipo": "Comida, cocteles, música y más",
   "descuento": "40% dcto. todos los sábados.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3157,6 +3511,7 @@
  {
   "banco": "Santander",
   "comercio": "Brunetti",
+  "tipo": "Cafetería y restaurant",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3180,6 +3535,7 @@
  {
   "banco": "Santander",
   "comercio": "Hijo del Inca",
+  "tipo": "Restaurante peruano",
   "descuento": "30% dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -3204,6 +3560,7 @@
  {
   "banco": "Santander",
   "comercio": "Siete Olas",
+  "tipo": "Las mejores pizzas napolitanas y hamburguesas artesanales",
   "descuento": "50%. dcto. todos los miércoles",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -3227,6 +3584,7 @@
  {
   "banco": "Santander",
   "comercio": "Brunapoli",
+  "tipo": "Vive la experiencia de una auténtica pizza Napolitana",
   "descuento": "40% dcto. todos los martes",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -3252,6 +3610,7 @@
  {
   "banco": "Santander",
   "comercio": "Le Vice Chocolat",
+  "tipo": "Exquisitos chocolates de la más alta calidad, elaborados con ingredientes seleccionados cuidadosamente y un toque artesa",
   "descuento": "40% dcto. todos los jueves.",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -3274,6 +3633,7 @@
  {
   "banco": "Santander",
   "comercio": "Berlin Döner Kebab",
+  "tipo": "Restaurant de sandwich turco-alemanes",
   "descuento": "30% dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -3296,6 +3656,7 @@
  {
   "banco": "Santander",
   "comercio": "Chicken Love You",
+  "tipo": "Los mejores sandwich de pollo frito",
   "descuento": "40% dcto. todos los miércoles",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3318,6 +3679,7 @@
  {
   "banco": "Santander",
   "comercio": "Juan Esparraguito",
+  "tipo": "Mucho más que frutas y verduras, productos de temporada y seleccionados uno a uno",
   "descuento": "30% dcto. todos los miércoles.",
   "descuento_pct": 30,
   "tope": "$100.000",
@@ -3340,6 +3702,7 @@
  {
   "banco": "Santander",
   "comercio": "Oh Bok",
+  "tipo": "Autentica parrilla Koreana",
   "descuento": "40% dcto. todos los jueves",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3363,6 +3726,7 @@
  {
   "banco": "Santander",
   "comercio": "Milán",
+  "tipo": "Sandwich Gourmet, Hamburguesas, Pizzas, Crepes y mucho mas",
   "descuento": "40% de dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3386,6 +3750,7 @@
  {
   "banco": "Santander",
   "comercio": "El Mundo del Vino",
+  "tipo": "El mejor vino para ti",
   "descuento": "40% dcto. todos los lunes en viñas seleccionadas.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -3408,6 +3773,7 @@
  {
   "banco": "Santander",
   "comercio": "Bozzo",
+  "tipo": "Disfruta los mejores chocolates, receta de tradición italiana",
   "descuento": "40% dcto. todos los martes en bozzochocolates.cl y 20% dcto. en tiendas",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3430,6 +3796,7 @@
  {
   "banco": "Santander",
   "comercio": "El Taller",
+  "tipo": "Helados Artesanales de Alta Calidad, reconocidos entre los mejores del Mundo",
   "descuento": "40% dcto. todos los martes",
   "descuento_pct": 40,
   "tope": "$15.000",
@@ -3455,6 +3822,7 @@
  {
   "banco": "Santander",
   "comercio": "Ciros",
+  "tipo": "Comida chilena y de ultramar",
   "descuento": "40% dcto. todos los sábados",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3478,6 +3846,7 @@
  {
   "banco": "Santander",
   "comercio": "Ari Nikkei",
+  "tipo": "Nuevo concepto de sushi",
   "descuento": "30%. dcto. todos los viernes",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -3500,6 +3869,7 @@
  {
   "banco": "Santander",
   "comercio": "La Mulata",
+  "tipo": "La mejor cocina fusión peruana - japonesa",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -3523,6 +3893,7 @@
  {
   "banco": "Santander",
   "comercio": "Sumoku",
+  "tipo": "Comida del mar que garantiza un viaje entre clásicos sabores japoneses con notas sofisticadas de alta cocina",
   "descuento": "Hasta 50%. dcto. todos los martes y miercoles",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -3547,6 +3918,7 @@
  {
   "banco": "Santander",
   "comercio": "Sociedad 0306",
+  "tipo": "4 cocinas de autor + Bar",
   "descuento": "40% dcto. todos los martes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3570,6 +3942,7 @@
  {
   "banco": "Santander",
   "comercio": "Infiltrados",
+  "tipo": "Deléitate con carnes, pescados y mariscos",
   "descuento": "Hasta 50%. dcto. todos los días viernes y sábados",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -3599,6 +3972,7 @@
  {
   "banco": "Santander",
   "comercio": "Do Sushi",
+  "tipo": "Disfruta de la cocina Japonesa",
   "descuento": "50% dcto. todos los domingos",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -3622,6 +3996,7 @@
  {
   "banco": "Santander",
   "comercio": "Carmine",
+  "tipo": "Raíces profundas de una tradición gastronómica que ha sido transmitida de generación en generación",
   "descuento": "50% dcto. todos los jueves",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -3645,6 +4020,7 @@
  {
   "banco": "Santander",
   "comercio": "Restaurante Hotel AWA",
+  "tipo": "Cocina contemporánea con platos internacionales con técnicas tradicionales locales",
   "descuento": "40% dcto. todos los jueves",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3668,6 +4044,7 @@
  {
   "banco": "Santander",
   "comercio": "ICA",
+  "tipo": "Conoce la mejor cocina Peruana Criolla popular",
   "descuento": "40% dcto. todos los sábados",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3691,6 +4068,7 @@
  {
   "banco": "Santander",
   "comercio": "La Dicha",
+  "tipo": "Descubre los mejores platos gourmet",
   "descuento": "40% dcto. todos los lunes.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -3714,6 +4092,7 @@
  {
   "banco": "Santander",
   "comercio": "Cosecha del Mar",
+  "tipo": "Explora el mundo del salmón",
   "descuento": "40% dcto. todos los viernes",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -3737,6 +4116,7 @@
  {
   "banco": "Santander",
   "comercio": "Barra Andalúe",
+  "tipo": "Disfruta de la mejor gastronomía y tragos de autor de San Pedro de la Paz",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3760,6 +4140,7 @@
  {
   "banco": "Santander",
   "comercio": "Dominga Nikkei",
+  "tipo": "Sushi Nikkei, Omakase, Coctelería de autor asiática y mucho más",
   "descuento": "40%. dcto. todos los viernes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3783,6 +4164,7 @@
  {
   "banco": "Santander",
   "comercio": "Naoki",
+  "tipo": "Sabores y técnicas japonesas se combinan con elementos locales de la costa chilena para crear una experiencia gastronómi",
   "descuento": "40%. dcto. todos los miércoles",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -3806,6 +4188,7 @@
  {
   "banco": "Santander",
   "comercio": "Caoba Bar",
+  "tipo": "Disfruta de un increíble bar",
   "descuento": "40% dcto. todos los lunes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3829,6 +4212,7 @@
  {
   "banco": "Santander",
   "comercio": "PF Chang’s",
+  "tipo": "Lo mejor de la comida asiatica",
   "descuento": "40% dcto. todos los miércoles",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3852,6 +4236,7 @@
  {
   "banco": "Santander",
   "comercio": "Augusta Bar",
+  "tipo": "Disfruta de una variada gastronomía y cócteles de autor",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3875,6 +4260,7 @@
  {
   "banco": "Santander",
   "comercio": "La Bifería",
+  "tipo": "Cortes únicos de carne a la parrilla",
   "descuento": "40% dcto. todos los miércoles",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3898,6 +4284,7 @@
  {
   "banco": "Santander",
   "comercio": "Hijo del Sol",
+  "tipo": "Disfruta del rico sabor de una causa limeña",
   "descuento": "40% dcto. todos los miércoles",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3920,6 +4307,7 @@
  {
   "banco": "Santander",
   "comercio": "Local Burger",
+  "tipo": "Disfruta las mejores hamburguesas",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3940,6 +4328,7 @@
  {
   "banco": "Santander",
   "comercio": "Fork",
+  "tipo": "Platos preparados todos los días, frescos y sin conservantes",
   "descuento": "40% dcto. todos los viernes.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -3963,6 +4352,7 @@
  {
   "banco": "Santander",
   "comercio": "Work/Café",
+  "tipo": "Comienza tu día en el mejor lugar, conoce todas las sucursales Work/Café",
   "descuento": "40% dcto. todos los lunes y 30% dcto. de martes a viernes",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -3989,6 +4379,7 @@
  {
   "banco": "Santander",
   "comercio": "eCook",
+  "tipo": "Lleva tus platos favoritos con el mejor descuento",
   "descuento": "40% dcto. todos los martes y jueves",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -4010,6 +4401,7 @@
  {
   "banco": "Santander",
   "comercio": "Dominó",
+  "tipo": "Los martes ahora son Dinámicos",
   "descuento": "40% dcto. todos los martes.",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -4032,6 +4424,7 @@
  {
   "banco": "Santander",
   "comercio": "CuracaRibs",
+  "tipo": "Disfruta carnes ahumadas 100% a leña",
   "descuento": "40% dcto. todos lunes online.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -4054,6 +4447,7 @@
  {
   "banco": "Santander",
   "comercio": "Sakura",
+  "tipo": "Mucho más que sushi",
   "descuento": "40% dcto. en Rolls todos los viernes.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -4076,6 +4470,7 @@
  {
   "banco": "Santander",
   "comercio": "Corrales del Sur",
+  "tipo": "El mejor Angus nacional en Corrales del Sur",
   "descuento": "30% dcto. todos los jueves.",
   "descuento_pct": 30,
   "tope": "$100.000",
@@ -4098,6 +4493,7 @@
  {
   "banco": "Santander",
   "comercio": "Burger King",
+  "tipo": "Disfruta las mejores burger a la parrilla, desde 1954",
   "descuento": "40% dcto. todos los jueves.",
   "descuento_pct": 40,
   "tope": "$15.000",
@@ -4121,6 +4517,7 @@
  {
   "banco": "Santander",
   "comercio": "Piegari",
+  "tipo": "Cocina italiana tradicional",
   "descuento": "40% dcto. todos los miercoles.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -4144,6 +4541,7 @@
  {
   "banco": "Santander",
   "comercio": "Melt Pizzas",
+  "tipo": "Las mejores pizzas están en Melt!",
   "descuento": "40% dcto. todos los martes.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -4166,6 +4564,7 @@
  {
   "banco": "Santander",
   "comercio": "Aquality",
+  "tipo": "Compra pescados y mariscos congelados de calidad superior!",
   "descuento": "40% dcto. todos los martes y acumula 1 Milla LATAM Pass adicional",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -4186,6 +4585,7 @@
  {
   "banco": "Santander",
   "comercio": "Al Pesto",
+  "tipo": "Disfruta las delicias culinarias y tendencias italianas auténticas",
   "descuento": "40% dcto. todos los martes.",
   "descuento_pct": 40,
   "tope": "$40.000",

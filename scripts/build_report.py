@@ -24,6 +24,17 @@ sys.path.insert(0, os.path.dirname(__file__))
 from common import DIAS, horario_desde_texto, lugares_desde_texto  # noqa: E402
 
 
+def tipo_corto(desc, maxlen=120):
+    """Primera frase de la descripción del comercio ('Restaurante especializado en
+    pizzas y pastas al estilo italiano. Destaca por…' -> primera oración)."""
+    d = re.sub(r"\s+", " ", (desc or "")).strip()
+    if not d:
+        return ""
+    m = re.match(r"(.{0,%d}?[.!?])(\s|$)" % maxlen, d)
+    out = (m.group(1) if m else d[:maxlen]).strip(" .")
+    return out
+
+
 def norm_falabella(i):
     cond = i.get("condiciones") or ""
     lug = lugares_desde_texto(cond)
@@ -41,6 +52,7 @@ def norm_falabella(i):
     return {
         "banco": "Banco Falabella",
         "comercio": i.get("comercio"),
+        "tipo": tipo_corto(i.get("descripcion_comercio")),
         "descuento": desc,
         "descuento_pct": i.get("descuento_pct"),
         "tope": i.get("tope") or "",
@@ -61,6 +73,7 @@ def norm_generic(i):
     return {
         "banco": i.get("banco"),
         "comercio": i.get("comercio"),
+        "tipo": tipo_corto(i.get("tipo")),
         "descuento": i.get("bajada") or i.get("descuento") or "",
         "descuento_pct": i.get("descuento_pct"),
         "tope": i.get("tope") or "",
@@ -110,10 +123,10 @@ def to_markdown(items, categoria, mes):
         rows = sorted([i for i in items if d in i["dias"]], key=lambda x: (x["banco"], x["comercio"].lower()))
         md.append(f"### {d} ({len(rows)})")
         md.append("")
-        md.append("| Banco | Comercio | Dcto | Tope | Horario | Lugar | Tarjetas |")
-        md.append("|---|---|---|---|---|---|---|")
+        md.append("| Banco | Comercio | Tipo | Dcto | Tope | Horario | Lugar | Tarjetas |")
+        md.append("|---|---|---|---|---|---|---|---|")
         for i in rows:
-            md.append(f"| {i['banco']} | [{cell(i['comercio'])}]({i['url']}) | {cell(short(i['descuento'],90))} | {cell(i['tope'])} | "
+            md.append(f"| {i['banco']} | [{cell(i['comercio'])}]({i['url']}) | {cell(short(i.get('tipo'),50))} | {cell(short(i['descuento'],90))} | {cell(i['tope'])} | "
                       f"{cell(short(i['horario'],80))} | {cell(short('; '.join(i['lugares']),160))} | {cell(short('; '.join(i['tarjetas']),90))} |")
         md.append("")
     sin = [i for i in items if not i["dias"]]
@@ -126,6 +139,8 @@ def to_markdown(items, categoria, mes):
     md += ["## Por comercio (detalle completo)", ""]
     for i in sorted(items, key=lambda x: (x["comercio"].lower(), x["banco"])):
         md.append(f"### {i['comercio']} — {i['banco']}")
+        if i.get("tipo"):
+            md.append(f"- *{i['tipo']}*")
         md.append(f"- **Descuento:** {i['descuento']} · **Tope:** {i['tope'] or '—'}")
         md.append(f"- **Días:** {', '.join(i['dias']) or '—'} · **Horario:** {i['horario'] or '—'}")
         md.append(f"- **Lugar(es):** {'; '.join(i['lugares']) or '— (ver condiciones)'}")
@@ -144,10 +159,10 @@ def to_markdown(items, categoria, mes):
 def to_csv(items, path):
     with open(path, "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f, delimiter=";")
-        w.writerow(["banco", "comercio", "descuento", "descuento_pct", "tope", "dias", "horario", "lugares",
+        w.writerow(["banco", "comercio", "tipo", "descuento", "descuento_pct", "tope", "dias", "horario", "lugares",
                     "tarjetas", "modalidad", "region", "vigencia", "url", "condiciones"])
         for i in items:
-            w.writerow([i["banco"], i["comercio"], i["descuento"], i["descuento_pct"], i["tope"], ", ".join(i["dias"]),
+            w.writerow([i["banco"], i["comercio"], i.get("tipo", ""), i["descuento"], i["descuento_pct"], i["tope"], ", ".join(i["dias"]),
                         i["horario"], "; ".join(i["lugares"]), "; ".join(i["tarjetas"]), i["modalidad"], i["region"],
                         i["vigencia"], i["url"], i["condiciones"].replace("\n", " / ")])
 

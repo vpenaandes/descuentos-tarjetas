@@ -1,16 +1,16 @@
 # Banco Falabella — descuentos restaurantes (2026-09)
 
-Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios  ·  scrapeado 2026-09-01
+Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  94 beneficios  ·  scrapeado 2026-09-01
 
 ## Resumen por día
 
-- **Lunes** (36): Badass, Barra Chalaca, Berlín Doner Kebab, Cabrera al Paso, Cafe Haussmann, Club de restaurantes, Coppelia, Cuponera Gastronómica, Ekeko, El Bodegon, El japones, Frida Kahlo, Fuente Suiza, Jalisco, Kairos garden, Kento Gourmet, La argentina, La Maestranza, La patrona, La piazza, La sanguchera del barrio, Mamma mia, Meson del marinero, Milá, Muu grill, Muu Steak, Paris texas, Patio Bulnes Restobar, Petit, Siete cortes, Take a wok, Tanta, Tololo Beach , Tololo Beef, Vapiano, Vendetta
-- **Martes** (47): Augusta Bar, Badass, Baqueano Temuco, Barra Chalaca, Berlín Doner Kebab, Bistro Cascade, Cabrera al Paso, Cantina Montt, Cattedrale Cucina Villarrica, Chokolata Cafeteria, Club de restaurantes, Cuponera Gastronómica, Ekeko, El Bodegon, El japones, Exò Nuit, Frida Kahlo, Fuente Suiza, Jalisco, Kairos garden, Kechua, Kento Gourmet, Kila Coffee, Krossbar, La argentina, La Fabrica Talca, La patrona, La piazza, La sanguchera del barrio, La Tabla, Mamma mia, Martina Lounge Bar, Meson del marinero, Milá, MISCELANEO, Muu grill, Muu Steak, Paris texas, Petit, Pristino, Sello de Raza, Siete cortes, Take a wok, Tanta, Taurus Steak Bar Chillan, Terralenga Hualpen, Vendetta
-- **Miércoles** (45): Badass, Barra Chalaca, Barra Olivo, Barros Negros, Boreal bar Rancagua, Cabrera al Paso, Club de restaurantes, Cuponera Gastronómica, Danés, Dominga Bistro Valdivia, Dynos Chillan, Ekeko, El Bodegon, El japones, Exò Nuit, Frida Kahlo, Fuente Suiza, Jalisco, Kento Gourmet, La argentina, La Maestranza, La patrona, La piazza, La sanguchera del barrio, La santoría, Mamma mia, Meson del marinero, Milá, MISCELANEO, Muu grill, Nelí, Paris texas, Petit, Roberta Ostería, Sempre Pasta, Siete cortes, Sushi & Burger Home, Take a wok, Tanta, Terralomas Concepción, Tigre Bravo, Tropera Drugstore, Umami Bar Nikkei, Vapiano, Vendetta
-- **Jueves** (36): Badass, Barra Chalaca, Berlín Doner Kebab, Cabrera al Paso, Cervecería Kunstmann Valdivia, Club de restaurantes, Cuponera Gastronómica, Ekeko, El Bodegon, El japones, Exò Nuit, Fidelio, Frida Kahlo, Fuente Suiza, Jalisco, Kento Gourmet, La argentina, La patrona, La piazza, La sanguchera del barrio, La santoría, Local Burger, Mamma mia, Meson del marinero, Milá, MISCELANEO, Muu grill, Paris texas, Petit, Santo Aire Restobar, Siete cortes, Sushi Home, Take a wok, Tanta, Terraangamos, Vendetta
-- **Viernes** (31): Badass, Barra Chalaca, Cabrera al Paso, Club de restaurantes, Cuponera Gastronómica, Ekeko, El Bodegon, El japones, Exò Nuit, Fratello Trattoría, Fuente Suiza, Jalisco, La argentina, La Maestranza, La piazza, La sanguchera del barrio, La santoría, Lebol Restobar, Mamma mia, Meson del marinero, Milá, MISCELANEO, Muu grill, Petit, Siete cortes, Social, Taberna Nose Puerto Varas, Take a wok, Tanta, Vapiano, Viña Viu Manent
-- **Sábado** (31): Badass, Barra Chalaca, Cabrera al Paso, Cantina Montt, Club de restaurantes, Cuponera Gastronómica, Ekeko, El Bodegon, El japones, Exò Nuit, Fogon Greed, Fuente Suiza, Greed Taproom, Jalisco, Kato, La argentina, La piazza, La sanguchera del barrio, La santoría, Mamma mia, Meson del marinero, Milá, MISCELANEO, Muu grill, Petit, ROCOTO, Sakura, Siete cortes, Take a wok, Tanta, Vapiano
-- **Domingo** (24): Badass, Barra Chalaca, Cabrera al Paso, Club de restaurantes, Cuponera Gastronómica, Ekeko, El Bodegon, El japones, Fuente Suiza, Jalisco, Kato, La argentina, La piazza, La sanguchera del barrio, La santoría, Mamma mia, Meson del marinero, Milá, Muu grill, Petit, Siete cortes, Take a wok, Tanta, Vapiano
+- **Lunes** (40): Badass, Barra Chalaca, Berlín Doner Kebab, Cabrera al Paso, Cafe Haussmann, Club de restaurantes, Coppelia, Cuponera Gastronómica, Ekeko, El Bodegon, El japones, Enrique Tomás, Frida Kahlo, Fuente Suiza, Jalisco, Kairos garden, Kento Gourmet, La argentina, La Maestranza, La patrona, La piazza, La sanguchera del barrio, Mamma mia, Meson del marinero, Milá, Muu grill, Muu Steak, Naoki, Panchita, Paris texas, Petit, Sicily Pizzería, Siete cortes, Take a wok, Tanta, Tololo Beach , Tololo Beef, Udon, Vapiano, Vendetta
+- **Martes** (51): Augusta Bar, Badass, Baqueano Temuco, Barra Chalaca, Berlín Doner Kebab, Bistro Cascade, Cabrera al Paso, Cantina Montt, Cattedrale Cucina Villarrica, Chokolata Cafeteria, Club de restaurantes, Cuponera Gastronómica, Dagan, Ekeko, El Bodegon, El japones, Enrique Tomás, Exò Nuit, Frida Kahlo, Fuente Suiza, Jalisco, Kairos garden, Kechua, Kento Gourmet, Kila Coffee, Krossbar, La argentina, La Fabrica Talca, La patrona, La piazza, La sanguchera del barrio, La Tabla, Mamma mia, Martina Lounge Bar, Meson del marinero, Milá, MISCELANEO, Muu grill, Muu Steak, Panchita, Paris texas, Petit, Pristino, Sello de Raza, Siete cortes, Take a wok, Tanta, Taurus Steak Bar Chillan, Terraangamos, Udon, Vendetta
+- **Miércoles** (49): Badass, Barra Chalaca, Barra Olivo, Barros Negros, Boreal bar Rancagua, Cabrera al Paso, Club de restaurantes, Cuponera Gastronómica, Danés, Dominga Bistro Pucon, Dominga Bistro Valdivia, Ekeko, El Bodegon, El japones, Enrique Tomás, Exò Nuit, Frida Kahlo, Fuente Suiza, Jalisco, Kento Gourmet, La argentina, La Maestranza, La patrona, La piazza, La sanguchera del barrio, La santoría, Mamma mia, Meson del marinero, Milá, MISCELANEO, Muu grill, Nelí, Nomade Nikkei, Panchita, Paris texas, Petit, Roberta Ostería, Sempre Pasta, Siete cortes, Sushi & Burger Home, Take a wok, Tanta, Terralomas Concepción, Tigre Bravo, Tropera Drugstore, Udon, Umami Bar Nikkei, Vapiano, Vendetta
+- **Jueves** (38): Badass, Barra Chalaca, Berlín Doner Kebab, Cabrera al Paso, Cervecería Kunstmann Valdivia, Club de restaurantes, Cuponera Gastronómica, Ekeko, El Bodegon, El japones, Enrique Tomás, Exò Nuit, Frida Kahlo, Fuente Suiza, Jalisco, Kento Gourmet, La argentina, La patrona, La piazza, La sanguchera del barrio, La santoría, Local Burger, Mamma Gaucha Coyhaique, Mamma mia, Meson del marinero, Milá, MISCELANEO, Muu grill, Panchita, Paris texas, Petit, Sabor y Aroma, Siete cortes, Sushi Home, Take a wok, Tanta, Udon, Vendetta
+- **Viernes** (35): Badass, Barra Chalaca, Cabrera al Paso, Caoba Bar, Club de restaurantes, Cuponera Gastronómica, Ekeko, El Bodegon, El japones, Enrique Tomás, Exò Nuit, Fratello Trattoría, Frida Kahlo, Fuente Suiza, Jalisco, La argentina, La Maestranza, La piazza, La sanguchera del barrio, La santoría, Lebol Restobar, Mamma mia, Meson del marinero, Milá, MISCELANEO, Muu grill, Panchita, Petit, Siete cortes, Social, Take a wok, Tanta, Udon, Vapiano, Viña Viu Manent
+- **Sábado** (36): Badass, Barra Chalaca, Cabrera al Paso, Cantina Montt, Club de restaurantes, Cuponera Gastronómica, Don Carlos, Ekeko, El Bodegon, El japones, Enrique Tomás, Exò Nuit, Fogon Greed, Frida Kahlo, Fuente Suiza, Greed Taproom, Jalisco, Kato, La argentina, La piazza, La sanguchera del barrio, La santoría, Mamma mia, Meson del marinero, Milá, MISCELANEO, Muu grill, Petit, ROCOTO, Sakura, Siete cortes, Take a wok, Tanta, Udon, Vapiano, Zulu
+- **Domingo** (27): Badass, Barra Chalaca, Cabrera al Paso, Club de restaurantes, Cuponera Gastronómica, Ekeko, El Bodegon, El japones, Enrique Tomás, Frida Kahlo, Fuente Suiza, Jalisco, Kato, La argentina, La piazza, La sanguchera del barrio, La santoría, Mamma mia, Meson del marinero, Milá, Muu grill, Petit, Siete cortes, Take a wok, Tanta, Udon, Vapiano
 
 ## Detalle por comercio
 
@@ -48,7 +48,7 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   
   Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
   Válido en locales:
-  - Parque Arauco
+  - Parque Arauco todos los dias.
   ```
 - **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/badass
@@ -89,10 +89,10 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
   Válido en locales:
   - Mall Plaza Egaña: lunes a Jueves
-  - Mall Alto Las Condes: lunes a jueves
-  - Mall Plaza norte: lunes a viernes
+  - Mall Alto Las Condes: lunes a viernes
+  - Mall Plaza Norte: lunes a viernes
   - Mall Plaza Vespucio: lunes y martes
-  - Mall Vivo Panoramico: lunes a domingo
+  - Mall Vivo Panorámico: lunes a domingo
   ```
 - **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca
@@ -197,6 +197,28 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
 - **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/boreal-bar-rancagua
 
+### Boreal bar Rancagua
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Miércoles
+- **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, Tarjeta Débito Banco Falabella, CMR Mastercard Elite
+- **Modalidad:** Presencial — Presencial en Rancagua
+- **Región:** $, 2, a, :, p, r, o, p, s, :, b, e, n, e, f, i, t, C, a, r, d, s, D, a, t, a, :, 4, 8, :, r, e, g, i, o, n
+- **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  Sigue estos pasos
+  
+  - Has tu reserva en Boreal bar Rancagua
+  - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
+  - Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.
+  Condiciones:
+  *Solo Presencial
+  - Todos los miércoles
+  *Dirección: Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins.
+  ```
+- **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/boreal-bar-rancagua
+
 ### Cabrera al Paso
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo
@@ -253,6 +275,25 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   ```
 - **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/cantina-montt
+
+### Caoba Bar
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Viernes
+- **Tarjetas:** CMR Mastercard Elite
+- **Modalidad:** Presencial — Exclusivo presencial
+- **Región:** Región Metropolitana de Santiago
+- **Vigencia:** 2026-01-06 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  Detalle
+  
+  - En el total de tu boleta en Caoba Bar
+  - Exclusivo con CMR Elite
+  - Alonso de Córdova 4156, Vitacura
+  - ¿Aún no tienes tu CMR? Pídela aquí
+  ```
+- **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjeta CMR Elite Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta, excluyendo propina . Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/caoba-bar
 
 ### Cattedrale Cucina Villarrica
 - **Descuento:** 40% · **Tope:** Sin Tope
@@ -366,6 +407,24 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
 - **Legal:** Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio. El pago con tarjetas de crédito puede tener costos asociados. Consultar al emisor para mayor información. Infórmese sobre la garantía estatal de los depósitos en su banco o en www. cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica
 
+### Dagan
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Martes
+- **Tarjetas:** CMR Mastercard Elite
+- **Modalidad:** Presencial — Presencial con CMR Elite
+- **Región:** Región Metropolitana de Santiago
+- **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  Conoce el detalle
+  
+  Descuento: 40% dcto sin tope con CMR Elite los martes
+  Válido en locales:
+  - Dagan: Nueva Costanera 3750, Santiago.
+  ```
+- **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjeta CMR Elite Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2025. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/dagan
+
 ### Danés
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Miércoles
@@ -386,6 +445,27 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   ```
 - **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/danes
+
+### Dominga Bistro Pucon
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Miércoles
+- **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, Tarjeta Débito Banco Falabella, CMR Mastercard Elite
+- **Modalidad:** Presencial — Presencial en Pucon
+- **Región:** Región de Los Ríos
+- **Vigencia:** 2026-08-01 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  Sigue estos pasos
+  
+  - Has tu pedido en cualquier caja de Dominga Bistro
+  - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
+  - Y listo! Cuentas con el 40% de dcto con CMR y el 30% con débito Banco Falabella
+  Condiciones:
+  *Solo Presencial
+  - Todos los Miércoles en Dominga Bistró Pucón
+  ```
+- **Legal:** Oferta válida todos los miércoles hasta el 30 de septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. No acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para mayor información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-pucon
 
 ### Dominga Bistro Valdivia
 - **Descuento:** 40% · **Tope:** Sin Tope
@@ -408,27 +488,23 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
 - **Legal:** Oferta válida todos los miércoles hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. No acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-valdivia
 
-### Dynos Chillan
+### Don Carlos
 - **Descuento:** 40% · **Tope:** Sin Tope
-- **Días:** Miércoles
-- **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, Tarjeta Débito Banco Falabella, CMR Mastercard Elite
-- **Modalidad:** Presencial — Presencial en Chillán
-- **Región:** Región de Ñuble
-- **Vigencia:** 2026-01-01 → 2026-09-30
+- **Días:** Sábado
+- **Tarjetas:** CMR Mastercard Elite
+- **Modalidad:** Presencial — Presencial con CMR Elite
+- **Región:** Región Metropolitana de Santiago
+- **Vigencia:** 2026-04-30 → 2026-09-30
 - **Condiciones / horario (texto del banco):**
   ```
   Conoce el detalle
   
-  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles
+  Descuento: 40% dcto sin tope con CMR Elite los sábados
   Válido en locales:
-  - El Roble 558, Chillán
-  - Todos los Miércoles
-  Condiciones:
-  - El descuento no es acumulable con otras promociones
-  - Válido solo para compras presenciales en Dynos Chillan
+  - Isidora Goyenechea 2895, Las Condes, Región Metropolitana
   ```
-- **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
-- **URL:** https://www.bancofalabella.cl/descuentos/detalle/dynos-chillan
+- **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjeta CMR Elite Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/don-carlos
 
 ### Ekeko
 - **Descuento:** 40% · **Tope:** Sin Tope
@@ -488,6 +564,26 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
 - **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones
 
+### Enrique Tomás
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo
+- **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, Tarjeta Débito Banco Falabella, CMR Mastercard Elite
+- **Modalidad:** Presencial — Presencial. Revisa día según local
+- **Región:** Región Metropolitana de Santiago
+- **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  Sigue estos pasos
+  
+  - Has tu reserva en Enrique Tomás
+  - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
+  - Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.
+  Condiciones:
+  Solo Presencial en Costanera Center todos los días
+  ```
+- **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para junior información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de junio de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Válido solo para compras presenciales y consumo en el local. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/enrique-tomas
+
 ### Exò Nuit
 - **Descuento:** 40% · **Tope:** Sin tope
 - **Días:** Martes, Miércoles, Jueves, Viernes, Sábado
@@ -507,21 +603,6 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   ```
 - **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/exo-nuit
-
-### Fidelio
-- **Descuento:** 40% · **Tope:** Sin Tope
-- **Días:** Jueves
-- **Tarjetas:** Tarjeta Débito Banco Falabella, CMR Mastercard Elite, CMR Mastercard Premium, CMR Mastercard
-- **Modalidad:** Presencial — Presencial en Reñaca
-- **Región:** Región de Valparaíso
-- **Vigencia:** 2026-01-01 → 2026-09-30
-- **Condiciones / horario (texto del banco):**
-  ```
-  ¡Sin Tope! 40% de descuento pagando con tu CMR y 30% pagando con débito Banco Falabella
-  Dirección: Reñaca Norte 25, Viña del Mar
-  ```
-- **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones, happy hour, menús especiales y productos emporio. Válido únicamente para consumo presencial. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
-- **URL:** https://www.bancofalabella.cl/descuentos/detalle/fidelio
 
 ### Fogon Greed
 - **Descuento:** 40% · **Tope:** Sin Tope
@@ -557,7 +638,7 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
 
 ### Frida Kahlo
 - **Descuento:** 40% · **Tope:** Sin Tope
-- **Días:** Lunes, Martes, Miércoles, Jueves
+- **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo
 - **Tarjetas:** Tarjeta Débito Banco Falabella, CMR Mastercard Elite, CMR Mastercard Premium, CMR Mastercard
 - **Modalidad:** Presencial — Presencial. Revisa día según local
 - **Región:** Región Metropolitana de Santiago
@@ -568,7 +649,7 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   
   Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
   Válido en locales:
-  - Costanera Center: lunes a jueves
+  - Costanera Center: lunes a domingo
   ```
 - **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo
@@ -586,8 +667,7 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   
   Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
   Válido en locales:
-  - Mall plaza egaña: lunes a miércoles
-  - Mall plaza oeste: lunes a miércoles
+  - Mallplaza Oeste: lunes a miércoles
   - Open Kennedy: lunes y martes
   - Open Kennedy desde 19:00hrs: miércoles a domingo
   ```
@@ -958,6 +1038,25 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
 - **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/local-burger
 
+### Mamma Gaucha Coyhaique
+- **Descuento:** 40% · **Tope:** Descuento
+- **Días:** Jueves
+- **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, Tarjeta Débito Banco Falabella, CMR Mastercard Elite
+- **Modalidad:** Presencial — Jueves en Coyhaique
+- **Región:** Región de Aysén del General Carlos Ibáñez del Campo
+- **Vigencia:** 2026-06-01 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  ¡Sin Tope! Disfruta con un 40% de dcto pagando con tu CMR y 30% de dcto pagando con débito Banco Falabella
+  Locales:
+  - Cuerno 47, 5951627 Coyhaique, Aysén
+  Condiciones:
+  - Excluye promociones
+  - Exclusivo presencial
+  ```
+- **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/mamma-gaucha-coyhaique
+
 ### Mamma mia
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo
@@ -1005,7 +1104,7 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo
 - **Tarjetas:** Tarjeta Débito Banco Falabella, CMR Mastercard Elite, CMR Mastercard Premium, CMR Mastercard
 - **Modalidad:** Presencial — Presencial. Revisa día según local
-- **Región:** Región Metropolitana de Santiago
+- **Región:** Región Metropolitana de Santiago, Región de Antofagasta
 - **Vigencia:** 2026-01-01 → 2026-09-30
 - **Condiciones / horario (texto del banco):**
   ```
@@ -1074,15 +1173,13 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   
   Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
   Válido en locales:
+  - Costanera Center: Todos los días
+  - AV Isidora Goyenechea 3000, las condes: Todos los días
+  - Mercado Bulnes: Todos los días
   - Mallplaza Oeste: Todos los días
-  - Mallplaza Egaña: Todos los días
+  - Mallplaza Los Dominicos: Todos los días
   - Mallplaza Vespucio: Todos los días
   - Mallplaza Tobalaba: Todos los días
-  - Mallplaza Los Dominicos: Todos los días
-  - AV Isidora Goyenechea 3000, las condes: Todos los días
-  - Vivo panorámico: Todos los días
-  - Mercado Bulnes: Todos los días
-  - Costanera Center: Todos los días
   - Mall Marina Viña: Todos los días
   - Mallplaza Antofagasta: Lunes a miércoles
   ```
@@ -1103,11 +1200,29 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
   - Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.
   Condiciones:
-  - Solo Presencial en Alto Las Condes.
-  - Todos los Lunes y Martes
+  - Alto Las Condes: Lunes y Martes
+  - Exclusivo presencial
   ```
 - **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/muu-steak
+
+### Naoki
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Lunes
+- **Tarjetas:** CMR Mastercard Elite
+- **Modalidad:** Presencial — Exclusivo Tarjeta CMR Elite
+- **Región:** Región Metropolitana de Santiago
+- **Vigencia:** 2026-04-30 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  Conoce el detalle
+  
+  Descuento: 40% dcto sin tope con CMR Elite los lunes
+  Válido en locales:
+  - Av Vitacura 3875, Vitacura
+  ```
+- **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR ELITE. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no válido para bombas especiales y no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/naoki
 
 ### Nelí
 - **Descuento:** 40% · **Tope:** Sin Tope
@@ -1128,6 +1243,44 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
 - **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/neli
 
+### Nomade Nikkei
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Miércoles
+- **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, Tarjeta Débito Banco Falabella, CMR Mastercard Elite
+- **Modalidad:** Presencial — Presencial en Buin
+- **Región:** Región Metropolitana de Santiago
+- **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  Sigue estos pasos
+  
+  - Has tu reserva en Nomade Nikkei
+  - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
+  - Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.
+  Condiciones:
+  *Solo Presencial
+  - Todos los Miércoles
+  *Dirección: Espacio Villaseca - Villaseca 445, Buin, Región Metropolitana
+  ```
+- **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/nomade-nikkei
+
+### Panchita
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Lunes, Martes, Miércoles, Jueves, Viernes
+- **Tarjetas:** CMR Mastercard Elite
+- **Modalidad:** Presencial — Presencial hasta las 17:00
+- **Región:** Región Metropolitana de Santiago
+- **Vigencia:** 2025-11-01 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  Conoce el detalle
+  
+  Descuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00
+  ```
+- **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para mayor información. Oferta válida pagando con tarjeta CMR Elite Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 31 de julio de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/panchita
+
 ### Paris texas
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves
@@ -1145,27 +1298,6 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   ```
 - **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportuniadades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-paris-texas
-
-### Patio Bulnes Restobar
-- **Descuento:** 40% · **Tope:** Sin Tope
-- **Días:** Lunes
-- **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, Tarjeta Débito Banco Falabella, CMR Mastercard Elite
-- **Modalidad:** Presencial — Presencial en Buin
-- **Región:** Región Metropolitana de Santiago
-- **Vigencia:** 2026-06-01 → 2026-09-30
-- **Condiciones / horario (texto del banco):**
-  ```
-  Sigue estos pasos
-  
-  - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
-  - Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.
-  Condiciones:
-  *Solo Presencial
-  - Todos los Lunes
-  *Dirección: Manuel Bulnes 491, comuna de Buin, Región Metropolitana
-  ```
-- **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
-- **URL:** https://www.bancofalabella.cl/descuentos/detalle/patio-bulnes-restobar
 
 ### Petit
 - **Descuento:** 40% · **Tope:** Sin Tope
@@ -1248,6 +1380,23 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
 - **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/rocoto
 
+### Sabor y Aroma
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Jueves
+- **Tarjetas:** CMR Mastercard Elite
+- **Modalidad:** Presencial — Exclusivo Tarjeta CMR Elite
+- **Región:** Región Metropolitana de Santiago
+- **Vigencia:** 2026-01-02 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  Sigue estos pasos
+  
+  *Av. Raúl Labbé 12559
+  *¿Aún no tienes tu CMR? Pídela aquí
+  ```
+- **Legal:** Oferta válida hasta el 28 de Septiembre de 2026, pagando con tarjetas CMR ELITE. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no válido para bombas especiales y no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-sabor-y-aroma
+
 ### Sakura
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Sábado
@@ -1268,27 +1417,8 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   - Válido para rolls y hosomakis
   - No acumulable sobre otras promociones
   ```
-- **Legal:** $5f
+- **Legal:** $5d
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/sakura
-
-### Santo Aire Restobar
-- **Descuento:** 40% · **Tope:** Sin Tope
-- **Días:** Jueves
-- **Tarjetas:** Tarjeta Débito Banco Falabella, CMR Mastercard Elite, CMR Mastercard Premium, CMR Mastercard
-- **Modalidad:** Presencial — Presencial en Concepción
-- **Región:** Región de Biobío
-- **Vigencia:** 2026-08-01 → 2026-09-30
-- **Condiciones / horario (texto del banco):**
-  ```
-  Sigue estos pasos
-  
-  - Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago
-  - Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.
-  Condiciones:
-  *Solo Presencial
-  ```
-- **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
-- **URL:** https://www.bancofalabella.cl/descuentos/detalle/santo-aire-restobar
 
 ### Sello de Raza
 - **Descuento:** 40% · **Tope:** Sin Tope
@@ -1327,6 +1457,28 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   ```
 - **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/sempre-pasta
+
+### Sicily Pizzería
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Lunes
+- **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, CMR Mastercard Elite, Tarjeta Débito Banco Falabella
+- **Modalidad:** Presencial — Exclusivo presencial
+- **Región:** Región Metropolitana de Santiago
+- **Vigencia:** 2026-07-01 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  Conoce el detalle
+  
+  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los lunes
+  Válido en locales:
+  - Sicily: Alonso de Córdova 4226, 7630000 Vitacura, Región Metropolitana
+  - Todos los lunes
+  Condiciones:
+  - El descuento no es acumulable con otras promociones
+  - Válido solo para compras presenciales en Sicily
+  ```
+- **Legal:** Oferta válida hasta el 30 de septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para mayor información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/sicily-pizzeria
 
 ### Siete cortes
 - **Descuento:** 40% · **Tope:** Sin Tope
@@ -1412,25 +1564,6 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
 - **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/sushi-home
 
-### Taberna Nose Puerto Varas
-- **Descuento:** 40% · **Tope:** Sin Tope
-- **Días:** Viernes
-- **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, Tarjeta Débito Banco Falabella, CMR Mastercard Elite
-- **Modalidad:** Presencial — Presencial en Puerto Varas
-- **Región:** Región de Los Lagos
-- **Vigencia:** 2026-08-01 → 2026-09-30
-- **Condiciones / horario (texto del banco):**
-  ```
-  Conoce el detalle
-  
-  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
-  Condiciones:
-  - El descuento no es acumulable con otras promociones
-  - Válido solo para compras presenciales en Taberna Nose Puerto Varas
-  ```
-- **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
-- **URL:** https://www.bancofalabella.cl/descuentos/detalle/taberna-nose-puerto-varas
-
 ### Take a wok
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo
@@ -1444,14 +1577,14 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   
   Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella
   Válido en locales:
+  - Parque Arauco : Todos los días
   - Mallplaza Oeste: Todos los días
-  - Mallplaza Egaña: lunes a jueves
   - Mallplaza Los Dominicos: Todos los días
   - Mallplaza Vespucio: Todos los días
   - Mallplaza Tobalaba: Todos los días
+  - Vivo Imperio: Sábado y Domingo
+  - Mallplaza Egaña: Lunes a Jueves
   - Mallplaza Antofagasta: Lunes a viernes
-  - Vivo Imperio: sábados y domingos
-  - Parque Arauco : Todos los días
   ```
 - **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportuniadades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok
@@ -1500,9 +1633,31 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
 - **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre del 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/taurus-steak-bar-chillan
 
+### Taurus Steak Bar Chillan
+- **Descuento:** 40% · **Tope:** Sin Tope
+- **Días:** Martes
+- **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, Tarjeta Débito Banco Falabella, CMR Mastercard Elite
+- **Modalidad:** Presencial — Presencial en Chillan
+- **Región:** $, 2, a, :, p, r, o, p, s, :, b, e, n, e, f, i, t, C, a, r, d, s, D, a, t, a, :, 5, 1, :, r, e, g, i, o, n
+- **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  Conoce el detalle
+  
+  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes
+  Válido en locales:
+  - Taurus Steak Bar Chillan
+  - Todos los Martes
+  Condiciones:
+  - El descuento no es acumulable con otras promociones
+  - Válido solo para compras presenciales en Taurus Steak Bar Chillan
+  ```
+- **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre del 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/taurus-steak-bar-chillan
+
 ### Terraangamos
 - **Descuento:** 40% · **Tope:** Sin tope
-- **Días:** Jueves
+- **Días:** Martes
 - **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, Tarjeta Débito Banco Falabella, CMR Mastercard Elite
 - **Modalidad:** Presencial — Presencial en Talcahuano
 - **Región:** Región de Biobío
@@ -1517,28 +1672,6 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   ```
 - **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/terraangamos
-
-### Terralenga Hualpen
-- **Descuento:** 40% · **Tope:** Sin Tope
-- **Días:** Martes
-- **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, Tarjeta Débito Banco Falabella, CMR Mastercard Elite
-- **Modalidad:** Presencial — Presencial Hualpen
-- **Región:** Región de Biobío
-- **Vigencia:** 2026-01-01 → 2026-09-30
-- **Condiciones / horario (texto del banco):**
-  ```
-  Conoce el detalle
-  
-  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes
-  Válido en locales:
-  - Terralenga Hualpen
-  - Todos los Martes
-  Condiciones:
-  - El descuento no es acumulable con otras promociones
-  - Válido solo para compras presenciales.
-  ```
-- **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 30 de Septiembre de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
-- **URL:** https://www.bancofalabella.cl/descuentos/detalle/terralenga-hualpen
 
 ### Terralomas Concepción
 - **Descuento:** 40% · **Tope:** Sin tope
@@ -1638,6 +1771,26 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
 - **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/tropera-drugstore
 
+### Udon
+- **Descuento:** 40% · **Tope:** Sin tope
+- **Días:** Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo
+- **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, Tarjeta Débito Banco Falabella, CMR Mastercard Elite
+- **Modalidad:** Presencial — Presencial. Revisa día según local
+- **Región:** Región Metropolitana de Santiago
+- **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  Conoce el detalle
+  
+  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo
+  Válido en locales:
+  - Alto las Condes
+  - Portal la dehesa
+  - Costanera Center
+  ```
+- **Legal:** El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para mayor información. Oferta válida pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se aplicará al momento del pago, cumpliendo con el método de pago establecido y el día estipulado de la oferta. Términos, condiciones y exclusiones de los descuentos y de las oportunidades únicas en www.bancofalabella.cl. Descuento de exclusiva responsabilidad del comercio y solo validos hasta el 31 de julio de 2026. No acumulable con otras promociones u ofertas. No válido para compras con factura. Válido solo para compras presenciales y consumo en el local. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/udon
+
 ### Umami Bar Nikkei
 - **Descuento:** 40% · **Tope:** Sin Tope
 - **Días:** Miércoles
@@ -1721,3 +1874,21 @@ Fuente: https://www.bancofalabella.cl/descuentos/restaurantes  ·  85 beneficios
   ```
 - **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www.bancofalabella.cl/descuentos. Descuento no válido para packs ni productos con descuento ya aplicado. No acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
 - **URL:** https://www.bancofalabella.cl/descuentos/detalle/vina-viu-manent
+
+### Zulu
+- **Descuento:** 40% · **Tope:** Sin tope
+- **Días:** Sábado
+- **Tarjetas:** CMR Mastercard, CMR Mastercard Premium, Tarjeta Débito Banco Falabella, CMR Mastercard Elite
+- **Modalidad:** Presencial — Exclusivo presencial
+- **Región:** Región Metropolitana de Santiago
+- **Vigencia:** 2026-01-01 → 2026-09-30
+- **Condiciones / horario (texto del banco):**
+  ```
+  Conoce el detalle
+  
+  Descuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados
+  Válido en locales:
+  - Alonso de Córdova 2337, Vitacura, Región Metropolitana
+  ```
+- **Legal:** Oferta válida hasta el 30 de Septiembre de 2026, pagando con tarjetas CMR Falabella MasterCard o Débito Banco Falabella. Descuento se realizará al momento de pagar y es de exclusiva responsabilidad del comercio. Términos, condiciones y exclusiones en www. bancofalabella.cl/descuentos. Descuento no acumulable con otras promociones u ofertas. El pago con Tarjetas de Crédito puede tener costos asociados. Consultar al emisor para Septiembrer información. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl.
+- **URL:** https://www.bancofalabella.cl/descuentos/detalle/zulu

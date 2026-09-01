@@ -15,6 +15,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
 from build_app import tarjetas_filtro, norm  # noqa: E402
+from common import slug_id  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -30,18 +31,23 @@ def main():
     if not os.path.exists(src):
         src = os.path.join(outdir, f"descuentos_{a.categoria}_{a.mes}.json")
     items = json.load(open(src, encoding="utf-8"))
+    diff_path = os.path.join(outdir, f"cambios_{a.categoria}_{a.mes}.json")
+    diff = json.load(open(diff_path, encoding="utf-8")) if os.path.exists(diff_path) else {"altas": [], "cambios": {}, "prev": None}
     data = []
     for idx, it in enumerate(items):
-        it.setdefault("id", f"{norm(it['banco'])[:4]}-{idx:03d}-{norm(it['comercio'])[:20]}")
+        it["id"] = slug_id(it["banco"], it.get("url"), it["comercio"])  # recalcular: los .geo.json viejos traen ids por índice
         ubic = [{"q": u.get("nombre") or u.get("consulta"), "lat": u.get("lat"), "lng": u.get("lng"),
                  "c": u.get("comuna"), "p": u.get("precision")} for u in (it.get("ubicaciones") or []) if u.get("lat")]
         data.append({"id": it["id"], "b": it["banco"], "n": it["comercio"], "d": it["descuento"], "t": it["tope"],
                      "dias": it["dias"], "h": it["horario"], "lug": it["lugares"], "tj": it["tarjetas"],
                      "tf": tarjetas_filtro(it), "mod": it["modalidad"], "reg": it["region"], "vig": it["vigencia"],
-                     "cond": it["condiciones"], "url": it["url"], "com": it.get("comunas") or [], "ub": ubic})
+                     "cond": it["condiciones"], "url": it["url"], "com": it.get("comunas") or [], "ub": ubic,
+                     "tipo": it.get("tipo", ""), "nuevo": it["id"] in set(diff.get("altas") or []),
+                     "chg": (diff.get("cambios") or {}).get(it["id"]) or None})
     meta = {"mes": a.mes, "categoria": a.categoria, "generado": dt.date.today().isoformat(), "n": len(data),
             "bancos": sorted({d["b"] for d in data}), "tarjetas": sorted({t for d in data for t in d["tf"]}),
-            "comunas": sorted({c for d in data for c in d["com"]}), "site": a.site}
+            "comunas": sorted({c for d in data for c in d["com"]}), "site": a.site,
+            "prev": diff.get("prev"), "n_nuevos": sum(1 for d in data if d["nuevo"]), "n_chg": sum(1 for d in data if d["chg"])}
     html = TEMPLATE.replace("__DATA__", json.dumps(data, ensure_ascii=False)).replace("__META__", json.dumps(meta, ensure_ascii=False))
     dst = os.path.join(outdir, f"descuentos_{a.categoria}_{a.mes}_artifact.html")
     open(dst, "w", encoding="utf-8").write(html)
@@ -96,6 +102,11 @@ select,input[type=search]{border:1px solid var(--line);background:var(--surface)
 .disc b{font-size:22px;display:block;line-height:1}
 .disc small{color:var(--muted);font-size:12px}
 .sub{color:var(--muted);font-size:12px;grid-column:1}
+.tipo{grid-column:1 / -1;font-size:13px;color:var(--ink);opacity:.85;margin-top:2px}
+.badge{font-size:10px;border-radius:5px;padding:1px 5px;margin-left:5px;font-weight:700;vertical-align:1px}
+.badge.new{background:var(--ok-bg);color:var(--ok)}
+.badge.chg{background:var(--warn-bg);color:var(--warn)}
+.dist{font-size:11px;background:var(--surface2);border-radius:5px;padding:0 5px;margin-left:5px;font-variant-numeric:tabular-nums}
 .days{display:flex;gap:3px;grid-column:1 / -1;margin-top:4px}
 .d{font-size:11px;border:1px solid var(--line);border-radius:6px;padding:1px 0;width:30px;text-align:center;color:var(--muted)}
 .d.on{background:var(--surface2);color:var(--ink);border-color:var(--ink);font-weight:700}
@@ -129,7 +140,11 @@ footer a{color:var(--accent)}
   <div class="row"><span class="lbl">Banco</span><span id="f-banco" class="row"></span></div>
   <div class="row"><span class="lbl">Tarjeta</span><span id="f-tarj" class="row"></span></div>
   <div class="row"><span class="lbl">Comuna</span><select id="sel-com"><option value="">Todas las comunas…</option></select><span id="f-com" class="row"></span></div>
-  <div class="row"><span class="lbl">Buscar</span><input type="search" id="q" placeholder="comercio, dirección, condición…"><button class="chip" id="clear">Limpiar</button></div>
+  <div class="row"><span class="lbl">Cerca</span><button class="chip" id="geoloc" type="button">📍 Cerca de mí</button>
+    <select id="radio" style="flex:0 0 auto;min-width:90px"><option value="1">1 km</option><option value="3" selected>3 km</option><option value="5">5 km</option><option value="10">10 km</option></select>
+    <span class="count" id="geostat"></span></div>
+  <div class="row" id="f-flags"></div>
+  <div class="row"><span class="lbl">Buscar</span><input type="search" id="q" placeholder="comercio, tipo, dirección…"><button class="chip" id="clear">Limpiar</button></div>
   <div class="count"><b id="count"></b> beneficios</div>
 </div>
 <div class="cards" id="cards"></div>
@@ -147,10 +162,13 @@ const bk = b => b==="Banco Falabella"?"fal":"san";
 const esc = s => String(s??"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const normtxt = s => (s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
 const gmaps = u => u.lat ? `https://www.google.com/maps/search/?api=1&query=${u.lat},${u.lng}` : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(u.q+", Chile")}`;
-const state = {banco:new Set(), dia:new Set([HOY]), tarj:new Set(), com:new Set(), q:""};
+const state = {banco:new Set(), dia:new Set([HOY]), tarj:new Set(), com:new Set(), q:"", me:null, radio:3, soloNuevos:false, soloChg:false};
+function haversine(a,b,c,d){ const t=x=>x*Math.PI/180; const s=Math.sin(t(c-a)/2)**2+Math.cos(t(a))*Math.cos(t(c))*Math.sin(t(d-b)/2)**2; return 2*6371*Math.asin(Math.sqrt(s)); }
+function distOf(d){ if(!state.me||!d.ub.length) return null; let best=null; for(const u of d.ub){ const km=haversine(state.me[0],state.me[1],u.lat,u.lng); if(best===null||km<best) best=km; } return best; }
+function fmtKm(km){ return km<1 ? Math.round(km*1000)+" m" : km.toFixed(1)+" km"; }
 
 document.getElementById("mes").textContent = META.mes;
-document.getElementById("meta").textContent = `${META.n} beneficios · ${META.bancos.map(b=>b.replace("Banco ","")).join(" + ")} · hoy es ${HOY.toLowerCase()}`;
+document.getElementById("meta").textContent = `${META.n} beneficios · ${META.bancos.map(b=>b.replace("Banco ","")).join(" + ")} · hoy es ${HOY.toLowerCase()}` + (META.prev?` · vs ${META.prev}: ${META.n_nuevos} nuevos`:"");
 document.getElementById("gen").textContent = META.generado;
 const siteA = document.getElementById("site"); siteA.href = META.site; siteA.textContent = META.site.replace(/^https?:\/\//,"");
 
@@ -166,14 +184,31 @@ const sc=document.getElementById("sel-com");
 META.comunas.concat(["(sin comuna: cadena / online)"]).forEach(c=>{const o=document.createElement("option");o.value=c;o.textContent=c;sc.appendChild(o);});
 sc.onchange=()=>{ if(sc.value){ const c=sc.value; sc.value=""; if(state.com.has(c)) return; state.com.add(c); chip(document.getElementById("f-com"),c+" ✕","",true,x=>{state.com.delete(c);x.remove();render();}); render(); } };
 document.getElementById("q").oninput=e=>{state.q=normtxt(e.target.value);render();};
-document.getElementById("clear").onclick=()=>{ state.banco.clear();state.dia.clear();state.tarj.clear();state.com.clear();state.q=""; document.querySelectorAll(".chip.on").forEach(c=>c.classList.remove("on")); document.getElementById("f-com").innerHTML=""; document.getElementById("q").value=""; render(); };
+const ff=document.getElementById("f-flags");
+if(META.n_nuevos) chip(ff, `✨ Nuevos (${META.n_nuevos})`, "", false, c=>{ state.soloNuevos=!state.soloNuevos; c.classList.toggle("on"); render(); });
+if(META.n_chg) chip(ff, `⚠ Cambió (${META.n_chg})`, "", false, c=>{ state.soloChg=!state.soloChg; c.classList.toggle("on"); render(); });
+document.getElementById("radio").onchange=e=>{ state.radio=+e.target.value; if(state.me) render(); };
+document.getElementById("geoloc").onclick=function(){
+  const st=document.getElementById("geostat"), btn=this;
+  if(state.me){ state.me=null; st.textContent=""; btn.textContent="📍 Cerca de mí"; btn.classList.remove("on"); render(); return; }
+  if(!navigator.geolocation){ st.textContent="sin geolocalización"; return; }
+  st.textContent="ubicando…";
+  navigator.geolocation.getCurrentPosition(
+    pos=>{ state.me=[pos.coords.latitude,pos.coords.longitude]; st.textContent="ordenado por cercanía"; btn.textContent="📍 Quitar"; btn.classList.add("on"); render(); },
+    err=>{ st.textContent = err.code===1?"permiso denegado":"no se pudo ubicar"; },
+    {enableHighAccuracy:true,timeout:10000,maximumAge:60000});
+};
+document.getElementById("clear").onclick=()=>{ state.banco.clear();state.dia.clear();state.tarj.clear();state.com.clear();state.q="";state.soloNuevos=false;state.soloChg=false; document.querySelectorAll(".chip.on").forEach(c=>c.classList.remove("on")); document.getElementById("f-com").innerHTML=""; document.getElementById("q").value=""; render(); };
 
 function pass(d){
   if(state.banco.size && !state.banco.has(d.b)) return false;
   if(state.dia.size && ![...state.dia].some(x=>d.dias.includes(x))) return false;
   if(state.tarj.size && ![...state.tarj].some(x=>d.tf.includes(x))) return false;
   if(state.com.size){ const sin = state.com.has("(sin comuna: cadena / online)") && d.com.length===0; if(!sin && ![...state.com].some(x=>d.com.includes(x))) return false; }
-  if(state.q){ const hay=normtxt([d.n,d.b,d.d,d.t,d.h,d.lug.join(" "),d.tj.join(" "),d.cond,d.com.join(" ")].join(" ")); if(!hay.includes(state.q)) return false; }
+  if(state.q){ const hay=normtxt([d.n,d.tipo,d.b,d.d,d.t,d.h,d.lug.join(" "),d.tj.join(" "),d.cond,d.com.join(" ")].join(" ")); if(!hay.includes(state.q)) return false; }
+  if(state.soloNuevos && !d.nuevo) return false;
+  if(state.soloChg && !d.chg) return false;
+  if(state.me){ const km=distOf(d); if(km===null || km>state.radio) return false; }
   return true;
 }
 function card(d){
@@ -181,19 +216,21 @@ function card(d){
   const lug=d.lug.length? `<ul class="lug">${d.lug.map((l,i)=>{const u=d.ub.find(u=>normtxt(l).includes(normtxt(u.q))||normtxt(u.q).includes(normtxt(l).split(":")[0]))||{q:l}; return `<li>${esc(l)} <a href="${gmaps(u)}" target="_blank" rel="noopener">Maps ↗</a></li>`;}).join("")}</ul>` : `<div class="sub">Lugar no publicado — ver condiciones</div>`;
   const coms=d.com.length? `<div class="tj">${d.com.map(c=>`<span class="com">${esc(c)}</span>`).join(" ")}</div>`:"";
   return `<article class="card ${d.dias.includes(HOY)?"today":""}">
-    <div class="name"><span class="bank ${bk(d.b)}"></span><a href="${d.url}" target="_blank" rel="noopener">${esc(d.n)}</a></div>
+    <div class="name"><span class="bank ${bk(d.b)}"></span><a href="${d.url}" target="_blank" rel="noopener">${esc(d.n)}</a>${d.nuevo?'<span class="badge new">NUEVO</span>':""}${d.chg?'<span class="badge chg">CAMBIÓ</span>':""}</div>
     <div class="disc"><b>${esc(d.d.split(" (")[0])}</b><small>tope ${esc(d.t||"—")}</small></div>
-    <div class="sub">${esc(d.b)} · ${esc(d.mod||"")}${d.reg?" · "+esc(d.reg):""}</div>
+    <div class="sub">${esc(d.b)} · ${esc(d.mod||"")}${d.reg?" · "+esc(d.reg):""}${(()=>{const k=distOf(d);return k===null?"":`<span class="dist">${fmtKm(k)}</span>`;})()}</div>
+    ${d.tipo?`<div class="tipo">${esc(d.tipo)}</div>`:""}
     <div class="days">${days}</div>
     ${d.h?`<div class="hor">⏱ ${esc(d.h)}</div>`:""}
     ${lug}${coms}
     <div class="tj">Tarjetas: ${esc(d.tf.join(", "))}</div>
     <div class="acts"><a class="btn primary" href="${d.url}" target="_blank" rel="noopener">Verificar en ${esc(d.b.replace("Banco ",""))} ↗</a><button class="btn" type="button" onclick="this.closest('.card').querySelector('.cond').classList.toggle('open')">Condiciones</button></div>
-    <div class="cond"><div class="meta">Vigencia: ${esc(d.vig||"—")} · Descuento completo: ${esc(d.d)}</div><pre>${esc(d.cond||"(sin texto)")}</pre></div>
+    <div class="cond"><div class="meta">${d.chg?`Cambios vs ${esc(META.prev||"")}: ${Object.entries(d.chg).map(([k,v])=>`<b>${esc(k)}</b> ${esc(v.antes||"—")} → ${esc(v.ahora||"—")}`).join(" · ")}<br>`:""}Vigencia: ${esc(d.vig||"—")} · Descuento completo: ${esc(d.d)}</div><pre>${esc(d.cond||"(sin texto)")}</pre></div>
   </article>`;
 }
 function render(){
-  const cur=DATA.filter(pass).sort((a,b)=>a.n.localeCompare(b.n,"es"));
+  let cur=DATA.filter(pass);
+  cur = state.me ? cur.sort((a,b)=>(distOf(a)??1e9)-(distOf(b)??1e9)) : cur.sort((a,b)=>a.n.localeCompare(b.n,"es"));
   document.getElementById("count").textContent=cur.length;
   document.getElementById("cards").innerHTML = cur.length? cur.map(card).join("") : `<div class="empty">Nada con esos filtros. Prueba otro día o quita la comuna.</div>`;
 }

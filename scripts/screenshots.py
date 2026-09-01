@@ -28,6 +28,8 @@ import time
 import unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import slug_id  # noqa: E402
 
 
 def norm(s):
@@ -58,7 +60,7 @@ def main():
         src = os.path.join(outdir, f"descuentos_{a.categoria}_{a.mes}.json")
     items = json.load(open(src, encoding="utf-8"))
     for idx, it in enumerate(items):
-        it.setdefault("id", f"{norm(it['banco'])[:4]}-{idx:03d}-{norm(it['comercio'])[:20]}")
+        it["id"] = slug_id(it["banco"], it.get("url"), it["comercio"])  # recalcular: los .geo.json viejos traen ids por índice
     if a.only:
         items = [i for i in items if a.only.lower() in i["banco"].lower()]
     if a.limit:

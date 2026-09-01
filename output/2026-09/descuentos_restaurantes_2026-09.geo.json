@@ -1,15 +1,59 @@
 [
  {
   "banco": "Banco Falabella",
-  "comercio": "Coppelia",
-  "descuento": "40%",
+  "comercio": "Sicily Pizzería",
+  "tipo": "Sicily es una pizzería contemporánea con inspiración siciliana, que destaca por sus masas artesanales de larga fermentac",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los lunes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
   "dias": [
    "Lunes"
   ],
   "horario": "",
-  "lugares": [],
+  "lugares": [
+   "Sicily: Alonso de Córdova 4226, 7630000 Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-07-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los lunes\nVálido en locales:\n- Sicily: Alonso de Córdova 4226, 7630000 Vitacura, Región Metropolitana\n- Todos los lunes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Sicily",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/sicily-pizzeria",
+  "id": "banc-sicily-pizzeria",
+  "ubicaciones": [
+   {
+    "lugar": "Sicily: Alonso de Córdova 4226, 7630000 Vitacura, Región Metropolitana",
+    "consulta": "Alonso de Córdova 4226, 7630000 Vitacura, Región Metropolitana",
+    "comuna": "Vitacura",
+    "precision": "exacta",
+    "lat": -33.4029353,
+    "lng": -70.5891982,
+    "osm": "Sicily, 4226, Alonso de Córdova, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile"
+   }
+  ],
+  "comunas": [
+   "Vitacura"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Pristino",
+  "tipo": "Prístino es un restaurante en Santiago de Chile enfocado en la cocina chilena contemporánea y de autor, creado por el re",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "El Coihue 3807, Vitacura, Región Metropolitana"
+  ],
   "tarjetas": [
    "CMR Mastercard",
    "CMR Mastercard Premium",
@@ -18,16 +62,29 @@
   ],
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
-  "vigencia": "2026-08-01 → 2026-09-30",
-  "condiciones": "Sigue estos pasos:\n\n- Todos los Lunes\n- 40% de descuento pagando con tu CMR y 30% de descuento pagando con Débito Banco Falabella.\nCONDICIONES \n- Solo Presencial\n- No acumulable sobre otras promociones",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/coppelia",
-  "id": "banc-000-coppelia",
-  "ubicaciones": [],
-  "comunas": []
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- El Coihue 3807, Vitacura, Región Metropolitana",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/pristino",
+  "id": "banc-pristino",
+  "ubicaciones": [
+   {
+    "lugar": "El Coihue 3807, Vitacura, Región Metropolitana",
+    "consulta": "El Coihue 3807, Vitacura, Región Metropolitana",
+    "comuna": "Vitacura",
+    "precision": "exacta",
+    "lat": -33.4017533,
+    "lng": -70.5922245,
+    "osm": "3807, El Coihue, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 7630249, Chile"
+   }
+  ],
+  "comunas": [
+   "Vitacura"
+  ]
  },
  {
   "banco": "Banco Falabella",
   "comercio": "Petit",
+  "tipo": "Petit Cafetería es una marca de bollería premium y café de especialidad en Santiago",
   "descuento": "40% (40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -55,7 +112,7 @@
   "vigencia": "2025-11-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% sin tope con Débito Banco Falabella\n- De lunes a domingo\n- Exclusivo Alto las Condes",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/petit",
-  "id": "banc-001-petit",
+  "id": "banc-petit",
   "ubicaciones": [
    {
     "lugar": "Alto las Condes",
@@ -73,17 +130,25 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Patio Bulnes Restobar",
-  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "comercio": "Udon",
+  "tipo": "Udon es una cadena internacional especializada en cocina asiática moderna, inspirada en los sabores de Japón y el sudest",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo)",
   "descuento_pct": 40,
-  "tope": "Sin Tope",
+  "tope": "Sin tope",
   "dias": [
-   "Lunes"
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
   ],
   "horario": "",
   "lugares": [
-   "Buin",
-   "Manuel Bulnes 491, comuna de Buin, Región Metropolitana"
+   "Alto las Condes",
+   "Portal la dehesa",
+   "Costanera Center"
   ],
   "tarjetas": [
    "CMR Mastercard",
@@ -93,36 +158,76 @@
   ],
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
-  "vigencia": "2026-06-01 → 2026-09-30",
-  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los Lunes\n*Dirección: Manuel Bulnes 491, comuna de Buin, Región Metropolitana",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/patio-bulnes-restobar",
-  "id": "banc-002-patiobulnesrestobar",
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo\nVálido en locales:\n- Alto las Condes\n- Portal la dehesa\n- Costanera Center",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/udon",
+  "id": "banc-udon",
   "ubicaciones": [
    {
-    "lugar": "Buin",
-    "consulta": "Buin",
-    "comuna": "Buin",
-    "precision": "comuna",
-    "lat": null,
-    "lng": null
+    "lugar": "Alto las Condes",
+    "consulta": "Alto las Condes",
+    "nombre": "Alto Las Condes",
+    "comuna": "Las Condes",
+    "precision": "mall",
+    "lat": -33.3901821,
+    "lng": -70.5456303
    },
    {
-    "lugar": "Manuel Bulnes 491, comuna de Buin, Región Metropolitana",
-    "consulta": "Manuel Bulnes 491, comuna de Buin, Región Metropolitana",
-    "comuna": "Buin",
-    "precision": "exacta",
-    "lat": -33.7340751,
-    "lng": -70.7444697,
-    "osm": "491, Manuel Bulnes, Población Las Rejas, Condominio Rucalhue, Buin, Provincia de Maipo, Región Metropolitana de Santiago, 9500708, Chile"
+    "lugar": "Portal la dehesa",
+    "consulta": "Portal la dehesa",
+    "nombre": "Portal La Dehesa",
+    "comuna": "Lo Barnechea",
+    "precision": "mall",
+    "lat": -33.3571183,
+    "lng": -70.5142885
+   },
+   {
+    "lugar": "Costanera Center",
+    "consulta": "Costanera Center",
+    "nombre": "Costanera Center",
+    "comuna": "Providencia",
+    "precision": "mall",
+    "lat": -33.417987,
+    "lng": -70.6064246
    }
   ],
   "comunas": [
-   "Buin"
+   "Las Condes",
+   "Lo Barnechea",
+   "Providencia"
   ]
  },
  {
   "banco": "Banco Falabella",
+  "comercio": "Coppelia",
+  "tipo": "Coppelia es una tradicional cadena chilena de cafeterías, heladerías y pastelerías",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-08-01 → 2026-09-30",
+  "condiciones": "Sigue estos pasos:\n\n- Todos los Lunes\n- 40% de descuento pagando con tu CMR y 30% de descuento pagando con Débito Banco Falabella.\nCONDICIONES \n- Solo Presencial\n- No acumulable sobre otras promociones",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/coppelia",
+  "id": "banc-coppelia",
+  "ubicaciones": [],
+  "comunas": []
+ },
+ {
+  "banco": "Banco Falabella",
   "comercio": "La Maestranza",
+  "tipo": "La Maestranza es un restaurante chileno que combina tradición y modernidad, inspirado en la cultura ferroviaria y el esp",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -146,7 +251,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Has tu reserva en La Maestranza\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los lunes, miércoles y viernes\n- *Dirección: Avenida Vitacura 5468, Vitacura – Santiago",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/la-maestranza",
-  "id": "banc-003-lamaestranza",
+  "id": "banc-la-maestranza",
   "ubicaciones": [
    {
     "lugar": "Avenida Vitacura 5468, Vitacura – Santiago",
@@ -166,6 +271,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Kento Gourmet",
+  "tipo": "Kento Gourmet es un restaurante de estilo nikkei/sushi gourmet que ofrece rolls, nigiris, tiraditos, ceviches y platos c",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -192,7 +298,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "¡Sin Tope! Disfruta con un 40% de dcto pagando con tu CMR y 30% de dcto pagando con débito Banco Falabella\nLocales:\n- Alto Las Condes (Av Presidente Kennedy Lateral 9001)\n- Parque Arauco (Av Presidente Kennedy 5413)\n- Av. Vitacura 5460\nCondiciones:\n- Excluye promociones\n- Exclusivo presencial\n- lunes a jueves",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/kento-gourmet",
-  "id": "banc-004-kentogourmet",
+  "id": "banc-kento-gourmet",
   "ubicaciones": [
    {
     "lugar": "Alto Las Condes (Av Presidente Kennedy Lateral 9001)",
@@ -230,6 +336,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Frida Kahlo",
+  "tipo": "Restaurante temático inspirado en la cultura mexicana y la artista Frida Kahlo",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -237,11 +344,14 @@
    "Lunes",
    "Martes",
    "Miércoles",
-   "Jueves"
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
   ],
   "horario": "",
   "lugares": [
-   "Costanera Center: lunes a jueves"
+   "Costanera Center: lunes a domingo"
   ],
   "tarjetas": [
    "Tarjeta Débito Banco Falabella",
@@ -252,12 +362,12 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Costanera Center: lunes a jueves",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Costanera Center: lunes a domingo",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/frida-kahlo",
-  "id": "banc-005-fridakahlo",
+  "id": "banc-frida-kahlo",
   "ubicaciones": [
    {
-    "lugar": "Costanera Center: lunes a jueves",
+    "lugar": "Costanera Center: lunes a domingo",
     "consulta": "Costanera Center",
     "nombre": "Costanera Center",
     "comuna": "Providencia",
@@ -273,6 +383,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Vapiano",
+  "tipo": "Cadena internacional de comida italiana, famosa por sus pastas frescas y pizzas artesanales",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -298,7 +409,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Vapiano\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los Lunes, Miércoles, Viernes, Sábados y Domingos\n*Dirección: Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/vapiano",
-  "id": "banc-006-vapiano",
+  "id": "banc-vapiano",
   "ubicaciones": [
    {
     "lugar": "Avenida Presidente Kennedy 5413, Las Condes, Región Metropolitana y Avenida Providencia 1984, Providencia. Región Metropolitana",
@@ -328,6 +439,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Muu grill",
+  "tipo": "Restaurante especializado en carnes a la parrilla y cortes premium",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -342,15 +454,13 @@
   ],
   "horario": "",
   "lugares": [
+   "Costanera Center: Todos los días",
+   "AV Isidora Goyenechea 3000, las condes: Todos los días",
+   "Mercado Bulnes: Todos los días",
    "Mallplaza Oeste: Todos los días",
-   "Mallplaza Egaña: Todos los días",
+   "Mallplaza Los Dominicos: Todos los días",
    "Mallplaza Vespucio: Todos los días",
    "Mallplaza Tobalaba: Todos los días",
-   "Mallplaza Los Dominicos: Todos los días",
-   "AV Isidora Goyenechea 3000, las condes: Todos los días",
-   "Vivo panorámico: Todos los días",
-   "Mercado Bulnes: Todos los días",
-   "Costanera Center: Todos los días",
    "Mall Marina Viña: Todos los días",
    "Mallplaza Antofagasta: Lunes a miércoles"
   ],
@@ -363,10 +473,37 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago, Región de Valparaíso",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Oeste: Todos los días\n- Mallplaza Egaña: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Mallplaza Los Dominicos: Todos los días\n- AV Isidora Goyenechea 3000, las condes: Todos los días\n- Vivo panorámico: Todos los días\n- Mercado Bulnes: Todos los días\n- Costanera Center: Todos los días\n- Mall Marina Viña: Todos los días\n- Mallplaza Antofagasta: Lunes a miércoles",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Costanera Center: Todos los días\n- AV Isidora Goyenechea 3000, las condes: Todos los días\n- Mercado Bulnes: Todos los días\n- Mallplaza Oeste: Todos los días\n- Mallplaza Los Dominicos: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Mall Marina Viña: Todos los días\n- Mallplaza Antofagasta: Lunes a miércoles",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-muu-grill",
-  "id": "banc-007-muugrill",
+  "id": "banc-40-de-dcto-en-restaurantes-mallplaza-muu-grill",
   "ubicaciones": [
+   {
+    "lugar": "Costanera Center: Todos los días",
+    "consulta": "Costanera Center",
+    "nombre": "Costanera Center",
+    "comuna": "Providencia",
+    "precision": "mall",
+    "lat": -33.417987,
+    "lng": -70.6064246
+   },
+   {
+    "lugar": "AV Isidora Goyenechea 3000, las condes: Todos los días",
+    "consulta": "AV Isidora Goyenechea 3000, las condes",
+    "comuna": "Las Condes",
+    "precision": "exacta",
+    "lat": -33.4140455,
+    "lng": -70.5980431,
+    "osm": "NoSo, 3000, Isidora Goyenechea, El Golf, Las Condes, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile"
+   },
+   {
+    "lugar": "Mercado Bulnes: Todos los días",
+    "consulta": "Mercado Bulnes",
+    "nombre": "Mercado Bulnes",
+    "comuna": "Santiago",
+    "precision": "mall",
+    "lat": -33.4477,
+    "lng": -70.6575
+   },
    {
     "lugar": "Mallplaza Oeste: Todos los días",
     "consulta": "Mallplaza Oeste",
@@ -377,13 +514,13 @@
     "lng": -70.7174339
    },
    {
-    "lugar": "Mallplaza Egaña: Todos los días",
-    "consulta": "Mallplaza Egaña",
-    "nombre": "Mallplaza Egaña",
-    "comuna": "La Reina",
+    "lugar": "Mallplaza Los Dominicos: Todos los días",
+    "consulta": "Mallplaza Los Dominicos",
+    "nombre": "Mallplaza Los Dominicos",
+    "comuna": "Las Condes",
     "precision": "mall",
-    "lat": -33.4527278,
-    "lng": -70.5698297
+    "lat": -33.4152017,
+    "lng": -70.5408031
    },
    {
     "lugar": "Mallplaza Vespucio: Todos los días",
@@ -402,51 +539,6 @@
     "precision": "mall",
     "lat": -33.5693029,
     "lng": -70.5574865
-   },
-   {
-    "lugar": "Mallplaza Los Dominicos: Todos los días",
-    "consulta": "Mallplaza Los Dominicos",
-    "nombre": "Mallplaza Los Dominicos",
-    "comuna": "Las Condes",
-    "precision": "mall",
-    "lat": -33.4152017,
-    "lng": -70.5408031
-   },
-   {
-    "lugar": "AV Isidora Goyenechea 3000, las condes: Todos los días",
-    "consulta": "AV Isidora Goyenechea 3000, las condes",
-    "comuna": "Las Condes",
-    "precision": "exacta",
-    "lat": -33.4140455,
-    "lng": -70.5980431,
-    "osm": "NoSo, 3000, Isidora Goyenechea, El Golf, Las Condes, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile"
-   },
-   {
-    "lugar": "Vivo panorámico: Todos los días",
-    "consulta": "Vivo panorámico",
-    "nombre": "Mall Vivo Panorámico",
-    "comuna": "Providencia",
-    "precision": "mall",
-    "lat": -33.4233062,
-    "lng": -70.6098465
-   },
-   {
-    "lugar": "Mercado Bulnes: Todos los días",
-    "consulta": "Mercado Bulnes",
-    "nombre": "Mercado Bulnes",
-    "comuna": "Santiago",
-    "precision": "mall",
-    "lat": -33.4477,
-    "lng": -70.6575
-   },
-   {
-    "lugar": "Costanera Center: Todos los días",
-    "consulta": "Costanera Center",
-    "nombre": "Costanera Center",
-    "comuna": "Providencia",
-    "precision": "mall",
-    "lat": -33.417987,
-    "lng": -70.6064246
    },
    {
     "lugar": "Mall Marina Viña: Todos los días",
@@ -468,13 +560,12 @@
    }
   ],
   "comunas": [
+   "Providencia",
+   "Las Condes",
+   "Santiago",
    "Cerrillos",
-   "La Reina",
    "La Florida",
    "Puente Alto",
-   "Las Condes",
-   "Providencia",
-   "Santiago",
    "Viña del Mar",
    "Antofagasta"
   ]
@@ -482,6 +573,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Cabrera al Paso",
+  "tipo": "Local especializado en sándwiches y comidas rápidas con ingredientes frescos",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -509,7 +601,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Egaña: lunes a domingo",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso",
-  "id": "banc-008-cabreraalpaso",
+  "id": "banc-la-cabrera-al-paso",
   "ubicaciones": [
    {
     "lugar": "Mallplaza Egaña: lunes a domingo",
@@ -528,6 +620,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Tanta",
+  "tipo": "Cadena de restaurantes creada por Gastón Acurio, presente en Chile, que ofrece cocina peruana contemporánea",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -559,7 +652,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Isidora 3000: Viernes a domingo\n- Mallplaza Norte: lunes a jueves\n- Mall Florida Center: Todos los dias\n- Mallplaza Tobalaba: Todos los dias\n- Mallplaza Egaña: lunes a miércoles",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-tanta",
-  "id": "banc-009-tanta",
+  "id": "banc-40-de-dcto-en-restaurantes-mallplaza-tanta",
   "ubicaciones": [
    {
     "lugar": "Isidora 3000: Viernes a domingo",
@@ -618,6 +711,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Mamma mia",
+  "tipo": "Restaurante especializado en pizzas y pastas al estilo italiano",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -648,7 +742,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Tobalaba: Todos los días\n- Vivo Panorámico: Todos los días\n- Parque Arauco: Todos los días\n- Mallplaza Antofagasta: lunes a miércoles.",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-mamma-mia",
-  "id": "banc-010-mammamia",
+  "id": "banc-40-de-dcto-en-restaurantes-mallplaza-mamma-mia",
   "ubicaciones": [
    {
     "lugar": "Mallplaza Tobalaba: Todos los días",
@@ -697,6 +791,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Berlín Doner Kebab",
+  "tipo": "Restaurante inspirado en la tradición alemana del kebab, con carnes asadas y salsas únicas",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -718,13 +813,14 @@
   "vigencia": "2025-10-01 → 2026-09-30",
   "condiciones": "Locales:\nGerónimo de Alderete 1579, Vitacura.\nIrarrázaval 1520, Ñuñoa.\nCondiciones:\n- Excluye promociones",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/berlin-doner-kebab",
-  "id": "banc-011-berlindonerkebab",
+  "id": "banc-berlin-doner-kebab",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Banco Falabella",
   "comercio": "Kairos garden",
+  "tipo": "Restaurante que ofrece cocina saludable y experiencias en un entorno natural",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -747,7 +843,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Plaza Vespucio: lunes y martes",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/kairos-garden",
-  "id": "banc-012-kairosgarden",
+  "id": "banc-kairos-garden",
   "ubicaciones": [
    {
     "lugar": "Mall Plaza Vespucio: lunes y martes",
@@ -766,6 +862,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "La piazza",
+  "tipo": "Restaurante inspirado en la gastronomía italiana, con pizzas y pastas frescas",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -795,7 +892,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Plaza Vespucio: Todos los días\n- Open Kennedy: lunes y martes\n- Open Kennedy desde las 19:00hrs: miércoles a domingo",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/sog-la-piazza",
-  "id": "banc-013-lapiazza",
+  "id": "banc-sog-la-piazza",
   "ubicaciones": [
    {
     "lugar": "Mall Plaza Vespucio: Todos los días",
@@ -833,6 +930,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "La patrona",
+  "tipo": "Restaurante que celebra la cocina mexicana con tacos, enchiladas y margaritas",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -857,7 +955,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- La Patrona Mall Plaza Vespucio: lunes a jueves",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-patrona",
-  "id": "banc-014-lapatrona",
+  "id": "banc-40-de-dcto-en-restaurantes-mallplaza-la-patrona",
   "ubicaciones": [
    {
     "lugar": "La Patrona Mall Plaza Vespucio: lunes a jueves",
@@ -876,6 +974,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Paris texas",
+  "tipo": "Una cadena estilo Tex‑Mex y americana ubicada en Mallplaza, famosa por sus ribs jugosas, hamburguesas artesanales y papa",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -900,7 +999,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Paris Texas Mallplaza Vespucio: lunes a jueves",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-paris-texas",
-  "id": "banc-015-paristexas",
+  "id": "banc-40-de-dcto-en-restaurantes-mallplaza-paris-texas",
   "ubicaciones": [
    {
     "lugar": "Paris Texas Mallplaza Vespucio: lunes a jueves",
@@ -919,6 +1018,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Take a wok",
+  "tipo": "Restaurante de comida asiática rápida en Santiago, especializado en woks personalizados con ingredientes frescos",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -933,14 +1033,14 @@
   ],
   "horario": "",
   "lugares": [
+   "Parque Arauco : Todos los días",
    "Mallplaza Oeste: Todos los días",
-   "Mallplaza Egaña: lunes a jueves",
    "Mallplaza Los Dominicos: Todos los días",
    "Mallplaza Vespucio: Todos los días",
    "Mallplaza Tobalaba: Todos los días",
-   "Mallplaza Antofagasta: Lunes a viernes",
-   "Vivo Imperio: sábados y domingos",
-   "Parque Arauco : Todos los días"
+   "Vivo Imperio: Sábado y Domingo",
+   "Mallplaza Egaña: Lunes a Jueves",
+   "Mallplaza Antofagasta: Lunes a viernes"
   ],
   "tarjetas": [
    "CMR Mastercard",
@@ -951,10 +1051,19 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Oeste: Todos los días\n- Mallplaza Egaña: lunes a jueves\n- Mallplaza Los Dominicos: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Mallplaza Antofagasta: Lunes a viernes\n- Vivo Imperio: sábados y domingos\n- Parque Arauco : Todos los días",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Parque Arauco : Todos los días\n- Mallplaza Oeste: Todos los días\n- Mallplaza Los Dominicos: Todos los días\n- Mallplaza Vespucio: Todos los días\n- Mallplaza Tobalaba: Todos los días\n- Vivo Imperio: Sábado y Domingo\n- Mallplaza Egaña: Lunes a Jueves\n- Mallplaza Antofagasta: Lunes a viernes",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-take-a-wok",
-  "id": "banc-016-takeawok",
+  "id": "banc-40-de-dcto-en-restaurantes-mallplaza-take-a-wok",
   "ubicaciones": [
+   {
+    "lugar": "Parque Arauco : Todos los días",
+    "consulta": "Parque Arauco",
+    "nombre": "Parque Arauco",
+    "comuna": "Las Condes",
+    "precision": "mall",
+    "lat": -33.4019095,
+    "lng": -70.5761316
+   },
    {
     "lugar": "Mallplaza Oeste: Todos los días",
     "consulta": "Mallplaza Oeste",
@@ -963,15 +1072,6 @@
     "precision": "mall",
     "lat": -33.5173068,
     "lng": -70.7174339
-   },
-   {
-    "lugar": "Mallplaza Egaña: lunes a jueves",
-    "consulta": "Mallplaza Egaña",
-    "nombre": "Mallplaza Egaña",
-    "comuna": "La Reina",
-    "precision": "mall",
-    "lat": -33.4527278,
-    "lng": -70.5698297
    },
    {
     "lugar": "Mallplaza Los Dominicos: Todos los días",
@@ -1001,16 +1101,7 @@
     "lng": -70.5574865
    },
    {
-    "lugar": "Mallplaza Antofagasta: Lunes a viernes",
-    "consulta": "Mallplaza Antofagasta",
-    "nombre": "Mallplaza Antofagasta",
-    "comuna": "Antofagasta",
-    "precision": "mall",
-    "lat": -23.646929,
-    "lng": -70.4031467
-   },
-   {
-    "lugar": "Vivo Imperio: sábados y domingos",
+    "lugar": "Vivo Imperio: Sábado y Domingo",
     "consulta": "Vivo Imperio",
     "nombre": "Mall Vivo Imperio",
     "comuna": "Santiago",
@@ -1019,28 +1110,38 @@
     "lng": -70.6510893
    },
    {
-    "lugar": "Parque Arauco : Todos los días",
-    "consulta": "Parque Arauco",
-    "nombre": "Parque Arauco",
-    "comuna": "Las Condes",
+    "lugar": "Mallplaza Egaña: Lunes a Jueves",
+    "consulta": "Mallplaza Egaña",
+    "nombre": "Mallplaza Egaña",
+    "comuna": "La Reina",
     "precision": "mall",
-    "lat": -33.4019095,
-    "lng": -70.5761316
+    "lat": -33.4527278,
+    "lng": -70.5698297
+   },
+   {
+    "lugar": "Mallplaza Antofagasta: Lunes a viernes",
+    "consulta": "Mallplaza Antofagasta",
+    "nombre": "Mallplaza Antofagasta",
+    "comuna": "Antofagasta",
+    "precision": "mall",
+    "lat": -23.646929,
+    "lng": -70.4031467
    }
   ],
   "comunas": [
-   "Cerrillos",
-   "La Reina",
    "Las Condes",
+   "Cerrillos",
    "La Florida",
    "Puente Alto",
-   "Antofagasta",
-   "Santiago"
+   "Santiago",
+   "La Reina",
+   "Antofagasta"
   ]
  },
  {
   "banco": "Banco Falabella",
   "comercio": "La sanguchera del barrio",
+  "tipo": "Cadena chilena famosa por sus sándwiches artesanales y recetas tradicionales",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1072,7 +1173,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo\nVálido en locales:\n- Mall Plaza Egaña\n- Mercado Bulnes\n- Vivo Imperio\n- Costanera Center\n- Mallplaza Tobalaba",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-la-sanguchera-del-barrio",
-  "id": "banc-017-lasangucheradelbarri",
+  "id": "banc-40-de-dcto-en-restaurantes-mallplaza-la-sanguche",
   "ubicaciones": [
    {
     "lugar": "Mall Plaza Egaña",
@@ -1130,6 +1231,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Ekeko",
+  "tipo": "Marca que celebra la cocina peruana y latinoamericana con platos llenos de sabor y tradición",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1157,7 +1259,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mercado Bulnes: todos los días",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-ekeko",
-  "id": "banc-018-ekeko",
+  "id": "banc-40-de-dcto-en-restaurantes-mallplaza-ekeko",
   "ubicaciones": [
    {
     "lugar": "Mercado Bulnes: todos los días",
@@ -1176,6 +1278,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Badass",
+  "tipo": "Un espacio urbano en Parque Arauco, nacido para quienes buscan experiencias modernas y sociales",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1190,7 +1293,7 @@
   ],
   "horario": "",
   "lugares": [
-   "Parque Arauco"
+   "Parque Arauco todos los dias"
   ],
   "tarjetas": [
    "Tarjeta Débito Banco Falabella",
@@ -1201,13 +1304,13 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Parque Arauco",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Parque Arauco todos los dias.",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/badass",
-  "id": "banc-019-badass",
+  "id": "banc-badass",
   "ubicaciones": [
    {
-    "lugar": "Parque Arauco",
-    "consulta": "Parque Arauco",
+    "lugar": "Parque Arauco todos los dias",
+    "consulta": "Parque Arauco todos los dias",
     "nombre": "Parque Arauco",
     "comuna": "Las Condes",
     "precision": "mall",
@@ -1222,6 +1325,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Vendetta",
+  "tipo": "Restaurante-bar temático en Santiago inspirado en la cultura italiana y el cine, con carta de pizzas, pastas y coctelerí",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1250,7 +1354,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Plaza Egaña: de lunes a jueves\n- Mall Plaza Los Dominicos: de lunes a jueves\n- Mall Plaza Vespucio: de lunes a jueves\n- Patio Bellavista: de lunes a jueves",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/vendetta",
-  "id": "banc-020-vendetta",
+  "id": "banc-vendetta",
   "ubicaciones": [
    {
     "lugar": "Mall Plaza Egaña: de lunes a jueves",
@@ -1298,7 +1402,59 @@
  },
  {
   "banco": "Banco Falabella",
+  "comercio": "Bistro Cascade",
+  "tipo": "Restaurante estilo bistró con influencia europea, ideal para disfrutar platos gourmet y vinos selectos",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "BordeRío",
+   "Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "CMR Mastercard Elite",
+   "Tarjeta Débito Banco Falabella"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-04-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/borderio-bistro-cascade",
+  "id": "banc-borderio-bistro-cascade",
+  "ubicaciones": [
+   {
+    "lugar": "BordeRío",
+    "consulta": "BordeRío",
+    "nombre": "BordeRío",
+    "comuna": "Vitacura",
+    "precision": "mall",
+    "lat": -33.3888,
+    "lng": -70.553
+   },
+   {
+    "lugar": "Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana",
+    "consulta": "Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana",
+    "nombre": "BordeRío",
+    "comuna": "Vitacura",
+    "precision": "mall",
+    "lat": -33.3888,
+    "lng": -70.553
+   }
+  ],
+  "comunas": [
+   "Vitacura"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
   "comercio": "Milá",
+  "tipo": "Restaurante que fusiona cocina mediterránea y chilena, con platos frescos y creativos",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1327,7 +1483,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Vivo Imperio: Todos los días\n- Alto Las Condes: Lunes y martes",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-vivo-imperio-mila",
-  "id": "banc-021-mila",
+  "id": "banc-40-de-dcto-en-restaurantes-vivo-imperio-mila",
   "ubicaciones": [
    {
     "lugar": "Mall Vivo Imperio: Todos los días",
@@ -1356,6 +1512,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Barra Chalaca",
+  "tipo": "Restaurante peruano que ofrece ceviches, tiraditos y cocina marina",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1371,10 +1528,10 @@
   "horario": "",
   "lugares": [
    "Mall Plaza Egaña: lunes a Jueves",
-   "Mall Alto Las Condes: lunes a jueves",
-   "Mall Plaza norte: lunes a viernes",
+   "Mall Alto Las Condes: lunes a viernes",
+   "Mall Plaza Norte: lunes a viernes",
    "Mall Plaza Vespucio: lunes y martes",
-   "Mall Vivo Panoramico: lunes a domingo"
+   "Mall Vivo Panorámico: lunes a domingo"
   ],
   "tarjetas": [
    "Tarjeta Débito Banco Falabella",
@@ -1385,9 +1542,9 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago, Región de Valparaíso",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Plaza Egaña: lunes a Jueves\n- Mall Alto Las Condes: lunes a jueves\n- Mall Plaza norte: lunes a viernes\n- Mall Plaza Vespucio: lunes y martes\n- Mall Vivo Panoramico: lunes a domingo",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Plaza Egaña: lunes a Jueves\n- Mall Alto Las Condes: lunes a viernes\n- Mall Plaza Norte: lunes a viernes\n- Mall Plaza Vespucio: lunes y martes\n- Mall Vivo Panorámico: lunes a domingo",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca",
-  "id": "banc-022-barrachalaca",
+  "id": "banc-40-de-dcto-en-restaurantes-mallplaza-barra-chala",
   "ubicaciones": [
    {
     "lugar": "Mall Plaza Egaña: lunes a Jueves",
@@ -1399,7 +1556,7 @@
     "lng": -70.5698297
    },
    {
-    "lugar": "Mall Alto Las Condes: lunes a jueves",
+    "lugar": "Mall Alto Las Condes: lunes a viernes",
     "consulta": "Mall Alto Las Condes",
     "nombre": "Alto Las Condes",
     "comuna": "Las Condes",
@@ -1408,8 +1565,8 @@
     "lng": -70.5456303
    },
    {
-    "lugar": "Mall Plaza norte: lunes a viernes",
-    "consulta": "Mall Plaza norte",
+    "lugar": "Mall Plaza Norte: lunes a viernes",
+    "consulta": "Mall Plaza Norte",
     "nombre": "Mallplaza Norte",
     "comuna": "Huechuraba",
     "precision": "mall",
@@ -1426,8 +1583,8 @@
     "lng": -70.5984
    },
    {
-    "lugar": "Mall Vivo Panoramico: lunes a domingo",
-    "consulta": "Mall Vivo Panoramico",
+    "lugar": "Mall Vivo Panorámico: lunes a domingo",
+    "consulta": "Mall Vivo Panorámico",
     "nombre": "Mall Vivo Panorámico",
     "comuna": "Providencia",
     "precision": "mall",
@@ -1446,6 +1603,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "El Bodegon",
+  "tipo": "El Bodegón Taberna Limeña es un restaurante en Las Condes, Santiago, especializado en cocina peruana moderna",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1474,7 +1632,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Open Kennedy: lunes y martes\n- Open Kennedy desde las 19:00: miércoles a domingo",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/el-bodegon",
-  "id": "banc-023-elbodegon",
+  "id": "banc-el-bodegon",
   "ubicaciones": [
    {
     "lugar": "Open Kennedy: lunes y martes",
@@ -1502,6 +1660,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Fuente Suiza",
+  "tipo": "Fuente Suiza Mall Plaza Egaña es un punto de restauración estilo fuente de soda chilena ubicado en Mall Plaza Egaña (Ave",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -1516,8 +1675,7 @@
   ],
   "horario": "Open Kennedy desde 19:00hrs: miércoles a domingo",
   "lugares": [
-   "Mall plaza egaña: lunes a miércoles",
-   "Mall plaza oeste: lunes a miércoles",
+   "Mallplaza Oeste: lunes a miércoles",
    "Open Kennedy: lunes y martes",
    "Open Kennedy desde 19:00hrs: miércoles a domingo"
   ],
@@ -1530,22 +1688,13 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall plaza egaña: lunes a miércoles\n- Mall plaza oeste: lunes a miércoles\n- Open Kennedy: lunes y martes\n- Open Kennedy desde 19:00hrs: miércoles a domingo",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mallplaza Oeste: lunes a miércoles\n- Open Kennedy: lunes y martes\n- Open Kennedy desde 19:00hrs: miércoles a domingo",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/fuente-suiza",
-  "id": "banc-024-fuentesuiza",
+  "id": "banc-fuente-suiza",
   "ubicaciones": [
    {
-    "lugar": "Mall plaza egaña: lunes a miércoles",
-    "consulta": "Mall plaza egaña",
-    "nombre": "Mallplaza Egaña",
-    "comuna": "La Reina",
-    "precision": "mall",
-    "lat": -33.4527278,
-    "lng": -70.5698297
-   },
-   {
-    "lugar": "Mall plaza oeste: lunes a miércoles",
-    "consulta": "Mall plaza oeste",
+    "lugar": "Mallplaza Oeste: lunes a miércoles",
+    "consulta": "Mallplaza Oeste",
     "nombre": "Mallplaza Oeste",
     "comuna": "Cerrillos",
     "precision": "mall",
@@ -1572,7 +1721,6 @@
    }
   ],
   "comunas": [
-   "La Reina",
    "Cerrillos",
    "Vitacura"
   ]
@@ -1580,6 +1728,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Siete cortes",
+  "tipo": "Restaurante parrillero que ofrece cortes premium y carnes a la brasa",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1608,7 +1757,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Open Kennedy: lunes y martes\n- Open Kennedy desde las 19:00: miércoles a domingo",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-siete-cortes",
-  "id": "banc-025-sietecortes",
+  "id": "banc-40-de-dcto-en-restaurantes-mallplaza-siete-corte",
   "ubicaciones": [
    {
     "lugar": "Open Kennedy: lunes y martes",
@@ -1636,6 +1785,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "El japones",
+  "tipo": "Restaurante especializado en cocina japonesa, con sushi, sashimi y platos tradicionales",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1666,7 +1816,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Florida Center: lunes a domingo\n- Mall plaza Tobalaba : lunes a domingo\n- Vivo Panoramico: lunes a domingo\n- Isidora 3000 : viernes a domingo",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-el-japones",
-  "id": "banc-026-eljapones",
+  "id": "banc-40-de-dcto-en-restaurantes-mallplaza-el-japones",
   "ubicaciones": [
    {
     "lugar": "Mall Florida Center: lunes a domingo",
@@ -1715,6 +1865,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Jalisco",
+  "tipo": "Restaurante que rinde homenaje a la gastronomía mexicana tradicional",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1744,7 +1895,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo\nVálido en locales:\n- Parque Arauco\n- Open Kennedy\n- Vivo Panomarico",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/sog-jalisco",
-  "id": "banc-027-jalisco",
+  "id": "banc-sog-jalisco",
   "ubicaciones": [
    {
     "lugar": "Parque Arauco",
@@ -1783,6 +1934,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "La argentina",
+  "tipo": "La pizzería argentina es una tradición culinaria nacida de la inmigración italiana, caracterizada por la \"pizza al molde",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a viernes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1812,7 +1964,7 @@
   "vigencia": "2026-01-04 → 2026-09-30",
   "condiciones": "Conoce el detalle\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a viernes\nVálido en local:\n- Mall plaza Oeste: Lunes a miercoles\n- Mall Florida Center: Lunes a domingo\n- Mall plaza Tobalaba: Lunes a domingo\n- Vivo Panoramico : Lunes a domingo\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales.",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/la-argentina",
-  "id": "banc-028-laargentina",
+  "id": "banc-la-argentina",
   "ubicaciones": [
    {
     "lugar": "Mall plaza Oeste: Lunes a miercoles",
@@ -1851,6 +2003,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Meson del marinero",
+  "tipo": "Restaurante especializado en pescados y mariscos ubicado en el 4.º piso del Open Kennedy / Parque Arauco",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1876,11 +2029,11 @@
    "CMR Mastercard"
   ],
   "modalidad": "Presencial",
-  "region": "Región Metropolitana de Santiago",
+  "region": "Región Metropolitana de Santiago, Región de Antofagasta",
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Open Kennedy: lunes y martes\n- Open Kennedy desde las 19:00hrs: miércoles a domingo\n- Mallplaza Antofagasta: lunes a miércoles.",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/sog-meson-del-marinero",
-  "id": "banc-029-mesondelmarinero",
+  "id": "banc-sog-meson-del-marinero",
   "ubicaciones": [
    {
     "lugar": "Open Kennedy: lunes y martes",
@@ -1918,6 +2071,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Muu Steak",
+  "tipo": "Es una cadena de restaurantes en Chile, parte del Grupo Mil Sabores, especializada en cortes de carne de alta calidad y",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.)",
   "descuento_pct": 1,
   "tope": "Sin tope",
@@ -1926,7 +2080,9 @@
    "Martes"
   ],
   "horario": "",
-  "lugares": [],
+  "lugares": [
+   "Alto Las Condes: Lunes y Martes"
+  ],
   "tarjetas": [
    "CMR Mastercard",
    "CMR Mastercard Premium",
@@ -1936,15 +2092,28 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.\nCondiciones:\n- Solo Presencial en Alto Las Condes.\n- Todos los Lunes y Martes",
+  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella. Ambas sin tope.\nCondiciones:\n- Alto Las Condes: Lunes y Martes\n- Exclusivo presencial",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/muu-steak",
-  "id": "banc-030-muusteak",
-  "ubicaciones": [],
-  "comunas": []
+  "id": "banc-muu-steak",
+  "ubicaciones": [
+   {
+    "lugar": "Alto Las Condes: Lunes y Martes",
+    "consulta": "Alto Las Condes",
+    "nombre": "Alto Las Condes",
+    "comuna": "Las Condes",
+    "precision": "mall",
+    "lat": -33.3901821,
+    "lng": -70.5456303
+   }
+  ],
+  "comunas": [
+   "Las Condes"
+  ]
  },
  {
   "banco": "Banco Falabella",
   "comercio": "MISCELANEO",
+  "tipo": "Restaurante que fusiona sabores internacionales en un ambiente moderno",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -1970,7 +2139,7 @@
   "vigencia": "2025-09-29 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella.\nVálido en locales:\n- Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana\n- Martes a Sábado\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Miscelaneo",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/miscelaneo",
-  "id": "banc-031-miscelaneo",
+  "id": "banc-miscelaneo",
   "ubicaciones": [
    {
     "lugar": "Av. Santa María, 5870, Torre Oriente B 15, Vitacura, Región Metropolitana",
@@ -1989,6 +2158,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Exò Nuit",
+  "tipo": "Exò Nuit es un restaurante y bar contemporáneo en Vitacura, Santiago",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -2014,7 +2184,7 @@
   "vigencia": "2026-01-03 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Has tu reserva en EXO\n- Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana\nCondiciones:\n- Exclusivo presencial y online\n- No acumulable sobre otras promociones",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/exo-nuit",
-  "id": "banc-032-exonuit",
+  "id": "banc-exo-nuit",
   "ubicaciones": [
    {
     "lugar": "Candelaria Goyenechea 3868, 7630315 Vitacura, Región Metropolitana",
@@ -2033,6 +2203,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Cantina Montt",
+  "tipo": "Cantina Montt es un popular bar de barrio ubicado en la comuna de Providencia, en Santiago de Chile",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes y sábados)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2055,7 +2226,7 @@
   "vigencia": "2026-01-06 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes y sábados\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Exclusivo presencial\nDirección: Avenida Manuel Montt 1201, Providencia",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/cantina-montt",
-  "id": "banc-033-cantinamontt",
+  "id": "banc-cantina-montt",
   "ubicaciones": [
    {
     "lugar": "Avenida Manuel Montt 1201, Providencia",
@@ -2074,6 +2245,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Kechua",
+  "tipo": "Restaurante inspirado en la cocina peruana, con platos tradicionales y fusión",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2096,7 +2268,7 @@
   "vigencia": "2026-04-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Kechua BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/borderio-kechua",
-  "id": "banc-034-kechua",
+  "id": "banc-borderio-kechua",
   "ubicaciones": [
    {
     "lugar": "BordeRío",
@@ -2124,6 +2296,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Krossbar",
+  "tipo": "Bar cervecero que ofrece variedades artesanales de la reconocida marca Kross",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2146,7 +2319,7 @@
   "vigencia": "2026-04-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Krossbar BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/martes-de-borderio-krossbar",
-  "id": "banc-035-krossbar",
+  "id": "banc-martes-de-borderio-krossbar",
   "ubicaciones": [
    {
     "lugar": "BordeRío",
@@ -2173,57 +2346,8 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Bistro Cascade",
-  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Martes"
-  ],
-  "horario": "",
-  "lugares": [
-   "BordeRío",
-   "Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana"
-  ],
-  "tarjetas": [
-   "CMR Mastercard",
-   "CMR Mastercard Premium",
-   "CMR Mastercard Elite",
-   "Tarjeta Débito Banco Falabella"
-  ],
-  "modalidad": "Presencial",
-  "region": "Región Metropolitana de Santiago",
-  "vigencia": "2026-04-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/borderio-bistro-cascade",
-  "id": "banc-036-bistrocascade",
-  "ubicaciones": [
-   {
-    "lugar": "BordeRío",
-    "consulta": "BordeRío",
-    "nombre": "BordeRío",
-    "comuna": "Vitacura",
-    "precision": "mall",
-    "lat": -33.3888,
-    "lng": -70.553
-   },
-   {
-    "lugar": "Bistro Cascade BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana",
-    "consulta": "Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana",
-    "nombre": "BordeRío",
-    "comuna": "Vitacura",
-    "precision": "mall",
-    "lat": -33.3888,
-    "lng": -70.553
-   }
-  ],
-  "comunas": [
-   "Vitacura"
-  ]
- },
- {
-  "banco": "Banco Falabella",
   "comercio": "Tropera Drugstore",
+  "tipo": "Tropera Drugstore es un bar‑restaurante y cervecería artesanal que combina su propia línea de cervezas Tropera con una p",
   "descuento": "40% (40% dcto pagando con CMR y 30% dcto pagando con débito sin tope.)",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -2245,7 +2369,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "40% dcto pagando con CMR y 30% dcto pagando con débito sin tope.\nDirección: Andrés de Fuenzalida 48, Providencia.\nCondiciones:\n- Excluye promociones, descuentos y facturas\n- Exclusivamente presencial",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/tropera-drugstore",
-  "id": "banc-037-troperadrugstore",
+  "id": "banc-tropera-drugstore",
   "ubicaciones": [
    {
     "lugar": "Andrés de Fuenzalida 48, Providencia",
@@ -2264,6 +2388,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Danés",
+  "tipo": "Restaurante ubicado en Santiago, reconocido por su cocina chilena y platos tradicionales",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2285,7 +2410,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Danés\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n*Dirección: Cristobal Colon 4455, Las Condes, Región Metropolitana",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/danes",
-  "id": "banc-038-danes",
+  "id": "banc-danes",
   "ubicaciones": [
    {
     "lugar": "Cristobal Colon 4455, Las Condes, Región Metropolitana",
@@ -2304,6 +2429,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Nelí",
+  "tipo": "Nelí es un restaurante contemporáneo del grupo Margó que destaca por su propuesta gastronómica versátil: aperitivos crea",
   "descuento": "40% (40% dcto sin tope pagando con CMR y 30% dcto sin tope pagando con débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2325,7 +2451,7 @@
   "vigencia": "2026-08-01 → 2026-09-30",
   "condiciones": "40% dcto sin tope pagando con CMR y 30% dcto sin tope pagando con débito Banco Falabella\n- Boulevard Parque Arauco - Av. Pdte. Kennedy 5413, local 363 A, piso 1, Las Condes\nCondiciones:\n- No acumulable con otras promociones\n- Exclusivo presencial\n- Válido día miércoles",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/neli",
-  "id": "banc-039-neli",
+  "id": "banc-neli",
   "ubicaciones": [
    {
     "lugar": "Boulevard Parque Arauco - Av. Pdte. Kennedy 5413, local 363 A, piso 1, Las Condes",
@@ -2344,6 +2470,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "La santoría",
+  "tipo": "Restaurante que fusiona sabores chilenos con propuestas modernas",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a domingo)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2369,7 +2496,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a domingo\nVálido en locales:\n- La Santoría: Manuel Montt 422, Providencia\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en La Santoría",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/la-santoria",
-  "id": "banc-040-lasantoria",
+  "id": "banc-la-santoria",
   "ubicaciones": [
    {
     "lugar": "La Santoría: Manuel Montt 422, Providencia",
@@ -2388,6 +2515,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Tigre Bravo",
+  "tipo": "Tigre Bravo es la vibrante propuesta del chef Emilio Peschiera, pionero de la cocina peruana en Chile",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2409,7 +2537,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Mall Arauco Maipú\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Tigre Bravo",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/tigre-bravo",
-  "id": "banc-041-tigrebravo",
+  "id": "banc-tigre-bravo",
   "ubicaciones": [
    {
     "lugar": "Mall Arauco Maipú",
@@ -2428,6 +2556,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Kato",
+  "tipo": "Kató Tasty Caos es un restaurante pan-asiático ubicado en Isidora Goyenechea 3275, Las Condes, Santiago (Región Metropol",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2448,13 +2577,14 @@
   "vigencia": "2026-02-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Kato\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/kato",
-  "id": "banc-042-kato",
+  "id": "banc-kato",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Banco Falabella",
   "comercio": "Roberta Ostería",
+  "tipo": "Roberta Ostería es una propuesta moderna ubicada en Viña del Mar y Reñaca, especializada en pizzas napolitanas al horno",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2474,13 +2604,14 @@
   "vigencia": "2025-11-29 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Roberta Osteria\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los miércoles",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/roberta-osteria",
-  "id": "banc-043-robertaosteria",
+  "id": "banc-roberta-osteria",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Banco Falabella",
   "comercio": "Sushi & Burger Home",
+  "tipo": "Sushi & Burger Home es una propuesta gastronómica que fusiona sushi y hamburguesas gourmet en un mismo lugar, con un est",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2503,7 +2634,7 @@
   "vigencia": "2026-06-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles\nVálido en locales:\n- Sushi & Burger Home\n- Todos los Miercoles\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Sushi & Burger Home",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/sushi-y-burger-home",
-  "id": "banc-044-sushiburgerhome",
+  "id": "banc-sushi-y-burger-home",
   "ubicaciones": [
    {
     "lugar": "Viña del Mar y Reñaca",
@@ -2529,6 +2660,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Sushi Home",
+  "tipo": "Sushi Home se define como una experiencia gastronómica nikkei , que va más allá de un simple restaurante de sushi",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los jueves)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2551,7 +2683,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los jueves\nVálido en locales:\n- Sushi Home\n- Todos los jueves\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Sushi Home",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/sushi-home",
-  "id": "banc-045-sushihome",
+  "id": "banc-sushi-home",
   "ubicaciones": [
    {
     "lugar": "Reñaca",
@@ -2577,56 +2709,8 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Fidelio",
-  "descuento": "40%",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Jueves"
-  ],
-  "horario": "",
-  "lugares": [
-   "Reñaca",
-   "Reñaca Norte 25, Viña del Mar"
-  ],
-  "tarjetas": [
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite",
-   "CMR Mastercard Premium",
-   "CMR Mastercard"
-  ],
-  "modalidad": "Presencial",
-  "region": "Región de Valparaíso",
-  "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "¡Sin Tope! 40% de descuento pagando con tu CMR y 30% pagando con débito Banco Falabella\nDirección: Reñaca Norte 25, Viña del Mar",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/fidelio",
-  "id": "banc-046-fidelio",
-  "ubicaciones": [
-   {
-    "lugar": "Reñaca",
-    "consulta": "Reñaca",
-    "comuna": "Viña del Mar",
-    "precision": "comuna",
-    "lat": null,
-    "lng": null
-   },
-   {
-    "lugar": "Reñaca Norte 25, Viña del Mar",
-    "consulta": "Reñaca Norte 25, Viña del Mar",
-    "comuna": "Viña del Mar",
-    "precision": "exacta",
-    "lat": -32.9475994,
-    "lng": -71.5460077,
-    "osm": "Edificio Vista Montemar, 25, Reñaca Norte, Cochoa, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2511462, Chile"
-   }
-  ],
-  "comunas": [
-   "Viña del Mar"
-  ]
- },
- {
-  "banco": "Banco Falabella",
   "comercio": "Boreal bar Rancagua",
+  "tipo": "Bar y lounge ubicado en Miguel Ramírez 715, con terraza y horario extendido hasta las 3 AM",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2649,7 +2733,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Boreal bar Rancagua\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los miércoles\n*Dirección: Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins.",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/boreal-bar-rancagua",
-  "id": "banc-047-borealbarrancagua",
+  "id": "banc-boreal-bar-rancagua",
   "ubicaciones": [
    {
     "lugar": "Rancagua",
@@ -2676,6 +2760,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Barros Negros",
+  "tipo": "Restaurante Barros Negros es un local gastronómico ubicado en Machalí, que se caracteriza por ser un lugar cálido y acog",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2695,13 +2780,14 @@
   "vigencia": "2026-05-31 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Barros Negros\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/barros-negros",
-  "id": "banc-048-barrosnegros",
+  "id": "banc-barros-negros",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Banco Falabella",
   "comercio": "La Fabrica Talca",
+  "tipo": "Restobar en 2 Oriente #1254, con cocina americana, hamburguesas, ceviches y coctelería creativa",
   "descuento": "40 (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2724,7 +2810,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los martes\n*Dirección: Av. 2 Ote. 1254, Talca, Región del Maule.",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/la-fabrica-talca",
-  "id": "banc-049-lafabricatalca",
+  "id": "banc-la-fabrica-talca",
   "ubicaciones": [
    {
     "lugar": "Talca",
@@ -2749,56 +2835,8 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Dynos Chillan",
-  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles)",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Miércoles"
-  ],
-  "horario": "",
-  "lugares": [
-   "Chillán",
-   "El Roble 558, Chillán"
-  ],
-  "tarjetas": [
-   "CMR Mastercard",
-   "CMR Mastercard Premium",
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite"
-  ],
-  "modalidad": "Presencial",
-  "region": "Región de Ñuble",
-  "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Miercoles\nVálido en locales:\n- El Roble 558, Chillán\n- Todos los Miércoles\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Dynos Chillan",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/dynos-chillan",
-  "id": "banc-050-dynoschillan",
-  "ubicaciones": [
-   {
-    "lugar": "Chillán",
-    "consulta": "Chillán",
-    "comuna": "Chillán",
-    "precision": "comuna",
-    "lat": null,
-    "lng": null
-   },
-   {
-    "lugar": "El Roble 558, Chillán",
-    "consulta": "El Roble 558, Chillán",
-    "comuna": "Chillán",
-    "precision": "calle",
-    "lat": -36.6068254,
-    "lng": -72.1110722,
-    "osm": "El Roble, Barrio Brasil, Centro de Chillán, Chillán, Provincia de Diguillín, Región de Ñuble, 3800276, Chile"
-   }
-  ],
-  "comunas": [
-   "Chillán"
-  ]
- },
- {
-  "banco": "Banco Falabella",
   "comercio": "Taurus Steak Bar Chillan",
+  "tipo": "Taurus Steakbar en Chillán es un destacado restaurante de carnes con más de 25 años de experiencia, posicionado como el",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2821,7 +2859,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes\nVálido en locales:\n- Taurus Steak Bar Chillan\n- Todos los Martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Taurus Steak Bar Chillan",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/taurus-steak-bar-chillan",
-  "id": "banc-051-taurussteakbarchilla",
+  "id": "banc-taurus-steak-bar-chillan",
   "ubicaciones": [
    {
     "lugar": "Chillan",
@@ -2847,6 +2885,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Augusta Bar",
+  "tipo": "Restobar con una propuesta diversa que combina hamburguesas artesanales, carnes a la plancha, ceviches y tablas para com",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -2869,7 +2908,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Augusta Bar: Paso Hondo 209, Lomas de San Andrés. Bio bío.\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Augusta Bar",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/augusta-bar",
-  "id": "banc-052-augustabar",
+  "id": "banc-augusta-bar",
   "ubicaciones": [
    {
     "lugar": "Concepción",
@@ -2895,51 +2934,13 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Terralenga Hualpen",
-  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Martes"
-  ],
-  "horario": "",
-  "lugares": [
-   "Terralenga Hualpen"
-  ],
-  "tarjetas": [
-   "CMR Mastercard",
-   "CMR Mastercard Premium",
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite"
-  ],
-  "modalidad": "Presencial",
-  "region": "Región de Biobío",
-  "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes\nVálido en locales:\n- Terralenga Hualpen\n- Todos los Martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales.",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/terralenga-hualpen",
-  "id": "banc-053-terralengahualpen",
-  "ubicaciones": [
-   {
-    "lugar": "Terralenga Hualpen",
-    "consulta": "Terralenga Hualpen",
-    "comuna": "Hualpén",
-    "precision": "sin_geo",
-    "lat": null,
-    "lng": null
-   }
-  ],
-  "comunas": [
-   "Hualpén"
-  ]
- },
- {
-  "banco": "Banco Falabella",
   "comercio": "Terraangamos",
+  "tipo": "Restaurante especializado en Mariscos, Carnes, Pescados y Parrilladas",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin tope",
   "dias": [
-   "Jueves"
+   "Martes"
   ],
   "horario": "",
   "lugares": [
@@ -2957,7 +2958,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Colón 1062, 4260000 Talcahuano, Bío Bío",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/terraangamos",
-  "id": "banc-054-terraangamos",
+  "id": "banc-terraangamos",
   "ubicaciones": [
    {
     "lugar": "Talcahuano",
@@ -2985,6 +2986,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Terralomas Concepción",
+  "tipo": "Terralomas Restaurant, en Lomas San Andrés, Concepción, ofrece gastronomía marina con productos frescos del día",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -3007,7 +3009,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Terralomas Concepción\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n*Dirección: Ramón Carrasco 355, Bío Bío",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/terralomas-concepcion",
-  "id": "banc-055-terralomasconcepcion",
+  "id": "banc-terralomas-concepcion",
   "ubicaciones": [
    {
     "lugar": "Concepción",
@@ -3034,6 +3036,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Lebol Restobar",
+  "tipo": "Restobar en Concepción que fusiona cocina tradicional con toques contemporáneos",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -3055,7 +3058,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "¡Sin Tope! 40% de descuento pagando con tu CMR y 30% pagando con débito Banco Falabella.",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/lebol-restobar",
-  "id": "banc-056-lebolrestobar",
+  "id": "banc-lebol-restobar",
   "ubicaciones": [
    {
     "lugar": "Concepción",
@@ -3073,6 +3076,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Baqueano Temuco",
+  "tipo": "Es un espacio gastronómico que mezcla tradición chilena con propuestas contemporáneas",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3095,7 +3099,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes\nVálido en locales:\n- Baqueano Temuco\n- Todos los Martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Baqueano Temuco",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/baqueano-temuco",
-  "id": "banc-057-baqueanotemuco",
+  "id": "banc-baqueano-temuco",
   "ubicaciones": [
    {
     "lugar": "Temuco",
@@ -3122,6 +3126,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Cattedrale Cucina Villarrica",
+  "tipo": "Cattedrale Cucina es un restaurante de cocina italiana y mediterránea ubicado en Villarrica",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3144,7 +3149,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes\nVálido en locales:\n- Cattedrale Cucina\n- Todos los Martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Cattedrale Cucina Villarrica",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/cattedrale-cucina-villarrica",
-  "id": "banc-058-cattedralecucinavill",
+  "id": "banc-cattedrale-cucina-villarrica",
   "ubicaciones": [
    {
     "lugar": "Villarrica",
@@ -3170,6 +3175,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Martina Lounge Bar",
+  "tipo": "Ubicado en Torremolinos 485, Martina Lounge Bar ofrece hamburguesas caseras, tablas para compartir y coctelería de autor",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3192,7 +3198,7 @@
   "vigencia": "2025-10-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los Martes\n*Dirección: Torremolinos 485, local 116, Temuco, Araucanía",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/martina-lounge-bar",
-  "id": "banc-059-martinaloungebar",
+  "id": "banc-martina-lounge-bar",
   "ubicaciones": [
    {
     "lugar": "Temuco",
@@ -3219,6 +3225,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Fratello Trattoría",
+  "tipo": "Restaurante italiano en Santiago que combina tradición y modernidad, especializado en pastas frescas, pizzas al horno y",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3241,7 +3248,7 @@
   "vigencia": "2026-01-02 → 2026-09-30",
   "condiciones": "¡Sin Tope! 40% de descuento pagando con tu CMR y 30% pagando con débito Banco Falabella.\nDirección: Av. Miguel Ramírez 715, Rancagua",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/fratello-trattoria",
-  "id": "banc-060-fratellotrattoria",
+  "id": "banc-fratello-trattoria",
   "ubicaciones": [
    {
     "lugar": "Temuco",
@@ -3269,6 +3276,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Dominga Bistro Valdivia",
+  "tipo": "Un restaurante fusión ubicado a orillas del río Calle Calle en Valdivia, que combina cocina creativa con productos local",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3291,7 +3299,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Has tu pedido en cualquier caja de Dominga Bistro\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Cuentas con el 40% de dcto con CMR y el 30% con débito Banco Falabella\nCondiciones:\n*Solo Presencial\n- Todos los Miércoles en Dominga Bistró Valdivia",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-valdivia",
-  "id": "banc-061-domingabistrovaldivi",
+  "id": "banc-dominga-bistro-valdivia",
   "ubicaciones": [
    {
     "lugar": "Valdivia",
@@ -3317,6 +3325,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Cervecería Kunstmann Valdivia",
+  "tipo": "Nace en Valdivia en 1991 por Armin Kunstmann, inspirada en las tradiciones cerveceras alemanas tras el terremoto de 1960",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3339,7 +3348,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nVálido en locales:\n- Cervecería Kunstmann: Ruta T 350 950, Valdivia, Los Ríos\nCondiciones:\n- El descuento no es acumulable con otras promociones . No aplica para souvenir, cigarros, llenado de growlers, menús, propinas ni tour cervecero.\n- Válido solo para compras presenciales en Cervecería Kunstmann Valdivia",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/cerveceria-kunstmann-valdivia",
-  "id": "banc-062-cerveceriakunstmannv",
+  "id": "banc-cerveceria-kunstmann-valdivia",
   "ubicaciones": [
    {
     "lugar": "Valdivia",
@@ -3366,6 +3375,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Umami Bar Nikkei",
+  "tipo": "Umami Bar Nikkei es un restaurante/bar en Valdivia (sector Torobayo) especializado en cocina nikkei, que mezcla sabores",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércoles)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3388,7 +3398,7 @@
   "vigencia": "2026-06-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércoles\nVálido en locales:\n- Umami Bar Nikkei: Espacio Bayo, Valdivia, Los Ríos\nCondiciones:\n- El descuento no es acumulable con otras promociones . No aplica para souvenir, cigarros, llenado de growlers, menús, propinas ni tour cervecero.\n- Válido solo para compras presenciales en Umami Bar Nikkei Valdivia",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/umami-bar-nikkei",
-  "id": "banc-063-umamibarnikkei",
+  "id": "banc-umami-bar-nikkei",
   "ubicaciones": [
    {
     "lugar": "Valdivia",
@@ -3414,6 +3424,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Fogon Greed",
+  "tipo": "Fogón Greed es un restaurante de carnes a la brasa, parrilla y también pastas, con foco en calidad de ingredientes local",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3436,7 +3447,7 @@
   "vigencia": "2026-01-06 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados\nDirección: Ignacio Zenteno 2661, Osorno, Los Lagos",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/fogon-greed",
-  "id": "banc-064-fogongreed",
+  "id": "banc-fogon-greed",
   "ubicaciones": [
    {
     "lugar": "Osorno",
@@ -3463,6 +3474,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Greed Taproom",
+  "tipo": "Greed Taproom Osorno es el taproom de la cervecería artesanal Greed Brewing Co., Es un bar–cervecería donde se sirven ce",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3485,7 +3497,7 @@
   "vigencia": "2026-05-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nDirección: Ignacio Zenteno 2661, Osorno, Los Lagos",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/greed-taproom",
-  "id": "banc-065-greedtaproom",
+  "id": "banc-greed-taproom",
   "ubicaciones": [
    {
     "lugar": "Osorno",
@@ -3512,6 +3524,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "La Tabla",
+  "tipo": "Restaurante especializado en carnes y parrilla, con cortes premium y acompañamientos",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3534,7 +3547,7 @@
   "vigencia": "2026-04-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: Hasta 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- La Tabla BordeRío: Costanera Sur S.J.E. de Balaguer 6400, Vitacura, Región Metropolitana\n- Todos los martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Borderío",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/la-tabla-borderio",
-  "id": "banc-066-latabla",
+  "id": "banc-la-tabla-borderio",
   "ubicaciones": [
    {
     "lugar": "BordeRío",
@@ -3562,6 +3575,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "ROCOTO",
+  "tipo": "Fundado hace más de 14 años, este referente de la cocina peruana en Santiago se ha destacado por su premiado delivery y",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3587,7 +3601,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "¡Sin Tope! Disfruta con un 40% de dcto pagando con tu CMR y 30% de dcto pagando con débito Banco Falabella\nLocales:\n- Avenida Pedro de Valdivia 2573, Ñuñoa, Chile (solo delivery y retiro)\n- Avenida las Condes 7134, Las Condes, Chile\n- Roberto Espinoza 718, Santiago Centro, Chile\n- Partenón 1727, Vitacura, Chile\n- Avenida Francisco Bilbao 2752, Providencia, Chile\nCondiciones:\n- No aplica sobre otros descuentos\n- Exclusivo presencial\n- Válido sábados",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/rocoto",
-  "id": "banc-067-rocoto",
+  "id": "banc-rocoto",
   "ubicaciones": [
    {
     "lugar": "Avenida Pedro de Valdivia 2573, Ñuñoa, Chile (solo delivery y retiro)",
@@ -3647,6 +3661,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Chokolata Cafeteria",
+  "tipo": "Chokolata es una reconocida cafetería y pastelería de Villarrica, destacada por sus cafés, chocolates, tortas, kuchenes",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3669,7 +3684,7 @@
   "vigencia": "2026-08-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\nDirección: General Urrutia 891",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/chokolata-cafeteria",
-  "id": "banc-068-chokolatacafeteria",
+  "id": "banc-chokolata-cafeteria",
   "ubicaciones": [
    {
     "lugar": "Villarrica",
@@ -3695,46 +3710,8 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Santo Aire Restobar",
-  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Jueves"
-  ],
-  "horario": "",
-  "lugares": [
-   "Concepción"
-  ],
-  "tarjetas": [
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite",
-   "CMR Mastercard Premium",
-   "CMR Mastercard"
-  ],
-  "modalidad": "Presencial",
-  "region": "Región de Biobío",
-  "vigencia": "2026-08-01 → 2026-09-30",
-  "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/santo-aire-restobar",
-  "id": "banc-069-santoairerestobar",
-  "ubicaciones": [
-   {
-    "lugar": "Concepción",
-    "consulta": "Concepción",
-    "comuna": "Concepción",
-    "precision": "comuna",
-    "lat": null,
-    "lng": null
-   }
-  ],
-  "comunas": [
-   "Concepción"
-  ]
- },
- {
-  "banco": "Banco Falabella",
   "comercio": "Sakura",
+  "tipo": "Restaurante inspirado en la gastronomía japonesa, famoso por su sushi y platos tradicionales",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella presencial y online los sábados)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3754,52 +3731,14 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella presencial y online los sábados\n- Para compras online ingresa al sitio web de Sakura.\n- Ingresa los 6 primeros dígitos de tu tarjeta como cupón de descuento y selecciona como método de pago alguna de tus tarjetas Banco Falabella\n- Tendrás un 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella en rolls y hosomakis\nCondiciones:\n- Válido para compras presencial y online\n- Válido para rolls y hosomakis\n- No acumulable sobre otras promociones",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/sakura",
-  "id": "banc-070-sakura",
+  "id": "banc-sakura",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Taberna Nose Puerto Varas",
-  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)",
-  "descuento_pct": 40,
-  "tope": "Sin Tope",
-  "dias": [
-   "Viernes"
-  ],
-  "horario": "",
-  "lugares": [
-   "Puerto Varas"
-  ],
-  "tarjetas": [
-   "CMR Mastercard",
-   "CMR Mastercard Premium",
-   "Tarjeta Débito Banco Falabella",
-   "CMR Mastercard Elite"
-  ],
-  "modalidad": "Presencial",
-  "region": "Región de Los Lagos",
-  "vigencia": "2026-08-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Taberna Nose Puerto Varas",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/taberna-nose-puerto-varas",
-  "id": "banc-071-tabernanosepuertovar",
-  "ubicaciones": [
-   {
-    "lugar": "Puerto Varas",
-    "consulta": "Puerto Varas",
-    "comuna": "Puerto Varas",
-    "precision": "comuna",
-    "lat": null,
-    "lng": null
-   }
-  ],
-  "comunas": [
-   "Puerto Varas"
-  ]
- },
- {
-  "banco": "Banco Falabella",
   "comercio": "Club de restaurantes",
+  "tipo": "Programa exclusivo de Banco Falabella que entrega beneficios y descuentos en restaurantes destacados",
   "descuento": "20%",
   "descuento_pct": 20,
   "tope": "Sin Tope",
@@ -3825,13 +3764,157 @@
   "vigencia": "2023-07-09 → 2026-12-31",
   "condiciones": "Sigue estos pasos:\n- Ingresa al sitio web de Club de Restaurantes\n- Selecciona tu restaurante favorito\n- Descuento se aplicará al momento de la compra en el domicilio o en el local\n- Consultar antes con cada local si el descuento es válido en feriados especiales o festivos como 14 de febrero, día de la madre, día del padre, día del niño, Navidad y Año Nuevo ante cualquier duda\nTodos los días",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/club-de-restaurantes",
-  "id": "banc-072-clubderestaurantes",
+  "id": "banc-club-de-restaurantes",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Banco Falabella",
+  "comercio": "Panchita",
+  "tipo": "Panchita es un reconocido restaurante de cocina peruana y tradicional criolla, fundado por el famoso chef Gastón Acurio",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes"
+  ],
+  "horario": "Descuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2025-11-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/panchita",
+  "id": "banc-panchita",
+  "ubicaciones": [],
+  "comunas": []
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Naoki",
+  "tipo": "Restaurante japonés de alta gama, reconocido por su sushi y platos tradicionales",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av Vitacura 3875, Vitacura"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-04-30 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite los lunes\nVálido en locales:\n- Av Vitacura 3875, Vitacura",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/naoki",
+  "id": "banc-naoki",
+  "ubicaciones": [
+   {
+    "lugar": "Av Vitacura 3875, Vitacura",
+    "consulta": "Av Vitacura 3875, Vitacura",
+    "comuna": "Vitacura",
+    "precision": "calle",
+    "lat": -33.3901884,
+    "lng": -70.5712602,
+    "osm": "Avenida Vitacura, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile"
+   }
+  ],
+  "comunas": [
+   "Vitacura"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Dagan",
+  "tipo": "Inaugurado en 2024 en Vitacura, Santiago, Dagan es una propuesta gastronómica inspirada en la cocina mediterránea y del",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Dagan: Nueva Costanera 3750, Santiago"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite los martes\nVálido en locales:\n- Dagan: Nueva Costanera 3750, Santiago.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/dagan",
+  "id": "banc-dagan",
+  "ubicaciones": [
+   {
+    "lugar": "Dagan: Nueva Costanera 3750, Santiago",
+    "consulta": "Nueva Costanera 3750, Santiago",
+    "comuna": "Vitacura",
+    "precision": "exacta",
+    "lat": -33.4005776,
+    "lng": -70.5983929,
+    "osm": "Dagán, 3750, Avenida Nueva Costanera, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile"
+   }
+  ],
+  "comunas": [
+   "Vitacura",
+   "Santiago"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Sabor y Aroma",
+  "tipo": "Restaurante ubicado en La Dehesa (Lo Barnechea) que fusiona cocina peruana y asiática en platos como ceviches, tiraditos",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Raúl Labbé 12559"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-02 → 2026-09-30",
+  "condiciones": "Sigue estos pasos\n\n*Av. Raúl Labbé 12559\n*¿Aún no tienes tu CMR? Pídela aquí",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/40-sabor-y-aroma",
+  "id": "banc-40-sabor-y-aroma",
+  "ubicaciones": [
+   {
+    "lugar": "Av. Raúl Labbé 12559",
+    "consulta": "Av. Raúl Labbé 12559",
+    "comuna": "Lo Barnechea",
+    "precision": "exacta",
+    "lat": -33.364646,
+    "lng": -70.5147929,
+    "osm": "12559, Avenida Raúl Labbé, Villa La Ponderosa, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile"
+   }
+  ],
+  "comunas": [
+   "Lo Barnechea"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
   "comercio": "Social",
+  "tipo": "Social Bar & Cocinas es un popular espacio gastronómico y de entretenimiento en Santiago, conocido por su ambiente relaj",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3850,7 +3933,7 @@
   "vigencia": "2026-07-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite\nVálido en locales:\n- Social\n- Todos los viernes.\nCondiciones:\n- El descuento no es acumulable con otras promociones",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/social",
-  "id": "banc-073-social",
+  "id": "banc-social",
   "ubicaciones": [
    {
     "lugar": "Social",
@@ -3865,7 +3948,84 @@
  },
  {
   "banco": "Banco Falabella",
+  "comercio": "Caoba Bar",
+  "tipo": "Bar contemporáneo ubicado en Alonso de Córdova (Vitacura, Santiago), con coctelería de autor y gastronomía moderna",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 4156, Vitacura"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-06 → 2026-09-30",
+  "condiciones": "Detalle\n\n- En el total de tu boleta en Caoba Bar\n- Exclusivo con CMR Elite\n- Alonso de Córdova 4156, Vitacura\n- ¿Aún no tienes tu CMR? Pídela aquí",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/caoba-bar",
+  "id": "banc-caoba-bar",
+  "ubicaciones": [
+   {
+    "lugar": "Alonso de Córdova 4156, Vitacura",
+    "consulta": "Alonso de Córdova 4156, Vitacura",
+    "comuna": "Vitacura",
+    "precision": "exacta",
+    "lat": -33.4026738,
+    "lng": -70.5901736,
+    "osm": "4156, Alonso de Córdova, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile"
+   }
+  ],
+  "comunas": [
+   "Vitacura"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Don Carlos",
+  "tipo": "Clásico restaurante de carnes premium en Las Condes con más de 35 años de historia",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Isidora Goyenechea 2895, Las Condes, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-04-30 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR Elite los sábados\nVálido en locales:\n- Isidora Goyenechea 2895, Las Condes, Región Metropolitana",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/don-carlos",
+  "id": "banc-don-carlos",
+  "ubicaciones": [
+   {
+    "lugar": "Isidora Goyenechea 2895, Las Condes, Región Metropolitana",
+    "consulta": "Isidora Goyenechea 2895, Las Condes, Región Metropolitana",
+    "comuna": "Las Condes",
+    "precision": "exacta",
+    "lat": -33.4141592,
+    "lng": -70.6017873,
+    "osm": "Don Carlos, 2895, Isidora Goyenechea, Sanhattan, Las Condes, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile"
+   }
+  ],
+  "comunas": [
+   "Las Condes"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
   "comercio": "Viña Viu Manent",
+  "tipo": "Viña Viu Manent es una reconocida viña del Valle de Colchagua, famosa por sus vinos premium y experiencias enoturísticas",
   "descuento": "40%",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3885,13 +4045,14 @@
   "vigencia": "2026-08-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\nRESTAURANTE\n- 40% de dcto pagando con tu CMR y 30% de dcto pagando con débito Banco Falabella. Rayuela\nADICIONAL DE LUNES A VIERNES \n- 30% de descuento en una selección de 6 tours y degustaciones de Viu Manent mediante cupón de descuento CMR30%. Ingresa aquí Tours.\n- 40% de descuento en nuestro e-commerce de vinos, también mediante cupón de descuento CMR40%. Ingresa aquí E-commerce.",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/vina-viu-manent",
-  "id": "banc-074-vinaviumanent",
+  "id": "banc-vina-viu-manent",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Banco Falabella",
   "comercio": "Cuponera Gastronómica",
+  "tipo": "",
   "descuento": "40% dcto",
   "descuento_pct": 1,
   "tope": "Sin tope",
@@ -3917,13 +4078,14 @@
   "vigencia": "2026-06-05 → 2026-12-31",
   "condiciones": "",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/cuponera-gastronomica",
-  "id": "banc-075-cuponeragastronomica",
+  "id": "banc-cuponera-gastronomica",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Banco Falabella",
   "comercio": "Local Burger",
+  "tipo": "Local Burger es una hamburguesería de estilo americano en Chile, destacada por sus preparaciones jugosas y de alta calid",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Jueves)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3945,13 +4107,88 @@
   "vigencia": "2026-08-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Jueves\nVálido en locales:\n- Local Burger\n- Todos los Jueves\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido para compras presenciales y online",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/local-burger",
-  "id": "banc-076-localburger",
+  "id": "banc-local-burger",
+  "ubicaciones": [],
+  "comunas": []
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Zulu",
+  "tipo": "Zulu es un restaurante en Santiago con una propuesta de cocina contemporánea, enfocado en platos actuales y una experien",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados)",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 2337, Vitacura, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los sábados\nVálido en locales:\n- Alonso de Córdova 2337, Vitacura, Región Metropolitana",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/zulu",
+  "id": "banc-zulu",
+  "ubicaciones": [
+   {
+    "lugar": "Alonso de Córdova 2337, Vitacura, Región Metropolitana",
+    "consulta": "Alonso de Córdova 2337, Vitacura, Región Metropolitana",
+    "comuna": "Vitacura",
+    "precision": "calle",
+    "lat": -33.4035895,
+    "lng": -70.5875611,
+    "osm": "Alonso de Córdova, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile"
+   }
+  ],
+  "comunas": [
+   "Vitacura"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Enrique Tomás",
+  "tipo": "Enrique Tomás es una reconocida marca española especializada en jamón ibérico, con más de 40 años de tradición",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana de Santiago",
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Enrique Tomás\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\nSolo Presencial en Costanera Center todos los días",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/enrique-tomas",
+  "id": "banc-enrique-tomas",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Banco Falabella",
   "comercio": "Tololo Beach ",
+  "tipo": "Tololo Beach es un restaurante frente al mar en La Serena, reconocido por su propuesta basada en pescados, mariscos y co",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -3973,7 +4210,7 @@
   "vigencia": "2026-09-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/tololo-beach",
-  "id": "banc-077-tololobeach",
+  "id": "banc-tololo-beach",
   "ubicaciones": [
    {
     "lugar": "La Serena",
@@ -3991,6 +4228,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Tololo Beef",
+  "tipo": "Tololo Beef es un restaurante especializado en carnes a la parrilla, cortes premium y cocina internacional",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -4012,7 +4250,7 @@
   "vigencia": "2026-09-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/tololo-beef",
-  "id": "banc-078-tololobeef",
+  "id": "banc-tololo-beef",
   "ubicaciones": [
    {
     "lugar": "La Serena",
@@ -4030,6 +4268,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Cafe Haussmann",
+  "tipo": "Café Haussmann es una tradicional cafetería del sur de Chile, reconocida por su repostería y cocina de inspiración alema",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -4051,7 +4290,7 @@
   "vigencia": "2026-09-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/cafe-haussmann",
-  "id": "banc-079-cafehaussmann",
+  "id": "banc-cafe-haussmann",
   "ubicaciones": [
    {
     "lugar": "Valdivia",
@@ -4069,6 +4308,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Sello de Raza",
+  "tipo": "Sello de Raza es un restaurante de cocina chilena y parrilla, reconocido por sus cortes de carne y preparaciones tradici",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -4090,7 +4330,7 @@
   "vigencia": "2026-09-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/sello-de-raza",
-  "id": "banc-080-selloderaza",
+  "id": "banc-sello-de-raza",
   "ubicaciones": [
    {
     "lugar": "Valdivia",
@@ -4108,6 +4348,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Sempre Pasta",
+  "tipo": "Sempre Pasta es un restaurante italiano, especializado en pastas frescas, lasañas y recetas inspiradas en la tradición i",
   "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
   "tope": "Sin Tope",
@@ -4129,7 +4370,7 @@
   "vigencia": "2026-09-01 → 2026-09-30",
   "condiciones": "Sigue estos pasos\n\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/sempre-pasta",
-  "id": "banc-081-semprepasta",
+  "id": "banc-sempre-pasta",
   "ubicaciones": [
    {
     "lugar": "Concepción",
@@ -4147,6 +4388,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Barra Olivo",
+  "tipo": "Barra Olivo es un restaurante de comida peruana y marisquería ubicado en Chicureo, Chile",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércoles)",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -4168,7 +4410,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los miércoles\nVálido en locales:\n- km2 chicureo Boulevar - Av. Chicureo, Los Ingleses, local16, Colina, Región Metropolitana",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/barra-olivo",
-  "id": "banc-082-barraolivo",
+  "id": "banc-barra-olivo",
   "ubicaciones": [
    {
     "lugar": "km2 chicureo Boulevar - Av. Chicureo, Los Ingleses, local16, Colina, Región Metropolitana",
@@ -4186,6 +4428,7 @@
  {
   "banco": "Banco Falabella",
   "comercio": "Kila Coffee",
+  "tipo": "Kila Coffee es una acogedora cafetería y espacio de bienestar ubicada en la comuna de Ñuñoa, Santiago de Chile",
   "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -4207,7 +4450,7 @@
   "vigencia": "2026-01-01 → 2026-09-30",
   "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- Román Díaz 2023, Ñuñoa, Región Metropolitana",
   "url": "https://www.bancofalabella.cl/descuentos/detalle/kila-coffee",
-  "id": "banc-083-kilacoffee",
+  "id": "banc-kila-coffee",
   "ubicaciones": [
    {
     "lugar": "Román Díaz 2023, Ñuñoa, Región Metropolitana",
@@ -4225,16 +4468,18 @@
  },
  {
   "banco": "Banco Falabella",
-  "comercio": "Pristino",
-  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes)",
+  "comercio": "Nomade Nikkei",
+  "tipo": "",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
   "descuento_pct": 40,
-  "tope": "Sin tope",
+  "tope": "Sin Tope",
   "dias": [
-   "Martes"
+   "Miércoles"
   ],
   "horario": "",
   "lugares": [
-   "El Coihue 3807, Vitacura, Región Metropolitana"
+   "Buin",
+   "Espacio Villaseca - Villaseca 445, Buin, Región Metropolitana"
   ],
   "tarjetas": [
    "CMR Mastercard",
@@ -4245,27 +4490,224 @@
   "modalidad": "Presencial",
   "region": "Región Metropolitana de Santiago",
   "vigencia": "2026-01-01 → 2026-09-30",
-  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los martes\nVálido en locales:\n- El Coihue 3807, Vitacura, Región Metropolitana",
-  "url": "https://www.bancofalabella.cl/descuentos/detalle/pristino",
-  "id": "banc-084-pristino",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Nomade Nikkei\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los Miércoles\n*Dirección: Espacio Villaseca - Villaseca 445, Buin, Región Metropolitana",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/nomade-nikkei",
+  "id": "banc-nomade-nikkei",
   "ubicaciones": [
    {
-    "lugar": "El Coihue 3807, Vitacura, Región Metropolitana",
-    "consulta": "El Coihue 3807, Vitacura, Región Metropolitana",
-    "comuna": "Vitacura",
+    "lugar": "Buin",
+    "consulta": "Buin",
+    "comuna": "Buin",
+    "precision": "comuna",
+    "lat": null,
+    "lng": null
+   },
+   {
+    "lugar": "Espacio Villaseca - Villaseca 445, Buin, Región Metropolitana",
+    "consulta": "Espacio Villaseca - Villaseca 445, Buin, Región Metropolitana",
+    "comuna": "Buin",
     "precision": "exacta",
-    "lat": -33.4017533,
-    "lng": -70.5922245,
-    "osm": "3807, El Coihue, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 7630249, Chile"
+    "lat": -33.7434056,
+    "lng": -70.7439064,
+    "osm": "445, Villaseca, Jardines del Sur, Buin, Provincia de Maipo, Región Metropolitana de Santiago, 9500708, Chile"
    }
   ],
   "comunas": [
-   "Vitacura"
+   "Buin"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Boreal bar Rancagua",
+  "tipo": "Bar y lounge ubicado en Miguel Ramírez 715, con terraza y horario extendido hasta las 3 AM",
+  "descuento": "40% (40% dcto con CMR y 30% con Débito Banco Falabella.)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Rancagua",
+   "Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "$, 2, a, :, p, r, o, p, s, :, b, e, n, e, f, i, t, C, a, r, d, s, D, a, t, a, :, 4, 8, :, r, e, g, i, o, n",
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Sigue estos pasos\n\n- Has tu reserva en Boreal bar Rancagua\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Ya tienes tu 40% dcto con CMR y 30% con Débito Banco Falabella.\nCondiciones:\n*Solo Presencial\n- Todos los miércoles\n*Dirección: Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins.",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/boreal-bar-rancagua",
+  "id": "banc-boreal-bar-rancagua",
+  "ubicaciones": [
+   {
+    "lugar": "Rancagua",
+    "consulta": "Rancagua",
+    "comuna": "Rancagua",
+    "precision": "comuna",
+    "lat": null,
+    "lng": null
+   },
+   {
+    "lugar": "Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins",
+    "consulta": "Av. Miguel Ramírez 715, Rancagua. Región de O'Higgins",
+    "comuna": "Rancagua",
+    "precision": "calle",
+    "lat": -34.1741363,
+    "lng": -70.7156775,
+    "osm": "Avenida Miguel Ramírez, Villa Rio Cachapoal, Manzanal, Rancagua, Provincia de Cachapoal, Región del Libertador General Bernardo O'Higgins, 2020800, Chile"
+   }
+  ],
+  "comunas": [
+   "Rancagua"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Mamma Gaucha Coyhaique",
+  "tipo": "",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Descuento",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Cuerno 47, 5951627 Coyhaique, Aysén"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Aysén del General Carlos Ibáñez del Campo",
+  "vigencia": "2026-06-01 → 2026-09-30",
+  "condiciones": "¡Sin Tope! Disfruta con un 40% de dcto pagando con tu CMR y 30% de dcto pagando con débito Banco Falabella\nLocales:\n- Cuerno 47, 5951627 Coyhaique, Aysén\nCondiciones:\n- Excluye promociones\n- Exclusivo presencial",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/mamma-gaucha-coyhaique",
+  "id": "banc-mamma-gaucha-coyhaique",
+  "ubicaciones": [
+   {
+    "lugar": "Cuerno 47, 5951627 Coyhaique, Aysén",
+    "consulta": "Cuerno 47, 5951627 Coyhaique, Aysén",
+    "comuna": "Coyhaique",
+    "precision": "sin_geo",
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "comunas": [
+   "Coyhaique"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Taurus Steak Bar Chillan",
+  "tipo": "Taurus Steakbar en Chillán es un destacado restaurante de carnes con más de 25 años de experiencia, posicionado como el",
+  "descuento": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes)",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Chillan",
+   "Taurus Steak Bar Chillan"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "$, 2, a, :, p, r, o, p, s, :, b, e, n, e, f, i, t, C, a, r, d, s, D, a, t, a, :, 5, 1, :, r, e, g, i, o, n",
+  "vigencia": "2026-01-01 → 2026-09-30",
+  "condiciones": "Conoce el detalle\n\nDescuento: 40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes\nVálido en locales:\n- Taurus Steak Bar Chillan\n- Todos los Martes\nCondiciones:\n- El descuento no es acumulable con otras promociones\n- Válido solo para compras presenciales en Taurus Steak Bar Chillan",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/taurus-steak-bar-chillan",
+  "id": "banc-taurus-steak-bar-chillan",
+  "ubicaciones": [
+   {
+    "lugar": "Chillan",
+    "consulta": "Chillan",
+    "comuna": "Chillán",
+    "precision": "comuna",
+    "lat": null,
+    "lng": null
+   },
+   {
+    "lugar": "Taurus Steak Bar Chillan",
+    "consulta": "Taurus Steak Bar Chillan",
+    "comuna": "Chillán",
+    "precision": "sin_geo",
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "comunas": [
+   "Chillán"
+  ]
+ },
+ {
+  "banco": "Banco Falabella",
+  "comercio": "Dominga Bistro Pucon",
+  "tipo": "Dominga Bistró es un restaurante de cocina fusión y coctelería de autor ubicado en la Península de Cavancha, Iquique",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "tope": "Sin Tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Pucon",
+   "Todos los Miércoles en Dominga Bistró Pucón"
+  ],
+  "tarjetas": [
+   "CMR Mastercard",
+   "CMR Mastercard Premium",
+   "Tarjeta Débito Banco Falabella",
+   "CMR Mastercard Elite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región de Los Ríos",
+  "vigencia": "2026-08-01 → 2026-09-30",
+  "condiciones": "Sigue estos pasos\n\n- Has tu pedido en cualquier caja de Dominga Bistro\n- Usa tu tarjeta CMR o Débito Banco Falabella como medio de pago\n- Y listo! Cuentas con el 40% de dcto con CMR y el 30% con débito Banco Falabella\nCondiciones:\n*Solo Presencial\n- Todos los Miércoles en Dominga Bistró Pucón",
+  "url": "https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-pucon",
+  "id": "banc-dominga-bistro-pucon",
+  "ubicaciones": [
+   {
+    "lugar": "Pucon",
+    "consulta": "Pucon",
+    "comuna": "Pucón",
+    "precision": "comuna",
+    "lat": null,
+    "lng": null
+   },
+   {
+    "lugar": "Todos los Miércoles en Dominga Bistró Pucón",
+    "consulta": "Dominga Bistró Pucón",
+    "comuna": "Pucón",
+    "precision": "sin_geo",
+    "lat": null,
+    "lng": null
+   }
+  ],
+  "comunas": [
+   "Pucón"
   ]
  },
  {
   "banco": "Santander",
   "comercio": "Helados Timaukel",
+  "tipo": "Heladería artesanal",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$30.000",
@@ -4282,13 +4724,14 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Heladería artesanal\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Solo online en www.timaukel.cl\n- No acumulable con otras promociones.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $30.000",
   "url": "https://banco.santander.cl/beneficios/promociones/helados-timaukel",
-  "id": "sant-085-heladostimaukel",
+  "id": "sant-helados-timaukel",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Santander",
   "comercio": "Casa Mar Sushi",
+  "tipo": "",
   "descuento": "30% dcto. todos los miércoles.",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -4307,7 +4750,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Recuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Av. Blanca Estela 1927, Concón\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/casa-mar-sushi",
-  "id": "sant-086-casamarsushi",
+  "id": "sant-casa-mar-sushi",
   "ubicaciones": [
    {
     "lugar": "Av. Blanca Estela 1927, Concón",
@@ -4326,6 +4769,7 @@
  {
   "banco": "Santander",
   "comercio": "De Costa a Costa",
+  "tipo": "Los mejores productos del mar",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -4342,13 +4786,14 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Los mejores productos del mar\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en locales y en decostacosta.cl\n- No acumulable con otras promociones, no incluye packs, no se pueden programar pedidos para otro día.\n- Tope dcto. $40.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/de-costa-a-costa",
-  "id": "sant-087-decostaacosta",
+  "id": "sant-de-costa-a-costa",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Santander",
   "comercio": "Rubaiyat",
+  "tipo": "Celebra los 10 años de Rubaiyat Chile con un exclusivo menú de degustación junto al chef Diego Rojas",
   "descuento": "30% dcto. en exclusiva experiencia gastronómica Rubaiyat",
   "descuento_pct": 30,
   "tope": "",
@@ -4367,7 +4812,7 @@
   "vigencia": "Evento a realizarse el 28 de julio de 2026",
   "condiciones": "Celebra los 10 años de Rubaiyat Chile con un exclusivo menú de degustación junto al chef Diego Rojas. \nRecuerda que:\n- Exclusivo pagando online con tus Tarjetas de Crédito The Platinum Card American Express&reg; y WorldMember Santander LATAM Pass American Express.\n- Válido para la experiencia gastronómica &quot;Rubaiyat Invita&quot;, en el marco de la celebración de los 10 años de Rubaiyat Chile.\n- Evento a realizarse el 28 de julio de 2026 en Rubaiyat Chile, Av. Nueva Costanera 4031, Vitacura.\n- Valor referencial: $120.000 por persona antes del descuento.\n- Cupos limitados, sujetos a disponibilidad y asignados por orden de inscripción.\n- Reserva previa a través del formulario habilitado para la actividad.",
   "url": "https://banco.santander.cl/beneficios/promociones/rubaiyat",
-  "id": "sant-088-rubaiyat",
+  "id": "sant-rubaiyat",
   "ubicaciones": [
    {
     "lugar": "Evento a realizarse el 28 de julio de 2026 en Rubaiyat Chile, Av. Nueva Costanera 4031, Vitacura",
@@ -4385,6 +4830,7 @@
  {
   "banco": "Santander",
   "comercio": "Corrales del Sur",
+  "tipo": "El mejor corte de carne en Corrales del Sur",
   "descuento": "20% dcto. todos los lunes.",
   "descuento_pct": 20,
   "tope": "$40.000",
@@ -4401,13 +4847,14 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "¡El mejor corte de carne en Corrales del Sur!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Válido en tiendas y corralesdelsur.cl\n- Exclusivo en categoría hogar.\n- No acumulable a otras promociones.\n- Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $40.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/corrales-del-sur-4",
-  "id": "sant-089-corralesdelsur",
+  "id": "sant-corrales-del-sur-4",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Santander",
   "comercio": "Punta del Sol",
+  "tipo": "Cocina del mar",
   "descuento": "50% de dcto. todos los lunes",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -4426,7 +4873,7 @@
   "vigencia": "Desde el 01 de junio al 30 de noviembre de 2026",
   "condiciones": "Cocina del mar \nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Av. del Mar 2730, Maitencillo\n- Tope de descuento de $50.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/punta-del-sol",
-  "id": "sant-090-puntadelsol",
+  "id": "sant-punta-del-sol",
   "ubicaciones": [
    {
     "lugar": "Av. del Mar 2730, Maitencillo",
@@ -4445,6 +4892,7 @@
  {
   "banco": "Santander",
   "comercio": "Domani",
+  "tipo": "Pizzería napolitana",
   "descuento": "40% dcto. todos los lunes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -4463,7 +4911,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Pizzería napolitana \nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Local Las Condes y Providencia. \n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/domani",
-  "id": "sant-091-domani",
+  "id": "sant-domani",
   "ubicaciones": [],
   "comunas": [
    "Providencia",
@@ -4473,6 +4921,7 @@
  {
   "banco": "Santander",
   "comercio": "Santo Aire",
+  "tipo": "Gastronomía, cava y bar",
   "descuento": "40% dcto. todos los jueves.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -4491,7 +4940,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "Gastronomía, cava y bar.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en local.\n- Lincoyán 142, Concepción\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $100.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/santo-aire",
-  "id": "sant-092-santoaire",
+  "id": "sant-santo-aire",
   "ubicaciones": [
    {
     "lugar": "Lincoyán 142, Concepción",
@@ -4510,6 +4959,7 @@
  {
   "banco": "Santander",
   "comercio": "Majka",
+  "tipo": "Cocina fusión y de autor",
   "descuento": "40% dcto. todos los jueves",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -4528,7 +4978,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Cocina fusión y de autor\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local\n- Principe de Gales 7102, La Reina\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/majka",
-  "id": "sant-093-majka",
+  "id": "sant-majka",
   "ubicaciones": [
    {
     "lugar": "Principe de Gales 7102, La Reina",
@@ -4547,6 +4997,7 @@
  {
   "banco": "Santander",
   "comercio": "Ramblas",
+  "tipo": "Bar con música en vivo",
   "descuento": "40% dcto. todos los martes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -4565,7 +5016,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Bar con música en vivo\nRecuerda que: \n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local\n- Manuel Montt 370, Providencia\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/ramblas",
-  "id": "sant-094-ramblas",
+  "id": "sant-ramblas",
   "ubicaciones": [
    {
     "lugar": "Manuel Montt 370, Providencia",
@@ -4584,6 +5035,7 @@
  {
   "banco": "Santander",
   "comercio": "Taurus Steak bar",
+  "tipo": "",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -4602,7 +5054,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Taurus Steak Bar\nRecuerda que: \n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local\n- Avenida Vicente Méndez 2361 PC2, Chillán\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/taurus-steak-bar",
-  "id": "sant-095-taurussteakbar",
+  "id": "sant-taurus-steak-bar",
   "ubicaciones": [
    {
     "lugar": "Avenida Vicente Méndez 2361 PC2, Chillán",
@@ -4621,6 +5073,7 @@
  {
   "banco": "Santander",
   "comercio": "Bar TPM",
+  "tipo": "",
   "descuento": "30% dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -4637,13 +5090,14 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Bar TPM\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local\n- Av. Las Condes 6766, Manuel Montt 412, Av. Tobalaba 455, Av. Italia 1226 y Av. Pedro de Valdivia 1738, Humberto Trucco 37 y Paula Jaraquemada 19\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/bar-tpm",
-  "id": "sant-096-bartpm",
+  "id": "sant-bar-tpm",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Santander",
   "comercio": "Cosenza",
+  "tipo": "",
   "descuento": "40% dcto. todos los viernes",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -4663,7 +5117,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "Cosenza\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WoldMember Limited Santander LATAM Pass.\n- Válido en local.\n- Av. Nueva Costanera 3900, Vitacura\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $100.000",
   "url": "https://banco.santander.cl/beneficios/promociones/cosenza",
-  "id": "sant-097-cosenza",
+  "id": "sant-cosenza",
   "ubicaciones": [
    {
     "lugar": "Av. Nueva Costanera 3900, Vitacura",
@@ -4690,6 +5144,7 @@
  {
   "banco": "Santander",
   "comercio": "Toro Bayo",
+  "tipo": "Torobayo",
   "descuento": "40% dcto. todos los miércoles",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -4709,7 +5164,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Torobayo\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Cam. Las Rastras, km 2,3, Talca.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/torobayo",
-  "id": "sant-098-torobayo",
+  "id": "sant-torobayo",
   "ubicaciones": [
    {
     "lugar": "Cam. Las Rastras, km 2,3, Talca",
@@ -4735,6 +5190,7 @@
  {
   "banco": "Santander",
   "comercio": "Sushi Home",
+  "tipo": "",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -4754,7 +5210,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Sushi Home\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local, delivery web y retiro en local.\n- Av. Central 191, Viña del mar.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/sushi-home",
-  "id": "sant-099-sushihome",
+  "id": "sant-sushi-home",
   "ubicaciones": [
    {
     "lugar": "Av. Central 191, Viña del mar",
@@ -4781,6 +5237,7 @@
  {
   "banco": "Santander",
   "comercio": "Vicenta",
+  "tipo": "Un espacio para disfrutar en Antofagasta",
   "descuento": "40% dcto. todos los martes.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -4800,7 +5257,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Un espacio para disfrutar en Antofagasta\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander.\n- Válido en local.\n- Av. O&rsquo;Higgins 1414, Antofagasta.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $100.000",
   "url": "https://banco.santander.cl/beneficios/promociones/vicenta",
-  "id": "sant-100-vicenta",
+  "id": "sant-vicenta",
   "ubicaciones": [
    {
     "lugar": "Av. O&rsquo;Higgins 1414, Antofagasta",
@@ -4827,6 +5284,7 @@
  {
   "banco": "Santander",
   "comercio": "Vapiano",
+  "tipo": "Cadena internacional de comida italiana",
   "descuento": "40% dcto. todos los martes y jueves",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -4844,13 +5302,14 @@
   "vigencia": "Hasta el 30 de septiembre 2026.",
   "condiciones": "Cadena internacional de comida italiana\n- Válido con Tarjetas de Crédito y Débito Santander.\n- Válido presencial\n- No acumulable a otras promociones.\n- Descuento máximo es de $40.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/vapiano-2",
-  "id": "sant-101-vapiano",
+  "id": "sant-vapiano-2",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Santander",
   "comercio": "1213",
+  "tipo": "Los mejores Sánguches & Hamburguesas",
   "descuento": "40% dcto. todos los domingo",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -4870,7 +5329,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Los mejores Sánguches & Hamburguesas\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Av. Tobalaba #1213 y Av. Pedro de Valdivia #2785\n- No acumulable con otras promociones.\n- Tope de descuento de $40.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/1213",
-  "id": "sant-102-1213",
+  "id": "sant-1213",
   "ubicaciones": [
    {
     "lugar": "Av. Tobalaba #1213 y Av. Pedro de Valdivia #2785",
@@ -4908,6 +5367,7 @@
  {
   "banco": "Santander",
   "comercio": "Hitomi Tomi",
+  "tipo": "Descubre los sabores de Asia en Hitomi Tomi",
   "descuento": "40% dcto. todos los jueves",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -4927,7 +5387,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Descubre los sabores de Asia en Hitomi Tomi\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Av. Tobalaba 947, Providencia\n- No acumulable con otras promociones.\n- Tope de descuento de $40.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/hitomi-tomi",
-  "id": "sant-103-hitomitomi",
+  "id": "sant-hitomi-tomi",
   "ubicaciones": [
    {
     "lugar": "Av. Tobalaba 947, Providencia",
@@ -4954,6 +5414,7 @@
  {
   "banco": "Santander",
   "comercio": "Santa Brasa",
+  "tipo": "Increíbles cortes de carne",
   "descuento": "50% dcto. todos los martes",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -4972,7 +5433,7 @@
   "vigencia": "Hasta el 30 de noviembre de 2026",
   "condiciones": "Increíbles cortes de carne.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Alonso de Córdova 4260, Vitacura\n- Tope de descuento de $50.000.\n- No acumulable a otras promociones.",
   "url": "https://banco.santander.cl/beneficios/promociones/santa-brasa-3",
-  "id": "sant-104-santabrasa",
+  "id": "sant-santa-brasa-3",
   "ubicaciones": [
    {
     "lugar": "Alonso de Córdova 4260, Vitacura",
@@ -4991,6 +5452,7 @@
  {
   "banco": "Santander",
   "comercio": "Pizzería Capri",
+  "tipo": "Disfruta de la comida italiana como pizzas, pastas y más",
   "descuento": "40% dcto. todos los lunes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -5011,7 +5473,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "Disfruta de la comida italiana como pizzas, pastas y más\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local y online con retiro en tienda.\n- Avenida El Rodeo 13.052, Lo Barnechea\n- Gerónimo Alderete 1423, Vitacura\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/pizzeria-capri",
-  "id": "sant-105-pizzeriacapri",
+  "id": "sant-pizzeria-capri",
   "ubicaciones": [
    {
     "lugar": "Avenida El Rodeo 13.052, Lo Barnechea",
@@ -5056,6 +5518,7 @@
  {
   "banco": "Santander",
   "comercio": "Zulu",
+  "tipo": "Disfruta de la cocina Internacional",
   "descuento": "50%. dcto. todos los jueves",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -5075,7 +5538,7 @@
   "vigencia": "Desde el 1 de septiembre hasta el 30 de noviembre",
   "condiciones": "Disfruta de la cocina Internacional\nRecuerda que:\n- \n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Alonso de Córdova 2337, Vitacura\n- Tope de descuento de $50.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/zulu",
-  "id": "sant-106-zulu",
+  "id": "sant-zulu",
   "ubicaciones": [
    {
     "lugar": "Alonso de Córdova 2337, Vitacura",
@@ -5102,6 +5565,7 @@
  {
   "banco": "Santander",
   "comercio": "Estación Tropera",
+  "tipo": "Tropera es un sueño colectivo, nacido entre Italia y la Patagonia",
   "descuento": "40% dcto. todos los viernes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -5121,7 +5585,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Tropera es un sueño colectivo, nacido entre Italia y la Patagonia\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local y online con retiro en tienda.\n- Av. Vitacura 3285, Vitacura.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/estacion-tropera",
-  "id": "sant-107-estaciontropera",
+  "id": "sant-estacion-tropera",
   "ubicaciones": [
    {
     "lugar": "Av. Vitacura 3285, Vitacura",
@@ -5148,6 +5612,7 @@
  {
   "banco": "Santander",
   "comercio": "Exò Nuit",
+  "tipo": "restaurante y bar de cocina japonesa–mediterránea",
   "descuento": "30%. dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -5167,7 +5632,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "restaurante y bar de cocina japonesa&ndash;mediterránea\nRecuerda que:\n- Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.\n- Válido para consumo en local.\n- Candelaria Goyenechea 3868, Vitacura.\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/exo-nuit",
-  "id": "sant-108-exonuit",
+  "id": "sant-exo-nuit",
   "ubicaciones": [
    {
     "lugar": "Candelaria Goyenechea 3868, Vitacura",
@@ -5194,6 +5659,7 @@
  {
   "banco": "Santander",
   "comercio": "Delivery Gourmet",
+  "tipo": "Tus comidas favoritas en un solo pedido",
   "descuento": "30% dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -5213,7 +5679,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Tus comidas favoritas en un solo pedido\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local, delivery web y retiro en local.\n- Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/delivery-gourmet",
-  "id": "sant-109-deliverygourmet",
+  "id": "sant-delivery-gourmet",
   "ubicaciones": [
    {
     "lugar": "Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro",
@@ -5276,6 +5742,7 @@
  {
   "banco": "Santander",
   "comercio": "Curry",
+  "tipo": "Comida Tailandesa",
   "descuento": "30% dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -5295,7 +5762,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Comida Tailandesa\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local, delivery web y retiro en local.\n- Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/curry-2",
-  "id": "sant-110-curry",
+  "id": "sant-curry-2",
   "ubicaciones": [
    {
     "lugar": "Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro",
@@ -5358,6 +5825,7 @@
  {
   "banco": "Santander",
   "comercio": "Rocoto",
+  "tipo": "Sabores peruanos auténticos en tu hogar",
   "descuento": "30% dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -5377,7 +5845,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Sabores peruanos auténticos en tu hogar\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local, delivery web y retiro en local\n- Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/rocoto",
-  "id": "sant-111-rocoto",
+  "id": "sant-rocoto",
   "ubicaciones": [
    {
     "lugar": "Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro",
@@ -5440,6 +5908,7 @@
  {
   "banco": "Santander",
   "comercio": "Estró",
+  "tipo": "Cocina chilena con los mejores productos locales",
   "descuento": "40% dcto. todos los jueves.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -5458,7 +5927,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Cocina chilena con los mejores productos locales\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para compras en local.\n- El Alcalde 15, Las Condes.\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $100.000\n- Descuento no aplica a menú ejecutivo",
   "url": "https://banco.santander.cl/beneficios/promociones/estro-3",
-  "id": "sant-112-estro",
+  "id": "sant-estro-3",
   "ubicaciones": [
    {
     "lugar": "El Alcalde 15, Las Condes",
@@ -5477,6 +5946,7 @@
  {
   "banco": "Santander",
   "comercio": "Social Bar",
+  "tipo": "Burgas, drinks y el good food mood que ya amas",
   "descuento": "40% dcto. todos los lunes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -5496,7 +5966,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "Burgas, drinks y el good food mood que ya amas.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local \n- Av. Vitacura 3396, Vitacura.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/social-bar",
-  "id": "sant-113-socialbar",
+  "id": "sant-social-bar",
   "ubicaciones": [
    {
     "lugar": "Av. Vitacura 3396, Vitacura",
@@ -5523,6 +5993,7 @@
  {
   "banco": "Santander",
   "comercio": "Lima Fusión",
+  "tipo": "Gastronomía Peruana, Criollas y Nikkei se reinventa con un toque único",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -5542,7 +6013,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Gastronomía Peruana, Criollas y Nikkei se reinventa con un toque único.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Manuel Bulnes 314, Quillota.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/lima-fusion",
-  "id": "sant-114-limafusion",
+  "id": "sant-lima-fusion",
   "ubicaciones": [
    {
     "lugar": "Manuel Bulnes 314, Quillota",
@@ -5569,6 +6040,7 @@
  {
   "banco": "Santander",
   "comercio": "Prístino",
+  "tipo": "Preparaciones chilenas gourmet",
   "descuento": "50% dcto. todos los sábados",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -5588,7 +6060,7 @@
   "vigencia": "Desde el 1 de septiembre hasta el 30 de noviembre de 2026.",
   "condiciones": "Preparaciones chilenas gourmet\nRecuerda que:\n- \n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido en local.\n- El Coihue 3807, Vitacura.\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $50.000",
   "url": "https://banco.santander.cl/beneficios/promociones/pristino",
-  "id": "sant-115-pristino",
+  "id": "sant-pristino",
   "ubicaciones": [
    {
     "lugar": "El Coihue 3807, Vitacura",
@@ -5615,6 +6087,7 @@
  {
   "banco": "Santander",
   "comercio": "Streat Burger",
+  "tipo": "Streat Makes You Happy",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -5633,7 +6106,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "Streat Makes You Happy\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en locales presenciales y en delivery a través de PedidosYa\n- Válido en locales Santiago y Carretera.\n- Válido dos cupones semanales por persona.\n- Excluye categoría helados y combo full.\n- No acumulable con otras promociones. \n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/streat-burger",
-  "id": "sant-116-streatburger",
+  "id": "sant-streat-burger",
   "ubicaciones": [
    {
     "lugar": "Las Condes, Lo Barnechea, Ñuñoa, La Florida, San Francisco de Mostazal, Hijuelas, Chillán, San Fernando, Llay Llay",
@@ -5723,6 +6196,7 @@
  {
   "banco": "Santander",
   "comercio": "Expendio Montt",
+  "tipo": "Los mejores tacos y cervezas",
   "descuento": "30% dcto. todos los miércoles.",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -5742,7 +6216,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "Los mejores tacos y cervezas\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local.\n- Manuel Montt 727, Providencia.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/expendio-montt",
-  "id": "sant-117-expendiomontt",
+  "id": "sant-expendio-montt",
   "ubicaciones": [
    {
     "lugar": "Manuel Montt 727, Providencia",
@@ -5769,6 +6243,7 @@
  {
   "banco": "Santander",
   "comercio": "Bar Porfirio",
+  "tipo": "Tacos, tragos y pura buena onda para cortar la semana con sabor",
   "descuento": "30% dcto. todos los miércoles.",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -5788,7 +6263,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Tacos, tragos y pura buena onda para cortar la semana con sabor\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local.\n- Manuel Montt 697, Providencia.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/bar-porfirio",
-  "id": "sant-118-barporfirio",
+  "id": "sant-bar-porfirio",
   "ubicaciones": [
    {
     "lugar": "Manuel Montt 697, Providencia",
@@ -5815,6 +6290,7 @@
  {
   "banco": "Santander",
   "comercio": "Kento Sushi",
+  "tipo": "Los mejores sushi, nikkei, Sin arroz, Vegetarianos, Ceviche y más",
   "descuento": "30% dcto. todos los miércoles.",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -5834,7 +6310,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "Los mejores sushi, nikkei, Sin arroz, Vegetarianos, Ceviche y más\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local y online.\n- Parque Arauco, Alto las Condes y Av. Vitacura 5460\n- No acumulable con otras promociones.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/kento-sushi",
-  "id": "sant-119-kentosushi",
+  "id": "sant-kento-sushi",
   "ubicaciones": [
    {
     "lugar": "Parque Arauco, Alto las Condes y Av. Vitacura 5460",
@@ -5870,6 +6346,7 @@
  {
   "banco": "Santander",
   "comercio": "Taringa",
+  "tipo": "Comida, cocteles, música y más",
   "descuento": "40% dcto. todos los sábados.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -5889,7 +6366,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Comida, cocteles, música y más\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Av. Vitacura 5336, Vitacura.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/taringa-4",
-  "id": "sant-120-taringa",
+  "id": "sant-taringa-4",
   "ubicaciones": [
    {
     "lugar": "Av. Vitacura 5336, Vitacura",
@@ -5916,6 +6393,7 @@
  {
   "banco": "Santander",
   "comercio": "Brunetti",
+  "tipo": "Cafetería y restaurant",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -5935,7 +6413,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "Cafetería y restaurant\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Diaz gana 845, Antofagasta.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/brunetti",
-  "id": "sant-121-brunetti",
+  "id": "sant-brunetti",
   "ubicaciones": [
    {
     "lugar": "Diaz gana 845, Antofagasta",
@@ -5962,6 +6440,7 @@
  {
   "banco": "Santander",
   "comercio": "Hijo del Inca",
+  "tipo": "Restaurante peruano",
   "descuento": "30% dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -5982,7 +6461,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "Restaurante peruano.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para compras en local.\n- Príncipe de Gales 6992, La Reina.\n- Santa magdalena 168 local 102 Providencia.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/hijo-del-inca",
-  "id": "sant-122-hijodelinca",
+  "id": "sant-hijo-del-inca",
   "ubicaciones": [
    {
     "lugar": "Príncipe de Gales 6992, La Reina",
@@ -6018,6 +6497,7 @@
  {
   "banco": "Santander",
   "comercio": "Siete Olas",
+  "tipo": "Las mejores pizzas napolitanas y hamburguesas artesanales",
   "descuento": "50%. dcto. todos los miércoles",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -6037,7 +6517,7 @@
   "vigencia": "Desde el 01 de junio hasta el 30 de noviembre de 2026",
   "condiciones": "Las mejores pizzas napolitanas y hamburguesas artesanales.\nRecuerda que:\n- Exclusivo con tus Nuevas Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Av. Cachagua 269, Zapallar.\n- Tope de descuento de $50.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/siete-olas",
-  "id": "sant-123-sieteolas",
+  "id": "sant-siete-olas",
   "ubicaciones": [
    {
     "lugar": "Av. Cachagua 269, Zapallar",
@@ -6064,6 +6544,7 @@
  {
   "banco": "Santander",
   "comercio": "Brunapoli",
+  "tipo": "Vive la experiencia de una auténtica pizza Napolitana",
   "descuento": "40% dcto. todos los martes",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -6085,7 +6566,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Vive la experiencia de una auténtica pizza Napolitana.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en locales.\n- Nueva Costanera 3961, Vitacura\n- Av. José Alcalde Délano, Lo Barnechea\n- Camino El Alba 11969, Las Condes\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $100.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/brunapoli",
-  "id": "sant-124-brunapoli",
+  "id": "sant-brunapoli",
   "ubicaciones": [
    {
     "lugar": "Nueva Costanera 3961, Vitacura",
@@ -6148,6 +6629,7 @@
  {
   "banco": "Santander",
   "comercio": "Le Vice Chocolat",
+  "tipo": "Exquisitos chocolates de la más alta calidad, elaborados con ingredientes seleccionados cuidadosamente y un toque artesa",
   "descuento": "40% dcto. todos los jueves.",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -6166,7 +6648,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "Exquisitos chocolates de la más alta calidad, elaborados con ingredientes seleccionados cuidadosamente y un toque artesanal.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en tiendas y www.levicechocolat.com\n- Sin tope de descuento.\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
   "url": "https://banco.santander.cl/beneficios/promociones/le-vice-chocolat",
-  "id": "sant-125-levicechocolat",
+  "id": "sant-le-vice-chocolat",
   "ubicaciones": [
    {
     "lugar": "Vitacura",
@@ -6184,6 +6666,7 @@
  {
   "banco": "Santander",
   "comercio": "Berlin Döner Kebab",
+  "tipo": "Restaurant de sandwich turco-alemanes",
   "descuento": "30% dcto. todos los miércoles",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -6202,7 +6685,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Restaurant de sandwich turco-alemanes\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/berlin-doner-kebab",
-  "id": "sant-126-berlindonerkebab",
+  "id": "sant-berlin-doner-kebab",
   "ubicaciones": [
    {
     "lugar": "Ñuñoa, Vitacura",
@@ -6229,6 +6712,7 @@
  {
   "banco": "Santander",
   "comercio": "Chicken Love You",
+  "tipo": "Los mejores sandwich de pollo frito",
   "descuento": "40% dcto. todos los miércoles",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -6247,7 +6731,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "Los mejores sandwich de pollo frito.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Válido para consumo en locales y online.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Se excluyen propinas, menús y happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/chicken-love-you",
-  "id": "sant-127-chickenloveyou",
+  "id": "sant-chicken-love-you",
   "ubicaciones": [
    {
     "lugar": "Santiago,Vitacura,Las Condes,Maipú,La Reina,La Florida,Lo Barnechea,Viña del Mar",
@@ -6328,6 +6812,7 @@
  {
   "banco": "Santander",
   "comercio": "Juan Esparraguito",
+  "tipo": "Mucho más que frutas y verduras, productos de temporada y seleccionados uno a uno",
   "descuento": "30% dcto. todos los miércoles.",
   "descuento_pct": 30,
   "tope": "$100.000",
@@ -6346,7 +6831,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Mucho más que frutas y verduras, productos de temporada y seleccionados uno a uno\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en www.juanesparraguito.com\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.\n- Descuento máximo por pedido de $100.000\n- Exclusivo en frutas y verduras.",
   "url": "https://banco.santander.cl/beneficios/promociones/juan-esparraguito",
-  "id": "sant-128-juanesparraguito",
+  "id": "sant-juan-esparraguito",
   "ubicaciones": [
    {
     "lugar": "Las Condes, Lo Barnechea, Vitacura, La Reina, Ñuñoa, Providencia y Santiago",
@@ -6418,6 +6903,7 @@
  {
   "banco": "Santander",
   "comercio": "Oh Bok",
+  "tipo": "Autentica parrilla Koreana",
   "descuento": "40% dcto. todos los jueves",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -6437,7 +6923,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Autentica parrilla Koreana\nRecuerda:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Av. Vitacura 4085 y Av. Vitacura 7261,Vitacura\n- Tope de descuento de $40.000.\n- Pide tu descuento al momento de pagar.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/oh-bok",
-  "id": "sant-129-ohbok",
+  "id": "sant-oh-bok",
   "ubicaciones": [
    {
     "lugar": "Av. Vitacura 4085 y Av. Vitacura 7261,Vitacura",
@@ -6473,6 +6959,7 @@
  {
   "banco": "Santander",
   "comercio": "Milán",
+  "tipo": "Sandwich Gourmet, Hamburguesas, Pizzas, Crepes y mucho mas",
   "descuento": "40% de dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -6492,7 +6979,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Sandwich Gourmet, Hamburguesas, Pizzas, Crepes y mucho mas.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Inés de Suarez 1330 y Andres Bello 580, Temuco.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/milan",
-  "id": "sant-130-milan",
+  "id": "sant-milan",
   "ubicaciones": [
    {
     "lugar": "Inés de Suarez 1330 y Andres Bello 580, Temuco",
@@ -6529,6 +7016,7 @@
  {
   "banco": "Santander",
   "comercio": "El Mundo del Vino",
+  "tipo": "El mejor vino para ti",
   "descuento": "40% dcto. todos los lunes en viñas seleccionadas.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -6547,7 +7035,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "¡El mejor vino para ti!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para compras en local y www.elmundodelvino.cl\n- No acumulable a otras promociones.\n- En viñas seleccionadas: Clos de Luz, Barón Philippe, Tres Palacio, Las  Veletas, San Pedro, Tarapaca, Valdivieso, Ventisquero, Errazuriz, Arboleda. \n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $100.000",
   "url": "https://banco.santander.cl/beneficios/promociones/el-mundo-del-vino-9",
-  "id": "sant-131-elmundodelvino",
+  "id": "sant-el-mundo-del-vino-9",
   "ubicaciones": [
    {
     "lugar": " Providencia, Las Condes",
@@ -6574,6 +7062,7 @@
  {
   "banco": "Santander",
   "comercio": "Bozzo",
+  "tipo": "Disfruta los mejores chocolates, receta de tradición italiana",
   "descuento": "40% dcto. todos los martes en bozzochocolates.cl y 20% dcto. en tiendas",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -6592,7 +7081,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "¡Disfruta los mejores chocolates, receta de tradición italiana!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en www.bozzochocolates.cl y presencial.\n- 20% dcto. en tiendas válido solo en Región Metropolitana.\n- No acumulable a otras promociones.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Para hacer efectivo el descuento debes mostrar y pagar con tus Tarjetas Santander.\n- Descuento máximo por pedido de $40.000.\n- Descuento aplica solamente para personas naturales.",
   "url": "https://banco.santander.cl/beneficios/promociones/bozzo-4",
-  "id": "sant-132-bozzo",
+  "id": "sant-bozzo-4",
   "ubicaciones": [
    {
     "lugar": "Las Condes, Vitacura, Lo Barnechea, Providencia, Santiago, Peñalolén, La Florida",
@@ -6664,6 +7153,7 @@
  {
   "banco": "Santander",
   "comercio": "El Taller",
+  "tipo": "Helados Artesanales de Alta Calidad, reconocidos entre los mejores del Mundo",
   "descuento": "40% dcto. todos los martes",
   "descuento_pct": 40,
   "tope": "$15.000",
@@ -6685,7 +7175,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "Helados Artesanales de Alta Calidad, reconocidos entre los mejores del Mundo\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido para consumo en locales y www.eltallerchile.cl\n- Av. Providencia 1467, Providencia.\n- Av. La Dehesa 1570, Lo Barnechea.\n- Av. Apoquindo 2730, Las Condes.\n- Tope de descuento de $15.000.\n- Para compras presenciales pide tu descuento al momento de pagar.\n- Para compras online ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.\n- No acumulable a otras promociones.",
   "url": "https://banco.santander.cl/beneficios/promociones/el-taller",
-  "id": "sant-133-eltaller",
+  "id": "sant-el-taller",
   "ubicaciones": [
    {
     "lugar": "Av. Providencia 1467, Providencia",
@@ -6748,6 +7238,7 @@
  {
   "banco": "Santander",
   "comercio": "Ciros",
+  "tipo": "Comida chilena y de ultramar",
   "descuento": "40% dcto. todos los sábados",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -6767,7 +7258,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Comida chilena y de ultramar\nRecuerda:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Isidora Goyenechea 2971, Las Condes.\n- Tope de descuento de $40.000.\n- Pide tu descuento al momento de pagar.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/ciros",
-  "id": "sant-134-ciros",
+  "id": "sant-ciros",
   "ubicaciones": [
    {
     "lugar": "Isidora Goyenechea 2971, Las Condes",
@@ -6794,6 +7285,7 @@
  {
   "banco": "Santander",
   "comercio": "Ari Nikkei",
+  "tipo": "Nuevo concepto de sushi",
   "descuento": "30%. dcto. todos los viernes",
   "descuento_pct": 30,
   "tope": "$40.000",
@@ -6812,7 +7304,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Nuevo concepto de sushi\nRecuerda que:\n- Exclusivo pagando con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.",
   "url": "https://banco.santander.cl/beneficios/promociones/ari-nikkei",
-  "id": "sant-135-arinikkei",
+  "id": "sant-ari-nikkei",
   "ubicaciones": [
    {
     "lugar": "Las Condes",
@@ -6830,6 +7322,7 @@
  {
   "banco": "Santander",
   "comercio": "La Mulata",
+  "tipo": "La mejor cocina fusión peruana - japonesa",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -6849,7 +7342,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "La mejor cocina fusión peruana - japonesa\nRecuerda que:\n- \n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Av. Arturo Prat Chacón 902, Iquique.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $100.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/la-mulata",
-  "id": "sant-136-lamulata",
+  "id": "sant-la-mulata",
   "ubicaciones": [
    {
     "lugar": "Av. Arturo Prat Chacón 902, Iquique",
@@ -6876,6 +7369,7 @@
  {
   "banco": "Santander",
   "comercio": "Sumoku",
+  "tipo": "Comida del mar que garantiza un viaje entre clásicos sabores japoneses con notas sofisticadas de alta cocina",
   "descuento": "Hasta 50%. dcto. todos los martes y miercoles",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -6896,7 +7390,7 @@
   "vigencia": "Desde el 01 de junio hasta el 30 de noviembre de 2026",
   "condiciones": "Comida del mar que garantiza un viaje entre clásicos sabores japoneses con notas sofisticadas de alta cocina.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito WorldMember Limited Santander LATAM Pass\n- Válido para consumo en local.\n- Bellavista 703, Reñaca.Con Tarjetas de Crédito Santander American Express\n- Descuento aplica para los días martes\n- Tope de descuento de $50.000.\n- Pide tu descuento al momento de pagar.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.Con Tarjeta de Crédito WorldMember Limited Santander LATAM Pass\n- Descuento aplica para los días miércoles\n- Tope de descuento de $100.000.\n- Pide tu descuento al momento de pagar.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/sumoku",
-  "id": "sant-137-sumoku",
+  "id": "sant-sumoku",
   "ubicaciones": [
    {
     "lugar": "Bellavista 703, Reñaca.Con Tarjetas de Crédito Santander American Express",
@@ -6923,6 +7417,7 @@
  {
   "banco": "Santander",
   "comercio": "Sociedad 0306",
+  "tipo": "4 cocinas de autor + Bar",
   "descuento": "40% dcto. todos los martes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -6942,7 +7437,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "4 cocinas de autor + Bar\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Av. Sta. Isabel 0306, Providencia.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/sociedad-0306",
-  "id": "sant-138-sociedad0306",
+  "id": "sant-sociedad-0306",
   "ubicaciones": [
    {
     "lugar": "Av. Sta. Isabel 0306, Providencia",
@@ -6969,6 +7464,7 @@
  {
   "banco": "Santander",
   "comercio": "Infiltrados",
+  "tipo": "Deléitate con carnes, pescados y mariscos",
   "descuento": "Hasta 50%. dcto. todos los días viernes y sábados",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -6994,7 +7490,7 @@
   "vigencia": "Hasta el 30 de noviembre de 2026.",
   "condiciones": "Deléitate con carnes, pescados y mariscos\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito WorldMember Limited Santander LATAM Pass\n- Válido para consumo en local.\n- Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express\n- Descuento aplica para los días viernes.\n- Tope de descuento de $50.000.\n- Pide tu descuento al momento de pagar.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.Con Tarjeta de Crédito WorldMember Limited Santander LATAM Pass\n- Descuento aplica para los días sábados\n- Tope de descuento de $100.000.\n- Pide tu descuento al momento de pagar.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/infiltrados",
-  "id": "sant-139-infiltrados",
+  "id": "sant-infiltrados",
   "ubicaciones": [
    {
     "lugar": "Av. Vitacura 5708, Vitacura.Con Tarjetas de Crédito Santander American Express",
@@ -7021,6 +7517,7 @@
  {
   "banco": "Santander",
   "comercio": "Do Sushi",
+  "tipo": "Disfruta de la cocina Japonesa",
   "descuento": "50% dcto. todos los domingos",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -7040,7 +7537,7 @@
   "vigencia": "Desde el 1 de septiembre hasta el 30 de noviembre de 2026",
   "condiciones": "Disfruta de la cocina Japonesa\nRecuerda que:\n- \n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local \n- Suecia 0155, local 102, Providencia.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $50.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/do-sushi-6",
-  "id": "sant-140-dosushi",
+  "id": "sant-do-sushi-6",
   "ubicaciones": [
    {
     "lugar": "Suecia 0155, local 102, Providencia",
@@ -7067,6 +7564,7 @@
  {
   "banco": "Santander",
   "comercio": "Carmine",
+  "tipo": "Raíces profundas de una tradición gastronómica que ha sido transmitida de generación en generación",
   "descuento": "50% dcto. todos los jueves",
   "descuento_pct": 50,
   "tope": "$50.000",
@@ -7086,7 +7584,7 @@
   "vigencia": "Desde el 01 de junio hasta el 30 de novimbre de 2026",
   "condiciones": "Raíces profundas de una tradición gastronómica que ha sido transmitida de generación en generación.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido en local.\n- Av. Edmundo Eluchans 595, Viña del Mar.\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $50.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/carmine",
-  "id": "sant-141-carmine",
+  "id": "sant-carmine",
   "ubicaciones": [
    {
     "lugar": "Av. Edmundo Eluchans 595, Viña del Mar",
@@ -7113,6 +7611,7 @@
  {
   "banco": "Santander",
   "comercio": "Restaurante Hotel AWA",
+  "tipo": "Cocina contemporánea con platos internacionales con técnicas tradicionales locales",
   "descuento": "40% dcto. todos los jueves",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -7132,7 +7631,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Cocina contemporánea con platos internacionales con técnicas tradicionales locales.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Ruta 225, Km. 27, Puerto Varas.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/restaurante-hotel-awa",
-  "id": "sant-142-restaurantehotelawa",
+  "id": "sant-restaurante-hotel-awa",
   "ubicaciones": [
    {
     "lugar": "Ruta 225, Km. 27, Puerto Varas",
@@ -7159,6 +7658,7 @@
  {
   "banco": "Santander",
   "comercio": "ICA",
+  "tipo": "Conoce la mejor cocina Peruana Criolla popular",
   "descuento": "40% dcto. todos los sábados",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -7178,7 +7678,7 @@
   "vigencia": "Hasta el 31 de mayo de 2026",
   "condiciones": "Conoce la mejor cocina Peruana Criolla popular\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- No acumulable a otras promociones.\n- Isidora Goyenechea 2939, Las Condes \n- Descuento máximo por pedido de $40.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/ica-2",
-  "id": "sant-143-ica",
+  "id": "sant-ica-2",
   "ubicaciones": [
    {
     "lugar": "Isidora Goyenechea 2939, Las Condes",
@@ -7205,6 +7705,7 @@
  {
   "banco": "Santander",
   "comercio": "La Dicha",
+  "tipo": "Descubre los mejores platos gourmet",
   "descuento": "40% dcto. todos los lunes.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -7224,7 +7725,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Descubre los mejores platos gourmet \nRecuerda que: \n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Alonso de Córdova 4355,Vitacura\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Tope de descuento $100.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/la-dicha-4",
-  "id": "sant-144-ladicha",
+  "id": "sant-la-dicha-4",
   "ubicaciones": [
    {
     "lugar": "Alonso de Córdova 4355,Vitacura",
@@ -7251,6 +7752,7 @@
  {
   "banco": "Santander",
   "comercio": "Cosecha del Mar",
+  "tipo": "Explora el mundo del salmón",
   "descuento": "40% dcto. todos los viernes",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -7270,7 +7772,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "¡Explora el mundo del salmón!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en local, pagando con tu tarjeta física. \n- Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas.\n- Tope de dcto. mensual $100.000\n- No acumulable a otras promociones.",
   "url": "https://banco.santander.cl/beneficios/promociones/cosecha-del-mar-4",
-  "id": "sant-145-cosechadelmar",
+  "id": "sant-cosecha-del-mar-4",
   "ubicaciones": [
    {
     "lugar": "Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas",
@@ -7299,6 +7801,7 @@
  {
   "banco": "Santander",
   "comercio": "Barra Andalúe",
+  "tipo": "Disfruta de la mejor gastronomía y tragos de autor de San Pedro de la Paz",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -7318,7 +7821,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "¡Disfruta de la mejor gastronomía y tragos de autor de San Pedro de la Paz!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local, delivery y retiro.\n- Av. Andalue 2295 local 1, Concepción\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/barraandalue",
-  "id": "sant-146-barraandalue",
+  "id": "sant-barraandalue",
   "ubicaciones": [
    {
     "lugar": "Av. Andalue 2295 local 1, Concepción",
@@ -7346,6 +7849,7 @@
  {
   "banco": "Santander",
   "comercio": "Dominga Nikkei",
+  "tipo": "Sushi Nikkei, Omakase, Coctelería de autor asiática y mucho más",
   "descuento": "40%. dcto. todos los viernes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -7365,7 +7869,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Sushi Nikkei, Omakase, Coctelería de autor asiática y mucho más.\nRecuerda que:\n- Exclusivo con tu Tarjetas de Crédito Santander\n- Válido para consumo en local.\n- El Rodeo 12699, Lo Barnechea.\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/dominga-nikkei",
-  "id": "sant-147-dominganikkei",
+  "id": "sant-dominga-nikkei",
   "ubicaciones": [
    {
     "lugar": "El Rodeo 12699, Lo Barnechea",
@@ -7392,6 +7896,7 @@
  {
   "banco": "Santander",
   "comercio": "Naoki",
+  "tipo": "Sabores y técnicas japonesas se combinan con elementos locales de la costa chilena para crear una experiencia gastronómi",
   "descuento": "40%. dcto. todos los miércoles",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -7411,7 +7916,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Sabores y técnicas japonesas se combinan con elementos locales de la costa chilena para crear una experiencia gastronómica única\nRecuerda que:\n- Exclusivo con tu Tarjeta de Crédito WorldMember Limited Santander \n- Válido para consumo en local.\n- Av. Vitacura 3875, Vitacura.\n- Tope de descuento de $100.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/naoki-2",
-  "id": "sant-148-naoki",
+  "id": "sant-naoki-2",
   "ubicaciones": [
    {
     "lugar": "Av. Vitacura 3875, Vitacura",
@@ -7438,6 +7943,7 @@
  {
   "banco": "Santander",
   "comercio": "Caoba Bar",
+  "tipo": "Disfruta de un increíble bar",
   "descuento": "40% dcto. todos los lunes",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -7457,7 +7963,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "¡Disfruta de un increíble bar!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Válido para consumo en local.\n- Alonso de Córdova 4156, Vitacura.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Tope de descuento $40.000",
   "url": "https://banco.santander.cl/beneficios/promociones/caoba-bar-2",
-  "id": "sant-149-caobabar",
+  "id": "sant-caoba-bar-2",
   "ubicaciones": [
    {
     "lugar": "Alonso de Córdova 4156, Vitacura",
@@ -7484,6 +7990,7 @@
  {
   "banco": "Santander",
   "comercio": "PF Chang’s",
+  "tipo": "Lo mejor de la comida asiatica",
   "descuento": "40% dcto. todos los miércoles",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -7503,7 +8010,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "¡Lo mejor de la comida asiatica!\nRecuerda que:\n- 40% pagando con tus Tarjetas de Crédito Santander \n- Válido para consumo en local.\n- Isidora Goyenechea 2940, Parque Arauco y Alto Las Condes, Las Condes.\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/pfchang",
-  "id": "sant-150-pfchangs",
+  "id": "sant-pfchang",
   "ubicaciones": [
    {
     "lugar": "Isidora Goyenechea 2940, Parque Arauco y Alto Las Condes, Las Condes",
@@ -7530,6 +8037,7 @@
  {
   "banco": "Santander",
   "comercio": "Augusta Bar",
+  "tipo": "Disfruta de una variada gastronomía y cócteles de autor",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -7549,7 +8057,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Disfruta de una variada gastronomía y cócteles de autor.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Paso Hondo 209, Concepción.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/augusta-bar",
-  "id": "sant-151-augustabar",
+  "id": "sant-augusta-bar",
   "ubicaciones": [
    {
     "lugar": "Paso Hondo 209, Concepción",
@@ -7576,6 +8084,7 @@
  {
   "banco": "Santander",
   "comercio": "La Bifería",
+  "tipo": "Cortes únicos de carne a la parrilla",
   "descuento": "40% dcto. todos los miércoles",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -7595,7 +8104,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Cortes únicos de carne a la parrilla\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Av. Pedro de Valdivia 065, Providencia.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/la-biferia-2",
-  "id": "sant-152-labiferia",
+  "id": "sant-la-biferia-2",
   "ubicaciones": [
    {
     "lugar": "Av. Pedro de Valdivia 065, Providencia",
@@ -7623,6 +8132,7 @@
  {
   "banco": "Santander",
   "comercio": "Hijo del Sol",
+  "tipo": "Disfruta del rico sabor de una causa limeña",
   "descuento": "40% dcto. todos los miércoles",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -7641,7 +8151,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "Disfruta del rico sabor de una causa limeña \nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/hijo-del-sol-2",
-  "id": "sant-153-hijodelsol",
+  "id": "sant-hijo-del-sol-2",
   "ubicaciones": [
    {
     "lugar": "La Reina, Las Condes, Vitacura, Santiago",
@@ -7686,6 +8196,7 @@
  {
   "banco": "Santander",
   "comercio": "Local Burger",
+  "tipo": "Disfruta las mejores hamburguesas",
   "descuento": "40% dcto. todos los miércoles.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -7702,13 +8213,14 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "¡Disfruta las mejores hamburguesas!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local y www.localburger.cl\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/local-burger-2",
-  "id": "sant-154-localburger",
+  "id": "sant-local-burger-2",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Santander",
   "comercio": "Fork",
+  "tipo": "Platos preparados todos los días, frescos y sin conservantes",
   "descuento": "40% dcto. todos los viernes.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -7728,7 +8240,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "¡Platos preparados todos los días, frescos y sin conservantes!\nRecuerda que:\n40% descuento:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en tiendas Fork pagando con tu tarjeta Santander. Y en Forkchile.cl ingresando los primeros 6 dígitos de tu tarjeta en el botón &quot;CÓDIGO PROMO&quot; al momento de pagar.\n- Tope de dcto. de $40.000.\n- No acumulable con otras promociones; Productos seleccionados en https://forkchile.cl/categoria/191/descuento-santander\n- Aplica a productos Fork seleccionados: platos refrigerados individuales y familiares (excepto ensaladas, wraps y platos livianos, salmón a la gremolata y beef bourguignon), sopas, quiches individuales y familiares, sándwiches, cocktail congelado Fork, postres individuales y postres familiares (excepto tortas).\n- Descuento aplicable únicamente a los productos incluidos en la categoría &quot;Descuento Santander&quot;, no incluye productos de otras categorías.",
   "url": "https://banco.santander.cl/beneficios/promociones/fork-4",
-  "id": "sant-155-fork",
+  "id": "sant-fork-4",
   "ubicaciones": [
    {
     "lugar": " La Reina, Las Condes, Lo Barnechea, Providencia, Santiago, Macul, Vitacura, Ñuñoa",
@@ -7809,6 +8321,7 @@
  {
   "banco": "Santander",
   "comercio": "Work/Café",
+  "tipo": "Comienza tu día en el mejor lugar, conoce todas las sucursales Work/Café",
   "descuento": "40% dcto. todos los lunes y 30% dcto. de martes a viernes",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -7831,7 +8344,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "¡Comienza tu día en el mejor lugar, conoce todas las sucursales Work/Café!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en locales y www.workcafe.cl, 30% los otros días de la semana.\n- Pide tu descuento al momento de pagar.\n- Sin tope de descuento.Horarios de Atención: \nLunes a jueves de 9:00 a 14:00 hrs y horario tarde de 15:30 a 17:00 hrs. Viernes de 9:00 a 14:00 hrs.",
   "url": "https://banco.santander.cl/beneficios/promociones/work-cafe-4",
-  "id": "sant-156-workcafe",
+  "id": "sant-work-cafe-4",
   "ubicaciones": [
    {
     "lugar": "Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú",
@@ -7939,6 +8452,7 @@
  {
   "banco": "Santander",
   "comercio": "eCook",
+  "tipo": "Lleva tus platos favoritos con el mejor descuento",
   "descuento": "40% dcto. todos los martes y jueves",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -7956,13 +8470,14 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "¡Lleva tus platos favoritos con el mejor descuento!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en ecook.cl\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Sin tope de descuento.",
   "url": "https://banco.santander.cl/beneficios/promociones/ecook-4",
-  "id": "sant-157-ecook",
+  "id": "sant-ecook-4",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Santander",
   "comercio": "Dominó",
+  "tipo": "Los martes ahora son Dinámicos",
   "descuento": "40% dcto. todos los martes.",
   "descuento_pct": 40,
   "tope": "Sin tope",
@@ -7981,7 +8496,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "¡Los martes ahora son Dinámicos!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido todos los martes en la App Club Dominó y 20% dcto. en locales.\n- Para compras en la App Club Dominó: Selecciona tu pedido &gt; Cupones y Promos &gt; Promos &gt; Ingresa tu código Promocional (ingresando los 6 primeros dígitos de tu tarjeta) &gt; Banco Santander\n- Para compras presenciales: Pide tu descuento al momento de pagar con tus Tarjetas Santander.\n- Sin tope de descuento.\n- Excluye locales de aeropuerto.\n- No acumulable a otras promociones.",
   "url": "https://banco.santander.cl/beneficios/promociones/domino-2",
-  "id": "sant-158-domino",
+  "id": "sant-domino-2",
   "ubicaciones": [
    {
     "lugar": "Las Condes, La Reina, Providencia, Vitacura, Santiago, Ñuñoa, Peñalolén, Macul, Recoleta, La Florida, Huechuraba, Puente Alto, Maipú, Independencia, Viña del Mar, Puerto Montt, Antofagasta, Concepción",
@@ -8152,6 +8667,7 @@
  {
   "banco": "Santander",
   "comercio": "CuracaRibs",
+  "tipo": "Disfruta carnes ahumadas 100% a leña",
   "descuento": "40% dcto. todos lunes online.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -8170,7 +8686,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "¡Disfruta carnes ahumadas 100% a leña!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en www.curacaribs.cl\n- Selecciona el medio de pago &quot;Tarjetas de Crédito Santander / Promo 40% día Lunes&quot;\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $40.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/curacaribs-4",
-  "id": "sant-159-curacaribs",
+  "id": "sant-curacaribs-4",
   "ubicaciones": [
    {
     "lugar": "La Florida, Cerrillos, Las Condes, Providencia, Huechuraba, Curacaví",
@@ -8233,6 +8749,7 @@
  {
   "banco": "Santander",
   "comercio": "Sakura",
+  "tipo": "Mucho más que sushi",
   "descuento": "40% dcto. en Rolls todos los viernes.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -8251,7 +8768,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "¡Mucho más que sushi!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en locales, www.sakura.cl\n- Tope dcto. $40.000.\n- Para compras con despacho el monto mínimo es de $12.000.\n- Exclusivo en categorías de Rolls y Hosomaki.\n- Excluye combinaciones, Bento Box.\n- No válida en días feriados.\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
   "url": "https://banco.santander.cl/beneficios/promociones/sakura-4",
-  "id": "sant-160-sakura",
+  "id": "sant-sakura-4",
   "ubicaciones": [
    {
     "lugar": "Las Condes, Lo Barnechea, Ñuñoa, Vitacura, La Reina",
@@ -8305,6 +8822,7 @@
  {
   "banco": "Santander",
   "comercio": "Corrales del Sur",
+  "tipo": "El mejor Angus nacional en Corrales del Sur",
   "descuento": "30% dcto. todos los jueves.",
   "descuento_pct": 30,
   "tope": "$100.000",
@@ -8323,7 +8841,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "¡El mejor Angus nacional en Corrales del Sur!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local y en www.corralesdelsur.cl.\n- Exclusivo en carnes Corrales del Sur y embutidos.\n- No acumulable a otras promociones.\n- Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $100.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/corrales-del-sur-3",
-  "id": "sant-161-corralesdelsur",
+  "id": "sant-corrales-del-sur-3",
   "ubicaciones": [
    {
     "lugar": "Vitacura, Providencia, Peñalolén, Osorno, Puerto Varas",
@@ -8377,6 +8895,7 @@
  {
   "banco": "Santander",
   "comercio": "Burger King",
+  "tipo": "Disfruta las mejores burger a la parrilla, desde 1954",
   "descuento": "40% dcto. todos los jueves.",
   "descuento_pct": 40,
   "tope": "$15.000",
@@ -8396,7 +8915,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "¡Disfruta las mejores burger a la parrilla, desde 1954!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander y Débito Santander.\n- Válido en Autoking y locales, exclusivamente en mesones, no aplica a tótem de autoservicio.\n- Descuento no aplica para productos en promociones o con descuentos.\n- Por compras mínimas de $3.000 y tope descuento de $15.000.\n- Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
   "url": "https://banco.santander.cl/beneficios/promociones/burger-king-2",
-  "id": "sant-162-burgerking",
+  "id": "sant-burger-king-2",
   "ubicaciones": [
    {
     "lugar": "Las Condes, Santiago, La Reina, Providencia, Vitacura, Ñuñoa, Peñalolén, Macul, Huechuraba, Lo Barnechea, Independencia, San Miguel, La Florida, Maipú, Quilicura",
@@ -8540,6 +9059,7 @@
  {
   "banco": "Santander",
   "comercio": "Piegari",
+  "tipo": "Cocina italiana tradicional",
   "descuento": "40% dcto. todos los miercoles.",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -8559,7 +9079,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "¡Cocina italiana tradicional!\nRecuerda que: \n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Nueva Costanera 4092, Vitacura.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Tope de descuento $100.000.\n- Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/piegari-2",
-  "id": "sant-163-piegari",
+  "id": "sant-piegari-2",
   "ubicaciones": [
    {
     "lugar": "Nueva Costanera 4092, Vitacura",
@@ -8586,6 +9106,7 @@
  {
   "banco": "Santander",
   "comercio": "Melt Pizzas",
+  "tipo": "Las mejores pizzas están en Melt!",
   "descuento": "40% dcto. todos los martes.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -8604,7 +9125,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "¡Las mejores pizzas están en Melt! Arma tu pizza como más te guste.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en locales, App MELT y en www.meltpizzas.com\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Excluye productos de las categorías Promos, bebidas, Holy Cheese y precios promocionales.\n- Tope dcto. $40.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/melt",
-  "id": "sant-164-meltpizzas",
+  "id": "sant-melt",
   "ubicaciones": [
    {
     "lugar": "La Reina, Vitacura, Santiago, Las Condes, Providencia, Peñalolén, Recoleta, Huechuraba, Lo Barnechea, San Miguel, La Florida, Puente Alto, Ñuñoa, ",
@@ -8730,6 +9251,7 @@
  {
   "banco": "Santander",
   "comercio": "Aquality",
+  "tipo": "Compra pescados y mariscos congelados de calidad superior!",
   "descuento": "40% dcto. todos los martes y acumula 1 Milla LATAM Pass adicional",
   "descuento_pct": 40,
   "tope": "$100.000",
@@ -8746,13 +9268,14 @@
   "vigencia": "Hasta el 30 de septiembre de 2026",
   "condiciones": "¡Compra pescados y mariscos congelados de calidad superior! Además, acumula 1 Milla LATAM Pass adicional del 01 al 07 de cada mes.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en www.aqualitysoluciones.cl\n- No acumulable a otras promociones.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Despacho aplica en Región Metropolitana y Punto de retiro aplica en Chicureo y Concón.\n- Descuento máximo por pedido de $100.000.",
   "url": "https://banco.santander.cl/beneficios/promociones/aquality-3",
-  "id": "sant-165-aquality",
+  "id": "sant-aquality-3",
   "ubicaciones": [],
   "comunas": []
  },
  {
   "banco": "Santander",
   "comercio": "Al Pesto",
+  "tipo": "Disfruta las delicias culinarias y tendencias italianas auténticas",
   "descuento": "40% dcto. todos los martes.",
   "descuento_pct": 40,
   "tope": "$40.000",
@@ -8771,7 +9294,7 @@
   "vigencia": "Hasta el 30 de septiembre de 2026.",
   "condiciones": "¡Disfruta las delicias culinarias y tendencias italianas auténticas!\nRecuerda que: \nExclusivo con tus Tarjetas de Crédito Santander.Válido para consumo en local.Boulevard Los Ingleses, Av. Chicureo Km 2, Colina.No acumulable a otras promociones.Pide tu descuento al momento de pagar.Descuento máximo por pedido de $40.000Se excluyen propinas, menús, happy hours.",
   "url": "https://banco.santander.cl/beneficios/promociones/al-pesto",
-  "id": "sant-166-alpesto",
+  "id": "sant-al-pesto",
   "ubicaciones": [
    {
     "lugar": "Colina",
