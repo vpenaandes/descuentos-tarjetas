@@ -4,7 +4,7 @@ Objetivo: cada mes (inicio de mes, cuando los bancos renuevan promociones) gener
 con **lugar específico · horario · tope máximo · días · tarjeta** de los descuentos en restaurantes,
 con link al banco para verificar y filtros por comuna / día / tarjeta.
 
-Bancos cubiertos hoy: **Banco Falabella (CMR/Débito)** y **Santander**. Diseñado para agregar más.
+Bancos cubiertos hoy: **Banco Falabella (CMR/Débito)**, **Santander** y **BCI**. Diseñado para agregar más.
 
 ## Estructura
 
@@ -13,6 +13,10 @@ scripts/
   rsc.py                      util: extrae payload RSC de páginas Next.js (Falabella)
   common.py                   esquema común + heurísticas (días, horario, tope, lugares)
   scrape_falabella.py         Falabella: lista + páginas de detalle -> JSON + MD
+  scrape_bci.py               BCI: intercepta la API bciplus con Playwright -> JSON + MD
+  santander_fetch_playwright.py  Santander: baja el JSON con Chrome headless (pasa Akamai)
+  descubrir_api.py            reconocimiento: qué API usa una landing de beneficios (banco nuevo)
+  build_diff.py               altas/bajas/cambios vs el mes anterior -> badges en la app
   santander_fetch_browser.js  Santander: snippet que se ejecuta EN EL NAVEGADOR (Akamai bloquea curl)
   process_santander.py        Santander: JSON crudo -> esquema común -> JSON + MD
   build_report.py             combina bancos -> descuentos_<cat>_<mes>.md / .csv / .json
@@ -51,16 +55,35 @@ output/AAAA-MM/               resultados de cada mes (histórico)
      "Comuna cobertura" viene lleno en muchos → se usa para el filtro por comuna.
      **Días: el texto manda** (los tags a veces quedan desactualizados, p.ej. Don Carlos).
 
-3. **Reporte, mapa y app**:
+3. **BCI** (API `api.bciplus.cl/bff-loyalty-beneficios/v1/offers`, responde 401 fuera del navegador):
+   ```bash
+   python scripts/scrape_bci.py --mes AAAA-MM
+   ```
+   Abre la landing con Playwright e intercepta las 3 páginas de la API (~288 ofertas, ~76 con tag
+   "Restaurantes"). Trae % de descuento, días (`scheduling.dayRecurrence`), comuna y región en tags.
+   OJO: `titulo` es texto promocional ("Viernes - Maitencillo"); el nombre real está en
+   `comercio.nombre`. El tope sólo viene en el texto.
+
+4. **Reporte, mapa y app**:
    ```bash
    python scripts/build_report.py --mes AAAA-MM
    python scripts/geocode.py --mes AAAA-MM          # ~3 min la 1ª vez, después casi todo del caché
    # opcional (evidencia con fecha; ~10 min):
    python scripts/screenshots.py --mes AAAA-MM --only falabella
    python scripts/screenshots.py --mes AAAA-MM --only santander --channel chrome --idle-timeout 4000
+   python scripts/build_diff.py --mes AAAA-MM    # altas/bajas/cambios vs mes anterior
    python scripts/build_app.py --mes AAAA-MM
+   python scripts/build_artifact.py --mes AAAA-MM
    ```
    Abrir `output/AAAA-MM/descuentos_restaurantes_AAAA-MM.html`.
+
+### Qué muestra la app
+- **Tipo de local** en cada fila/tarjeta (Falabella: `commerceInfoDescription`; Santander: primera
+  línea de la descripción; BCI: primera línea).
+- **📍 Cerca de mí**: GPS del navegador, radio 1/3/5/10 km, orden por cercanía, círculo en el mapa.
+- **Badges NUEVO / CAMBIÓ** vs el mes anterior + filtros rápidos (de `build_diff.py`).
+- **PWA**: `publish_site.py` genera `manifest.webmanifest`, `sw.js` e iconos → en el celular se
+  instala con "Agregar a pantalla de inicio" y funciona offline (menos los tiles del mapa).
 
 ## Publicar (GitHub Pages, gratis, se ve desde el celular)
 
@@ -123,8 +146,17 @@ apaga (probado 2026-08-22). Para página privada gratis con mapa: Cloudflare Pag
 - Geocodificación: ~200 puntos; ~70 exacta, ~85 mall, ~35 calle, resto aprox/sin geo. Nominatim
   1 req/s.
 
+## Bancos evaluados y descartados (sept-2026)
+
+- **Banco de Chile**: `www.bancochile.cl/personas/beneficios` responde 302 en loop y
+  `ERR_HTTP2_PROTOCOL_ERROR` con Playwright → bloquea automatización. Pendiente reintentar.
+- **Scotiabank**: los descuentos viven en `scotiarewards.cl/scclubfront`, que exige login de cliente.
+  No se automatiza (no se usan credenciales del usuario).
+
 ## Cómo agregar otro banco
 
+0. `python scripts/descubrir_api.py <url-landing>` → dice si los datos están en el HTML, en un XHR
+   JSON (guarda cada respuesta) o si hay que renderizar.
 1. `scripts/scrape_<banco>.py` (o fetch por navegador + `process_<banco>.py`) que produzca
    `output/AAAA-MM/<banco>_<categoria>.json` con el esquema de `common.py` (docstring).
 2. `build_report.py` lo toma automáticamente (glob `*_<categoria>.json`); geocode/app también.
@@ -136,4 +168,6 @@ Candidatos: BCI, Banco de Chile, Scotiabank, Itaú, Tenpo/MACH.
 ## Historial
 
 - 2026-08-22: primera corrida. Falabella 95, Santander 83 (178). Geocodificación + app + capturas.
-- 2026-09-01: septiembre. Falabella 85, Santander 82 (167). Fetch Santander automatizado con Playwright.
+- 2026-09-01: septiembre. Falabella 94, Santander 82, BCI 76 (252). Fetch Santander automatizado con
+  Playwright; se agregó BCI, tipo de local, "Cerca de mí" (GPS), PWA instalable, diff mes a mes e
+  IDs estables por URL (antes dependían del índice y desparejaban las capturas).

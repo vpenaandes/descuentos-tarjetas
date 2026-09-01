@@ -28,6 +28,7 @@ import re
 import sys
 import time
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -212,35 +213,59 @@ class Geocoder:
     def query(self, q):
         return self._get(q.strip().lower(), {"q": q})
 
+    def query_comuna(self, comuna, region=""):
+        """Centroide de una comuna. Se consulta con la región cuando se conoce:
+        'Las Condes, Chile' a veces vuelve vacío, 'Las Condes, Región Metropolitana, Chile' no."""
+        q = f"{comuna}, {region}, Chile" if region else f"{comuna}, Región Metropolitana, Chile"
+        res = self.query(q)
+        return res or self.query(f"{comuna}, Chile")
+
     def query_structured(self, street, city):
         """Consulta estructurada (street=, city=); a veces Nominatim interpola el número."""
         return self._get(f"S|{street.strip().lower()}|{city.strip().lower()}", {"street": street, "city": city, "country": "Chile"})
 
     def _get(self, key, params):
-        if key in self.cache:
+        if key in self.cache and self.cache[key]:
             return self.cache[key]
         if not self.net:
-            return None
-        wait = 1.1 - (time.time() - self.last)
-        if wait > 0:
-            time.sleep(wait)
+            return self.cache.get(key)
         params = dict(params, format="jsonv2", addressdetails=1, limit=3, countrycodes="cl")
         params["accept-language"] = "es"
         url = "https://nominatim.openstreetmap.org/search?" + urllib.parse.urlencode(params)
         q = params.get("q") or f"{params.get('street')}, {params.get('city')}"
         req = urllib.request.Request(url, headers={"User-Agent": UA})
-        try:
-            with urllib.request.urlopen(req, timeout=30) as r:
-                res = json.loads(r.read().decode("utf-8"))
-        except Exception as e:  # noqa: BLE001
-            print(f"  ! nominatim error {e} :: {q}", file=sys.stderr)
-            res = []
-        self.last = time.time()
+        res = []
+        # Nominatim: 1 req/s. Si se excede devuelve 429; hay que esperar y reintentar,
+        # y NUNCA cachear la respuesta vacía (si no, el mes siguiente queda sin puntos).
+        for intento in range(4):
+            wait = 1.1 - (time.time() - self.last)
+            if wait > 0:
+                time.sleep(wait)
+            try:
+                with urllib.request.urlopen(req, timeout=30) as r:
+                    res = json.loads(r.read().decode("utf-8"))
+                self.last = time.time()
+                break
+            except urllib.error.HTTPError as e:
+                self.last = time.time()
+                if e.code == 429:
+                    espera = 5 * (intento + 1)
+                    print(f"  · 429 de Nominatim, esperando {espera}s", file=sys.stderr)
+                    time.sleep(espera)
+                    continue
+                print(f"  ! nominatim {e} :: {q}", file=sys.stderr)
+                break
+            except Exception as e:  # noqa: BLE001
+                self.last = time.time()
+                print(f"  ! nominatim error {e} :: {q}", file=sys.stderr)
+                time.sleep(2)
         self.calls += 1
-        self.cache[key] = res
-        if self.calls % 20 == 0:
-            self.save()
+        if res:                      # sólo se cachean respuestas útiles
+            self.cache[key] = res
+            if self.calls % 20 == 0:
+                self.save()
         return res
+
 
 
 def comuna_de_osm(addr):
@@ -313,7 +338,7 @@ def geocodificar_lugar(geo, lugar, region_hint, comercio):
         # 4) sólo ciudad/comuna
         if comunas and norm_words(q) in _COMUNA_NORM:
             c = comunas[0]
-            res = geo.query(f"{c}, Chile")
+            res = geo.query_comuna(c, region_hint)
             if res:
                 out.append({**base, "comuna": c, "precision": "ciudad", "lat": float(res[0]["lat"]), "lng": float(res[0]["lon"])})
             else:
@@ -353,8 +378,17 @@ def geocodificar_lugar(geo, lugar, region_hint, comercio):
             addr = ok.get("address", {})
             out.append({**base, "comuna": comuna_de_osm(addr) or (comunas[0] if comunas else None),
                         "precision": "nombre", "lat": float(ok["lat"]), "lng": float(ok["lon"]), "osm": ok.get("display_name")})
+        elif comunas:
+            # No se pudo ubicar el local (p.ej. BCI publica sólo la comuna): centro de la comuna,
+            # marcado como aproximado para que se dibuje punteado y sólo con el toggle.
+            res = geo.query_comuna(comunas[0], region_hint)
+            if res:
+                out.append({**base, "comuna": comunas[0], "precision": "ciudad",
+                            "lat": float(res[0]["lat"]), "lng": float(res[0]["lon"])})
+            else:
+                out.append({**base, "comuna": comunas[0], "precision": "comuna", "lat": None, "lng": None})
         else:
-            out.append({**base, "comuna": comunas[0] if comunas else None, "precision": "sin_geo", "lat": None, "lng": None})
+            out.append({**base, "comuna": None, "precision": "sin_geo", "lat": None, "lng": None})
     return out
 
 

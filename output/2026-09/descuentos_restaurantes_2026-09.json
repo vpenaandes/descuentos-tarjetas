@@ -1,5 +1,1761 @@
 [
  {
+  "banco": "BCI",
+  "comercio": "Marriott",
+  "tipo": "Akun Bar - Las Condes desde las 16.00 hrs",
+  "descuento": "50% dcto · Todos los viernes",
+  "descuento_pct": 50,
+  "tope": "$100.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "Akun Bar - Las Condes desde las 16.00 hrs",
+  "lugares": [
+   "Marriott, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "50% de descuento con tope de $100.000 y una cortesía de regalo al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\n No acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 50% de descuento en el total de la cuenta, con tope de $100.000, pagando con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Promoción incluye una cortesía de regalo. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-las-condes-desde-las-16.00-hrs-otl0ys8"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Marriott",
+  "tipo": "AC Kitchen - Hotel Santiago Cenco Costanera",
+  "descuento": "40% dcto · Todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$100.000",
+  "dias": [
+   "Jueves",
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Marriott, Metropolitana"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $100.000 pagando con tus Tarjetas de Crédito Bci. \nPagando con tu Tarjeta de Crédito Bci Mastercard Balck, Visa Signature y Visa Infinte tendrás una cortesía de regalo.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $100.000 pagando con Tarjetas de Crédito Bci. Promoción incluye una cortesía de regalo pagando con tu Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/ac-kitchen-hotel-santiago-cenco-costanera-x32q24n"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Güeros",
+  "tipo": "Auténtica cocina mexicana para disfrutar",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Jueves",
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Güeros, Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.instagram.com/guerosterrazas/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "App McDonalds",
+  "tipo": "En tu App de McDonalds",
+  "descuento": "40% dcto · Todos los martes",
+  "descuento_pct": 40,
+  "tope": "Sin tope",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Online",
+  "region": "",
+  "vigencia": "2026-01-01 → 2027-01-01",
+  "condiciones": "40% de descuento sin tope todos los martes en la App McDonald’s, con una compra mínimas de $12.000, pagando con Tarjetas de Crédito Bci, MACHBANK y Lider Bci por la App de McDonald's, y 20% de descuento sin tope todos los martes en la App McDonald´s, con una compra mínima de $12.000, pagando con Tarjetas de Débito Bci, MACHBANK y Tarjeta Prepago MACHBANK. Aplica en pedidos a través de la App para retiro en Locales, consumo en Locales y Delivery propio de McDonald's. No acumulable con otras ofertas, descuentos y/o promociones.\n\nLegal: Descuento sobre el total de la compra, en compras mínimas de $12.000, pagando con Tarjetas de crédito Bci, MACHBANK y Lider Bci y Tarjetas de Débito Bci, MACHBANK y Tarjeta Prepago MACHBANK a través de la App McDonald's con tarjeta enrolada en la App para aplicar descuento. Aplica para pedidos a través de la App para retiro en Locales, consumo en Locales y pedidos por Delivery propio de McDonald's. Promoción válida solo para clientes personas naturales. No acumulable con otras ofertas, descuentos y/o promociones. La entrega de los bienes y la prestación de servicios no bancarios ofrecidos, como asimismo los descuentos en el comercio, son de exclusiva responsabilidad de McDonald's, no cabiéndole al Banco intervención alguna en su entrega o en la ulterior atención que ellos demanden. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.sbif.cl en su entrega o en la ulterior atención que ellos demanden.",
+  "url": "https://www.mcdonalds.com/us/es-us/download-app.html"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Jeró Bistró",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Jeró Bistró, Maitencillo"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 pagando con tus Tarjetas de Crédito Bci. \nPagando con tu Tarjeta de Crédito Bci Mastercard Balck, Visa Signature y Visa Infinte tendrás una cortesía de regalo.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Promoción incluye una cortesía de regalo pagando con tu Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.jerobistrodemar.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Jeró Bistró",
+  "tipo": "",
+  "descuento": "20% dcto · Todos los viernes",
+  "descuento_pct": 20,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Jeró Bistró, Maitencillo"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $40.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, con un tope de $40.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.jerobistrodemar.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Sushi & Burger Home",
+  "tipo": "Vina del Mar - Renaca",
+  "descuento": "40% dcto · Todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Sushi & Burger Home, Viña del mar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.sushiburgerhome.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "KFC",
+  "tipo": "Combo Chicken Share Mixto",
+  "descuento": "30% dcto · Todos los lunes",
+  "descuento_pct": 30,
+  "tope": "",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-01-01 → 2027-01-01",
+  "condiciones": "Promoción valida todos los lunes en todas las tiendas KFC Chile hasta el 31 de diciembre 2026. Incluye 30% dcto en el producto Combo Chicken Share Mixto (4 Strips, 4 Alitas, 2 Papas y 2 Bebidas Regulares), pagando con tarjetas de Débito o Crédito Banco BCI. Para hacer valido el beneficio se debe solicitar el descuento antes de pagar. Imágenes referenciales igual a la especificación del contenido. El valor de este producto puede variar por tienda y/o región. No acumulable con otras promociones y/o descuentos.\n\nLegal: Promoción valida todos los lunes en todas las tiendas KFC Chile hasta el 31 de diciembre 2026. Incluye 30% dcto en el producto Combo Chicken Share Mixto (4 Strips, 4 Alitas, 2 Papas y 2 Bebidas Regulares), pagando con tarjetas de Débito o Crédito Banco BCI. Para hacer valido el beneficio se debe solicitar el descuento antes de pagar. Imágenes referenciales igual a la especificación del contenido. El valor de este producto puede variar por tienda y/o región. No acumulable con otras promociones y/o descuentos.",
+  "url": "https://www.kentucky.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Coya",
+  "tipo": "En el corazón de la ciudad",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Coya, Arica y Parinacota"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Arica y Parinacota",
+  "vigencia": "2026-01-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.instagram.com/coya.restaurant/?hl=en"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "China Wok",
+  "tipo": "",
+  "descuento": "30% dcto · Todos los miércoles",
+  "descuento_pct": 30,
+  "tope": "",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "",
+  "region": "",
+  "vigencia": "2026-01-01 → 2027-01-01",
+  "condiciones": "30% de dcto todos los miércoles en tu combo Wok 1: Pollo Teriyaki (incluye una guarnición y bebida), en locales ChinaWok presencial, pagando con tus tarjetas de Débito o Crédito Bci.  Para hacer válido el beneficio se debe solicitar el descuento antes de pagar.\n\nLegal: 30% de dcto todos los miércoles en tu combo Wok 1: Pollo Teriyaki (incluye una guarnición y bebida), en locales ChinaWok presencial, pagando con tus tarjetas de Débito o Crédito Bci.  Para hacer válido el beneficio se debe solicitar el descuento antes de pagar.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-miercoles-en-combo-wok-1-pollo-tereyaki-kr43pym"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Wendys",
+  "tipo": "",
+  "descuento": "30% dcto · Todos los miércoles",
+  "descuento_pct": 30,
+  "tope": "",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "",
+  "region": "",
+  "vigencia": "2026-01-01 → 2027-01-01",
+  "condiciones": "Obtén un 30% de dcto todos los miércoles en tu combo Baconator doble presencial en locales Wendys Chile. Descuento válido presentando esta promoción y pagando con tus  Tarjetas de Débito o Crédito Bci.\n\nLegal: Descuento no acumulable con otras promociones vigentes. Válido por todos los miércoles de Octubre 2025. Descuento válido solo en Combo Baconator Doble utilizando esta comunicación en caja y realizando el pago con tus Tarjetas de Crédito y Débito de Bci. Un uso por usuario el día de promoción. No incluye costo de envío y la promoción es válida solo de forma presencial. Infórmate sobre la garantía estatal de los depósitos en tu banco y las entidades autorizadas para emitir tarjetas de pago en Chile. Revisa quienes se encuentran inscritas en los Registros de Emisores de Tarjetas en www.cmfchile.cl. Los productos y servicios no bancarios adquiridos son de exclusiva responsabilidad de los proveedores de los mismos, no cabiéndole al banco intervención alguna en su entrega o en la ulterior atención que ellos demanden.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-miercoles-en-combo-boconator-doble-zqw9icg"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Restaurante República de Arica",
+  "tipo": "",
+  "descuento": "20% dcto · Lunes y jueves",
+  "descuento_pct": 20,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Restaurante República de Arica, Arica y Parinacota"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Arica y Parinacota",
+  "vigencia": "2026-01-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $40.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, con un tope de $40.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/lunes-y-jueves-arica-xqpmh7"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Pastamore",
+  "tipo": "",
+  "descuento": "20% dcto · Todos los martes",
+  "descuento_pct": 20,
+  "tope": "$20.000",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Pastamore, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-05-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $20.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.pastamore.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "La Hacienda Talca",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Hacienda Talca, Maule"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Maule",
+  "vigencia": "2026-05-11 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.lahaciendarestaurant.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Danubio Azul",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Danubio Azul, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-06-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://danubioazul.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "La Hacienda de Machalí",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas Bci Visa Siganture, Visa Infinite y Mastercard Black"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-06-01 → 2026-10-01",
+  "condiciones": "Para compra presencial se aplicará el 40% de descuento al momento de pagar en el comercio con un tope máximo de $40.000 por cliente.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Líder Bci.\n\nLegal: Promoción exclusiva para personas naturales que paguen con sus Tarjetas de Crédito Visa Signature, Visa Infinite y Mastercad Black en los establecimientos en campaña.\n40% de descuento en el total de la cuenta,con un tope máximo de descuento de $40.000. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos.Descuento no aplica sobre el costo de propina. \nEl beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bcien ello ni en la ulterior atención que se demande.\nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-viernes-a0kuqia"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Blind Bar",
+  "tipo": "Aprovecha en Calama",
+  "descuento": "20% dcto · Martes y miércoles",
+  "descuento_pct": 20,
+  "tope": "$20.000",
+  "dias": [
+   "Martes",
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Blind Bar, Calama"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Calama",
+  "vigencia": "2026-07-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $20.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/aprovecha-los-martes-y-miercoles-en-calama-vtspos"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "China 365",
+  "tipo": "Lo Barnechea",
+  "descuento": "20% dcto · Lu - Mi - Ju - Vi",
+  "descuento_pct": 20,
+  "tope": "Sin tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "China 365, Lo Barnechea"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-07-01 → 2026-09-30",
+  "condiciones": "20% de descuento sin tope al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci sin tope. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.china365.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Danubio Azul",
+  "tipo": "Una experiencia oriental en Las Condes",
+  "descuento": "20% dcto · Lunes, martes y miércoles",
+  "descuento_pct": 20,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Danubio Azul, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjeta de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-07-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $40.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $40.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://danubioazul.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Punto País",
+  "tipo": "Disfruta de la mejor comida en Nunoa",
+  "descuento": "20% dcto · Martes y miércoles",
+  "descuento_pct": 20,
+  "tope": "$100.000",
+  "dias": [
+   "Martes",
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Punto País, Ñuñoa"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-07-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $100.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $100.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://puntopais.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Qnto restaurante",
+  "tipo": "",
+  "descuento": "20% dcto · Todos los miércoles",
+  "descuento_pct": 20,
+  "tope": "$20.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-07-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $20.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.instagram.com/qnto.restaurant/?hl=es"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Restaurante La Fuente Peruana",
+  "tipo": "",
+  "descuento": "20% dcto · Todos los miércoles",
+  "descuento_pct": 20,
+  "tope": "Sin tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Restaurante La Fuente Peruana, Iquique"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Iquique",
+  "vigencia": "2026-07-01 → 2026-10-01",
+  "condiciones": "20% de descuento sin tope al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, sin tope. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.lafuenteperuana.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Rogusta",
+  "tipo": "",
+  "descuento": "20% dcto · Todos los jueves",
+  "descuento_pct": 20,
+  "tope": "Sin tope",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-07-01 → 2026-10-01",
+  "condiciones": "20% de descuento sin tope al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, sin tope. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.rogusta.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Sanguchería Gorilas",
+  "tipo": "",
+  "descuento": "20% dcto · Lunes y martes",
+  "descuento_pct": 20,
+  "tope": "$30.000",
+  "dias": [
+   "Lunes",
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Sanguchería Gorilas, Las Condes",
+   "Sanguchería Gorilas, Viña del mar",
+   "Sanguchería Gorilas, Valparaíso"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-07-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $30.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $30.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://sangucheriagorilas.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Starburger",
+  "tipo": "",
+  "descuento": "20% dcto",
+  "descuento_pct": 20,
+  "tope": "$20.000",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes",
+   "Sábado",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "",
+  "region": "",
+  "vigencia": "2026-07-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $20.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://starburger.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Amalfi Trattoria Bar",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Amalfi Trattoria Bar, Arica y Parinacota"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Arica y Parinacota",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci, Mastercard Business y Visa Business. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-arica-gzp7w89"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Ambbar Restobar",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Ambbar Restobar, Antofagasta"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Antofagasta",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-antofagasta-u67bnbs"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Marriott",
+  "tipo": "Cafe Med - Las Condes desde las 13.00 hasta las 16.00 hrs",
+  "descuento": "50% dcto · Todos los sábados",
+  "descuento_pct": 50,
+  "tope": "$100.000",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "Cafe Med - Las Condes desde las 13.00 hasta las 16.00 hrs",
+  "lugares": [
+   "Marriott, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "50% de descuento con tope de $100.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 50% de descuento en el total de la cuenta, con tope de $100.000, pagando con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/cafe-med-sabado-las-condes-desde-las-13.00-hasta-las-16.00-hrs-2b61eqo"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Bocas del Mar",
+  "tipo": "Para disfrutar tu escapada en Pichilemu",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Bocas del Mar, O'higgins"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región O'higgins",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/para-disfrutar-tu-escapada-en-pichilemu-5fhzh1"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Cambalache",
+  "tipo": "Para disfrutar en Puerto Varas",
+  "descuento": "40% dcto · Todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Cambalache, Los Lagos"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Los Lagos",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/para-disfrutar-en-puerto-varas-r4jl7w7"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Cuerovaca",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Cuerovaca, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://cuerovaca.com/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Danés",
+  "tipo": "Variedad de sabores en Las Condes",
+  "descuento": "40% dcto · Todos los lunes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Danés, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.eldanes.cl"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "De Barrio",
+  "tipo": "En Barrio Italia",
+  "descuento": "40% dcto · Lu - Ma - Mi - Ju",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "De Barrio, Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Débito y Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.instagram.com/debarriochile/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Dominga Bistró",
+  "tipo": "Iquique",
+  "descuento": "40% dcto · Todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Dominga Bistró, Iquique"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Iquique",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 pagando con tus Tarjetas de Crédito Bci. \nPagando con tu Tarjeta de Crédito Bci Mastercard Balck, Visa Signature y Visa Infinte tendrás una cortesía de regalo.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Promoción incluye una cortesía de regalo pagando con tu Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.domingabistro.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Dominga Bistró",
+  "tipo": "Pucón",
+  "descuento": "40% dcto · Todos los lunes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Dominga Bistró, La Araucanía"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región La Araucanía",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.domingabistro.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Dominga Bistró",
+  "tipo": "Valdivia",
+  "descuento": "40% dcto · Todos los lunes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Dominga Bistró, Los Ríos"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Los Ríos",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.domingabistro.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Don Emelio",
+  "tipo": "Cocina de temporada en Vina del Mar",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Don Emelio, Viña del mar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.instagram.com/donemelio_restaurante/?hl=es"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Atípico",
+  "tipo": "Disfruta en Puerto Varas",
+  "descuento": "40% dcto · Todos los martes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-martes-en-puerto-varas-itra49g"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Fuegos de Raidho",
+  "tipo": "Para disfrutar en Talca",
+  "descuento": "40% dcto · Todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://fuegosderaidho.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Gaetano",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Gaetano, Maule"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Maule",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.instagram.com/gaetano.talca/?hl=es-la"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Hijo del Inca",
+  "tipo": "La Reina y Providencia",
+  "descuento": "40% dcto · Todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Hijo del Inca, La Reina"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Débito y Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.instagram.com/hijodelinca.cl/?hl=en"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Impasto Restobar",
+  "tipo": "Providencia",
+  "descuento": "40% dcto · Miércoles y viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes",
+   "Miércoles",
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Impasto Restobar, Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Débito y Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.instagram.com/impasto.restobar/?hl=es"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Kanpai",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los martes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Martes",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Kanpai, O'higgins"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región O'higgins",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.instagram.com/kanpai_pichilemu/?hl=es"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Kató Tasty Caos",
+  "tipo": "Isidora Goyenechea",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles",
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Kató Tasty Caos, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas Bci Visa Siganture, Visa Infinite y Mastercard Black"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://katotastycaos.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "La Mulata",
+  "tipo": "La mejor cocina fusión peruana en Iquique",
+  "descuento": "40% dcto · Todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Mulata, Iquique"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas Bci Visa Signature, Visa Infinite y Mastercard Black"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Iquique",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\n No acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000, pagando con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://lamulata.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "La Parrilla del Guaton Jerez",
+  "tipo": "Vive una experiencia en parrilladas en Vitacura",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Parrilla del Guaton Jerez, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.laparrilladelguatonjerez.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "La Santoría",
+  "tipo": "Restaurante de comida Italiana en Providencia",
+  "descuento": "40% dcto · Lunes, martes y domingo",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Santoría, Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "Aplica para Tarjetas Mastercard Business y Visa Business.\n40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Débito y Crédito Bci, Mastercard Business y Visa Business. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.instagram.com/barlasantoria/?hl=en"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Las Tranqueras",
+  "tipo": "Carnes para disfrutar en Temuco",
+  "descuento": "40% dcto · Todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 pagando con tus Tarjetas de Crédito Bci. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Promoción incluye una cortesía de regalo pagando con tu Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/carnes-para-disfrutar-en-temuco-ue5qshp"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Lebol",
+  "tipo": "",
+  "descuento": "20% dcto · Todos los viernes",
+  "descuento_pct": 20,
+  "tope": "$20.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $20.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://lebolrestobar.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Oporto salvaje",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los sábados",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Oporto salvaje, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-todos-los-sabados-en-isidora-goyenechea-zqjlz5x"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Parrilla el Galpón",
+  "tipo": "Osorno",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\n No acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000, pagando con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.instagram.com/el_galponparrilla/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Piegari",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Piegari, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://piegari.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Raidho",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los domingos",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.instagram.com/raidhorest/?hl=es"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Restaurant Travesía",
+  "tipo": "Vina del Mar",
+  "descuento": "20% dcto · Todos los miércoles",
+  "descuento_pct": 20,
+  "tope": "Sin tope",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Restaurant Travesía, Viña del mar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "20% de descuento sin tope al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, sin tope. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.travesiarestaurant.com/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Sushi Home",
+  "tipo": "Perfecto para salir con amigos en Renaca",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Sushi Home, Viña del mar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.sushihome.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Tigre Bravo",
+  "tipo": "Descubre este espacio gastronómico en Maipú",
+  "descuento": "40% dcto · Todos los lunes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Tigre Bravo, Maipú"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.tigrebravo.cl/locales/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Kechua",
+  "tipo": "Vitacura - Providencia y Nunoa",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Kechua, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.kechuarestaurantes.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "La Cocina de Javier",
+  "tipo": "",
+  "descuento": "50% dcto · Todos los jueves",
+  "descuento_pct": 50,
+  "tope": "$100.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Cocina de Javier, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus arjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "50% de descuento con tope de $100.000 al momento de pagar en el comercio.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\n No acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 50% de descuento en el total de la cuenta, con tope de $100.000, pagando con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.instagram.com/cocinadejavier/?hl=es"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Augusta Bar",
+  "tipo": "En Concepción",
+  "descuento": "40% dcto · Todos los sábados",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Augusta Bar, Biobío"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Biobío",
+  "vigencia": "2026-09-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/en-concepcion-o5p6bib"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Casa Reñaca",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Martes",
+   "Miércoles",
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Casa Reñaca, Viña del mar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-09-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.instagram.com/casarenaca/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Hikari Sushi",
+  "tipo": "Sushi en Calama",
+  "descuento": "40% dcto · Todos los viernes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Hikari Sushi, Calama"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "",
+  "region": "Región Calama",
+  "vigencia": "2026-09-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.hikarisushicalama.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "La Vermutería del Pobre Vermut",
+  "tipo": "",
+  "descuento": "20% dcto · Todos los jueves",
+  "descuento_pct": 20,
+  "tope": "Sin tope",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-09-01 → 2026-10-01",
+  "condiciones": "20% de descuento sin tope al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento en el total de la cuenta, sin tope pagando con Tarjetas de Débito y Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-de-este-beneficio-los-jueves-rsvdzqu"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Los Vikingos",
+  "tipo": "Santiago Centro",
+  "descuento": "40% dcto · Todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Martes",
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Los Vikingos, Santiago"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-09-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio.\nPara hacer efectivo el descuento, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Lider Bci.\n\nLegal: \"Promoción exclusiva para personas naturales que paguen con sus Tarjetas de Crédito Bci en los establecimientos en campaña. 40% de descuento en el total de la cuenta, con tope de $40.000. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos.\nDescuento no aplica sobre el costo de propina. \nEl beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Lider Bci.\"",
+  "url": "https://vikingosrestaurant.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Ocean Pacific´s",
+  "tipo": "Vitacura y Santiago Centro",
+  "descuento": "40% dcto · Todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Martes",
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Ocean Pacific´s, Vitacura",
+   "Ocean Pacific´s, Santiago"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-09-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio.\nPara hacer efectivo el descuento, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Lider Bci.\n\nLegal: Promoción exclusiva para personas naturales que paguen con sus Tarjetas de Crédito Bci en los establecimientos en campaña. 40% de descuento en el total de la cuenta, con tope de $40.000. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. \nEl beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/vitacura-y-santiago-centro-kqiua6"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Bar sociedad 0306",
+  "tipo": "Providenci",
+  "descuento": "40% dcto · Todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Bar sociedad 0306, Algarrobo"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-09-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\"\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.instagram.com/sociedad0306/?hl=es"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Wayna",
+  "tipo": "",
+  "descuento": "20% dcto · Todos los viernes",
+  "descuento_pct": 20,
+  "tope": "Sin tope",
+  "dias": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Wayna, La Florida"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-09-01 → 2026-10-01",
+  "condiciones": "20% de descuento sin tope al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci sin tope. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.instagram.com/waynacevicheria"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Burgerholic",
+  "tipo": "Lo Barnechea",
+  "descuento": "20% dcto · Todos los sábados",
+  "descuento_pct": 20,
+  "tope": "$20.000",
+  "dias": [
+   "Jueves",
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Burgerholic, Lo Barnechea"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-04-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $20.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/sabado-lo-barnechea-k6qa9h"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Masamá",
+  "tipo": "Para disfrutar en Vina del Mar",
+  "descuento": "40% dcto · Todos los martes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Masamá, Viña del mar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetat de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-05-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.masama.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Enkai Asian Food",
+  "tipo": "Disfruta len Antofagasta",
+  "descuento": "20% dcto · Jueves y sábado",
+  "descuento_pct": 20,
+  "tope": "$20.000",
+  "dias": [
+   "Jueves",
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Enkai Asian Food, Antofagasta"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "",
+  "region": "Región Antofagasta",
+  "vigencia": "2026-06-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $20.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.enkaibar.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Loca Pasta",
+  "tipo": "Las Condes",
+  "descuento": "30% dcto · Todos los lunes",
+  "descuento_pct": 30,
+  "tope": "Sin tope",
+  "dias": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Loca Pasta, Providencia",
+   "Loca Pasta, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-06-01 → 2026-09-30",
+  "condiciones": "Para compra presencial y online se aplicará el 30% de descuento al momento de pagar sin tope, por compras sobre $10.000. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nPara compra en línea debes ingresar el cupón \"\"LOCAPASTABCI\"\" como código de descuento. \nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: Promoción exclusiva para personas naturales que paguen con sus Tarjetas de Crédito y Débito Bci en los establecimientos en campaña. \n30% de descuento en el total de la cuenta sin tope, por compras sobre $10.000. \nVálido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande.\nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.locapasta.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "De Lechón a Salmón",
+  "tipo": "Disfruta en Temuco",
+  "descuento": "40% dcto · Todos los lunes",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Lunes",
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-07-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.delechonasalmon.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Casa Vitalis",
+  "tipo": "",
+  "descuento": "20% dcto · Todos los miércoles",
+  "descuento_pct": 20,
+  "tope": "$20.000",
+  "dias": [
+   "Miércoles",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $20.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://casavitalisrestaurant.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Sublimeat",
+  "tipo": "Calama",
+  "descuento": "20% dcto · Martes y miércoles",
+  "descuento_pct": 20,
+  "tope": "$20.000",
+  "dias": [
+   "Martes",
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Sublimeat, Calama"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Calama",
+  "vigencia": "2026-07-01 → 2026-10-01",
+  "condiciones": "20% de descuento con tope de $20.000 por cliente al día.\nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.",
+  "url": "https://www.instagram.com/sublimeatchile/?hl=es"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Fino Chalán",
+  "tipo": "",
+  "descuento": "40% dcto · Todos los jueves",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci..",
+  "url": "https://www.finochalan.cl/"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "La Vinoteca",
+  "tipo": "Santiago y Vina del Mar",
+  "descuento": "40% dcto · Todos los miércoles",
+  "descuento_pct": 40,
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Vinoteca, Lo Barnechea",
+   "La Vinoteca, Vitacura",
+   "La Vinoteca, Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "40% de descuento con tope de $40.000 y una cortesía de regalo al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite. Promoción incluye una cortesía de regalo. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/vitacura-providencia-lo-barnechea-vina-del-mar-ketyfc"
+ },
+ {
+  "banco": "BCI",
+  "comercio": "Viviana Casa de Té",
+  "tipo": "Aprovecha este beneficio en Puerto Varas",
+  "descuento": "30% dcto · Todos los martes",
+  "descuento_pct": 30,
+  "tope": "$30.000",
+  "dias": [
+   "Lunes",
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus tarjetas de Crédito Bci."
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "2026-08-01 → 2026-10-01",
+  "condiciones": "30% de descuento con tope de $30.000 al momento de pagar en el comercio. \nPara hacer efectivo el descuento Bci, debes solicitarlo en el restaurante antes de realizar la compra.\nDescuento no aplica sobre el costo de propina.\nNo acumulable con otras promociones y/o descuentos. \nSe excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.\n\nLegal: 30% de descuento en el total de la cuenta, con tope de $30.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.",
+  "url": "https://turismo.ptovaras.cl/servicios-turisticos/servicio/casa-de-te-viviana"
+ },
+ {
   "banco": "Banco Falabella",
   "comercio": "Sicily Pizzería",
   "tipo": "Sicily es una pizzería contemporánea con inspiración siciliana, que destaca por sus masas artesanales de larga fermentac",

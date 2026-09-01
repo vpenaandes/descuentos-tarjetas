@@ -39,6 +39,16 @@ def tarjetas_filtro(item):
              "CMR Mastercard": "CMR", "Tarjeta Débito Banco Falabella": "Débito Falabella"}
         for t in item.get("tarjetas") or []:
             out.append(m.get(t, t))
+    elif b == "BCI":
+        t = txt.lower()
+        if re.search(r"black|signature|infinite", t):
+            out.append("BCI Premium (Black/Signature/Infinite)")
+        if re.search(r"cr[ée]dito", t):
+            out.append("BCI Crédito")
+        if re.search(r"d[ée]bito", t):
+            out.append("BCI Débito")
+        if not out:
+            out = ["BCI (ver condiciones)"]
     else:
         t = txt.lower()
         if re.search(r"worldmember limited|wm limited", t):
@@ -119,7 +129,7 @@ TEMPLATE = r"""<!DOCTYPE html>
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
 <style>
-:root{--bg:#f6f7f9;--card:#fff;--ink:#1d2330;--muted:#6b7280;--line:#e5e7eb;--fal:#0e7a3b;--san:#ec0000;--acc:#2563eb;--hl:#fff7cc}
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1d2330;--muted:#6b7280;--line:#e5e7eb;--fal:#0e7a3b;--san:#ec0000;--bci:#f5a300;--acc:#2563eb;--hl:#fff7cc}
 *{box-sizing:border-box}
 body{margin:0;font:14px/1.4 system-ui,Segoe UI,Roboto,sans-serif;color:var(--ink);background:var(--bg)}
 header{padding:12px 16px;background:var(--card);border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:10px 24px;align-items:baseline}
@@ -132,6 +142,7 @@ header .meta{color:var(--muted);font-size:12px}
 .chip.on{background:var(--acc);color:#fff;border-color:var(--acc)}
 .chip.fal.on{background:var(--fal);border-color:var(--fal)}
 .chip.san.on{background:var(--san);border-color:var(--san)}
+.chip.bci.on{background:var(--bci);border-color:var(--bci);color:#1d2330}
 input[type=text]{border:1px solid var(--line);border-radius:8px;padding:5px 9px;font-size:13px;min-width:200px}
 select{border:1px solid var(--line);border-radius:8px;padding:5px 9px;font-size:13px;max-width:220px}
 .toggle{font-size:12px;color:var(--muted);display:flex;gap:4px;align-items:center;cursor:pointer}
@@ -146,7 +157,7 @@ tr.row:hover{background:#fafbff}
 tr.row.sel{background:var(--hl)}
 tr.det td{background:#fbfbfd;padding:8px 12px 12px}
 .bk{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px;vertical-align:middle}
-.bk.fal{background:var(--fal)}.bk.san{background:var(--san)}
+.bk.fal{background:var(--fal)}.bk.san{background:var(--san)}.bk.bci{background:var(--bci)}
 .name{font-weight:600}
 .name a{color:inherit;text-decoration:none;border-bottom:1px dotted #999}
 .name a:hover{color:var(--acc)}
@@ -175,7 +186,7 @@ pre.cond{white-space:pre-wrap;font:12px/1.45 ui-monospace,Consolas,monospace;bac
 .leaflet-popup-content{font-size:13px;line-height:1.35}
 .leaflet-popup-content b{font-size:14px}
 .mk{width:14px;height:14px;border-radius:50%;border:2px solid #fff;box-shadow:0 0 0 1px rgba(0,0,0,.35)}
-.mk.fal{background:var(--fal)}.mk.san{background:var(--san)}
+.mk.fal{background:var(--fal)}.mk.san{background:var(--san)}.mk.bci{background:var(--bci)}
 .mk.aprox{background:#fff!important;border:2px dashed #555}
 .legend{background:#fff;padding:6px 8px;border-radius:6px;font-size:12px;box-shadow:0 1px 4px rgba(0,0,0,.2);line-height:1.6}
 .viewtabs{display:none}
@@ -241,7 +252,7 @@ const R = 6371;
 function haversine(a,b,c,d){ const t=x=>x*Math.PI/180; const s=Math.sin(t(c-a)/2)**2+Math.cos(t(a))*Math.cos(t(c))*Math.sin(t(d-b)/2)**2; return 2*R*Math.asin(Math.sqrt(s)); }
 function distOf(d){ if(!state.me) return null; let best=null; for(const u of d.ubic){ if(isAprox(u)&&!state.aprox) continue; const km=haversine(state.me[0],state.me[1],u.lat,u.lng); if(best===null||km<best) best=km; } return best; }
 function fmtKm(km){ return km<1 ? Math.round(km*1000)+" m" : km.toFixed(1)+" km"; }
-const bk = b => b==="Banco Falabella"?"fal":"san";
+const bk = b => b==="Banco Falabella"?"fal":(b==="BCI"?"bci":"san");
 const esc = s => String(s??"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const normtxt = s => (s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
 
@@ -275,7 +286,7 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,att
 const cluster = L.markerClusterGroup({maxClusterRadius:40, disableClusteringAtZoom:15});
 map.addLayer(cluster);
 const legend = L.control({position:"bottomleft"});
-legend.onAdd=()=>{const d=L.DomUtil.create("div","legend");d.innerHTML='<span class="mk fal" style="display:inline-block;vertical-align:middle"></span> Falabella &nbsp; <span class="mk san" style="display:inline-block;vertical-align:middle"></span> Santander<br><span class="mk aprox" style="display:inline-block;vertical-align:middle"></span> aproximado (ciudad / por nombre)<br><span class="small">exacta = OSM con número · mall = recinto · calle = sin número (±cuadras)</span>';return d;};
+legend.onAdd=()=>{const d=L.DomUtil.create("div","legend");d.innerHTML='<span class="mk fal" style="display:inline-block;vertical-align:middle"></span> Falabella &nbsp; <span class="mk san" style="display:inline-block;vertical-align:middle"></span> Santander &nbsp; <span class="mk bci" style="display:inline-block;vertical-align:middle"></span> BCI<br><span class="mk aprox" style="display:inline-block;vertical-align:middle"></span> aproximado (ciudad / por nombre)<br><span class="small">exacta = OSM con número · mall = recinto · calle = sin número (±cuadras)</span>';return d;};
 legend.addTo(map);
 const markersById = {};
 function isAprox(u){ return ["ciudad","nombre","zona"].includes(u.precision); }

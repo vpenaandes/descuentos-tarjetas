@@ -60,17 +60,17 @@ TEMPLATE = r"""<title>Descuentos Restaurantes</title>
 <style>
 :root{
   --bg:#F6F8F5; --surface:#FFFFFF; --surface2:#EEF2EC; --ink:#1E2722; --muted:#5E6B64; --line:#D9E0DB;
-  --accent:#2B5F8A; --accent-ink:#FFFFFF; --hl:#FFF4C7; --fal:#0E7A3B; --san:#EC0000;
+  --accent:#2B5F8A; --accent-ink:#FFFFFF; --hl:#FFF4C7; --fal:#0E7A3B; --san:#EC0000; --bci:#B37400;
   --ok:#1F7A4C; --ok-bg:#E3F3EA; --warn:#8A5A00; --warn-bg:#FFF0CC; --bad:#9B2C2C; --bad-bg:#FBE3E3;
 }
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
   --bg:#141917; --surface:#1C2320; --surface2:#242D29; --ink:#E6ECE8; --muted:#9AA8A0; --line:#2F3A35;
-  --accent:#8DB6E3; --accent-ink:#0F1A24; --hl:#3A3418; --fal:#3FB46C; --san:#FF5A5A;
+  --accent:#8DB6E3; --accent-ink:#0F1A24; --hl:#3A3418; --fal:#3FB46C; --san:#FF5A5A; --bci:#F5C451;
   --ok:#7FD1A3; --ok-bg:#16301F; --warn:#F2C46B; --warn-bg:#3A2E10; --bad:#F28B8B; --bad-bg:#3A1A1A;
 }}
 :root[data-theme="dark"]{
   --bg:#141917; --surface:#1C2320; --surface2:#242D29; --ink:#E6ECE8; --muted:#9AA8A0; --line:#2F3A35;
-  --accent:#8DB6E3; --accent-ink:#0F1A24; --hl:#3A3418; --fal:#3FB46C; --san:#FF5A5A;
+  --accent:#8DB6E3; --accent-ink:#0F1A24; --hl:#3A3418; --fal:#3FB46C; --san:#FF5A5A; --bci:#F5C451;
   --ok:#7FD1A3; --ok-bg:#16301F; --warn:#F2C46B; --warn-bg:#3A2E10; --bad:#F28B8B; --bad-bg:#3A1A1A;
 }
 *{box-sizing:border-box}
@@ -88,6 +88,7 @@ header p{margin:6px 0 0;color:var(--muted);font-size:13px}
 .chip.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);font-weight:700}
 .chip.fal.on{background:var(--fal);border-color:var(--fal);color:#fff}
 .chip.san.on{background:var(--san);border-color:var(--san);color:#fff}
+.chip.bci.on{background:var(--bci);border-color:var(--bci);color:#fff}
 select,input[type=search]{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:10px;padding:7px 10px;font:inherit;font-size:14px;flex:1;min-width:140px}
 .count{font-size:13px;color:var(--muted)}
 .count b{color:var(--ink)}
@@ -97,7 +98,7 @@ select,input[type=search]{border:1px solid var(--line);background:var(--surface)
 .name{font-weight:700;font-size:16px;grid-column:1}
 .name a{color:inherit;text-decoration:none;border-bottom:1px dotted var(--muted)}
 .bank{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:1px}
-.bank.fal{background:var(--fal)}.bank.san{background:var(--san)}
+.bank.fal{background:var(--fal)}.bank.san{background:var(--san)}.bank.bci{background:var(--bci)}
 .disc{grid-column:2;grid-row:1 / span 2;text-align:right;font-variant-numeric:tabular-nums}
 .disc b{font-size:22px;display:block;line-height:1}
 .disc small{color:var(--muted);font-size:12px}
@@ -158,7 +159,7 @@ const DATA = __DATA__;
 const META = __META__;
 const DIAS = ["Lunes","Martes","Miércoles","Jueves","Viernes","Sábado","Domingo"];
 const HOY = DIAS[(new Date().getDay()+6)%7];
-const bk = b => b==="Banco Falabella"?"fal":"san";
+const bk = b => b==="Banco Falabella"?"fal":(b==="BCI"?"bci":"san");
 const esc = s => String(s??"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const normtxt = s => (s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
 const gmaps = u => u.lat ? `https://www.google.com/maps/search/?api=1&query=${u.lat},${u.lng}` : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(u.q+", Chile")}`;

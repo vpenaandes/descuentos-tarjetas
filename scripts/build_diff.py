@@ -63,7 +63,11 @@ def main():
     else:
         prev = load(prev_mes, a.categoria) or {}
 
-    altas = [k for k in cur if k not in prev]
+    # Un banco recién incorporado no son "altas del mes": todos sus beneficios serían nuevos
+    # y ahogarían el diff real (pasó al sumar BCI en sept-2026).
+    bancos_prev = {i["banco"] for i in prev.values()}
+    bancos_nuevos = {i["banco"] for i in cur.values()} - bancos_prev
+    altas = [k for k in cur if k not in prev and cur[k]["banco"] not in bancos_nuevos]
     bajas = [k for k in prev if k not in cur]
     cambios = {}
     for k in cur:
