@@ -14070,5 +14070,3395 @@
   }
  ],
  "carnes corrales del sur y embutidos, región metropolitana": [],
- "carnes corrales del sur y embutidos, chile": []
+ "carnes corrales del sur y embutidos, chile": [],
+ "andrés de fuenzalida 48, providencia, chile": [
+  {
+   "place_id": 1757083,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5907153485,
+   "lat": "-33.4216344",
+   "lon": "-70.6112304",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.422064545658072e-05,
+   "addresstype": "amenity",
+   "name": "17.56. Cocina y bar",
+   "display_name": "17.56. Cocina y bar, 48, Andrés de Fuenzalida, Barrio Paseo Providencia, Providencia, Provincia de Santiago, Región Metropolitana de Santiago, 7500000, Chile",
+   "address": {
+    "amenity": "17.56. Cocina y bar",
+    "house_number": "48",
+    "road": "Andrés de Fuenzalida",
+    "neighbourhood": "Barrio Paseo Providencia",
+    "suburb": "Providencia",
+    "city": "Providencia",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7500000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4216844",
+    "-33.4215844",
+    "-70.6112804",
+    "-70.6111804"
+   ]
+  }
+ ],
+ "av. miguel ramírez 715, rancagua. región de o'higgins, chile": [
+  {
+   "place_id": 1264802,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 562897033,
+   "lat": "-34.1741363",
+   "lon": "-70.7156775",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05339419928282593,
+   "addresstype": "road",
+   "name": "Avenida Miguel Ramírez",
+   "display_name": "Avenida Miguel Ramírez, Villa Rio Cachapoal, Manzanal, Rancagua, Provincia de Cachapoal, Región del Libertador General Bernardo O'Higgins, 2020800, Chile",
+   "address": {
+    "road": "Avenida Miguel Ramírez",
+    "neighbourhood": "Villa Rio Cachapoal",
+    "quarter": "Manzanal",
+    "city": "Rancagua",
+    "county": "Provincia de Cachapoal",
+    "state": "Región del Libertador General Bernardo O'Higgins",
+    "ISO3166-2-lvl4": "CL-LI",
+    "postcode": "2020800",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-34.1744965",
+    "-34.1737957",
+    "-70.7175911",
+    "-70.7137676"
+   ]
+  }
+ ],
+ "miguel ramírez 715, rancagua. región de o'higgins, chile": [
+  {
+   "place_id": 1277671,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 563510425,
+   "lat": "-34.1724139",
+   "lon": "-70.7258874",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05339419928282593,
+   "addresstype": "road",
+   "name": "Avenida Miguel Ramírez",
+   "display_name": "Avenida Miguel Ramírez, Villa Alborada, Manzanal, Rancagua Sur, Rancagua, Provincia de Cachapoal, Región del Libertador General Bernardo O'Higgins, 2020800, Chile",
+   "address": {
+    "road": "Avenida Miguel Ramírez",
+    "neighbourhood": "Villa Alborada",
+    "quarter": "Manzanal",
+    "suburb": "Rancagua Sur",
+    "city": "Rancagua",
+    "county": "Provincia de Cachapoal",
+    "state": "Región del Libertador General Bernardo O'Higgins",
+    "ISO3166-2-lvl4": "CL-LI",
+    "postcode": "2020800",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-34.1725360",
+    "-34.1722837",
+    "-70.7267297",
+    "-70.7250437"
+   ]
+  },
+  {
+   "place_id": 1304438,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 564804775,
+   "lat": "-34.1745617",
+   "lon": "-70.7128253",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05339419928282593,
+   "addresstype": "road",
+   "name": "Avenida Miguel Ramírez",
+   "display_name": "Avenida Miguel Ramírez, Villa Rio Cachapoal, Manzanal, Rancagua, Provincia de Cachapoal, Región del Libertador General Bernardo O'Higgins, 2020800, Chile",
+   "address": {
+    "road": "Avenida Miguel Ramírez",
+    "neighbourhood": "Villa Rio Cachapoal",
+    "quarter": "Manzanal",
+    "city": "Rancagua",
+    "county": "Provincia de Cachapoal",
+    "state": "Región del Libertador General Bernardo O'Higgins",
+    "ISO3166-2-lvl4": "CL-LI",
+    "postcode": "2020800",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-34.1745994",
+    "-34.1745240",
+    "-70.7131086",
+    "-70.7125419"
+   ]
+  },
+  {
+   "place_id": 1290456,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 562897031,
+   "lat": "-34.1746973",
+   "lon": "-70.7125546",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05339419928282593,
+   "addresstype": "road",
+   "name": "Avenida Miguel Ramírez",
+   "display_name": "Avenida Miguel Ramírez, Villa Hermosa, Manzanal, Rancagua, Provincia de Cachapoal, Región del Libertador General Bernardo O'Higgins, 2020800, Chile",
+   "address": {
+    "road": "Avenida Miguel Ramírez",
+    "neighbourhood": "Villa Hermosa",
+    "quarter": "Manzanal",
+    "city": "Rancagua",
+    "county": "Provincia de Cachapoal",
+    "state": "Región del Libertador General Bernardo O'Higgins",
+    "ISO3166-2-lvl4": "CL-LI",
+    "postcode": "2020800",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-34.1747039",
+    "-34.1746908",
+    "-70.7126334",
+    "-70.7124758"
+   ]
+  }
+ ],
+ "ramón carrasco 355, bío bío, chile": [
+  {
+   "place_id": 606887,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1855143195,
+   "lat": "-36.7891473",
+   "lon": "-73.0579965",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 6.521019302658149e-05,
+   "addresstype": "amenity",
+   "name": "Terralomas",
+   "display_name": "Terralomas, 355, Ramón Carrasco, Las Monjas, Santa Sabina, Concepción, Provincia de Concepción, Región del Biobío, 4061735, Chile",
+   "address": {
+    "amenity": "Terralomas",
+    "house_number": "355",
+    "road": "Ramón Carrasco",
+    "neighbourhood": "Las Monjas",
+    "quarter": "Santa Sabina",
+    "city": "Concepción",
+    "county": "Provincia de Concepción",
+    "state": "Región del Biobío",
+    "ISO3166-2-lvl4": "CL-BI",
+    "postcode": "4061735",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.7891973",
+    "-36.7890973",
+    "-73.0580465",
+    "-73.0579465"
+   ]
+  }
+ ],
+ "km2 chicureo boulevar - av. chicureo, los ingleses, local16, colina, región metropolitana, chile": [],
+ "román díaz 2023, ñuñoa, región metropolitana, chile": [
+  {
+   "place_id": 3119144,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 112587473,
+   "lat": "-33.4497792",
+   "lon": "-70.6168816",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "2023, Román Díaz, Barrio Guillermo Franke, Ñuñoa, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "house_number": "2023",
+    "road": "Román Díaz",
+    "neighbourhood": "Barrio Guillermo Franke",
+    "suburb": "Ñuñoa",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4498292",
+    "-33.4497292",
+    "-70.6169316",
+    "-70.6168316"
+   ]
+  }
+ ],
+ "el coihue 3807, vitacura, región metropolitana, chile": [
+  {
+   "place_id": 1744884,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 980735976,
+   "lat": "-33.4017533",
+   "lon": "-70.5922245",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 5.18844892041965e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "3807, El Coihue, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 7630249, Chile",
+   "address": {
+    "house_number": "3807",
+    "road": "El Coihue",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7630249",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4018420",
+    "-33.4016784",
+    "-70.5923170",
+    "-70.5920494"
+   ]
+  }
+ ],
+ "lincoyán 142, concepción, chile": [
+  {
+   "place_id": 611002,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 166770445,
+   "lat": "-36.8207841",
+   "lon": "-73.0581851",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05339854352635993,
+   "addresstype": "road",
+   "name": "Lincoyán",
+   "display_name": "Lincoyán, Cerro Amarillo, Concepción, Provincia de Concepción, Región del Biobío, 4030442, Chile",
+   "address": {
+    "road": "Lincoyán",
+    "neighbourhood": "Cerro Amarillo",
+    "city": "Concepción",
+    "county": "Provincia de Concepción",
+    "state": "Región del Biobío",
+    "ISO3166-2-lvl4": "CL-BI",
+    "postcode": "4030442",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.8228066",
+    "-36.8187616",
+    "-73.0594778",
+    "-73.0568923"
+   ]
+  },
+  {
+   "place_id": 598069,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 110167336,
+   "lat": "-36.8327022",
+   "lon": "-73.0506007",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05339854352635993,
+   "addresstype": "road",
+   "name": "Lincoyán",
+   "display_name": "Lincoyán, Parque Ecuador, Concepción, Provincia de Concepción, Región del Biobío, 4070280, Chile",
+   "address": {
+    "road": "Lincoyán",
+    "neighbourhood": "Parque Ecuador",
+    "city": "Concepción",
+    "county": "Provincia de Concepción",
+    "state": "Región del Biobío",
+    "ISO3166-2-lvl4": "CL-BI",
+    "postcode": "4070280",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.8334803",
+    "-36.8319240",
+    "-73.0510882",
+    "-73.0501131"
+   ]
+  },
+  {
+   "place_id": 607857,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 653481940,
+   "lat": "-36.8153209",
+   "lon": "-73.0616427",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05339854352635993,
+   "addresstype": "road",
+   "name": "Lincoyán",
+   "display_name": "Lincoyán, Valle Aníbal Pinto, Concepción, Provincia de Concepción, Región del Biobío, 4030177, Chile",
+   "address": {
+    "road": "Lincoyán",
+    "neighbourhood": "Valle Aníbal Pinto",
+    "city": "Concepción",
+    "county": "Provincia de Concepción",
+    "state": "Región del Biobío",
+    "ISO3166-2-lvl4": "CL-BI",
+    "postcode": "4030177",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.8153648",
+    "-36.8152771",
+    "-73.0616897",
+    "-73.0615958"
+   ]
+  }
+ ],
+ "S|lincoyán 142|concepción": [
+  {
+   "place_id": 603038,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1386877839,
+   "lat": "-36.8304041",
+   "lon": "-73.0520446",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05339854352635993,
+   "addresstype": "road",
+   "name": "Lincoyán",
+   "display_name": "Lincoyán, Centro, Concepción, Provincia de Concepción, Región del Biobío, 4070268, Chile",
+   "address": {
+    "road": "Lincoyán",
+    "neighbourhood": "Centro",
+    "city": "Concepción",
+    "county": "Provincia de Concepción",
+    "state": "Región del Biobío",
+    "ISO3166-2-lvl4": "CL-BI",
+    "postcode": "4070268",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.8309176",
+    "-36.8298906",
+    "-73.0523688",
+    "-73.0517205"
+   ]
+  },
+  {
+   "place_id": 608739,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 653481940,
+   "lat": "-36.8153209",
+   "lon": "-73.0616427",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05339854352635993,
+   "addresstype": "road",
+   "name": "Lincoyán",
+   "display_name": "Lincoyán, Valle Aníbal Pinto, Concepción, Provincia de Concepción, Región del Biobío, 4030177, Chile",
+   "address": {
+    "road": "Lincoyán",
+    "neighbourhood": "Valle Aníbal Pinto",
+    "city": "Concepción",
+    "county": "Provincia de Concepción",
+    "state": "Región del Biobío",
+    "ISO3166-2-lvl4": "CL-BI",
+    "postcode": "4030177",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.8153648",
+    "-36.8152771",
+    "-73.0616897",
+    "-73.0615958"
+   ]
+  },
+  {
+   "place_id": 604403,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 368064657,
+   "lat": "-36.8318854",
+   "lon": "-73.0511137",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05339854352635993,
+   "addresstype": "road",
+   "name": "Lincoyán",
+   "display_name": "Lincoyán, Parque Ecuador, Concepción, Provincia de Concepción, Región del Biobío, 4070280, Chile",
+   "address": {
+    "road": "Lincoyán",
+    "neighbourhood": "Parque Ecuador",
+    "city": "Concepción",
+    "county": "Provincia de Concepción",
+    "state": "Región del Biobío",
+    "ISO3166-2-lvl4": "CL-BI",
+    "postcode": "4070280",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.8319240",
+    "-36.8318468",
+    "-73.0511393",
+    "-73.0510882"
+   ]
+  }
+ ],
+ "manuel montt 370, providencia, chile": [
+  {
+   "place_id": 1687417,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 449405098,
+   "lat": "-33.4316838",
+   "lon": "-70.6182626",
+   "category": "amenity",
+   "type": "pub",
+   "place_rank": 30,
+   "importance": 5.422064545658072e-05,
+   "addresstype": "amenity",
+   "name": "Ramblas",
+   "display_name": "Ramblas, 370, Avenida Manuel Montt, Barrio Barros Borgoño, Providencia, Provincia de Santiago, Región Metropolitana de Santiago, 7500000, Chile",
+   "address": {
+    "amenity": "Ramblas",
+    "house_number": "370",
+    "road": "Avenida Manuel Montt",
+    "neighbourhood": "Barrio Barros Borgoño",
+    "suburb": "Providencia",
+    "city": "Providencia",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7500000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4317438",
+    "-33.4316236",
+    "-70.6183452",
+    "-70.6181800"
+   ]
+  }
+ ],
+ "avenida vicente méndez 2361 pc2, chillán, chile": [],
+ "vicente méndez 2361 pc2, chillán, chile": [],
+ "avenida vicente méndez 2361, chillán, chile": [
+  {
+   "place_id": 643302,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 24526644,
+   "lat": "-36.5897178",
+   "lon": "-72.0828848",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.053391530479896206,
+   "addresstype": "road",
+   "name": "Avenida Vicente Méndez",
+   "display_name": "Avenida Vicente Méndez, Villa Portal Quilamapu, Chillán, Provincia de Diguillín, Región de Ñuble, 3800381, Chile",
+   "address": {
+    "road": "Avenida Vicente Méndez",
+    "neighbourhood": "Villa Portal Quilamapu",
+    "city": "Chillán",
+    "county": "Provincia de Diguillín",
+    "state": "Región de Ñuble",
+    "ISO3166-2-lvl4": "CL-NB",
+    "postcode": "3800381",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.5905361",
+    "-36.5891524",
+    "-72.0837555",
+    "-72.0818312"
+   ]
+  },
+  {
+   "place_id": 641173,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 448409209,
+   "lat": "-36.6001406",
+   "lon": "-72.0893838",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.053391530479896206,
+   "addresstype": "road",
+   "name": "Avenida Vicente Méndez",
+   "display_name": "Avenida Vicente Méndez, Población Kennedy, Chillán, Provincia de Diguillín, Región de Ñuble, 3800381, Chile",
+   "address": {
+    "road": "Avenida Vicente Méndez",
+    "neighbourhood": "Población Kennedy",
+    "city": "Chillán",
+    "county": "Provincia de Diguillín",
+    "state": "Región de Ñuble",
+    "ISO3166-2-lvl4": "CL-NB",
+    "postcode": "3800381",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.6004677",
+    "-36.5998136",
+    "-72.0895888",
+    "-72.0891787"
+   ]
+  },
+  {
+   "place_id": 616377,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1000521633,
+   "lat": "-36.5903708",
+   "lon": "-72.0694596",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.053391530479896206,
+   "addresstype": "road",
+   "name": "Avenida Vicente Méndez",
+   "display_name": "Avenida Vicente Méndez, Villa Emmanuel, Chillán, Provincia de Diguillín, Región de Ñuble, 3800708, Chile",
+   "address": {
+    "road": "Avenida Vicente Méndez",
+    "neighbourhood": "Villa Emmanuel",
+    "city": "Chillán",
+    "county": "Provincia de Diguillín",
+    "state": "Región de Ñuble",
+    "ISO3166-2-lvl4": "CL-NB",
+    "postcode": "3800708",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.5903842",
+    "-36.5903540",
+    "-72.0696489",
+    "-72.0692700"
+   ]
+  }
+ ],
+ "S|avenida vicente méndez 2361|chillán": [
+  {
+   "place_id": 648538,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1109099042,
+   "lat": "-36.5888530",
+   "lon": "-72.0802050",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.053391530479896206,
+   "addresstype": "road",
+   "name": "Avenida Vicente Méndez",
+   "display_name": "Avenida Vicente Méndez, Villa Portal Quilamapu, Chillán, Provincia de Diguillín, Región de Ñuble, 3800708, Chile",
+   "address": {
+    "road": "Avenida Vicente Méndez",
+    "neighbourhood": "Villa Portal Quilamapu",
+    "city": "Chillán",
+    "county": "Provincia de Diguillín",
+    "state": "Región de Ñuble",
+    "ISO3166-2-lvl4": "CL-NB",
+    "postcode": "3800708",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.5891524",
+    "-36.5888527",
+    "-72.0818312",
+    "-72.0785563"
+   ]
+  },
+  {
+   "place_id": 644280,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 448409198,
+   "lat": "-36.5978695",
+   "lon": "-72.0880459",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.053391530479896206,
+   "addresstype": "road",
+   "name": "Avenida Vicente Méndez",
+   "display_name": "Avenida Vicente Méndez, Chillán, Provincia de Diguillín, Región de Ñuble, 3800381, Chile",
+   "address": {
+    "road": "Avenida Vicente Méndez",
+    "city": "Chillán",
+    "county": "Provincia de Diguillín",
+    "state": "Región de Ñuble",
+    "ISO3166-2-lvl4": "CL-NB",
+    "postcode": "3800381",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.5984982",
+    "-36.5972409",
+    "-72.0884025",
+    "-72.0876893"
+   ]
+  },
+  {
+   "place_id": 650716,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1000527471,
+   "lat": "-36.5919447",
+   "lon": "-72.0847080",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.053391530479896206,
+   "addresstype": "road",
+   "name": "Avenida Vicente Méndez",
+   "display_name": "Avenida Vicente Méndez, Villa Portal Quilamapu, Chillán, Provincia de Diguillín, Región de Ñuble, 3800381, Chile",
+   "address": {
+    "road": "Avenida Vicente Méndez",
+    "neighbourhood": "Villa Portal Quilamapu",
+    "city": "Chillán",
+    "county": "Provincia de Diguillín",
+    "state": "Región de Ñuble",
+    "ISO3166-2-lvl4": "CL-NB",
+    "postcode": "3800381",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.5923121",
+    "-36.5915773",
+    "-72.0849113",
+    "-72.0845046"
+   ]
+  }
+ ],
+ "av. central 191, viña del mar, chile": [
+  {
+   "place_id": 2171151,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 23914259,
+   "lat": "-33.0284499",
+   "lon": "-71.5716751",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339745708400088,
+   "addresstype": "road",
+   "name": "Avenida Central",
+   "display_name": "Avenida Central, Villa Moderna, Recreo, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2580347, Chile",
+   "address": {
+    "road": "Avenida Central",
+    "neighbourhood": "Villa Moderna",
+    "suburb": "Recreo",
+    "city": "Viña del Mar",
+    "county": "Provincia de Valparaíso",
+    "state": "Región de Valparaíso",
+    "ISO3166-2-lvl4": "CL-VS",
+    "postcode": "2580347",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.0297078",
+    "-33.0271920",
+    "-71.5735575",
+    "-71.5697927"
+   ]
+  },
+  {
+   "place_id": 2102670,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 324571233,
+   "lat": "-33.0467517",
+   "lon": "-71.5623735",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339745708400088,
+   "addresstype": "road",
+   "name": "Avenida Central",
+   "display_name": "Avenida Central, Villa Monte, Villa Linda, Nueva Aurora, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2580347, Chile",
+   "address": {
+    "road": "Avenida Central",
+    "neighbourhood": "Villa Monte",
+    "quarter": "Villa Linda",
+    "suburb": "Nueva Aurora",
+    "city": "Viña del Mar",
+    "county": "Provincia de Valparaíso",
+    "state": "Región de Valparaíso",
+    "ISO3166-2-lvl4": "CL-VS",
+    "postcode": "2580347",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.0471740",
+    "-33.0461003",
+    "-71.5626309",
+    "-71.5618071"
+   ]
+  },
+  {
+   "place_id": 2127456,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 28434644,
+   "lat": "-33.0422043",
+   "lon": "-71.5393889",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339745708400088,
+   "addresstype": "road",
+   "name": "Avenida Central",
+   "display_name": "Avenida Central, Cardenal Caro, Chorrillos, Forestal, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2250000, Chile",
+   "address": {
+    "road": "Avenida Central",
+    "neighbourhood": "Cardenal Caro",
+    "quarter": "Chorrillos",
+    "suburb": "Forestal",
+    "city": "Viña del Mar",
+    "county": "Provincia de Valparaíso",
+    "state": "Región de Valparaíso",
+    "ISO3166-2-lvl4": "CL-VS",
+    "postcode": "2250000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.0430222",
+    "-33.0414612",
+    "-71.5394006",
+    "-71.5390831"
+   ]
+  }
+ ],
+ "central 191, viña del mar, chile": [
+  {
+   "place_id": 2168472,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 94315043,
+   "lat": "-32.9739937",
+   "lon": "-71.5312578",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339745708400088,
+   "addresstype": "road",
+   "name": "Central",
+   "display_name": "Central, Población Río Palena, Jardín del Mar, Reñaca, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2540146, Chile",
+   "address": {
+    "road": "Central",
+    "neighbourhood": "Población Río Palena",
+    "quarter": "Jardín del Mar",
+    "suburb": "Reñaca",
+    "city": "Viña del Mar",
+    "county": "Provincia de Valparaíso",
+    "state": "Región de Valparaíso",
+    "ISO3166-2-lvl4": "CL-VS",
+    "postcode": "2540146",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-32.9753686",
+    "-32.9734724",
+    "-71.5326646",
+    "-71.5295773"
+   ]
+  },
+  {
+   "place_id": 2147351,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 56213803,
+   "lat": "-33.0308506",
+   "lon": "-71.5752244",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339745708400088,
+   "addresstype": "road",
+   "name": "Central",
+   "display_name": "Central, Villa Moderna, Recreo, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2580335, Chile",
+   "address": {
+    "road": "Central",
+    "neighbourhood": "Villa Moderna",
+    "suburb": "Recreo",
+    "city": "Viña del Mar",
+    "county": "Provincia de Valparaíso",
+    "state": "Región de Valparaíso",
+    "ISO3166-2-lvl4": "CL-VS",
+    "postcode": "2580335",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.0311145",
+    "-33.0306196",
+    "-71.5755130",
+    "-71.5748864"
+   ]
+  },
+  {
+   "place_id": 2106511,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 26696585,
+   "lat": "-33.0064062",
+   "lon": "-71.5368636",
+   "category": "highway",
+   "type": "living_street",
+   "place_rank": 26,
+   "importance": 0.05339745708400088,
+   "addresstype": "road",
+   "name": "Central",
+   "display_name": "Central, Villa Naval, Santa Inés, Gómez Carreño, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2520977, Chile",
+   "address": {
+    "road": "Central",
+    "neighbourhood": "Villa Naval",
+    "quarter": "Santa Inés",
+    "suburb": "Gómez Carreño",
+    "city": "Viña del Mar",
+    "county": "Provincia de Valparaíso",
+    "state": "Región de Valparaíso",
+    "ISO3166-2-lvl4": "CL-VS",
+    "postcode": "2520977",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.0067807",
+    "-33.0060317",
+    "-71.5370441",
+    "-71.5366831"
+   ]
+  }
+ ],
+ "S|av. central 191|viña del mar": [
+  {
+   "place_id": 2135744,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 23914259,
+   "lat": "-33.0284499",
+   "lon": "-71.5716751",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339745708400088,
+   "addresstype": "road",
+   "name": "Avenida Central",
+   "display_name": "Avenida Central, Villa Moderna, Recreo, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2580347, Chile",
+   "address": {
+    "road": "Avenida Central",
+    "neighbourhood": "Villa Moderna",
+    "suburb": "Recreo",
+    "city": "Viña del Mar",
+    "county": "Provincia de Valparaíso",
+    "state": "Región de Valparaíso",
+    "ISO3166-2-lvl4": "CL-VS",
+    "postcode": "2580347",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.0297078",
+    "-33.0271920",
+    "-71.5735575",
+    "-71.5697927"
+   ]
+  },
+  {
+   "place_id": 2113579,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 28847027,
+   "lat": "-33.0424261",
+   "lon": "-71.5623073",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05339745708400088,
+   "addresstype": "road",
+   "name": "Avenida Central",
+   "display_name": "Avenida Central, Villa Monte, Villa Linda, Nueva Aurora, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2580347, Chile",
+   "address": {
+    "road": "Avenida Central",
+    "neighbourhood": "Villa Monte",
+    "quarter": "Villa Linda",
+    "suburb": "Nueva Aurora",
+    "city": "Viña del Mar",
+    "county": "Provincia de Valparaíso",
+    "state": "Región de Valparaíso",
+    "ISO3166-2-lvl4": "CL-VS",
+    "postcode": "2580347",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.0461003",
+    "-33.0389195",
+    "-71.5631870",
+    "-71.5619779"
+   ]
+  },
+  {
+   "place_id": 2104628,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 324571233,
+   "lat": "-33.0467517",
+   "lon": "-71.5623735",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339745708400088,
+   "addresstype": "road",
+   "name": "Avenida Central",
+   "display_name": "Avenida Central, Villa Monte, Villa Linda, Nueva Aurora, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2580347, Chile",
+   "address": {
+    "road": "Avenida Central",
+    "neighbourhood": "Villa Monte",
+    "quarter": "Villa Linda",
+    "suburb": "Nueva Aurora",
+    "city": "Viña del Mar",
+    "county": "Provincia de Valparaíso",
+    "state": "Región de Valparaíso",
+    "ISO3166-2-lvl4": "CL-VS",
+    "postcode": "2580347",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.0471740",
+    "-33.0461003",
+    "-71.5626309",
+    "-71.5618071"
+   ]
+  }
+ ],
+ "av. o&rsquo;higgins 1414, antofagasta, chile": [],
+ "o&rsquo;higgins 1414, antofagasta, chile": [],
+ "higgins 1414, antofagasta, chile": [
+  {
+   "place_id": 3989021,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 187087969,
+   "lat": "-23.6623323",
+   "lon": "-70.4013315",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "1414, Avenida Bernardo O'Higgins, Antofagasta, Provincia de Antofagasta, Región de Antofagasta, 1270199, Chile",
+   "address": {
+    "house_number": "1414",
+    "road": "Avenida Bernardo O'Higgins",
+    "city": "Antofagasta",
+    "county": "Provincia de Antofagasta",
+    "state": "Región de Antofagasta",
+    "ISO3166-2-lvl4": "CL-AN",
+    "postcode": "1270199",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-23.6623823",
+    "-23.6622823",
+    "-70.4013815",
+    "-70.4012815"
+   ]
+  }
+ ],
+ "av. tobalaba #1213, región metropolitana, chile": [
+  {
+   "place_id": 1685916,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 443126123,
+   "lat": "-33.4256918",
+   "lon": "-70.5921630",
+   "category": "amenity",
+   "type": "pub",
+   "place_rank": 30,
+   "importance": 5.5874723430182615e-05,
+   "addresstype": "amenity",
+   "name": "Doce Trece",
+   "display_name": "Doce Trece, 1213, Avenida Tobalaba, Barrio Las Lilas, Providencia, Provincia de Santiago, Región Metropolitana de Santiago, 7500000, Chile",
+   "address": {
+    "amenity": "Doce Trece",
+    "house_number": "1213",
+    "road": "Avenida Tobalaba",
+    "neighbourhood": "Barrio Las Lilas",
+    "suburb": "Providencia",
+    "city": "Providencia",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7500000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4257418",
+    "-33.4256418",
+    "-70.5922130",
+    "-70.5921130"
+   ]
+  }
+ ],
+ "av. pedro de valdivia #2785, chile": [
+  {
+   "place_id": 3247501,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 108580258,
+   "lat": "-33.4481622",
+   "lon": "-70.6058793",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "2785, Avenida Pedro de Valdivia, Barrio Villaseca, Ñuñoa, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "house_number": "2785",
+    "road": "Avenida Pedro de Valdivia",
+    "neighbourhood": "Barrio Villaseca",
+    "suburb": "Ñuñoa",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4482122",
+    "-33.4481122",
+    "-70.6059293",
+    "-70.6058293"
+   ]
+  }
+ ],
+ "av. tobalaba 947, providencia, chile": [
+  {
+   "place_id": 1710510,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1974049748,
+   "lat": "-33.4241973",
+   "lon": "-70.5941063",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 5.5874723430182615e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "947, Avenida Tobalaba, Barrio Las Lilas, Providencia, Provincia de Santiago, Región Metropolitana de Santiago, 7500000, Chile",
+   "address": {
+    "house_number": "947",
+    "road": "Avenida Tobalaba",
+    "neighbourhood": "Barrio Las Lilas",
+    "suburb": "Providencia",
+    "city": "Providencia",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7500000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4242473",
+    "-33.4241473",
+    "-70.5941563",
+    "-70.5940563"
+   ]
+  }
+ ],
+ "alonso de córdova 4260, vitacura, chile": [
+  {
+   "place_id": 1733210,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 446902927,
+   "lat": "-33.4031122",
+   "lon": "-70.5885293",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.18844892041965e-05,
+   "addresstype": "amenity",
+   "name": "Santa Brasa",
+   "display_name": "Santa Brasa, 4260, Alonso de Córdova, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "Santa Brasa",
+    "house_number": "4260",
+    "road": "Alonso de Córdova",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4031726",
+    "-33.4030519",
+    "-70.5886027",
+    "-70.5884559"
+   ]
+  }
+ ],
+ "alonso de córdova 2337, vitacura, chile": [
+  {
+   "place_id": 1699818,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 175664302,
+   "lat": "-33.4014337",
+   "lon": "-70.5961251",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05338521782253754,
+   "addresstype": "road",
+   "name": "Alonso de Córdova",
+   "display_name": "Alonso de Córdova, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Alonso de Córdova",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4019206",
+    "-33.4009469",
+    "-70.5980890",
+    "-70.5941612"
+   ]
+  },
+  {
+   "place_id": 1710032,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 466939728,
+   "lat": "-33.4037209",
+   "lon": "-70.5870831",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05338521782253754,
+   "addresstype": "road",
+   "name": "Alonso de Córdova",
+   "display_name": "Alonso de Córdova, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Alonso de Córdova",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4037495",
+    "-33.4036923",
+    "-70.5871914",
+    "-70.5869748"
+   ]
+  }
+ ],
+ "S|alonso de córdova 2337|vitacura": [
+  {
+   "place_id": 1742962,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 269527774,
+   "lat": "-33.4035895",
+   "lon": "-70.5875611",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05338521782253754,
+   "addresstype": "road",
+   "name": "Alonso de Córdova",
+   "display_name": "Alonso de Córdova, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Alonso de Córdova",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4036923",
+    "-33.4034867",
+    "-70.5879308",
+    "-70.5871914"
+   ]
+  },
+  {
+   "place_id": 1764895,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1293023023,
+   "lat": "-33.4003370",
+   "lon": "-70.6005798",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05338521782253754,
+   "addresstype": "road",
+   "name": "Alonso de Córdova",
+   "display_name": "Alonso de Córdova, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Alonso de Córdova",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4004275",
+    "-33.4002465",
+    "-70.6009574",
+    "-70.6002023"
+   ]
+  }
+ ],
+ "av. vitacura 3285, vitacura, chile": [
+  {
+   "place_id": 1726822,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 446005567,
+   "lat": "-33.4065323",
+   "lon": "-70.5986280",
+   "category": "building",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 5.18844892041965e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "3285, Avenida Vitacura, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "house_number": "3285",
+    "road": "Avenida Vitacura",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4066159",
+    "-33.4064488",
+    "-70.5987261",
+    "-70.5985300"
+   ]
+  },
+  {
+   "place_id": 1707685,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 12615676263,
+   "lat": "-33.4065333",
+   "lon": "-70.5986336",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.18844892041965e-05,
+   "addresstype": "amenity",
+   "name": "Estación Tropera",
+   "display_name": "Estación Tropera, 3285, Avenida Vitacura, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "Estación Tropera",
+    "house_number": "3285",
+    "road": "Avenida Vitacura",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4065833",
+    "-33.4064833",
+    "-70.5986836",
+    "-70.5985836"
+   ]
+  }
+ ],
+ "el alcalde 15, las condes, chile": [
+  {
+   "place_id": 1721722,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 8376121012,
+   "lat": "-33.4157284",
+   "lon": "-70.5952971",
+   "category": "office",
+   "type": "diplomatic",
+   "place_rank": 30,
+   "importance": 0.3002719692158251,
+   "addresstype": "office",
+   "name": "Embajada de Arabia Saudita",
+   "display_name": "Embajada de Arabia Saudita, 15, El Alcalde, El Golf, Las Condes, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "office": "Embajada de Arabia Saudita",
+    "house_number": "15",
+    "road": "El Alcalde",
+    "neighbourhood": "El Golf",
+    "suburb": "Las Condes",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4157784",
+    "-33.4156784",
+    "-70.5953471",
+    "-70.5952471"
+   ]
+  },
+  {
+   "place_id": 1856103,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 25107520,
+   "lat": "-33.4159622",
+   "lon": "-70.5952379",
+   "category": "tourism",
+   "type": "hotel",
+   "place_rank": 30,
+   "importance": 5.5874723430182615e-05,
+   "addresstype": "tourism",
+   "name": "The Ritz-Carlton",
+   "display_name": "The Ritz-Carlton, 15, El Alcalde, El Golf, Las Condes, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "tourism": "The Ritz-Carlton",
+    "house_number": "15",
+    "road": "El Alcalde",
+    "neighbourhood": "El Golf",
+    "suburb": "Las Condes",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4162867",
+    "-33.4156377",
+    "-70.5954242",
+    "-70.5950516"
+   ]
+  },
+  {
+   "place_id": 1707119,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 13298258690,
+   "lat": "-33.4160996",
+   "lon": "-70.5952085",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.5874723430182615e-05,
+   "addresstype": "amenity",
+   "name": "Estró Santiago",
+   "display_name": "Estró Santiago, 15, El Alcalde, El Golf, Las Condes, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "Estró Santiago",
+    "house_number": "15",
+    "road": "El Alcalde",
+    "neighbourhood": "El Golf",
+    "suburb": "Las Condes",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4161496",
+    "-33.4160496",
+    "-70.5952585",
+    "-70.5951585"
+   ]
+  }
+ ],
+ "manuel bulnes 314, quillota, chile": [
+  {
+   "place_id": 2165602,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 27521474,
+   "lat": "-32.8932669",
+   "lon": "-71.2530439",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.053388577859159195,
+   "addresstype": "road",
+   "name": "Manuel Bulnes",
+   "display_name": "Manuel Bulnes, Población El Bosque, Boco, Quillota, Provincia de Quillota, Región de Valparaíso, 2260000, Chile",
+   "address": {
+    "road": "Manuel Bulnes",
+    "neighbourhood": "Población El Bosque",
+    "village": "Boco",
+    "city": "Quillota",
+    "county": "Provincia de Quillota",
+    "state": "Región de Valparaíso",
+    "ISO3166-2-lvl4": "CL-VS",
+    "postcode": "2260000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-32.8944259",
+    "-32.8921105",
+    "-71.2530850",
+    "-71.2529545"
+   ]
+  }
+ ],
+ "S|manuel bulnes 314|quillota": [
+  {
+   "place_id": 2130294,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 27521474,
+   "lat": "-32.8932669",
+   "lon": "-71.2530439",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.053388577859159195,
+   "addresstype": "road",
+   "name": "Manuel Bulnes",
+   "display_name": "Manuel Bulnes, Población El Bosque, Boco, Quillota, Provincia de Quillota, Región de Valparaíso, 2260000, Chile",
+   "address": {
+    "road": "Manuel Bulnes",
+    "neighbourhood": "Población El Bosque",
+    "village": "Boco",
+    "city": "Quillota",
+    "county": "Provincia de Quillota",
+    "state": "Región de Valparaíso",
+    "ISO3166-2-lvl4": "CL-VS",
+    "postcode": "2260000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-32.8944259",
+    "-32.8921105",
+    "-71.2530850",
+    "-71.2529545"
+   ]
+  }
+ ],
+ "el coihue 3807, vitacura, chile": [
+  {
+   "place_id": 1744884,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 980735976,
+   "lat": "-33.4017533",
+   "lon": "-70.5922245",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 5.18844892041965e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "3807, El Coihue, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 7630249, Chile",
+   "address": {
+    "house_number": "3807",
+    "road": "El Coihue",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7630249",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4018420",
+    "-33.4016784",
+    "-70.5923170",
+    "-70.5920494"
+   ]
+  }
+ ],
+ "av. vitacura 5336, vitacura, chile": [
+  {
+   "place_id": 1716981,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1263668741,
+   "lat": "-33.3961953",
+   "lon": "-70.5815199",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 5.18844892041965e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "5336, Avenida Vitacura, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 7630280, Chile",
+   "address": {
+    "house_number": "5336",
+    "road": "Avenida Vitacura",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7630280",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3962453",
+    "-33.3961453",
+    "-70.5815699",
+    "-70.5814699"
+   ]
+  }
+ ],
+ "diaz gana 845, antofagasta, chile": [
+  {
+   "place_id": 4229590,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 187421541,
+   "lat": "-23.6646879",
+   "lon": "-70.4022324",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "845, Díaz Gana, Campamento Fuerza Esmeralda, Antofagasta, Provincia de Antofagasta, Región de Antofagasta, 1270199, Chile",
+   "address": {
+    "house_number": "845",
+    "road": "Díaz Gana",
+    "neighbourhood": "Campamento Fuerza Esmeralda",
+    "city": "Antofagasta",
+    "county": "Provincia de Antofagasta",
+    "state": "Región de Antofagasta",
+    "ISO3166-2-lvl4": "CL-AN",
+    "postcode": "1270199",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-23.6647379",
+    "-23.6646379",
+    "-70.4022824",
+    "-70.4021824"
+   ]
+  }
+ ],
+ "nueva costanera 3961, vitacura, chile": [
+  {
+   "place_id": 1881338,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 549036584,
+   "lat": "-33.3978136",
+   "lon": "-70.5974060",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.18844892041965e-05,
+   "addresstype": "amenity",
+   "name": "Brunapolis",
+   "display_name": "Brunapolis, 3961, Avenida Nueva Costanera, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "Brunapolis",
+    "house_number": "3961",
+    "road": "Avenida Nueva Costanera",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3978843",
+    "-33.3977430",
+    "-70.5975168",
+    "-70.5972952"
+   ]
+  }
+ ],
+ "av. josé alcalde délano, lo barnechea, chile": [
+  {
+   "place_id": 1530273,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 446013096,
+   "lat": "-33.3617039",
+   "lon": "-70.5443920",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05338406118867777,
+   "addresstype": "road",
+   "name": "Avenida José Alcalde Délano",
+   "display_name": "Avenida José Alcalde Délano, Los Olivos, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Avenida José Alcalde Délano",
+    "neighbourhood": "Los Olivos",
+    "suburb": "Lo Barnechea",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3660430",
+    "-33.3578801",
+    "-70.5449226",
+    "-70.5426637"
+   ]
+  },
+  {
+   "place_id": 1503387,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 185022009,
+   "lat": "-33.3567498",
+   "lon": "-70.5413007",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05338406118867777,
+   "addresstype": "road",
+   "name": "Avenida José Alcalde Délano",
+   "display_name": "Avenida José Alcalde Délano, Los Olivos, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Avenida José Alcalde Délano",
+    "neighbourhood": "Los Olivos",
+    "suburb": "Lo Barnechea",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3578801",
+    "-33.3554948",
+    "-70.5426637",
+    "-70.5401878"
+   ]
+  },
+  {
+   "place_id": 1519764,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1120455125,
+   "lat": "-33.3632858",
+   "lon": "-70.5444281",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05338406118867777,
+   "addresstype": "road",
+   "name": "Avenida José Alcalde Délano",
+   "display_name": "Avenida José Alcalde Délano, El Tranque, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Avenida José Alcalde Délano",
+    "neighbourhood": "El Tranque",
+    "suburb": "Lo Barnechea",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3659848",
+    "-33.3605810",
+    "-70.5448157",
+    "-70.5440812"
+   ]
+  }
+ ],
+ "josé alcalde délano, lo barnechea, chile": [
+  {
+   "place_id": 1530273,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 446013096,
+   "lat": "-33.3617039",
+   "lon": "-70.5443920",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05338406118867777,
+   "addresstype": "road",
+   "name": "Avenida José Alcalde Délano",
+   "display_name": "Avenida José Alcalde Délano, Los Olivos, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Avenida José Alcalde Délano",
+    "neighbourhood": "Los Olivos",
+    "suburb": "Lo Barnechea",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3660430",
+    "-33.3578801",
+    "-70.5449226",
+    "-70.5426637"
+   ]
+  },
+  {
+   "place_id": 1503387,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 185022009,
+   "lat": "-33.3567498",
+   "lon": "-70.5413007",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05338406118867777,
+   "addresstype": "road",
+   "name": "Avenida José Alcalde Délano",
+   "display_name": "Avenida José Alcalde Délano, Los Olivos, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Avenida José Alcalde Délano",
+    "neighbourhood": "Los Olivos",
+    "suburb": "Lo Barnechea",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3578801",
+    "-33.3554948",
+    "-70.5426637",
+    "-70.5401878"
+   ]
+  },
+  {
+   "place_id": 1519764,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1120455125,
+   "lat": "-33.3632858",
+   "lon": "-70.5444281",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05338406118867777,
+   "addresstype": "road",
+   "name": "Avenida José Alcalde Délano",
+   "display_name": "Avenida José Alcalde Délano, El Tranque, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "road": "Avenida José Alcalde Délano",
+    "neighbourhood": "El Tranque",
+    "suburb": "Lo Barnechea",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3659848",
+    "-33.3605810",
+    "-70.5448157",
+    "-70.5440812"
+   ]
+  }
+ ],
+ "camino el alba 11969, las condes, chile": [
+  {
+   "place_id": 1803687,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 97167492,
+   "lat": "-33.4020347",
+   "lon": "-70.5145511",
+   "category": "shop",
+   "type": "mall",
+   "place_rank": 30,
+   "importance": 5.5874723430182615e-05,
+   "addresstype": "shop",
+   "name": "Mall Paseo Los Dominicos",
+   "display_name": "Mall Paseo Los Dominicos, 11969, Camino El Alba, San Carlos de Apoquindo, Las Condes, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "shop": "Mall Paseo Los Dominicos",
+    "house_number": "11969",
+    "road": "Camino El Alba",
+    "neighbourhood": "San Carlos de Apoquindo",
+    "suburb": "Las Condes",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4025726",
+    "-33.4012375",
+    "-70.5148599",
+    "-70.5142068"
+   ]
+  },
+  {
+   "place_id": 1730050,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4505314352,
+   "lat": "-33.4020907",
+   "lon": "-70.5141199",
+   "category": "shop",
+   "type": "mobile_phone",
+   "place_rank": 30,
+   "importance": 5.5874723430182615e-05,
+   "addresstype": "shop",
+   "name": "Entel",
+   "display_name": "Entel, 11969, Camino El Alba, San Carlos de Apoquindo, Las Condes, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "shop": "Entel",
+    "house_number": "11969",
+    "road": "Camino El Alba",
+    "neighbourhood": "San Carlos de Apoquindo",
+    "suburb": "Las Condes",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4021407",
+    "-33.4020407",
+    "-70.5141699",
+    "-70.5140699"
+   ]
+  },
+  {
+   "place_id": 1735950,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 4505314353,
+   "lat": "-33.4021817",
+   "lon": "-70.5141105",
+   "category": "shop",
+   "type": "clothes",
+   "place_rank": 30,
+   "importance": 5.5874723430182615e-05,
+   "addresstype": "shop",
+   "name": "Coconut Grove",
+   "display_name": "Coconut Grove, 11969, Camino El Alba, San Carlos de Apoquindo, Las Condes, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "shop": "Coconut Grove",
+    "house_number": "11969",
+    "road": "Camino El Alba",
+    "neighbourhood": "San Carlos de Apoquindo",
+    "suburb": "Las Condes",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4022317",
+    "-33.4021317",
+    "-70.5141605",
+    "-70.5140605"
+   ]
+  }
+ ],
+ "av. vitacura 4085, chile": [
+  {
+   "place_id": 1744107,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 446008839,
+   "lat": "-33.4000664",
+   "lon": "-70.5907478",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.18844892041965e-05,
+   "addresstype": "amenity",
+   "name": "Cascarrabia",
+   "display_name": "Cascarrabia, 4085, Avenida Vitacura, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "Cascarrabia",
+    "house_number": "4085",
+    "road": "Avenida Vitacura",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4001145",
+    "-33.4000171",
+    "-70.5907993",
+    "-70.5906965"
+   ]
+  }
+ ],
+ "av. vitacura 7261,vitacura, chile": [
+  {
+   "place_id": 2943263,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 110765825,
+   "lat": "-33.3863598",
+   "lon": "-70.5635679",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "7261, Avenida Vitacura, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 7640509, Chile",
+   "address": {
+    "house_number": "7261",
+    "road": "Avenida Vitacura",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7640509",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3864098",
+    "-33.3863098",
+    "-70.5636179",
+    "-70.5635179"
+   ]
+  }
+ ],
+ "inés de suarez 1330, araucanía, chile": [
+  {
+   "place_id": 937023,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 83047610,
+   "lat": "-39.2798117",
+   "lon": "-72.2372566",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05338457846952007,
+   "addresstype": "road",
+   "name": "Inés de Suárez",
+   "display_name": "Inés de Suárez, Ancahual, Villarrica, Provincia de Cautín, Región de la Araucanía, 4930611, Chile",
+   "address": {
+    "road": "Inés de Suárez",
+    "neighbourhood": "Ancahual",
+    "town": "Villarrica",
+    "county": "Provincia de Cautín",
+    "state": "Región de la Araucanía",
+    "ISO3166-2-lvl4": "CL-AR",
+    "postcode": "4930611",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-39.2801718",
+    "-39.2794989",
+    "-72.2376767",
+    "-72.2368113"
+   ]
+  },
+  {
+   "place_id": 803086,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 8422772551,
+   "lat": "-38.9826142",
+   "lon": "-72.6470357",
+   "category": "place",
+   "type": "neighbourhood",
+   "place_rank": 24,
+   "importance": 0.08004769436179138,
+   "addresstype": "neighbourhood",
+   "name": "Inés de Suárez",
+   "display_name": "Inés de Suárez, Pitrufquén, Provincia de Cautín, Región de la Araucanía, Chile",
+   "address": {
+    "neighbourhood": "Inés de Suárez",
+    "town": "Pitrufquén",
+    "county": "Provincia de Cautín",
+    "state": "Región de la Araucanía",
+    "ISO3166-2-lvl4": "CL-AR",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-38.9926142",
+    "-38.9726142",
+    "-72.6570357",
+    "-72.6370357"
+   ]
+  },
+  {
+   "place_id": 819596,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1317479107,
+   "lat": "-38.7224524",
+   "lon": "-72.6276065",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339351873044934,
+   "addresstype": "road",
+   "name": "Inés de Suárez",
+   "display_name": "Inés de Suárez, Condominio Inés de Suárez, Pedro de Valdivia, Temuco, Provincia de Cautín, Región de la Araucanía, 4800601, Chile",
+   "address": {
+    "road": "Inés de Suárez",
+    "residential": "Condominio Inés de Suárez",
+    "quarter": "Pedro de Valdivia",
+    "city": "Temuco",
+    "county": "Provincia de Cautín",
+    "state": "Región de la Araucanía",
+    "ISO3166-2-lvl4": "CL-AR",
+    "postcode": "4800601",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-38.7234187",
+    "-38.7212581",
+    "-72.6278588",
+    "-72.6269603"
+   ]
+  }
+ ],
+ "S|inés de suarez 1330|araucanía": [
+  {
+   "place_id": 937255,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 83047610,
+   "lat": "-39.2798117",
+   "lon": "-72.2372566",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05338457846952007,
+   "addresstype": "road",
+   "name": "Inés de Suárez",
+   "display_name": "Inés de Suárez, Ancahual, Villarrica, Provincia de Cautín, Región de la Araucanía, 4930611, Chile",
+   "address": {
+    "road": "Inés de Suárez",
+    "neighbourhood": "Ancahual",
+    "town": "Villarrica",
+    "county": "Provincia de Cautín",
+    "state": "Región de la Araucanía",
+    "ISO3166-2-lvl4": "CL-AR",
+    "postcode": "4930611",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-39.2801718",
+    "-39.2794989",
+    "-72.2376767",
+    "-72.2368113"
+   ]
+  },
+  {
+   "place_id": 825833,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1317479107,
+   "lat": "-38.7224524",
+   "lon": "-72.6276065",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339351873044934,
+   "addresstype": "road",
+   "name": "Inés de Suárez",
+   "display_name": "Inés de Suárez, Condominio Inés de Suárez, Pedro de Valdivia, Temuco, Provincia de Cautín, Región de la Araucanía, 4800601, Chile",
+   "address": {
+    "road": "Inés de Suárez",
+    "residential": "Condominio Inés de Suárez",
+    "quarter": "Pedro de Valdivia",
+    "city": "Temuco",
+    "county": "Provincia de Cautín",
+    "state": "Región de la Araucanía",
+    "ISO3166-2-lvl4": "CL-AR",
+    "postcode": "4800601",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-38.7234187",
+    "-38.7212581",
+    "-72.6278588",
+    "-72.6269603"
+   ]
+  },
+  {
+   "place_id": 708269,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 93592508,
+   "lat": "-37.8112010",
+   "lon": "-72.6857603",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.053386243228809,
+   "addresstype": "road",
+   "name": "Inés de Suárez",
+   "display_name": "Inés de Suárez, Villa Mirasur, Huequén, Angol, Provincia de Malleco, Región de la Araucanía, 4650000, Chile",
+   "address": {
+    "road": "Inés de Suárez",
+    "neighbourhood": "Villa Mirasur",
+    "suburb": "Huequén",
+    "city": "Angol",
+    "county": "Provincia de Malleco",
+    "state": "Región de la Araucanía",
+    "ISO3166-2-lvl4": "CL-AR",
+    "postcode": "4650000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-37.8116775",
+    "-37.8107491",
+    "-72.6862745",
+    "-72.6852240"
+   ]
+  }
+ ],
+ "andres bello 580, temuco, chile": [
+  {
+   "place_id": 843816,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 8546389866,
+   "lat": "-38.7410986",
+   "lon": "-72.5942571",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 6.018539711599935e-05,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "580, Andrés Bello, Población Soberanía, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile",
+   "address": {
+    "house_number": "580",
+    "road": "Andrés Bello",
+    "neighbourhood": "Población Soberanía",
+    "quarter": "Centro",
+    "city": "Temuco",
+    "county": "Provincia de Cautín",
+    "state": "Región de la Araucanía",
+    "ISO3166-2-lvl4": "CL-AR",
+    "postcode": "4781158",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-38.7411486",
+    "-38.7410486",
+    "-72.5943071",
+    "-72.5942071"
+   ]
+  }
+ ],
+ "isidora goyenechea 2971, las condes, chile": [
+  {
+   "place_id": 1695127,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 450408135,
+   "lat": "-33.4144422",
+   "lon": "-70.5995469",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.422064545658072e-05,
+   "addresstype": "amenity",
+   "name": "Applebee's",
+   "display_name": "Applebee's, 2971, Isidora Goyenechea, Sanhattan, Las Condes, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "Applebee's",
+    "house_number": "2971",
+    "road": "Isidora Goyenechea",
+    "neighbourhood": "Sanhattan",
+    "suburb": "Las Condes",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4145373",
+    "-33.4143449",
+    "-70.5996581",
+    "-70.5994362"
+   ]
+  }
+ ],
+ "av. arturo prat chacón 902, iquique, chile": [
+  {
+   "place_id": 4657633,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1612522619,
+   "lat": "-20.2273644",
+   "lon": "-70.1479048",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 2.8699931334355954e-05,
+   "addresstype": "amenity",
+   "name": "La Mulata",
+   "display_name": "La Mulata, 902, Avenida Arturo Prat Chacón, Iquique, Provincia de Iquique, Región de Tarapacá, 1100000, Chile",
+   "address": {
+    "amenity": "La Mulata",
+    "house_number": "902",
+    "road": "Avenida Arturo Prat Chacón",
+    "city": "Iquique",
+    "county": "Provincia de Iquique",
+    "state": "Región de Tarapacá",
+    "ISO3166-2-lvl4": "CL-TA",
+    "postcode": "1100000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-20.2274144",
+    "-20.2273144",
+    "-70.1479548",
+    "-70.1478548"
+   ]
+  }
+ ],
+ "bellavista 703, reñaca.con tarjetas de crédito santander american express, chile": [],
+ "bellavista 703, viña del mar, chile": [
+  {
+   "place_id": 2094226,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 8343698115,
+   "lat": "-32.9641254",
+   "lon": "-71.5453950",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 3.83833066299995e-05,
+   "addresstype": "amenity",
+   "name": "Casa Mar",
+   "display_name": "Casa Mar, 703, Bellavista, Las Golondrinas, Cochoa, Reñaca, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2540039, Chile",
+   "address": {
+    "amenity": "Casa Mar",
+    "house_number": "703",
+    "road": "Bellavista",
+    "neighbourhood": "Las Golondrinas",
+    "quarter": "Cochoa",
+    "suburb": "Reñaca",
+    "city": "Viña del Mar",
+    "county": "Provincia de Valparaíso",
+    "state": "Región de Valparaíso",
+    "ISO3166-2-lvl4": "CL-VS",
+    "postcode": "2540039",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-32.9641754",
+    "-32.9640754",
+    "-71.5454450",
+    "-71.5453450"
+   ]
+  }
+ ],
+ "av. sta. isabel 0306, providencia, chile": [
+  {
+   "place_id": 2728091,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 108391887,
+   "lat": "-33.4465674",
+   "lon": "-70.6270171",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "306, Avenida Santa Isabel, Barrio Las Mil Calles, Providencia, Provincia de Santiago, Región Metropolitana de Santiago, 7500000, Chile",
+   "address": {
+    "house_number": "306",
+    "road": "Avenida Santa Isabel",
+    "neighbourhood": "Barrio Las Mil Calles",
+    "suburb": "Providencia",
+    "city": "Providencia",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7500000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4466174",
+    "-33.4465174",
+    "-70.6270671",
+    "-70.6269671"
+   ]
+  },
+  {
+   "place_id": 1762111,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 449950267,
+   "lat": "-33.4462589",
+   "lon": "-70.6158540",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05338770809491108,
+   "addresstype": "road",
+   "name": "Avenida Santa Isabel",
+   "display_name": "Avenida Santa Isabel, Barrio Dalmacia, Providencia, Provincia de Santiago, Región Metropolitana de Santiago, 7500000, Chile",
+   "address": {
+    "road": "Avenida Santa Isabel",
+    "neighbourhood": "Barrio Dalmacia",
+    "suburb": "Providencia",
+    "city": "Providencia",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7500000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4467016",
+    "-33.4458095",
+    "-70.6167211",
+    "-70.6149836"
+   ]
+  }
+ ],
+ "av. vitacura 5708, vitacura.con tarjetas de crédito santander american express, chile": [],
+ "vitacura 5708, vitacura.con tarjetas de crédito santander american express, chile": [],
+ "av. vitacura 5708, vitacura, chile": [
+  {
+   "place_id": 3067273,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 110716568,
+   "lat": "-33.3923506",
+   "lon": "-70.5756804",
+   "category": "place",
+   "type": "house",
+   "place_rank": 30,
+   "importance": 9.99999999995449e-06,
+   "addresstype": "place",
+   "name": "",
+   "display_name": "5708, Avenida Vitacura, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "house_number": "5708",
+    "road": "Avenida Vitacura",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3924006",
+    "-33.3923006",
+    "-70.5757304",
+    "-70.5756304"
+   ]
+  }
+ ],
+ "suecia 0155, providencia, chile": [
+  {
+   "place_id": 1726952,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 10962416877,
+   "lat": "-33.4193028",
+   "lon": "-70.6088170",
+   "category": "office",
+   "type": "ngo",
+   "place_rank": 30,
+   "importance": 5.422064545658072e-05,
+   "addresstype": "office",
+   "name": "Oceana",
+   "display_name": "Oceana, 0155, Avenida Suecia, Barrio Suecia, Providencia, Provincia de Santiago, Región Metropolitana de Santiago, 7500000, Chile",
+   "address": {
+    "office": "Oceana",
+    "house_number": "0155",
+    "road": "Avenida Suecia",
+    "neighbourhood": "Barrio Suecia",
+    "suburb": "Providencia",
+    "city": "Providencia",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7500000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4193528",
+    "-33.4192528",
+    "-70.6088670",
+    "-70.6087670"
+   ]
+  }
+ ],
+ "ruta 225, km. 27, puerto varas, chile": [],
+ "ruta 225, puerto varas, chile": [
+  {
+   "place_id": 440904,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1051714019,
+   "lat": "-41.0690507",
+   "lon": "-71.8302286",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 5.1252765697673265e-05,
+   "addresstype": "building",
+   "name": "Policía De Investigaciones y Aduana de Chile",
+   "display_name": "Policía De Investigaciones y Aduana de Chile, Ruta 225 CH, Puerto Varas, Provincia de Llanquihue, Región de Los Lagos, Chile",
+   "address": {
+    "building": "Policía De Investigaciones y Aduana de Chile",
+    "road": "Ruta 225 CH",
+    "town": "Puerto Varas",
+    "county": "Provincia de Llanquihue",
+    "state": "Región de Los Lagos",
+    "ISO3166-2-lvl4": "CL-LL",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-41.0691410",
+    "-41.0690140",
+    "-71.8303855",
+    "-71.8301332"
+   ]
+  },
+  {
+   "place_id": 536341,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 465774554,
+   "lat": "-41.0853015",
+   "lon": "-72.0185450",
+   "category": "office",
+   "type": "government",
+   "place_rank": 30,
+   "importance": 5.1252765697673265e-05,
+   "addresstype": "office",
+   "name": "Aduana Chile",
+   "display_name": "Aduana Chile, Ruta 225 CH, Peulla, Puerto Varas, Provincia de Llanquihue, Región de Los Lagos, Chile",
+   "address": {
+    "office": "Aduana Chile",
+    "road": "Ruta 225 CH",
+    "hamlet": "Peulla",
+    "town": "Puerto Varas",
+    "county": "Provincia de Llanquihue",
+    "state": "Región de Los Lagos",
+    "ISO3166-2-lvl4": "CL-LL",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-41.0853547",
+    "-41.0852483",
+    "-72.0186314",
+    "-72.0184586"
+   ]
+  },
+  {
+   "place_id": 532437,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5556845721,
+   "lat": "-41.2162468",
+   "lon": "-72.5512466",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.1252765697673265e-05,
+   "addresstype": "amenity",
+   "name": "Ranchito",
+   "display_name": "Ranchito, 225-CH, Ruta 225 CH, Reflejos del Lago, Tepu, Puerto Varas, Provincia de Llanquihue, Región de Los Lagos, Chile",
+   "address": {
+    "amenity": "Ranchito",
+    "house_number": "225-CH",
+    "road": "Ruta 225 CH",
+    "neighbourhood": "Reflejos del Lago",
+    "hamlet": "Tepu",
+    "town": "Puerto Varas",
+    "county": "Provincia de Llanquihue",
+    "state": "Región de Los Lagos",
+    "ISO3166-2-lvl4": "CL-LL",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-41.2162968",
+    "-41.2161968",
+    "-72.5512966",
+    "-72.5511966"
+   ]
+  }
+ ],
+ "S|ruta 225|puerto varas": [
+  {
+   "place_id": 532437,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5556845721,
+   "lat": "-41.2162468",
+   "lon": "-72.5512466",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.1252765697673265e-05,
+   "addresstype": "amenity",
+   "name": "Ranchito",
+   "display_name": "Ranchito, 225-CH, Ruta 225 CH, Reflejos del Lago, Tepu, Puerto Varas, Provincia de Llanquihue, Región de Los Lagos, Chile",
+   "address": {
+    "amenity": "Ranchito",
+    "house_number": "225-CH",
+    "road": "Ruta 225 CH",
+    "neighbourhood": "Reflejos del Lago",
+    "hamlet": "Tepu",
+    "town": "Puerto Varas",
+    "county": "Provincia de Llanquihue",
+    "state": "Región de Los Lagos",
+    "ISO3166-2-lvl4": "CL-LL",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-41.2162968",
+    "-41.2161968",
+    "-72.5512966",
+    "-72.5511966"
+   ]
+  },
+  {
+   "place_id": 552016,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 5556845734,
+   "lat": "-41.2147926",
+   "lon": "-72.5478647",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.1252765697673265e-05,
+   "addresstype": "amenity",
+   "name": "Toqui",
+   "display_name": "Toqui, 225-CH, Ruta 225 CH, Reflejos del Lago, Tepu, Puerto Varas, Provincia de Llanquihue, Región de Los Lagos, Chile",
+   "address": {
+    "amenity": "Toqui",
+    "house_number": "225-CH",
+    "road": "Ruta 225 CH",
+    "neighbourhood": "Reflejos del Lago",
+    "hamlet": "Tepu",
+    "town": "Puerto Varas",
+    "county": "Provincia de Llanquihue",
+    "state": "Región de Los Lagos",
+    "ISO3166-2-lvl4": "CL-LL",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-41.2148426",
+    "-41.2147426",
+    "-72.5479147",
+    "-72.5478147"
+   ]
+  },
+  {
+   "place_id": 526562,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 318509098,
+   "lat": "-41.2255482",
+   "lon": "-72.5649568",
+   "category": "highway",
+   "type": "primary",
+   "place_rank": 26,
+   "importance": 0.05338458609903102,
+   "addresstype": "road",
+   "name": "Ruta 225 CH",
+   "display_name": "Ruta 225 CH, Reflejos del Lago, Tepu, Puerto Varas, Provincia de Llanquihue, Región de Los Lagos, Chile",
+   "address": {
+    "road": "Ruta 225 CH",
+    "neighbourhood": "Reflejos del Lago",
+    "hamlet": "Tepu",
+    "town": "Puerto Varas",
+    "county": "Provincia de Llanquihue",
+    "state": "Región de Los Lagos",
+    "ISO3166-2-lvl4": "CL-LL",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-41.2327585",
+    "-41.2091413",
+    "-72.5949894",
+    "-72.5401325"
+   ]
+  }
+ ],
+ "isidora goyenechea 2939, las condes, chile": [
+  {
+   "place_id": 1724397,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1120340876,
+   "lat": "-33.4143537",
+   "lon": "-70.6004234",
+   "category": "shop",
+   "type": "alcohol",
+   "place_rank": 30,
+   "importance": 5.422064545658072e-05,
+   "addresstype": "shop",
+   "name": "El Mundo del Vino",
+   "display_name": "El Mundo del Vino, 2939, Isidora Goyenechea, Sanhattan, Las Condes, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "shop": "El Mundo del Vino",
+    "house_number": "2939",
+    "road": "Isidora Goyenechea",
+    "neighbourhood": "Sanhattan",
+    "suburb": "Las Condes",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4144037",
+    "-33.4143037",
+    "-70.6004734",
+    "-70.6003734"
+   ]
+  },
+  {
+   "place_id": 1736180,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1120340722,
+   "lat": "-33.4143621",
+   "lon": "-70.6003368",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.422064545658072e-05,
+   "addresstype": "amenity",
+   "name": "ICA",
+   "display_name": "ICA, 2939, Isidora Goyenechea, Sanhattan, Las Condes, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "ICA",
+    "house_number": "2939",
+    "road": "Isidora Goyenechea",
+    "neighbourhood": "Sanhattan",
+    "suburb": "Las Condes",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4144121",
+    "-33.4143121",
+    "-70.6003868",
+    "-70.6002868"
+   ]
+  }
+ ],
+ "alonso de córdova 4355,vitacura, chile": [
+  {
+   "place_id": 1718513,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 595680665,
+   "lat": "-33.4041451",
+   "lon": "-70.5876906",
+   "category": "building",
+   "type": "commercial",
+   "place_rank": 30,
+   "importance": 5.18844892041965e-05,
+   "addresstype": "building",
+   "name": "",
+   "display_name": "4355, Alonso de Córdova, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "house_number": "4355",
+    "road": "Alonso de Córdova",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4042166",
+    "-33.4039392",
+    "-70.5878955",
+    "-70.5871598"
+   ]
+  },
+  {
+   "place_id": 424834890,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 14098281404,
+   "lat": "-33.4040318",
+   "lon": "-70.5873046",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 5.18844892041965e-05,
+   "addresstype": "amenity",
+   "name": "Dunkin'",
+   "display_name": "Dunkin', 4355, Alonso de Córdova, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "Dunkin'",
+    "house_number": "4355",
+    "road": "Alonso de Córdova",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4040818",
+    "-33.4039818",
+    "-70.5873546",
+    "-70.5872546"
+   ]
+  }
+ ],
+ "av. andalue 2295, concepción, chile": [
+  {
+   "place_id": 598773,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1084996242,
+   "lat": "-36.8507119",
+   "lon": "-73.0977801",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05338415121690696,
+   "addresstype": "road",
+   "name": "Avenida Andalué",
+   "display_name": "Avenida Andalué, Villa Miramar, Andalué, San Pedro de la Paz, Provincia de Concepción, Región del Biobío, 4130383, Chile",
+   "address": {
+    "road": "Avenida Andalué",
+    "neighbourhood": "Villa Miramar",
+    "quarter": "Andalué",
+    "city": "San Pedro de la Paz",
+    "county": "Provincia de Concepción",
+    "state": "Región del Biobío",
+    "ISO3166-2-lvl4": "CL-BI",
+    "postcode": "4130383",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.8508216",
+    "-36.8505436",
+    "-73.0981457",
+    "-73.0973918"
+   ]
+  }
+ ],
+ "andalue 2295, concepción, chile": [
+  {
+   "place_id": 607632,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1362234932,
+   "lat": "-36.8567126",
+   "lon": "-73.0965234",
+   "category": "place",
+   "type": "quarter",
+   "place_rank": 20,
+   "importance": 0.13338415121690697,
+   "addresstype": "quarter",
+   "name": "Andalué",
+   "display_name": "Andalué, San Pedro de la Paz, Provincia de Concepción, Región del Biobío, 4130383, Chile",
+   "address": {
+    "quarter": "Andalué",
+    "city": "San Pedro de la Paz",
+    "county": "Provincia de Concepción",
+    "state": "Región del Biobío",
+    "ISO3166-2-lvl4": "CL-BI",
+    "postcode": "4130383",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.8667126",
+    "-36.8467126",
+    "-73.1065234",
+    "-73.0865234"
+   ]
+  }
+ ],
+ "S|av. andalue 2295|concepción": [
+  {
+   "place_id": 588894,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 32475607,
+   "lat": "-36.8535879",
+   "lon": "-73.0963180",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05338415121690696,
+   "addresstype": "road",
+   "name": "Avenida Andalué",
+   "display_name": "Avenida Andalué, Villa Miramar, Andalué, San Pedro de la Paz, Provincia de Concepción, Región del Biobío, 4130383, Chile",
+   "address": {
+    "road": "Avenida Andalué",
+    "neighbourhood": "Villa Miramar",
+    "quarter": "Andalué",
+    "city": "San Pedro de la Paz",
+    "county": "Provincia de Concepción",
+    "state": "Región del Biobío",
+    "ISO3166-2-lvl4": "CL-BI",
+    "postcode": "4130383",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.8571529",
+    "-36.8506429",
+    "-73.0992783",
+    "-73.0961538"
+   ]
+  },
+  {
+   "place_id": 591677,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 902828630,
+   "lat": "-36.8579817",
+   "lon": "-73.0940254",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05338415121690696,
+   "addresstype": "road",
+   "name": "Avenida Andalué",
+   "display_name": "Avenida Andalué, Alto Lafquén, Andalué, San Pedro de la Paz, Provincia de Concepción, Región del Biobío, 4130383, Chile",
+   "address": {
+    "road": "Avenida Andalué",
+    "neighbourhood": "Alto Lafquén",
+    "quarter": "Andalué",
+    "city": "San Pedro de la Paz",
+    "county": "Provincia de Concepción",
+    "state": "Región del Biobío",
+    "ISO3166-2-lvl4": "CL-BI",
+    "postcode": "4130383",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.8585259",
+    "-36.8574247",
+    "-73.0955866",
+    "-73.0924413"
+   ]
+  },
+  {
+   "place_id": 637094,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1084996243,
+   "lat": "-36.8509943",
+   "lon": "-73.0951155",
+   "category": "highway",
+   "type": "tertiary",
+   "place_rank": 26,
+   "importance": 0.05338415121690696,
+   "addresstype": "road",
+   "name": "Avenida Andalué",
+   "display_name": "Avenida Andalué, Los Aromos, Andalué, San Pedro de la Paz, Provincia de Concepción, Región del Biobío, 4130383, Chile",
+   "address": {
+    "road": "Avenida Andalué",
+    "neighbourhood": "Los Aromos",
+    "quarter": "Andalué",
+    "city": "San Pedro de la Paz",
+    "county": "Provincia de Concepción",
+    "state": "Región del Biobío",
+    "ISO3166-2-lvl4": "CL-BI",
+    "postcode": "4130383",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-36.8509945",
+    "-36.8508892",
+    "-73.0968777",
+    "-73.0933513"
+   ]
+  }
+ ],
+ "el rodeo 12699, lo barnechea, chile": [
+  {
+   "place_id": 1533542,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1002788420,
+   "lat": "-33.3551353",
+   "lon": "-70.5206545",
+   "category": "leisure",
+   "type": "sports_centre",
+   "place_rank": 30,
+   "importance": 5.072785534442691e-05,
+   "addresstype": "leisure",
+   "name": "Club Deportivo Conecta",
+   "display_name": "Club Deportivo Conecta, 12699, Avenida El Rodeo, La Dehesa, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "leisure": "Club Deportivo Conecta",
+    "house_number": "12699",
+    "road": "Avenida El Rodeo",
+    "quarter": "La Dehesa",
+    "suburb": "Lo Barnechea",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3559411",
+    "-33.3541421",
+    "-70.5214143",
+    "-70.5199270"
+   ]
+  },
+  {
+   "place_id": 1516429,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1117919804,
+   "lat": "-33.3536169",
+   "lon": "-70.5212216",
+   "category": "shop",
+   "type": "laundry",
+   "place_rank": 30,
+   "importance": 5.072785534442691e-05,
+   "addresstype": "shop",
+   "name": "ProntoMatic",
+   "display_name": "ProntoMatic, 12699, Avenida El Rodeo, La Dehesa, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "shop": "ProntoMatic",
+    "house_number": "12699",
+    "road": "Avenida El Rodeo",
+    "quarter": "La Dehesa",
+    "suburb": "Lo Barnechea",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3536669",
+    "-33.3535669",
+    "-70.5212716",
+    "-70.5211716"
+   ]
+  },
+  {
+   "place_id": 1520110,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1117919801,
+   "lat": "-33.3537176",
+   "lon": "-70.5212350",
+   "category": "amenity",
+   "type": "fast_food",
+   "place_rank": 30,
+   "importance": 5.072785534442691e-05,
+   "addresstype": "amenity",
+   "name": "La Chocolatta",
+   "display_name": "La Chocolatta, 12699, Avenida El Rodeo, La Dehesa, Lo Barnechea, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "La Chocolatta",
+    "house_number": "12699",
+    "road": "Avenida El Rodeo",
+    "quarter": "La Dehesa",
+    "suburb": "Lo Barnechea",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3537676",
+    "-33.3536676",
+    "-70.5212850",
+    "-70.5211850"
+   ]
+  }
+ ],
+ "av. pedro de valdivia 065, providencia, chile": [
+  {
+   "place_id": 1792492,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 190458590,
+   "lat": "-33.4429067",
+   "lon": "-70.6065317",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05338770809491108,
+   "addresstype": "road",
+   "name": "Avenida Pedro de Valdivia",
+   "display_name": "Avenida Pedro de Valdivia, Barrio Plaza Pedro de Valdivia, Providencia, Provincia de Santiago, Región Metropolitana de Santiago, 7500000, Chile",
+   "address": {
+    "road": "Avenida Pedro de Valdivia",
+    "neighbourhood": "Barrio Plaza Pedro de Valdivia",
+    "suburb": "Providencia",
+    "city": "Providencia",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7500000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4437820",
+    "-33.4420315",
+    "-70.6066814",
+    "-70.6063820"
+   ]
+  },
+  {
+   "place_id": 1762526,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 447615868,
+   "lat": "-33.4450059",
+   "lon": "-70.6062323",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05338770809491108,
+   "addresstype": "road",
+   "name": "Avenida Pedro de Valdivia",
+   "display_name": "Avenida Pedro de Valdivia, Providencia, Provincia de Santiago, Región Metropolitana de Santiago, 7500000, Chile",
+   "address": {
+    "road": "Avenida Pedro de Valdivia",
+    "suburb": "Providencia",
+    "city": "Providencia",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7500000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4454057",
+    "-33.4446059",
+    "-70.6062989",
+    "-70.6061646"
+   ]
+  },
+  {
+   "place_id": 1792399,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 684287432,
+   "lat": "-33.4439642",
+   "lon": "-70.6064302",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05338770809491108,
+   "addresstype": "road",
+   "name": "Avenida Pedro de Valdivia",
+   "display_name": "Avenida Pedro de Valdivia, Barrio Inés de Suárez, Providencia, Provincia de Santiago, Región Metropolitana de Santiago, 7500000, Chile",
+   "address": {
+    "road": "Avenida Pedro de Valdivia",
+    "neighbourhood": "Barrio Inés de Suárez",
+    "suburb": "Providencia",
+    "city": "Providencia",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7500000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4441338",
+    "-33.4437947",
+    "-70.6064802",
+    "-70.6063802"
+   ]
+  }
+ ],
+ "av. pedro de valdivia 65, providencia, chile": [
+  {
+   "place_id": 1702394,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 976172984,
+   "lat": "-33.4228720",
+   "lon": "-70.6129602",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.422064545658072e-05,
+   "addresstype": "amenity",
+   "name": "La Bifería",
+   "display_name": "La Bifería, 65, Avenida Pedro de Valdivia, Barrio Paseo Providencia, Providencia, Provincia de Santiago, Región Metropolitana de Santiago, 7500000, Chile",
+   "address": {
+    "amenity": "La Bifería",
+    "house_number": "65",
+    "road": "Avenida Pedro de Valdivia",
+    "neighbourhood": "Barrio Paseo Providencia",
+    "suburb": "Providencia",
+    "city": "Providencia",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "7500000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.4229220",
+    "-33.4228220",
+    "-70.6130102",
+    "-70.6129102"
+   ]
+  }
+ ],
+ "nueva costanera 4092, vitacura, chile": [
+  {
+   "place_id": 1713330,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 447296242,
+   "lat": "-33.3952592",
+   "lon": "-70.5976102",
+   "category": "amenity",
+   "type": "restaurant",
+   "place_rank": 30,
+   "importance": 5.18844892041965e-05,
+   "addresstype": "amenity",
+   "name": "Cumaru",
+   "display_name": "Cumaru, 4092, Avenida Nueva Costanera, Lo Castillo, Vitacura, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",
+   "address": {
+    "amenity": "Cumaru",
+    "house_number": "4092",
+    "road": "Avenida Nueva Costanera",
+    "neighbourhood": "Lo Castillo",
+    "suburb": "Vitacura",
+    "city": "Santiago",
+    "county": "Provincia de Santiago",
+    "state": "Región Metropolitana de Santiago",
+    "ISO3166-2-lvl4": "CL-RM",
+    "postcode": "8320000",
+    "country": "Chile",
+    "country_code": "cl"
+   },
+   "boundingbox": [
+    "-33.3954260",
+    "-33.3951871",
+    "-70.5977497",
+    "-70.5975504"
+   ]
+  }
+ ]
 }
