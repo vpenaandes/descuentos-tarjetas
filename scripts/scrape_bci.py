@@ -162,7 +162,10 @@ def normalize(o):
         "region": region.replace("R. ", "Región ") if region else "",
         "vigencia": f"{(o.get('fechaInicio') or '')[:10]} → {(o.get('fechaTermino') or '')[:10]}",
         "condiciones": (desc + ("\n\nLegal: " + legal if legal else "")).strip(),
-        "url": (o.get("link") or "").strip() or DETALLE.format(slug=o.get("slug", "")),
+        # "Verificar" debe abrir la página del banco, no el Instagram del local:
+        # o.link a veces trae la web/IG del comercio -> va aparte como sitio_comercio.
+        "url": DETALLE.format(slug=o.get("slug", "")),
+        "sitio_comercio": (o.get("link") or "").strip(),
         "tags": tags,
     }
 

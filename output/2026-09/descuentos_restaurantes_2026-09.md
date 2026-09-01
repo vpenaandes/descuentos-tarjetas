@@ -10,23 +10,23 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 
 | Banco | Comercio | Tipo | Dcto | Tope | Horario | Lugar | Tarjetas |
 |---|---|---|---|---|---|---|---|
-| BCI | [China 365](https://www.china365.cl/) | Lo Barnechea | 20% dcto · Lu - Mi - Ju - Vi | Sin tope | — | China 365, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
-| BCI | [Danubio Azul](https://danubioazul.cl/) | Una experiencia oriental en Las Condes | 20% dcto · Lunes, martes y miércoles | $40.000 | — | Danubio Azul, Las Condes | Exclusivo con tus Tarjeta de Crédito o Débito Bci. |
-| BCI | [Danés](https://www.eldanes.cl) | Variedad de sabores en Las Condes | 40% dcto · Todos los lunes | $40.000 | — | Danés, Las Condes | Exclusivo con tus Tarjetas de Crédito Bci. |
-| BCI | [De Barrio](https://www.instagram.com/debarriochile/) | En Barrio Italia | 40% dcto · Lu - Ma - Mi - Ju | $40.000 | — | De Barrio, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [De Lechón a Salmón](https://www.delechonasalmon.cl/) | Disfruta en Temuco | 40% dcto · Todos los lunes | $40.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Dominga Bistró](https://www.domingabistro.cl/) | Iquique | 40% dcto · Todos los jueves | $40.000 | — | Dominga Bistró, Iquique | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Dominga Bistró](https://www.domingabistro.cl/) | Pucón | 40% dcto · Todos los lunes | $40.000 | — | Dominga Bistró, La Araucanía | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Dominga Bistró](https://www.domingabistro.cl/) | Valdivia | 40% dcto · Todos los lunes | $40.000 | — | Dominga Bistró, Los Ríos | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Impasto Restobar](https://www.instagram.com/impasto.restobar/?hl=es) | Providencia | 40% dcto · Miércoles y viernes | $40.000 | — | Impasto Restobar, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [KFC](https://www.kentucky.cl/) | Combo Chicken Share Mixto | 30% dcto · Todos los lunes | — | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [La Santoría](https://www.instagram.com/barlasantoria/?hl=en) | Restaurante de comida Italiana en Providencia | 40% dcto · Lunes, martes y domingo | $40.000 | — | La Santoría, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Loca Pasta](https://www.locapasta.cl/) | Las Condes | 30% dcto · Todos los lunes | Sin tope | — | Loca Pasta, Providencia; Loca Pasta, Las Condes | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [China 365](https://www.bci.cl/beneficios/beneficios-bci/detalle/lunes-miercoles-jueves-y-viernes-6uyqhar) | Lo Barnechea | 20% dcto · Lu - Mi - Ju - Vi | Sin tope | — | China 365, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
+| BCI | [Danubio Azul](https://www.bci.cl/beneficios/beneficios-bci/detalle/una-experiencia-oriental-en-las-condes-0mk5lde) | Una experiencia oriental en Las Condes | 20% dcto · Lunes, martes y miércoles | $40.000 | — | Danubio Azul, Las Condes | Exclusivo con tus Tarjeta de Crédito o Débito Bci. |
+| BCI | [Danés](https://www.bci.cl/beneficios/beneficios-bci/detalle/variedad-de-sabores-en-las-condes-jpj9xzn) | Variedad de sabores en Las Condes | 40% dcto · Todos los lunes | $40.000 | — | Danés, Las Condes | Exclusivo con tus Tarjetas de Crédito Bci. |
+| BCI | [De Barrio](https://www.bci.cl/beneficios/beneficios-bci/detalle/en-barrio-italia-90b5ws9) | En Barrio Italia | 40% dcto · Lu - Ma - Mi - Ju | $40.000 | — | De Barrio, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [De Lechón a Salmón](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-lunes-en-temuco-jrgv61w) | Disfruta en Temuco | 40% dcto · Todos los lunes | $40.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Dominga Bistró](https://www.bci.cl/beneficios/beneficios-bci/detalle/iquique-7vpw6wt) | Iquique | 40% dcto · Todos los jueves | $40.000 | — | Dominga Bistró, Iquique | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Dominga Bistró](https://www.bci.cl/beneficios/beneficios-bci/detalle/pucon-tfusegg) | Pucón | 40% dcto · Todos los lunes | $40.000 | — | Dominga Bistró, La Araucanía | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Dominga Bistró](https://www.bci.cl/beneficios/beneficios-bci/detalle/valdivia-73pse8t) | Valdivia | 40% dcto · Todos los lunes | $40.000 | — | Dominga Bistró, Los Ríos | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Impasto Restobar](https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-y-viernes-en-providencia-sl3au9a) | Providencia | 40% dcto · Miércoles y viernes | $40.000 | — | Impasto Restobar, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [KFC](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-lunes-en-combo-chicken-share-alitas-us5tjzf) | Combo Chicken Share Mixto | 30% dcto · Todos los lunes | — | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [La Santoría](https://www.bci.cl/beneficios/beneficios-bci/detalle/restaurante-de-comida-italiana-en-providencia-mzi45gr) | Restaurante de comida Italiana en Providencia | 40% dcto · Lunes, martes y domingo | $40.000 | — | La Santoría, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Loca Pasta](https://www.bci.cl/beneficios/beneficios-bci/detalle/para-disfrutar-todos-los-lunes-en-providencia-y-vitacura-oxuv3p) | Las Condes | 30% dcto · Todos los lunes | Sin tope | — | Loca Pasta, Providencia; Loca Pasta, Las Condes | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
 | BCI | [Restaurante República de Arica](https://www.bci.cl/beneficios/beneficios-bci/detalle/lunes-y-jueves-arica-xqpmh7) | — | 20% dcto · Lunes y jueves | $40.000 | — | Restaurante República de Arica, Arica y Parinacota | Exclusivo con tus tarjetas de Crédito o Débito Bci |
-| BCI | [Sanguchería Gorilas](https://sangucheriagorilas.cl/) | — | 20% dcto · Lunes y martes | $30.000 | — | Sanguchería Gorilas, Las Condes; Sanguchería Gorilas, Viña del mar; Sanguchería Gorilas, Valparaíso | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
-| BCI | [Starburger](https://starburger.cl/) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Tigre Bravo](https://www.tigrebravo.cl/locales/) | Descubre este espacio gastronómico en Maipú | 40% dcto · Todos los lunes | $40.000 | — | Tigre Bravo, Maipú | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Viviana Casa de Té](https://turismo.ptovaras.cl/servicios-turisticos/servicio/casa-de-te-viviana) | Aprovecha este beneficio en Puerto Varas | 30% dcto · Todos los martes | $30.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Sanguchería Gorilas](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-lunes-y-los-martes-ncif6oh) | — | 20% dcto · Lunes y martes | $30.000 | — | Sanguchería Gorilas, Las Condes; Sanguchería Gorilas, Viña del mar; Sanguchería Gorilas, Valparaíso | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
+| BCI | [Starburger](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-dias-para-disfrutar-85s0l4) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Tigre Bravo](https://www.bci.cl/beneficios/beneficios-bci/detalle/descubre-este-espacio-gastronomico-en-maipu-qjrzfu) | Descubre este espacio gastronómico en Maipú | 40% dcto · Todos los lunes | $40.000 | — | Tigre Bravo, Maipú | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Viviana Casa de Té](https://www.bci.cl/beneficios/beneficios-bci/detalle/aprovecha-este-beneficio-en-puerto-varas-zxvpa8e) | Aprovecha este beneficio en Puerto Varas | 30% dcto · Todos los martes | $30.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
 | Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
 | Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | Restaurante peruano que ofrece ceviches, tiradito… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Pano… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
 | Banco Falabella | [Berlín Doner Kebab](https://www.bancofalabella.cl/descuentos/detalle/berlin-doner-kebab) | Restaurante inspirado en la tradición alemana del… | 40% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
@@ -83,25 +83,25 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 
 | Banco | Comercio | Tipo | Dcto | Tope | Horario | Lugar | Tarjetas |
 |---|---|---|---|---|---|---|---|
-| BCI | [App McDonalds](https://www.mcdonalds.com/us/es-us/download-app.html) | En tu App de McDonalds | 40% dcto · Todos los martes | Sin tope | — | — | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
+| BCI | [App McDonalds](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-martes-en-tu-app-de-mcdonalds-nf4vg4m) | En tu App de McDonalds | 40% dcto · Todos los martes | Sin tope | — | — | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
 | BCI | [Atípico](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-martes-en-puerto-varas-itra49g) | Disfruta en Puerto Varas | 40% dcto · Todos los martes | $40.000 | — | — | Exclusivo con tus Tarjetas de Crédito Bci. |
 | BCI | [Blind Bar](https://www.bci.cl/beneficios/beneficios-bci/detalle/aprovecha-los-martes-y-miercoles-en-calama-vtspos) | Aprovecha en Calama | 20% dcto · Martes y miércoles | $20.000 | — | Blind Bar, Calama | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
-| BCI | [Casa Reñaca](https://www.instagram.com/casarenaca/) | — | 40% dcto · Todos los viernes | $40.000 | — | Casa Reñaca, Viña del mar | Exclusivo con tus Tarjetas de Crédito Bci. |
-| BCI | [China 365](https://www.china365.cl/) | Lo Barnechea | 20% dcto · Lu - Mi - Ju - Vi | Sin tope | — | China 365, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
-| BCI | [Danubio Azul](https://danubioazul.cl/) | Una experiencia oriental en Las Condes | 20% dcto · Lunes, martes y miércoles | $40.000 | — | Danubio Azul, Las Condes | Exclusivo con tus Tarjeta de Crédito o Débito Bci. |
-| BCI | [De Barrio](https://www.instagram.com/debarriochile/) | En Barrio Italia | 40% dcto · Lu - Ma - Mi - Ju | $40.000 | — | De Barrio, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Kanpai](https://www.instagram.com/kanpai_pichilemu/?hl=es) | — | 40% dcto · Todos los martes | $40.000 | — | Kanpai, O'higgins | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [La Santoría](https://www.instagram.com/barlasantoria/?hl=en) | Restaurante de comida Italiana en Providencia | 40% dcto · Lunes, martes y domingo | $40.000 | — | La Santoría, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Los Vikingos](https://vikingosrestaurant.cl/) | Santiago Centro | 40% dcto · Todos los miércoles | $40.000 | — | Los Vikingos, Santiago | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Masamá](https://www.masama.cl/) | Para disfrutar en Vina del Mar | 40% dcto · Todos los martes | $40.000 | — | Masamá, Viña del mar | Exclusivo con tus tarjetat de Crédito Bci. |
+| BCI | [Casa Reñaca](https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-en-renaca-54w3mph) | — | 40% dcto · Todos los viernes | $40.000 | — | Casa Reñaca, Viña del mar | Exclusivo con tus Tarjetas de Crédito Bci. |
+| BCI | [China 365](https://www.bci.cl/beneficios/beneficios-bci/detalle/lunes-miercoles-jueves-y-viernes-6uyqhar) | Lo Barnechea | 20% dcto · Lu - Mi - Ju - Vi | Sin tope | — | China 365, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
+| BCI | [Danubio Azul](https://www.bci.cl/beneficios/beneficios-bci/detalle/una-experiencia-oriental-en-las-condes-0mk5lde) | Una experiencia oriental en Las Condes | 20% dcto · Lunes, martes y miércoles | $40.000 | — | Danubio Azul, Las Condes | Exclusivo con tus Tarjeta de Crédito o Débito Bci. |
+| BCI | [De Barrio](https://www.bci.cl/beneficios/beneficios-bci/detalle/en-barrio-italia-90b5ws9) | En Barrio Italia | 40% dcto · Lu - Ma - Mi - Ju | $40.000 | — | De Barrio, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Kanpai](https://www.bci.cl/beneficios/beneficios-bci/detalle/martes-pichilemu-fy8dit) | — | 40% dcto · Todos los martes | $40.000 | — | Kanpai, O'higgins | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [La Santoría](https://www.bci.cl/beneficios/beneficios-bci/detalle/restaurante-de-comida-italiana-en-providencia-mzi45gr) | Restaurante de comida Italiana en Providencia | 40% dcto · Lunes, martes y domingo | $40.000 | — | La Santoría, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Los Vikingos](https://www.bci.cl/beneficios/beneficios-bci/detalle/santiago-centro-5o96pd) | Santiago Centro | 40% dcto · Todos los miércoles | $40.000 | — | Los Vikingos, Santiago | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Masamá](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-martes-para-disfrutar-en-vina-del-mar-q0miwx9) | Para disfrutar en Vina del Mar | 40% dcto · Todos los martes | $40.000 | — | Masamá, Viña del mar | Exclusivo con tus tarjetat de Crédito Bci. |
 | BCI | [Ocean Pacific´s](https://www.bci.cl/beneficios/beneficios-bci/detalle/vitacura-y-santiago-centro-kqiua6) | Vitacura y Santiago Centro | 40% dcto · Todos los miércoles | $40.000 | — | Ocean Pacific´s, Vitacura; Ocean Pacific´s, Santiago | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Pastamore](https://www.pastamore.cl/) | — | 20% dcto · Todos los martes | $20.000 | — | Pastamore, Vitacura | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Punto País](https://puntopais.cl/) | Disfruta de la mejor comida en Nunoa | 20% dcto · Martes y miércoles | $100.000 | — | Punto País, Ñuñoa | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Sanguchería Gorilas](https://sangucheriagorilas.cl/) | — | 20% dcto · Lunes y martes | $30.000 | — | Sanguchería Gorilas, Las Condes; Sanguchería Gorilas, Viña del mar; Sanguchería Gorilas, Valparaíso | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
-| BCI | [Starburger](https://starburger.cl/) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Sublimeat](https://www.instagram.com/sublimeatchile/?hl=es) | Calama | 20% dcto · Martes y miércoles | $20.000 | — | Sublimeat, Calama | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Tigre Bravo](https://www.tigrebravo.cl/locales/) | Descubre este espacio gastronómico en Maipú | 40% dcto · Todos los lunes | $40.000 | — | Tigre Bravo, Maipú | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Viviana Casa de Té](https://turismo.ptovaras.cl/servicios-turisticos/servicio/casa-de-te-viviana) | Aprovecha este beneficio en Puerto Varas | 30% dcto · Todos los martes | $30.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Pastamore](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-martes-2vsvst) | — | 20% dcto · Todos los martes | $20.000 | — | Pastamore, Vitacura | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Punto País](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-de-la-mejor-comida-en-nunoa-4u5hyp) | Disfruta de la mejor comida en Nunoa | 20% dcto · Martes y miércoles | $100.000 | — | Punto País, Ñuñoa | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Sanguchería Gorilas](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-lunes-y-los-martes-ncif6oh) | — | 20% dcto · Lunes y martes | $30.000 | — | Sanguchería Gorilas, Las Condes; Sanguchería Gorilas, Viña del mar; Sanguchería Gorilas, Valparaíso | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
+| BCI | [Starburger](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-dias-para-disfrutar-85s0l4) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Sublimeat](https://www.bci.cl/beneficios/beneficios-bci/detalle/aprovecha-los-martes-y-miercoles-en-calama-o2ihbdzj) | Calama | 20% dcto · Martes y miércoles | $20.000 | — | Sublimeat, Calama | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Tigre Bravo](https://www.bci.cl/beneficios/beneficios-bci/detalle/descubre-este-espacio-gastronomico-en-maipu-qjrzfu) | Descubre este espacio gastronómico en Maipú | 40% dcto · Todos los lunes | $40.000 | — | Tigre Bravo, Maipú | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Viviana Casa de Té](https://www.bci.cl/beneficios/beneficios-bci/detalle/aprovecha-este-beneficio-en-puerto-varas-zxvpa8e) | Aprovecha este beneficio en Puerto Varas | 30% dcto · Todos los martes | $30.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
 | Banco Falabella | [Augusta Bar](https://www.bancofalabella.cl/descuentos/detalle/augusta-bar) | Restobar con una propuesta diversa que combina ha… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Concepción; Augusta Bar: Paso Hondo 209, Lomas de San Andrés. Bio bío | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
 | Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
 | Banco Falabella | [Baqueano Temuco](https://www.bancofalabella.cl/descuentos/detalle/baqueano-temuco) | Es un espacio gastronómico que mezcla tradición c… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella los Martes) | Sin Tope | — | Temuco; Baqueano Temuco | CMR Mastercard; CMR Mastercard Premium; Tarjeta Débito Banco Falabella; CMR Mastercard El… |
@@ -177,29 +177,29 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 | Banco | Comercio | Tipo | Dcto | Tope | Horario | Lugar | Tarjetas |
 |---|---|---|---|---|---|---|---|
 | BCI | [Amalfi Trattoria Bar](https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-arica-gzp7w89) | — | 40% dcto · Todos los miércoles | $40.000 | — | Amalfi Trattoria Bar, Arica y Parinacota | Exclusivo con tus Tarjetas de Crédito Bci. |
-| BCI | [Bar sociedad 0306](https://www.instagram.com/sociedad0306/?hl=es) | Providenci | 40% dcto · Todos los miércoles | $40.000 | — | Bar sociedad 0306, Algarrobo | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Bar sociedad 0306](https://www.bci.cl/beneficios/beneficios-bci/detalle/providenci-unq93xm) | Providenci | 40% dcto · Todos los miércoles | $40.000 | — | Bar sociedad 0306, Algarrobo | Exclusivo con tus tarjetas de Crédito Bci. |
 | BCI | [Blind Bar](https://www.bci.cl/beneficios/beneficios-bci/detalle/aprovecha-los-martes-y-miercoles-en-calama-vtspos) | Aprovecha en Calama | 20% dcto · Martes y miércoles | $20.000 | — | Blind Bar, Calama | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
-| BCI | [Casa Reñaca](https://www.instagram.com/casarenaca/) | — | 40% dcto · Todos los viernes | $40.000 | — | Casa Reñaca, Viña del mar | Exclusivo con tus Tarjetas de Crédito Bci. |
-| BCI | [Casa Vitalis](https://casavitalisrestaurant.cl/) | — | 20% dcto · Todos los miércoles | $20.000 | — | — | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
-| BCI | [China 365](https://www.china365.cl/) | Lo Barnechea | 20% dcto · Lu - Mi - Ju - Vi | Sin tope | — | China 365, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
+| BCI | [Casa Reñaca](https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-en-renaca-54w3mph) | — | 40% dcto · Todos los viernes | $40.000 | — | Casa Reñaca, Viña del mar | Exclusivo con tus Tarjetas de Crédito Bci. |
+| BCI | [Casa Vitalis](https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-para-disfrutar-con-amigos-um3jwdg) | — | 20% dcto · Todos los miércoles | $20.000 | — | — | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
+| BCI | [China 365](https://www.bci.cl/beneficios/beneficios-bci/detalle/lunes-miercoles-jueves-y-viernes-6uyqhar) | Lo Barnechea | 20% dcto · Lu - Mi - Ju - Vi | Sin tope | — | China 365, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
 | BCI | [China Wok](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-miercoles-en-combo-wok-1-pollo-tereyaki-kr43pym) | — | 30% dcto · Todos los miércoles | — | — | — | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
-| BCI | [Danubio Azul](https://danubioazul.cl/) | — | 40% dcto · Todos los miércoles | $40.000 | — | Danubio Azul, Las Condes | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Danubio Azul](https://danubioazul.cl/) | Una experiencia oriental en Las Condes | 20% dcto · Lunes, martes y miércoles | $40.000 | — | Danubio Azul, Las Condes | Exclusivo con tus Tarjeta de Crédito o Débito Bci. |
-| BCI | [De Barrio](https://www.instagram.com/debarriochile/) | En Barrio Italia | 40% dcto · Lu - Ma - Mi - Ju | $40.000 | — | De Barrio, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [De Lechón a Salmón](https://www.delechonasalmon.cl/) | Disfruta en Temuco | 40% dcto · Todos los lunes | $40.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Impasto Restobar](https://www.instagram.com/impasto.restobar/?hl=es) | Providencia | 40% dcto · Miércoles y viernes | $40.000 | — | Impasto Restobar, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Kató Tasty Caos](https://katotastycaos.cl/) | Isidora Goyenechea | 40% dcto · Todos los viernes | $40.000 | — | Kató Tasty Caos, Las Condes | Exclusivo con tus tarjetas Bci Visa Siganture, Visa Infinite y Mastercard Black |
-| BCI | [La Hacienda Talca](https://www.lahaciendarestaurant.cl/) | — | 40% dcto · Todos los miércoles | $40.000 | — | La Hacienda Talca, Maule | Exclusivo con tus Tarjetas de Crédito Bci. |
+| BCI | [Danubio Azul](https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-las-condes-0e21ts) | — | 40% dcto · Todos los miércoles | $40.000 | — | Danubio Azul, Las Condes | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Danubio Azul](https://www.bci.cl/beneficios/beneficios-bci/detalle/una-experiencia-oriental-en-las-condes-0mk5lde) | Una experiencia oriental en Las Condes | 20% dcto · Lunes, martes y miércoles | $40.000 | — | Danubio Azul, Las Condes | Exclusivo con tus Tarjeta de Crédito o Débito Bci. |
+| BCI | [De Barrio](https://www.bci.cl/beneficios/beneficios-bci/detalle/en-barrio-italia-90b5ws9) | En Barrio Italia | 40% dcto · Lu - Ma - Mi - Ju | $40.000 | — | De Barrio, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [De Lechón a Salmón](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-lunes-en-temuco-jrgv61w) | Disfruta en Temuco | 40% dcto · Todos los lunes | $40.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Impasto Restobar](https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-y-viernes-en-providencia-sl3au9a) | Providencia | 40% dcto · Miércoles y viernes | $40.000 | — | Impasto Restobar, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Kató Tasty Caos](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-de-este-beneficio-los-viernes-en-isidora-goyenechea-77wc2jk) | Isidora Goyenechea | 40% dcto · Todos los viernes | $40.000 | — | Kató Tasty Caos, Las Condes | Exclusivo con tus tarjetas Bci Visa Siganture, Visa Infinite y Mastercard Black |
+| BCI | [La Hacienda Talca](https://www.bci.cl/beneficios/beneficios-bci/detalle/aprovecha-los-miercoles-en-talca-86fi23u) | — | 40% dcto · Todos los miércoles | $40.000 | — | La Hacienda Talca, Maule | Exclusivo con tus Tarjetas de Crédito Bci. |
 | BCI | [La Vinoteca](https://www.bci.cl/beneficios/beneficios-bci/detalle/vitacura-providencia-lo-barnechea-vina-del-mar-ketyfc) | Santiago y Vina del Mar | 40% dcto · Todos los miércoles | $40.000 | — | La Vinoteca, Lo Barnechea; La Vinoteca, Vitacura; La Vinoteca, Providencia | Exclusivo con tus tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite |
 | BCI | [Las Tranqueras](https://www.bci.cl/beneficios/beneficios-bci/detalle/carnes-para-disfrutar-en-temuco-ue5qshp) | Carnes para disfrutar en Temuco | 40% dcto · Todos los miércoles | $40.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Los Vikingos](https://vikingosrestaurant.cl/) | Santiago Centro | 40% dcto · Todos los miércoles | $40.000 | — | Los Vikingos, Santiago | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Los Vikingos](https://www.bci.cl/beneficios/beneficios-bci/detalle/santiago-centro-5o96pd) | Santiago Centro | 40% dcto · Todos los miércoles | $40.000 | — | Los Vikingos, Santiago | Exclusivo con tus tarjetas de Crédito Bci. |
 | BCI | [Ocean Pacific´s](https://www.bci.cl/beneficios/beneficios-bci/detalle/vitacura-y-santiago-centro-kqiua6) | Vitacura y Santiago Centro | 40% dcto · Todos los miércoles | $40.000 | — | Ocean Pacific´s, Vitacura; Ocean Pacific´s, Santiago | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Punto País](https://puntopais.cl/) | Disfruta de la mejor comida en Nunoa | 20% dcto · Martes y miércoles | $100.000 | — | Punto País, Ñuñoa | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Qnto restaurante](https://www.instagram.com/qnto.restaurant/?hl=es) | — | 20% dcto · Todos los miércoles | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Restaurant Travesía](https://www.travesiarestaurant.com/) | Vina del Mar | 20% dcto · Todos los miércoles | Sin tope | — | Restaurant Travesía, Viña del mar | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Restaurante La Fuente Peruana](https://www.lafuenteperuana.cl/) | — | 20% dcto · Todos los miércoles | Sin tope | — | Restaurante La Fuente Peruana, Iquique | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Starburger](https://starburger.cl/) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Sublimeat](https://www.instagram.com/sublimeatchile/?hl=es) | Calama | 20% dcto · Martes y miércoles | $20.000 | — | Sublimeat, Calama | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Punto País](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-de-la-mejor-comida-en-nunoa-4u5hyp) | Disfruta de la mejor comida en Nunoa | 20% dcto · Martes y miércoles | $100.000 | — | Punto País, Ñuñoa | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Qnto restaurante](https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-concepcion-rs1qwfe) | — | 20% dcto · Todos los miércoles | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Restaurant Travesía](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-miercoles-en-vina-del-mar-bxb009j) | Vina del Mar | 20% dcto · Todos los miércoles | Sin tope | — | Restaurant Travesía, Viña del mar | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Restaurante La Fuente Peruana](https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-iquique-rziahz) | — | 20% dcto · Todos los miércoles | Sin tope | — | Restaurante La Fuente Peruana, Iquique | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Starburger](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-dias-para-disfrutar-85s0l4) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Sublimeat](https://www.bci.cl/beneficios/beneficios-bci/detalle/aprovecha-los-martes-y-miercoles-en-calama-o2ihbdzj) | Calama | 20% dcto · Martes y miércoles | $20.000 | — | Sublimeat, Calama | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
 | BCI | [Wendys](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-miercoles-en-combo-boconator-doble-zqw9icg) | — | 30% dcto · Todos los miércoles | — | — | — | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
 | Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
 | Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | Restaurante peruano que ofrece ceviches, tiradito… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Pano… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
@@ -293,26 +293,26 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 |---|---|---|---|---|---|---|---|
 | BCI | [Burgerholic](https://www.bci.cl/beneficios/beneficios-bci/detalle/sabado-lo-barnechea-k6qa9h) | Lo Barnechea | 20% dcto · Todos los sábados | $20.000 | — | Burgerholic, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
 | BCI | [Cambalache](https://www.bci.cl/beneficios/beneficios-bci/detalle/para-disfrutar-en-puerto-varas-r4jl7w7) | Para disfrutar en Puerto Varas | 40% dcto · Todos los jueves | $40.000 | — | Cambalache, Los Lagos | Exclusivo con tus Tarjetas de Crédito Bci. |
-| BCI | [Casa Vitalis](https://casavitalisrestaurant.cl/) | — | 20% dcto · Todos los miércoles | $20.000 | — | — | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
-| BCI | [China 365](https://www.china365.cl/) | Lo Barnechea | 20% dcto · Lu - Mi - Ju - Vi | Sin tope | — | China 365, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
-| BCI | [De Barrio](https://www.instagram.com/debarriochile/) | En Barrio Italia | 40% dcto · Lu - Ma - Mi - Ju | $40.000 | — | De Barrio, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Dominga Bistró](https://www.domingabistro.cl/) | Iquique | 40% dcto · Todos los jueves | $40.000 | — | Dominga Bistró, Iquique | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Enkai Asian Food](https://www.enkaibar.cl/) | Disfruta len Antofagasta | 20% dcto · Jueves y sábado | $20.000 | — | Enkai Asian Food, Antofagasta | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Fino Chalán](https://www.finochalan.cl/) | — | 40% dcto · Todos los jueves | $40.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Fuegos de Raidho](https://fuegosderaidho.cl/) | Para disfrutar en Talca | 40% dcto · Todos los jueves | $40.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Gaetano](https://www.instagram.com/gaetano.talca/?hl=es-la) | — | 40% dcto · Todos los jueves | $40.000 | — | Gaetano, Maule | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Güeros](https://www.instagram.com/guerosterrazas/) | Auténtica cocina mexicana para disfrutar | 40% dcto · Todos los viernes | $40.000 | — | Güeros, Providencia | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Hijo del Inca](https://www.instagram.com/hijodelinca.cl/?hl=en) | La Reina y Providencia | 40% dcto · Todos los jueves | $40.000 | — | Hijo del Inca, La Reina | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Kanpai](https://www.instagram.com/kanpai_pichilemu/?hl=es) | — | 40% dcto · Todos los martes | $40.000 | — | Kanpai, O'higgins | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [La Cocina de Javier](https://www.instagram.com/cocinadejavier/?hl=es) | — | 50% dcto · Todos los jueves | $100.000 | — | La Cocina de Javier, Vitacura | Exclusivo con tus arjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite |
-| BCI | [La Mulata](https://lamulata.cl/) | La mejor cocina fusión peruana en Iquique | 40% dcto · Todos los jueves | $40.000 | — | La Mulata, Iquique | Exclusivo con tus tarjetas Bci Visa Signature, Visa Infinite y Mastercard Black |
+| BCI | [Casa Vitalis](https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-para-disfrutar-con-amigos-um3jwdg) | — | 20% dcto · Todos los miércoles | $20.000 | — | — | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
+| BCI | [China 365](https://www.bci.cl/beneficios/beneficios-bci/detalle/lunes-miercoles-jueves-y-viernes-6uyqhar) | Lo Barnechea | 20% dcto · Lu - Mi - Ju - Vi | Sin tope | — | China 365, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
+| BCI | [De Barrio](https://www.bci.cl/beneficios/beneficios-bci/detalle/en-barrio-italia-90b5ws9) | En Barrio Italia | 40% dcto · Lu - Ma - Mi - Ju | $40.000 | — | De Barrio, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Dominga Bistró](https://www.bci.cl/beneficios/beneficios-bci/detalle/iquique-7vpw6wt) | Iquique | 40% dcto · Todos los jueves | $40.000 | — | Dominga Bistró, Iquique | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Enkai Asian Food](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-jueves-y-sabados-en-antofagasta-pcm133) | Disfruta len Antofagasta | 20% dcto · Jueves y sábado | $20.000 | — | Enkai Asian Food, Antofagasta | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Fino Chalán](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-jueves-en-temuco-e916rie) | — | 40% dcto · Todos los jueves | $40.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Fuegos de Raidho](https://www.bci.cl/beneficios/beneficios-bci/detalle/jueves-para-disfrutar-en-talca-4blnzsi) | Para disfrutar en Talca | 40% dcto · Todos los jueves | $40.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Gaetano](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-jueves-en-talca-ng2n7qa) | — | 40% dcto · Todos los jueves | $40.000 | — | Gaetano, Maule | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Güeros](https://www.bci.cl/beneficios/beneficios-bci/detalle/autentica-cocina-mexicana-para-disfrutar-30hr9m) | Auténtica cocina mexicana para disfrutar | 40% dcto · Todos los viernes | $40.000 | — | Güeros, Providencia | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Hijo del Inca](https://www.bci.cl/beneficios/beneficios-bci/detalle/jueves-en-la-reina-y-providencia-3dkodv) | La Reina y Providencia | 40% dcto · Todos los jueves | $40.000 | — | Hijo del Inca, La Reina | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Kanpai](https://www.bci.cl/beneficios/beneficios-bci/detalle/martes-pichilemu-fy8dit) | — | 40% dcto · Todos los martes | $40.000 | — | Kanpai, O'higgins | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [La Cocina de Javier](https://www.bci.cl/beneficios/beneficios-bci/detalle/jueves-vitacura-pa8lwp9) | — | 50% dcto · Todos los jueves | $100.000 | — | La Cocina de Javier, Vitacura | Exclusivo con tus arjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite |
+| BCI | [La Mulata](https://www.bci.cl/beneficios/beneficios-bci/detalle/la-mejor-cocina-fusion-peruana-en-iquique-z9gzp3u) | La mejor cocina fusión peruana en Iquique | 40% dcto · Todos los jueves | $40.000 | — | La Mulata, Iquique | Exclusivo con tus tarjetas Bci Visa Signature, Visa Infinite y Mastercard Black |
 | BCI | [La Vermutería del Pobre Vermut](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-de-este-beneficio-los-jueves-rsvdzqu) | — | 20% dcto · Todos los jueves | Sin tope | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
 | BCI | [Marriott](https://www.bci.cl/beneficios/beneficios-bci/detalle/ac-kitchen-hotel-santiago-cenco-costanera-x32q24n) | AC Kitchen - Hotel Santiago Cenco Costanera | 40% dcto · Todos los jueves | $100.000 | — | Marriott, Metropolitana | Exclusivo con tus Tarjetas de Crédito Bci. |
 | BCI | [Restaurante República de Arica](https://www.bci.cl/beneficios/beneficios-bci/detalle/lunes-y-jueves-arica-xqpmh7) | — | 20% dcto · Lunes y jueves | $40.000 | — | Restaurante República de Arica, Arica y Parinacota | Exclusivo con tus tarjetas de Crédito o Débito Bci |
-| BCI | [Rogusta](https://www.rogusta.cl/) | — | 20% dcto · Todos los jueves | Sin tope | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Starburger](https://starburger.cl/) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Sushi & Burger Home](https://www.sushiburgerhome.cl/) | Vina del Mar - Renaca | 40% dcto · Todos los jueves | $40.000 | — | Sushi & Burger Home, Viña del mar | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Tigre Bravo](https://www.tigrebravo.cl/locales/) | Descubre este espacio gastronómico en Maipú | 40% dcto · Todos los lunes | $40.000 | — | Tigre Bravo, Maipú | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Rogusta](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-jueves-en-valdivia-kbsx64h) | — | 20% dcto · Todos los jueves | Sin tope | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Starburger](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-dias-para-disfrutar-85s0l4) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Sushi & Burger Home](https://www.bci.cl/beneficios/beneficios-bci/detalle/el-mejor-mix-entre-sushi-y-hamburguesas-en-vina-del-mar-y-renaca-mls6vq8) | Vina del Mar - Renaca | 40% dcto · Todos los jueves | $40.000 | — | Sushi & Burger Home, Viña del mar | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Tigre Bravo](https://www.bci.cl/beneficios/beneficios-bci/detalle/descubre-este-espacio-gastronomico-en-maipu-qjrzfu) | Descubre este espacio gastronómico en Maipú | 40% dcto · Todos los lunes | $40.000 | — | Tigre Bravo, Maipú | Exclusivo con tus tarjetas de Crédito Bci. |
 | Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
 | Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | Restaurante peruano que ofrece ceviches, tiradito… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Pano… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
 | Banco Falabella | [Berlín Doner Kebab](https://www.bancofalabella.cl/descuentos/detalle/berlin-doner-kebab) | Restaurante inspirado en la tradición alemana del… | 40% | Sin Tope | — | — | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
@@ -373,28 +373,28 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 |---|---|---|---|---|---|---|---|
 | BCI | [Ambbar Restobar](https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-antofagasta-u67bnbs) | — | 40% dcto · Todos los viernes | $40.000 | — | Ambbar Restobar, Antofagasta | Exclusivo con tus Tarjetas de Crédito Bci. |
 | BCI | [Bocas del Mar](https://www.bci.cl/beneficios/beneficios-bci/detalle/para-disfrutar-tu-escapada-en-pichilemu-5fhzh1) | Para disfrutar tu escapada en Pichilemu | 40% dcto · Todos los viernes | $40.000 | — | Bocas del Mar, O'higgins | Exclusivo con tus Tarjetas de Crédito Bci. |
-| BCI | [Casa Reñaca](https://www.instagram.com/casarenaca/) | — | 40% dcto · Todos los viernes | $40.000 | — | Casa Reñaca, Viña del mar | Exclusivo con tus Tarjetas de Crédito Bci. |
-| BCI | [China 365](https://www.china365.cl/) | Lo Barnechea | 20% dcto · Lu - Mi - Ju - Vi | Sin tope | — | China 365, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
-| BCI | [Coya](https://www.instagram.com/coya.restaurant/?hl=en) | En el corazón de la ciudad | 40% dcto · Todos los viernes | $40.000 | — | Coya, Arica y Parinacota | Exclusivo con tus Tarjetas de Crédito Bci. |
-| BCI | [Cuerovaca](https://cuerovaca.com/) | — | 40% dcto · Todos los viernes | $40.000 | — | Cuerovaca, Vitacura | Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite |
-| BCI | [Don Emelio](https://www.instagram.com/donemelio_restaurante/?hl=es) | Cocina de temporada en Vina del Mar | 40% dcto · Todos los viernes | $40.000 | — | Don Emelio, Viña del mar | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Güeros](https://www.instagram.com/guerosterrazas/) | Auténtica cocina mexicana para disfrutar | 40% dcto · Todos los viernes | $40.000 | — | Güeros, Providencia | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Hikari Sushi](https://www.hikarisushicalama.cl/) | Sushi en Calama | 40% dcto · Todos los viernes | $40.000 | — | Hikari Sushi, Calama | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Impasto Restobar](https://www.instagram.com/impasto.restobar/?hl=es) | Providencia | 40% dcto · Miércoles y viernes | $40.000 | — | Impasto Restobar, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Jeró Bistró](https://www.jerobistrodemar.cl/) | — | 40% dcto · Todos los viernes | $40.000 | — | Jeró Bistró, Maitencillo | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Jeró Bistró](https://www.jerobistrodemar.cl/) | — | 20% dcto · Todos los viernes | $40.000 | — | Jeró Bistró, Maitencillo | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Kató Tasty Caos](https://katotastycaos.cl/) | Isidora Goyenechea | 40% dcto · Todos los viernes | $40.000 | — | Kató Tasty Caos, Las Condes | Exclusivo con tus tarjetas Bci Visa Siganture, Visa Infinite y Mastercard Black |
-| BCI | [Kechua](https://www.kechuarestaurantes.cl/) | Vitacura - Providencia y Nunoa | 40% dcto · Todos los viernes | $40.000 | — | Kechua, Vitacura | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Casa Reñaca](https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-en-renaca-54w3mph) | — | 40% dcto · Todos los viernes | $40.000 | — | Casa Reñaca, Viña del mar | Exclusivo con tus Tarjetas de Crédito Bci. |
+| BCI | [China 365](https://www.bci.cl/beneficios/beneficios-bci/detalle/lunes-miercoles-jueves-y-viernes-6uyqhar) | Lo Barnechea | 20% dcto · Lu - Mi - Ju - Vi | Sin tope | — | China 365, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
+| BCI | [Coya](https://www.bci.cl/beneficios/beneficios-bci/detalle/arica-los-mejores-sabores-para-compartir-y-disfrutar-en-el-corazon-de-la-ciudad.-v4xysgr) | En el corazón de la ciudad | 40% dcto · Todos los viernes | $40.000 | — | Coya, Arica y Parinacota | Exclusivo con tus Tarjetas de Crédito Bci. |
+| BCI | [Cuerovaca](https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-vitacura-vcbh2s) | — | 40% dcto · Todos los viernes | $40.000 | — | Cuerovaca, Vitacura | Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite |
+| BCI | [Don Emelio](https://www.bci.cl/beneficios/beneficios-bci/detalle/cocina-de-temporada-en-vina-del-mar-lcj20ds) | Cocina de temporada en Vina del Mar | 40% dcto · Todos los viernes | $40.000 | — | Don Emelio, Viña del mar | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Güeros](https://www.bci.cl/beneficios/beneficios-bci/detalle/autentica-cocina-mexicana-para-disfrutar-30hr9m) | Auténtica cocina mexicana para disfrutar | 40% dcto · Todos los viernes | $40.000 | — | Güeros, Providencia | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Hikari Sushi](https://www.bci.cl/beneficios/beneficios-bci/detalle/sushi-en-calama-iadhmit) | Sushi en Calama | 40% dcto · Todos los viernes | $40.000 | — | Hikari Sushi, Calama | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Impasto Restobar](https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-y-viernes-en-providencia-sl3au9a) | Providencia | 40% dcto · Miércoles y viernes | $40.000 | — | Impasto Restobar, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Jeró Bistró](https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-maitencillo-mtrobuf) | — | 40% dcto · Todos los viernes | $40.000 | — | Jeró Bistró, Maitencillo | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Jeró Bistró](https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-maitencillo-ak204pl) | — | 20% dcto · Todos los viernes | $40.000 | — | Jeró Bistró, Maitencillo | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Kató Tasty Caos](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-de-este-beneficio-los-viernes-en-isidora-goyenechea-77wc2jk) | Isidora Goyenechea | 40% dcto · Todos los viernes | $40.000 | — | Kató Tasty Caos, Las Condes | Exclusivo con tus tarjetas Bci Visa Siganture, Visa Infinite y Mastercard Black |
+| BCI | [Kechua](https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-en-vitacura-providencia-y-nunoa-c6wq4pq) | Vitacura - Providencia y Nunoa | 40% dcto · Todos los viernes | $40.000 | — | Kechua, Vitacura | Exclusivo con tus tarjetas de Crédito Bci. |
 | BCI | [La Hacienda de Machalí](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-viernes-a0kuqia) | — | 40% dcto · Todos los viernes | $40.000 | — | — | Exclusivo con tus tarjetas Bci Visa Siganture, Visa Infinite y Mastercard Black |
-| BCI | [La Parrilla del Guaton Jerez](https://www.laparrilladelguatonjerez.cl/) | Vive una experiencia en parrilladas en Vitacura | 40% dcto · Todos los viernes | $40.000 | — | La Parrilla del Guaton Jerez, Vitacura | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Lebol](https://lebolrestobar.cl/) | — | 20% dcto · Todos los viernes | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [La Parrilla del Guaton Jerez](https://www.bci.cl/beneficios/beneficios-bci/detalle/vive-una-experiencia-en-parrilladas-en-vitacura-1oxsboq) | Vive una experiencia en parrilladas en Vitacura | 40% dcto · Todos los viernes | $40.000 | — | La Parrilla del Guaton Jerez, Vitacura | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Lebol](https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-concepcion-10k1w7) | — | 20% dcto · Todos los viernes | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
 | BCI | [Marriott](https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-las-condes-desde-las-16.00-hrs-otl0ys8) | Akun Bar - Las Condes desde las 16.00 hrs | 50% dcto · Todos los viernes | $100.000 | Akun Bar - Las Condes desde las 16.00 hrs | Marriott, Las Condes | Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite |
 | BCI | [Marriott](https://www.bci.cl/beneficios/beneficios-bci/detalle/ac-kitchen-hotel-santiago-cenco-costanera-x32q24n) | AC Kitchen - Hotel Santiago Cenco Costanera | 40% dcto · Todos los jueves | $100.000 | — | Marriott, Metropolitana | Exclusivo con tus Tarjetas de Crédito Bci. |
-| BCI | [Parrilla el Galpón](https://www.instagram.com/el_galponparrilla/) | Osorno | 40% dcto · Todos los viernes | $40.000 | — | — | Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite |
-| BCI | [Piegari](https://piegari.cl/) | — | 40% dcto · Todos los viernes | $40.000 | — | Piegari, Vitacura | Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite |
-| BCI | [Starburger](https://starburger.cl/) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Sushi Home](https://www.sushihome.cl/) | Perfecto para salir con amigos en Renaca | 40% dcto · Todos los viernes | $40.000 | — | Sushi Home, Viña del mar | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Wayna](https://www.instagram.com/waynacevicheria) | — | 20% dcto · Todos los viernes | Sin tope | — | Wayna, La Florida | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Parrilla el Galpón](https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-en-osorno-7a6w2gc) | Osorno | 40% dcto · Todos los viernes | $40.000 | — | — | Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite |
+| BCI | [Piegari](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-todos-los-viernes-en-vitacura-ii9k5zg) | — | 40% dcto · Todos los viernes | $40.000 | — | Piegari, Vitacura | Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite |
+| BCI | [Starburger](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-dias-para-disfrutar-85s0l4) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Sushi Home](https://www.bci.cl/beneficios/beneficios-bci/detalle/perfecto-para-salir-con-amigos-en-renaca-d2nt6kp) | Perfecto para salir con amigos en Renaca | 40% dcto · Todos los viernes | $40.000 | — | Sushi Home, Viña del mar | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Wayna](https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-en-la-florida-wfsjouaq) | — | 20% dcto · Todos los viernes | Sin tope | — | Wayna, La Florida | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
 | Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
 | Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | Restaurante peruano que ofrece ceviches, tiradito… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Pano… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
 | Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | Local especializado en sándwiches y comidas rápid… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
@@ -446,10 +446,10 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 |---|---|---|---|---|---|---|---|
 | BCI | [Augusta Bar](https://www.bci.cl/beneficios/beneficios-bci/detalle/en-concepcion-o5p6bib) | En Concepción | 40% dcto · Todos los sábados | $40.000 | — | Augusta Bar, Biobío | Exclusivo con tus Tarjetas de Crédito Bci. |
 | BCI | [Burgerholic](https://www.bci.cl/beneficios/beneficios-bci/detalle/sabado-lo-barnechea-k6qa9h) | Lo Barnechea | 20% dcto · Todos los sábados | $20.000 | — | Burgerholic, Lo Barnechea | Exclusivo con tus Tarjetas de Crédito o Débito Bci. |
-| BCI | [Enkai Asian Food](https://www.enkaibar.cl/) | Disfruta len Antofagasta | 20% dcto · Jueves y sábado | $20.000 | — | Enkai Asian Food, Antofagasta | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Enkai Asian Food](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-jueves-y-sabados-en-antofagasta-pcm133) | Disfruta len Antofagasta | 20% dcto · Jueves y sábado | $20.000 | — | Enkai Asian Food, Antofagasta | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
 | BCI | [Marriott](https://www.bci.cl/beneficios/beneficios-bci/detalle/cafe-med-sabado-las-condes-desde-las-13.00-hasta-las-16.00-hrs-2b61eqo) | Cafe Med - Las Condes desde las 13.00 hasta las 1… | 50% dcto · Todos los sábados | $100.000 | Cafe Med - Las Condes desde las 13.00 hasta las 16.00 hrs | Marriott, Las Condes | Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite |
 | BCI | [Oporto salvaje](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-todos-los-sabados-en-isidora-goyenechea-zqjlz5x) | — | 40% dcto · Todos los sábados | $40.000 | — | Oporto salvaje, Las Condes | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Starburger](https://starburger.cl/) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Starburger](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-dias-para-disfrutar-85s0l4) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
 | Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
 | Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | Restaurante peruano que ofrece ceviches, tiradito… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Pano… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
 | Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | Local especializado en sándwiches y comidas rápid… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
@@ -496,9 +496,9 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
 
 | Banco | Comercio | Tipo | Dcto | Tope | Horario | Lugar | Tarjetas |
 |---|---|---|---|---|---|---|---|
-| BCI | [La Santoría](https://www.instagram.com/barlasantoria/?hl=en) | Restaurante de comida Italiana en Providencia | 40% dcto · Lunes, martes y domingo | $40.000 | — | La Santoría, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
-| BCI | [Raidho](https://www.instagram.com/raidhorest/?hl=es) | — | 40% dcto · Todos los domingos | $40.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
-| BCI | [Starburger](https://starburger.cl/) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [La Santoría](https://www.bci.cl/beneficios/beneficios-bci/detalle/restaurante-de-comida-italiana-en-providencia-mzi45gr) | Restaurante de comida Italiana en Providencia | 40% dcto · Lunes, martes y domingo | $40.000 | — | La Santoría, Providencia | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
+| BCI | [Raidho](https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-domingos-en-talca-7qm77ls) | — | 40% dcto · Todos los domingos | $40.000 | — | — | Exclusivo con tus tarjetas de Crédito Bci. |
+| BCI | [Starburger](https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-dias-para-disfrutar-85s0l4) | — | 20% dcto | $20.000 | — | — | Exclusivo con tus tarjetas de Crédito o Débito Bci. |
 | Banco Falabella | [Badass](https://www.bancofalabella.cl/descuentos/detalle/badass) | Un espacio urbano en Parque Arauco, nacido para q… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Parque Arauco todos los dias | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
 | Banco Falabella | [Barra Chalaca](https://www.bancofalabella.cl/descuentos/detalle/40-de-dcto-en-restaurantes-mallplaza-barra-chalaca) | Restaurante peruano que ofrece ceviches, tiradito… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mall Plaza Egaña: lunes a Jueves; Mall Alto Las Condes: lunes a viernes; Mall Plaza Norte: lunes a viernes; Mall Plaza Vespucio: lunes y martes; Mall Vivo Pano… | Tarjeta Débito Banco Falabella; CMR Mastercard Elite; CMR Mastercard Premium; CMR Masterc… |
 | Banco Falabella | [Cabrera al Paso](https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso) | Local especializado en sándwiches y comidas rápid… | 40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella) | Sin Tope | — | Mallplaza Egaña: lunes a domingo | CMR Mastercard; CMR Mastercard Premium; CMR Mastercard Elite; Tarjeta Débito Banco Falabe… |
@@ -612,7 +612,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   40% de descuento sin tope todos los martes en la App McDonald’s, con una compra mínimas de $12.000, pagando con Tarjetas de Crédito Bci, MACHBANK y Lider Bci por la App de McDonald's, y 20% de descuento sin tope todos los martes en la App McDonald´s, con una compra mínima de $12.000, pagando con Tarjetas de Débito Bci, MACHBANK y Tarjeta Prepago MACHBANK. Aplica en pedidos a través de la App para retiro en Locales, consumo en Locales y Delivery propio de McDonald's. No acumulable con otras ofertas, descuentos y/o promociones.
   Legal: Descuento sobre el total de la compra, en compras mínimas de $12.000, pagando con Tarjetas de crédito Bci, MACHBANK y Lider Bci y Tarjetas de Débito Bci, MACHBANK y Tarjeta Prepago MACHBANK a través de la App McDonald's con tarjeta enrolada en la App para aplicar descuento. Aplica para pedidos a través de la App para retiro en Locales, consumo en Locales y pedidos por Delivery propio de McDonald's. Promoción válida solo para clientes personas naturales. No acumulable con otras ofertas, descuentos y/o promociones. La entrega de los bienes y la prestación de servicios no bancarios ofrecidos, como asimismo los descuentos en el comercio, son de exclusiva responsabilidad de McDonald's, no cabiéndole al Banco intervención alguna en su entrega o en la ulterior atención que ellos demanden. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.sbif.cl en su entrega o en la ulterior atención que ellos demanden.
   ```
-- **URL:** https://www.mcdonalds.com/us/es-us/download-app.html
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-martes-en-tu-app-de-mcdonalds-nf4vg4m
 
 ### Aquality — Santander
 - *Compra pescados y mariscos congelados de calidad superior!*
@@ -798,7 +798,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci."
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/sociedad0306/?hl=es
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/providenci-unq93xm
 
 ### Bar TPM — Santander
 - **Descuento:** 30% dcto. todos los miércoles · **Tope:** $40.000
@@ -1283,7 +1283,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/casarenaca/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-en-renaca-54w3mph
 
 ### Casa Vitalis — BCI
 - **Descuento:** 20% dcto · Todos los miércoles · **Tope:** $20.000
@@ -1300,7 +1300,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://casavitalisrestaurant.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-para-disfrutar-con-amigos-um3jwdg
 
 ### Cattedrale Cucina Villarrica — Banco Falabella
 - *Cattedrale Cucina es un restaurante de cocina italiana y mediterránea ubicado en Villarrica*
@@ -1378,7 +1378,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci sin tope. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://www.china365.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/lunes-miercoles-jueves-y-viernes-6uyqhar
 
 ### China Wok — BCI
 - **Descuento:** 30% dcto · Todos los miércoles · **Tope:** —
@@ -1561,7 +1561,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/coya.restaurant/?hl=en
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/arica-los-mejores-sabores-para-compartir-y-disfrutar-en-el-corazon-de-la-ciudad.-v4xysgr
 
 ### Cuerovaca — BCI
 - **Descuento:** 40% dcto · Todos los viernes · **Tope:** $40.000
@@ -1578,7 +1578,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://cuerovaca.com/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-vitacura-vcbh2s
 
 ### Cuponera Gastronómica — Banco Falabella
 - **Descuento:** 40% dcto · **Tope:** Sin tope
@@ -1659,7 +1659,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://danubioazul.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-las-condes-0e21ts
 
 ### Danubio Azul — BCI
 - *Una experiencia oriental en Las Condes*
@@ -1677,7 +1677,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $40.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://danubioazul.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/una-experiencia-oriental-en-las-condes-0mk5lde
 
 ### Danés — BCI
 - *Variedad de sabores en Las Condes*
@@ -1695,7 +1695,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.eldanes.cl
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/variedad-de-sabores-en-las-condes-jpj9xzn
 
 ### Danés — Banco Falabella
 - *Restaurante ubicado en Santiago, reconocido por su cocina chilena y platos tradicionales*
@@ -1732,7 +1732,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Débito y Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/debarriochile/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/en-barrio-italia-90b5ws9
 
 ### De Costa a Costa — Santander
 - *Los mejores productos del mar*
@@ -1768,7 +1768,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.delechonasalmon.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-lunes-en-temuco-jrgv61w
 
 ### Delivery Gourmet — Santander
 - *Tus comidas favoritas en un solo pedido*
@@ -1885,7 +1885,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Promoción incluye una cortesía de regalo pagando con tu Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.domingabistro.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/iquique-7vpw6wt
 
 ### Dominga Bistró — BCI
 - *Pucón*
@@ -1903,7 +1903,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.domingabistro.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/pucon-tfusegg
 
 ### Dominga Bistró — BCI
 - *Valdivia*
@@ -1921,7 +1921,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.domingabistro.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/valdivia-73pse8t
 
 ### Dominga Nikkei — Santander
 - *Sushi Nikkei, Omakase, Coctelería de autor asiática y mucho más*
@@ -1996,7 +1996,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/donemelio_restaurante/?hl=es
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/cocina-de-temporada-en-vina-del-mar-lcj20ds
 
 ### eCook — Santander
 - *Lleva tus platos favoritos con el mejor descuento*
@@ -2128,7 +2128,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://www.enkaibar.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-jueves-y-sabados-en-antofagasta-pcm133
 
 ### Enrique Tomás — Banco Falabella
 - *Enrique Tomás es una reconocida marca española especializada en jamón ibérico, con más de 40 años de tradición*
@@ -2259,7 +2259,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci..
   ```
-- **URL:** https://www.finochalan.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-jueves-en-temuco-e916rie
 
 ### Fogon Greed — Banco Falabella
 - *Fogón Greed es un restaurante de carnes a la brasa, parrilla y también pastas, con foco en calidad de ingredientes local*
@@ -2343,7 +2343,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://fuegosderaidho.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/jueves-para-disfrutar-en-talca-4blnzsi
 
 ### Fuente Suiza — Banco Falabella
 - *Fuente Suiza Mall Plaza Egaña es un punto de restauración estilo fuente de soda chilena ubicado en Mall Plaza Egaña (Ave*
@@ -2378,7 +2378,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/gaetano.talca/?hl=es-la
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-jueves-en-talca-ng2n7qa
 
 ### Greed Taproom — Banco Falabella
 - *Greed Taproom Osorno es el taproom de la cervecería artesanal Greed Brewing Co., Es un bar–cervecería donde se sirven ce*
@@ -2411,7 +2411,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/guerosterrazas/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/autentica-cocina-mexicana-para-disfrutar-30hr9m
 
 ### Helados Timaukel — Santander
 - *Heladería artesanal*
@@ -2448,7 +2448,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Débito y Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/hijodelinca.cl/?hl=en
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/jueves-en-la-reina-y-providencia-3dkodv
 
 ### Hijo del Inca — Santander
 - *Restaurante peruano*
@@ -2506,7 +2506,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.hikarisushicalama.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/sushi-en-calama-iadhmit
 
 ### Hitomi Tomi — Santander
 - *Descubre los sabores de Asia en Hitomi Tomi*
@@ -2562,7 +2562,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Débito y Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/impasto.restobar/?hl=es
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-y-viernes-en-providencia-sl3au9a
 
 ### Infiltrados — Santander
 - *Deléitate con carnes, pescados y mariscos*
@@ -2625,7 +2625,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Promoción incluye una cortesía de regalo pagando con tu Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.jerobistrodemar.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-maitencillo-mtrobuf
 
 ### Jeró Bistró — BCI
 - **Descuento:** 20% dcto · Todos los viernes · **Tope:** $40.000
@@ -2642,7 +2642,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, con un tope de $40.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://www.jerobistrodemar.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-maitencillo-ak204pl
 
 ### Juan Esparraguito — Santander
 - *Mucho más que frutas y verduras, productos de temporada y seleccionados uno a uno*
@@ -2695,7 +2695,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/kanpai_pichilemu/?hl=es
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/martes-pichilemu-fy8dit
 
 ### Kato — Banco Falabella
 - *Kató Tasty Caos es un restaurante pan-asiático ubicado en Isidora Goyenechea 3275, Las Condes, Santiago (Región Metropol*
@@ -2731,7 +2731,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://katotastycaos.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-de-este-beneficio-los-viernes-en-isidora-goyenechea-77wc2jk
 
 ### Kechua — BCI
 - *Vitacura - Providencia y Nunoa*
@@ -2749,7 +2749,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.kechuarestaurantes.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-en-vitacura-providencia-y-nunoa-c6wq4pq
 
 ### Kechua — Banco Falabella
 - *Restaurante inspirado en la cocina peruana, con platos tradicionales y fusión*
@@ -2824,7 +2824,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Promoción valida todos los lunes en todas las tiendas KFC Chile hasta el 31 de diciembre 2026. Incluye 30% dcto en el producto Combo Chicken Share Mixto (4 Strips, 4 Alitas, 2 Papas y 2 Bebidas Regulares), pagando con tarjetas de Débito o Crédito Banco BCI. Para hacer valido el beneficio se debe solicitar el descuento antes de pagar. Imágenes referenciales igual a la especificación del contenido. El valor de este producto puede variar por tienda y/o región. No acumulable con otras promociones y/o descuentos.
   Legal: Promoción valida todos los lunes en todas las tiendas KFC Chile hasta el 31 de diciembre 2026. Incluye 30% dcto en el producto Combo Chicken Share Mixto (4 Strips, 4 Alitas, 2 Papas y 2 Bebidas Regulares), pagando con tarjetas de Débito o Crédito Banco BCI. Para hacer valido el beneficio se debe solicitar el descuento antes de pagar. Imágenes referenciales igual a la especificación del contenido. El valor de este producto puede variar por tienda y/o región. No acumulable con otras promociones y/o descuentos.
   ```
-- **URL:** https://www.kentucky.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-lunes-en-combo-chicken-share-alitas-us5tjzf
 
 ### Kila Coffee — Banco Falabella
 - *Kila Coffee es una acogedora cafetería y espacio de bienestar ubicada en la comuna de Ñuñoa, Santiago de Chile*
@@ -2919,7 +2919,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 50% de descuento en el total de la cuenta, con tope de $100.000, pagando con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/cocinadejavier/?hl=es
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/jueves-vitacura-pa8lwp9
 
 ### La Dicha — Santander
 - *Descubre los mejores platos gourmet*
@@ -2995,7 +2995,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.lahaciendarestaurant.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/aprovecha-los-miercoles-en-talca-86fi23u
 
 ### La Maestranza — Banco Falabella
 - *La Maestranza es un restaurante chileno que combina tradición y modernidad, inspirado en la cultura ferroviaria y el esp*
@@ -3033,7 +3033,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000, pagando con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://lamulata.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/la-mejor-cocina-fusion-peruana-en-iquique-z9gzp3u
 
 ### La Mulata — Santander
 - *La mejor cocina fusión peruana - japonesa*
@@ -3072,7 +3072,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.laparrilladelguatonjerez.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/vive-una-experiencia-en-parrilladas-en-vitacura-1oxsboq
 
 ### La patrona — Banco Falabella
 - *Restaurante que celebra la cocina mexicana con tacos, enchiladas y margaritas*
@@ -3145,7 +3145,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Débito y Crédito Bci, Mastercard Business y Visa Business. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/barlasantoria/?hl=en
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/restaurante-de-comida-italiana-en-providencia-mzi45gr
 
 ### La santoría — Banco Falabella
 - *Restaurante que fusiona sabores chilenos con propuestas modernas*
@@ -3273,7 +3273,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://lebolrestobar.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-concepcion-10k1w7
 
 ### Lebol Restobar — Banco Falabella
 - *Restobar en Concepción que fusiona cocina tradicional con toques contemporáneos*
@@ -3329,7 +3329,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande.
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://www.locapasta.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/para-disfrutar-todos-los-lunes-en-providencia-y-vitacura-oxuv3p
 
 ### Local Burger — Banco Falabella
 - *Local Burger es una hamburguesería de estilo americano en Chile, destacada por sus preparaciones jugosas y de alta calid*
@@ -3389,7 +3389,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Descuento no aplica sobre el costo de propina. 
   El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Lider Bci."
   ```
-- **URL:** https://vikingosrestaurant.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/santiago-centro-5o96pd
 
 ### Majka — Santander
 - *Cocina fusión y de autor*
@@ -3536,7 +3536,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.masama.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-martes-para-disfrutar-en-vina-del-mar-q0miwx9
 
 ### Melt Pizzas — Santander
 - *Las mejores pizzas están en Melt!*
@@ -3851,7 +3851,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000, pagando con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/el_galponparrilla/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-en-osorno-7a6w2gc
 
 ### Pastamore — BCI
 - **Descuento:** 20% dcto · Todos los martes · **Tope:** $20.000
@@ -3868,7 +3868,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://www.pastamore.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-martes-2vsvst
 
 ### Petit — Banco Falabella
 - *Petit Cafetería es una marca de bollería premium y café de especialidad en Santiago*
@@ -3921,7 +3921,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinte. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://piegari.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-todos-los-viernes-en-vitacura-ii9k5zg
 
 ### Piegari — Santander
 - *Cocina italiana tradicional*
@@ -4036,7 +4036,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $100.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://puntopais.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-de-la-mejor-comida-en-nunoa-4u5hyp
 
 ### Qnto restaurante — BCI
 - **Descuento:** 20% dcto · Todos los miércoles · **Tope:** $20.000
@@ -4053,7 +4053,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/qnto.restaurant/?hl=es
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-concepcion-rs1qwfe
 
 ### Raidho — BCI
 - **Descuento:** 40% dcto · Todos los domingos · **Tope:** $40.000
@@ -4070,7 +4070,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/raidhorest/?hl=es
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-domingos-en-talca-7qm77ls
 
 ### Ramblas — Santander
 - *Bar con música en vivo*
@@ -4107,7 +4107,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, sin tope. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://www.travesiarestaurant.com/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-miercoles-en-vina-del-mar-bxb009j
 
 ### Restaurante Hotel AWA — Santander
 - *Cocina contemporánea con platos internacionales con técnicas tradicionales locales*
@@ -4145,7 +4145,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, sin tope. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://www.lafuenteperuana.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/miercoles-iquique-rziahz
 
 ### Restaurante República de Arica — BCI
 - **Descuento:** 20% dcto · Lunes y jueves · **Tope:** $40.000
@@ -4242,7 +4242,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci, sin tope. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://www.rogusta.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-jueves-en-valdivia-kbsx64h
 
 ### Rubaiyat — Santander
 - *Celebra los 10 años de Rubaiyat Chile con un exclusivo menú de degustación junto al chef Diego Rojas*
@@ -4338,7 +4338,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $30.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://sangucheriagorilas.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-lunes-y-los-martes-ncif6oh
 
 ### Santa Brasa — Santander
 - *Increíbles cortes de carne*
@@ -4545,7 +4545,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://starburger.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-dias-para-disfrutar-85s0l4
 
 ### Streat Burger — Santander
 - *Streat Makes You Happy*
@@ -4584,7 +4584,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci con un tope de $20.000 por cliente al día. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/sublimeatchile/?hl=es
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/aprovecha-los-martes-y-miercoles-en-calama-o2ihbdzj
 
 ### Sumoku — Santander
 - *Comida del mar que garantiza un viaje entre clásicos sabores japoneses con notas sofisticadas de alta cocina*
@@ -4629,7 +4629,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.sushiburgerhome.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/el-mejor-mix-entre-sushi-y-hamburguesas-en-vina-del-mar-y-renaca-mls6vq8
 
 ### Sushi & Burger Home — Banco Falabella
 - *Sushi & Burger Home es una propuesta gastronómica que fusiona sushi y hamburguesas gourmet en un mismo lugar, con un est*
@@ -4667,7 +4667,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.sushihome.cl/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/perfecto-para-salir-con-amigos-en-renaca-d2nt6kp
 
 ### Sushi Home — Banco Falabella
 - *Sushi Home se define como una experiencia gastronómica nikkei , que va más allá de un simple restaurante de sushi*
@@ -4878,7 +4878,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 40% de descuento en el total de la cuenta, con tope de $40.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://www.tigrebravo.cl/locales/
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/descubre-este-espacio-gastronomico-en-maipu-qjrzfu
 
 ### Tigre Bravo — Banco Falabella
 - *Tigre Bravo es la vibrante propuesta del chef Emilio Peschiera, pionero de la cocina peruana en Chile*
@@ -5097,7 +5097,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 30% de descuento en el total de la cuenta, con tope de $30.000 pagando con Tarjetas de Crédito Bci. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta  MACH y Lider Bci.
   ```
-- **URL:** https://turismo.ptovaras.cl/servicios-turisticos/servicio/casa-de-te-viviana
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/aprovecha-este-beneficio-en-puerto-varas-zxvpa8e
 
 ### Viña Viu Manent — Banco Falabella
 - *Viña Viu Manent es una reconocida viña del Valle de Colchagua, famosa por sus vinos premium y experiencias enoturísticas*
@@ -5132,7 +5132,7 @@ Campos: lugar específico · horario · tope · días · tarjeta. Cuando un camp
   Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta Líder Bci.
   Legal: 20% de descuento pagando con Tarjetas de Débito y Crédito Bci sin tope. Válido solo para compras presenciales, no se consideran las compras a través de otros canales. Para hacer efectivo el descuento, debes solicitarlo al momento de pedir la cuenta. Este beneficio se podrá utilizar solo una vez al día y no es acumulable con otras promociones y/o descuentos. Descuento no aplica sobre el costo de propina. El beneficio se aplica de manera presencial según la disponibilidad de cada comercio. Los precios, calidad, estado y entrega de los productos y servicios ofrecidos son de exclusiva responsabilidad de los comercios adheridos, sin responsabilidad alguna de Bci en ello ni en la ulterior atención que se demande. Se excluyen de este beneficio Tarjetas de Crédito Corporate, tarjetas emitidas por filiales y sociedades de apoyo al giro de Bci, como Tarjeta MACH y Lider Bci.
   ```
-- **URL:** https://www.instagram.com/waynacevicheria
+- **URL:** https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-en-la-florida-wfsjouaq
 
 ### Wendys — BCI
 - **Descuento:** 30% dcto · Todos los miércoles · **Tope:** —
