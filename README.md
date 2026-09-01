@@ -38,12 +38,13 @@ output/AAAA-MM/               resultados de cada mes (histórico)
    `raw_decode` sobre `{"benefitData":` (el split por líneas falla en ~14/95).
 
 2. **Santander** (API tras Akamai Bot Manager → curl/urllib = 403; hay que estar en un navegador):
-   - Abrir `https://banco.santander.cl/beneficios/descuentos-restaurantes` en el navegador integrado
-     de Claude Code (`mcp__Claude_Browser__*`, no hace falta Chrome del usuario) o en DevTools.
-   - Ejecutar `scripts/santander_fetch_browser.js` (`javascript_tool`). Llama a
-     `/beneficios/promociones.json?per_page=9999&tags=cat-sabores&custom_fields=true`.
-   - Guardar el resultado como `output/AAAA-MM/santander_raw_cat-sabores.json` (sirve tal cual el
-     archivo `tool-results/*.txt` que deja Claude Code cuando la salida es grande).
+   - **Recomendado (automático)**: `python scripts/santander_fetch_playwright.py --mes AAAA-MM`
+     — abre la landing con Chrome headless (pasa Akamai) y deja
+     `output/AAAA-MM/santander_raw_cat-sabores.json`. Si Akamai lo bloquea, reintentar con `--headed`.
+   - Alternativa manual: abrir la landing en el navegador integrado de Claude Code y ejecutar
+     `scripts/santander_fetch_browser.js` (`javascript_tool`); guardar el resultado en esa misma ruta
+     (sirve tal cual el `tool-results/*.txt` que deja Claude Code cuando la salida es grande).
+     Ojo: el navegador integrado se colgó con esta landing en sept-2026; por eso el camino Playwright.
    - `python scripts/process_santander.py output/AAAA-MM/santander_raw_cat-sabores.json`
    - Tags útiles: días (`lunes`…`domingo`), tarjetas (`wm-limited`, `exclusivo-amex`,
      `todas-las-tarjetas`, `life-y-debito`), cobertura (`metropolitana`, `regiones`). El campo
@@ -76,7 +77,7 @@ Pages tarda ~1 min en reflejar el push. Si algún mes no se quiere publicar con 
 `--no-screens`.
 
 ### Versión privada (Artifact de claude.ai, sólo con tu login)
-https://claude.ai/code/artifact/3fcb8cc4-fb3b-4023-a783-130f19b68870 — tarjetas móviles, día "hoy"
+https://claude.ai/code/artifact/294813f4-b9cb-48f4-a68f-96b9adcc25d5 — tarjetas móviles, día "hoy"
 preseleccionado, filtros, links Verificar/Maps, condiciones. Sin mapa ni capturas (claude.ai bloquea
 recursos externos). Regenerar y republicar cada mes:
 ```bash
@@ -135,3 +136,4 @@ Candidatos: BCI, Banco de Chile, Scotiabank, Itaú, Tenpo/MACH.
 ## Historial
 
 - 2026-08-22: primera corrida. Falabella 95, Santander 83 (178). Geocodificación + app + capturas.
+- 2026-09-01: septiembre. Falabella 85, Santander 82 (167). Fetch Santander automatizado con Playwright.
