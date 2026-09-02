@@ -80,8 +80,10 @@ output/AAAA-MM/               resultados de cada mes (histórico)
 ### Qué muestra la app
 - **Tipo de local** en cada fila/tarjeta (Falabella: `commerceInfoDescription`; Santander: primera
   línea de la descripción; BCI: primera línea).
-- **Punto de referencia**: selector "Desde" con centros comerciales/barrios y comunas, o
-  "Elegir en el mapa" (clic). No necesita GPS — pensado para el PC o cuando el navegador niega la
+- **Punto de referencia**: campo de **dirección** (la web la geocodifica en vivo con Nominatim; si
+  el texto trae número se consulta la dirección exacta, si no se busca entre las referencias),
+  selector "Desde" con centros comerciales/barrios, comunas y las direcciones de los propios
+  descuentos, o "Elegir en el mapa" (clic). No necesita GPS — pensado para el PC o cuando el navegador niega la
   ubicación. Se recuerda en `localStorage`. **📍 Mi ubicación** usa el GPS cuando está disponible.
 - Con referencia puesta: radio 1/3/5/10 km, orden por cercanía y círculo en el mapa.
 - **Badges NUEVO / CAMBIÓ** vs el mes anterior + filtros rápidos (de `build_diff.py`).
@@ -105,7 +107,8 @@ Pages tarda ~1 min en reflejar el push. Si algún mes no se quiere publicar con 
 ### Versión privada (Artifact de claude.ai, sólo con tu login)
 https://claude.ai/code/artifact/294813f4-b9cb-48f4-a68f-96b9adcc25d5 — tarjetas móviles, día "hoy"
 preseleccionado, filtros, links Verificar/Maps, condiciones. Sin mapa ni capturas (claude.ai bloquea
-recursos externos). Regenerar y republicar cada mes:
+recursos externos; por la misma CSP el campo de dirección ahí busca sólo entre las referencias
+del mes, sin salir a la red). Regenerar y republicar cada mes:
 ```bash
 python scripts/build_artifact.py --mes AAAA-MM      # -> output/AAAA-MM/descuentos_restaurantes_AAAA-MM_artifact.html
 # luego: herramienta Artifact de Claude Code con ese archivo y url=<la de arriba> para mantener el link

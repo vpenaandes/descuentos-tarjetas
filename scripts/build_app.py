@@ -86,6 +86,14 @@ def referencias(items):
                 porcomuna[c] = (u["lat"], u["lng"])
     for c, (lat, lng) in sorted(porcomuna.items()):
         refs.append({"n": c, "g": "Comunas", "lat": lat, "lng": lng, "c": c})
+    # direcciones concretas ya geocodificadas: sirven para buscar por texto sin salir a la red
+    for it in items:
+        for u in it.get("ubicaciones") or []:
+            q = (u.get("nombre") or u.get("consulta") or "").strip()
+            if q and u.get("lat") and u.get("precision") in ("exacta", "calle", "mall") and q not in vistos:
+                vistos.add(q)
+                refs.append({"n": q, "g": "Direcciones de los descuentos", "lat": u["lat"], "lng": u["lng"],
+                             "c": u.get("comuna") or ""})
     return refs
 
 
@@ -245,6 +253,8 @@ pre.cond{white-space:pre-wrap;font:12px/1.45 ui-monospace,Consolas,monospace;bac
   <div class="fgroup col"><label>Buscar</label><input type="text" id="q" placeholder="comercio, tipo, lugar, condición…"></div>
   <div class="fgroup"><label>Desde</label>
     <select id="ref"><option value="">— sin punto de referencia —</option></select>
+    <input type="text" id="addr" placeholder="o escribe una dirección…" style="min-width:210px">
+    <button class="btn" id="addrgo" type="button">Buscar</button>
     <button class="btn" id="pickmap" type="button" title="Fijar el punto haciendo clic en el mapa">Elegir en el mapa</button>
     <button class="btn" id="geoloc" type="button">📍 Mi ubicación</button>
     <select id="radio" title="radio de búsqueda"><option value="1">1 km</option><option value="3" selected>3 km</option><option value="5">5 km</option><option value="10">10 km</option></select>
@@ -303,7 +313,7 @@ function toggleSet(set,v,c){ if(set.has(v)){set.delete(v);c.classList.remove("on
 document.getElementById("q").oninput = e=>{state.q=normtxt(e.target.value);render();};
 document.getElementById("tg-aprox").onchange = e=>{state.aprox=e.target.checked;render();};
 document.getElementById("tg-geo").onchange = e=>{state.geo=e.target.checked;render();};
-document.getElementById("clear").onclick = ()=>{ selRef.value=""; setRef(null); state.banco.clear();state.dia.clear();state.tarj.clear();state.com.clear();state.q="";state.aprox=false;state.geo=false; document.querySelectorAll(".chip.on").forEach(c=>c.classList.remove("on")); document.getElementById("f-com").innerHTML=""; document.getElementById("q").value=""; document.getElementById("tg-aprox").checked=false; document.getElementById("tg-geo").checked=false; render(); };
+document.getElementById("clear").onclick = ()=>{ selRef.value=""; document.getElementById("addr").value=""; setRef(null); state.banco.clear();state.dia.clear();state.tarj.clear();state.com.clear();state.q="";state.aprox=false;state.geo=false; document.querySelectorAll(".chip.on").forEach(c=>c.classList.remove("on")); document.getElementById("f-com").innerHTML=""; document.getElementById("q").value=""; document.getElementById("tg-aprox").checked=false; document.getElementById("tg-geo").checked=false; render(); };
 
 // ---- mapa
 const map = L.map("map",{preferCanvas:true}).setView([-33.43,-70.61],11);
@@ -431,6 +441,42 @@ selRef.onchange = ()=>{
   if(selRef.value===""){ setRef(null); return; }
   const r=REFS[+selRef.value]; if(r) setRef(r.lat, r.lng, r.n);
 };
+// --- buscar por dirección escrita
+const normref = s => normtxt(s).replace(/[^a-z0-9 ]/g," ").replace(/\s+/g," ").trim();
+function buscarLocal(q){
+  const n=normref(q); if(n.length<3) return null;
+  let best=null;
+  REFS.forEach(r=>{ const rn=normref(r.n); if(rn.includes(n)||n.includes(rn)){ const score=Math.abs(rn.length-n.length); if(!best||score<best.s) best={r,s:score}; } });
+  return best ? best.r : null;
+}
+async function buscarDireccion(){
+  const q=document.getElementById("addr").value.trim();
+  const st=document.getElementById("geostat");
+  if(q.length<3){ st.textContent="escribe una dirección o lugar"; return; }
+  // Si trae número de calle, es una dirección concreta: hay que geocodificarla.
+  // El match local sólo se usa para nombres (mall, comuna) o si la red falla.
+  const pareceDireccion = /\d{2,}/.test(q);
+  const local = buscarLocal(q);
+  if(local && !pareceDireccion){ selRef.value=""; setRef(local.lat, local.lng, local.n); return; }
+  st.textContent="buscando dirección…";
+  try{
+    const url="https://nominatim.openstreetmap.org/search?format=jsonv2&limit=1&countrycodes=cl&accept-language=es&q="+encodeURIComponent(q+", Chile");
+    const r=await fetch(url,{headers:{"Accept":"application/json"}});
+    if(!r.ok) throw new Error("HTTP "+r.status);
+    const j=await r.json();
+    if(!j.length){
+      if(local){ selRef.value=""; setRef(local.lat, local.lng, local.n + " (aprox.)"); return; }
+      st.textContent='no se encontró "'+q+'" — prueba agregando la comuna'; return;
+    }
+    selRef.value="";
+    setRef(parseFloat(j[0].lat), parseFloat(j[0].lon), j[0].display_name.split(",").slice(0,3).join(",").trim());
+  }catch(e){
+    if(local){ selRef.value=""; setRef(local.lat, local.lng, local.n + " (aprox.)"); return; }
+    st.textContent="no se pudo buscar la dirección (sin conexión o servicio ocupado); usa el selector o el mapa";
+  }
+}
+document.getElementById("addrgo").onclick = buscarDireccion;
+document.getElementById("addr").addEventListener("keydown", e=>{ if(e.key==="Enter"){ e.preventDefault(); buscarDireccion(); } });
 let pickMode=false;
 document.getElementById("pickmap").onclick = function(){
   pickMode=!pickMode;

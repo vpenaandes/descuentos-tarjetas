@@ -143,6 +143,7 @@ footer a{color:var(--accent)}
   <div class="row"><span class="lbl">Tarjeta</span><span id="f-tarj" class="row"></span></div>
   <div class="row"><span class="lbl">Comuna</span><select id="sel-com"><option value="">Todas las comunas…</option></select><span id="f-com" class="row"></span></div>
   <div class="row"><span class="lbl">Desde</span><select id="ref"><option value="">— sin punto de referencia —</option></select></div>
+  <div class="row"><span class="lbl">Dirección</span><input type="search" id="addr" placeholder="calle, mall o comuna…"><button class="chip" id="addrgo" type="button">Buscar</button></div>
   <div class="row"><span class="lbl">Cerca</span><button class="chip" id="geoloc" type="button">📍 Mi ubicación</button>
     <select id="radio" style="flex:0 0 auto;min-width:90px"><option value="1">1 km</option><option value="3" selected>3 km</option><option value="5">5 km</option><option value="10">10 km</option></select>
     <span class="count" id="geostat"></span></div>
@@ -209,6 +210,20 @@ function setRef(lat,lng,label,persist=true){
 }
 selRef.onchange = ()=>{ if(selRef.value===""){ setRef(null); return; } const r=REFS[+selRef.value]; if(r) setRef(r.lat,r.lng,r.n); };
 try{ const saved=JSON.parse(localStorage.getItem("ref")||"null"); if(saved && typeof saved.lat==="number") setRef(saved.lat,saved.lng,saved.label,false); }catch(e){}
+// Búsqueda de dirección: sólo local (la CSP del artifact bloquea llamadas a un geocodificador).
+const normref = s => normtxt(s).replace(/[^a-z0-9 ]/g," ").replace(/\s+/g," ").trim();
+function buscarDireccion(){
+  const q=document.getElementById("addr").value.trim();
+  const st=document.getElementById("geostat");
+  const n=normref(q);
+  if(n.length<3){ st.textContent="escribe al menos 3 letras"; return; }
+  let best=null;
+  REFS.forEach(r=>{ const rn=normref(r.n); if(rn.includes(n)||n.includes(rn)){ const s=Math.abs(rn.length-n.length); if(!best||s<best.s) best={r,s}; } });
+  if(best){ selRef.value=""; setRef(best.r.lat,best.r.lng,best.r.n); }
+  else st.textContent='no está en la lista — elige una comuna o un mall en "Desde"';
+}
+document.getElementById("addrgo").onclick=buscarDireccion;
+document.getElementById("addr").addEventListener("keydown",e=>{ if(e.key==="Enter"){ e.preventDefault(); buscarDireccion(); } });
 const ff=document.getElementById("f-flags");
 if(META.n_nuevos) chip(ff, `✨ Nuevos (${META.n_nuevos})`, "", false, c=>{ state.soloNuevos=!state.soloNuevos; c.classList.toggle("on"); render(); });
 if(META.n_chg) chip(ff, `⚠ Cambió (${META.n_chg})`, "", false, c=>{ state.soloChg=!state.soloChg; c.classList.toggle("on"); render(); });
@@ -223,7 +238,8 @@ document.getElementById("geoloc").onclick=function(){
     err=>{ st.textContent = (err.code===1?"permiso denegado":"no se pudo ubicar") + " — elige un punto en \"Desde\""; selRef.focus(); },
     {enableHighAccuracy:true,timeout:10000,maximumAge:60000});
 };
-document.getElementById("clear").onclick=()=>{ state.banco.clear();state.dia.clear();state.tarj.clear();state.com.clear();state.q="";state.soloNuevos=false;state.soloChg=false; document.querySelectorAll(".chip.on").forEach(c=>c.classList.remove("on")); document.getElementById("f-com").innerHTML=""; document.getElementById("q").value=""; render(); };
+document.getElementById("clear").onclick=()=>{ state.banco.clear();state.dia.clear();state.tarj.clear();state.com.clear();state.q="";state.soloNuevos=false;state.soloChg=false;
+ document.getElementById("addr").value="";selRef.value="";setRef(null); document.querySelectorAll(".chip.on").forEach(c=>c.classList.remove("on")); document.getElementById("f-com").innerHTML=""; document.getElementById("q").value=""; render(); };
 
 function pass(d){
   if(state.banco.size && !state.banco.has(d.b)) return false;
