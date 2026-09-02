@@ -86,6 +86,9 @@ output/AAAA-MM/               resultados de cada mes (histórico)
   descuentos, o "Elegir en el mapa" (clic). No necesita GPS — pensado para el PC o cuando el navegador niega la
   ubicación. Se recuerda en `localStorage`. **📍 Mi ubicación** usa el GPS cuando está disponible.
 - Con referencia puesta: radio 1/3/5/10 km, orden por cercanía y círculo en el mapa.
+- **Mapa sin agrupar**: un punto por beneficio (los círculos con números se leían mal). Cuando varios
+  locales comparten coordenada —un mall— se reparten en un anillo de ~30 m para poder distinguirlos;
+  el popup indica el lugar real.
 - **Badges NUEVO / CAMBIÓ** vs el mes anterior + filtros rápidos (de `build_diff.py`).
 - **PWA**: `publish_site.py` genera `manifest.webmanifest`, `sw.js` e iconos → en el celular se
   instala con "Agregar a pantalla de inicio" y funciona offline (menos los tiles del mapa).

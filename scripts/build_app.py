@@ -156,8 +156,6 @@ TEMPLATE = r"""<!DOCTYPE html>
 <meta name="apple-mobile-web-app-title" content="Descuentos">
 <link rel="apple-touch-icon" href="../icon-180.png">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
 <style>
 :root{--bg:#f6f7f9;--card:#fff;--ink:#1d2330;--muted:#6b7280;--line:#e5e7eb;--fal:#0e7a3b;--san:#ec0000;--bci:#f5a300;--acc:#2563eb;--hl:#fff7cc}
 *{box-sizing:border-box}
@@ -215,7 +213,9 @@ pre.cond{white-space:pre-wrap;font:12px/1.45 ui-monospace,Consolas,monospace;bac
 #modal .bar{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;gap:10px;flex-wrap:wrap}
 .leaflet-popup-content{font-size:13px;line-height:1.35}
 .leaflet-popup-content b{font-size:14px}
-.mk{width:14px;height:14px;border-radius:50%;border:2px solid #fff;box-shadow:0 0 0 1px rgba(0,0,0,.35)}
+.mk{width:13px;height:13px;border-radius:50%;border:2px solid #fff;box-shadow:0 0 0 1px rgba(0,0,0,.45)}
+.leaflet-marker-icon:hover .mk{transform:scale(1.45);box-shadow:0 0 0 2px rgba(0,0,0,.5)}
+.mk{transition:transform .1s}
 .mk.fal{background:var(--fal)}.mk.san{background:var(--san)}.mk.bci{background:var(--bci)}
 .mk.aprox{background:#fff!important;border:2px dashed #555}
 .legend{background:#fff;padding:6px 8px;border-radius:6px;font-size:12px;box-shadow:0 1px 4px rgba(0,0,0,.2);line-height:1.6}
@@ -277,7 +277,6 @@ pre.cond{white-space:pre-wrap;font:12px/1.45 ui-monospace,Consolas,monospace;bac
 <div id="modal"><div class="box"><div class="bar"><b id="m-title"></b><span><span class="small" id="m-ts"></span> <a id="m-url" target="_blank" class="btn">Abrir en el banco ↗</a> <button class="btn" id="m-close">Cerrar ✕</button></span></div><img id="m-img" alt="captura"><p id="m-nota" class="small"></p></div></div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 <script>
 const DATA = __DATA__;
 const META = __META__;
@@ -318,8 +317,8 @@ document.getElementById("clear").onclick = ()=>{ selRef.value=""; document.getEl
 // ---- mapa
 const map = L.map("map",{preferCanvas:true}).setView([-33.43,-70.61],11);
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap"}).addTo(map);
-const cluster = L.markerClusterGroup({maxClusterRadius:40, disableClusteringAtZoom:15});
-map.addLayer(cluster);
+// Sin agrupar: un punto por beneficio (los círculos con números se leían mal).
+const cluster = L.layerGroup().addTo(map);
 const legend = L.control({position:"bottomleft"});
 legend.onAdd=()=>{const d=L.DomUtil.create("div","legend");d.innerHTML='<span class="mk fal" style="display:inline-block;vertical-align:middle"></span> Falabella &nbsp; <span class="mk san" style="display:inline-block;vertical-align:middle"></span> Santander &nbsp; <span class="mk bci" style="display:inline-block;vertical-align:middle"></span> BCI<br><span class="mk aprox" style="display:inline-block;vertical-align:middle"></span> aproximado (ciudad / por nombre)<br><span class="small">exacta = OSM con número · mall = recinto · calle = sin número (±cuadras)</span>';return d;};
 legend.addTo(map);
@@ -385,11 +384,22 @@ function render(){
   document.getElementById("tb").innerHTML = current.map(rowHtml).join("");
   cluster.clearLayers(); for (const k in markersById) delete markersById[k];
   const pts=[];
+  // varios locales comparten coordenada (un mall): se reparten en un anillo de ~30 m
+  const usados = {};
   current.forEach(d=>{
     d.ubic.forEach(u=>{
       if(isAprox(u) && !state.aprox) return;
-      const ic = L.divIcon({className:"", html:`<div class="mk ${bk(d.banco)} ${isAprox(u)?"aprox":""}"></div>`, iconSize:[14,14], iconAnchor:[7,7]});
-      const m = L.marker([u.lat,u.lng],{icon:ic}).bindPopup(popup(d,u));
+      const key = u.lat.toFixed(5)+","+u.lng.toFixed(5);
+      const n = (usados[key] = (usados[key]||0) + 1) - 1;
+      let lat=u.lat, lng=u.lng;
+      if(n>0){                                    // 1º queda en el punto exacto
+        const anillo = Math.ceil(n/8), idx = (n-1)%8;
+        const rad = 0.00027*anillo, ang = (idx/8)*2*Math.PI + anillo;
+        lat += rad*Math.cos(ang);
+        lng += rad*Math.sin(ang)/Math.cos(u.lat*Math.PI/180);
+      }
+      const ic = L.divIcon({className:"", html:`<div class="mk ${bk(d.banco)} ${isAprox(u)?"aprox":""}"></div>`, iconSize:[13,13], iconAnchor:[6.5,6.5]});
+      const m = L.marker([lat,lng],{icon:ic, title:d.comercio}).bindPopup(popup(d,u));
       cluster.addLayer(m); (markersById[d.id]=markersById[d.id]||[]).push(m); pts.push([u.lat,u.lng]);
     });
   });
@@ -524,7 +534,10 @@ function selectRow(id, fromTable){
   if(!fromTable) r.scrollIntoView({block:"center",behavior:"smooth"});
   const ms = markersById[id]||[];
   if(!ms.length) return;
-  const go = ()=>{ const b=L.latLngBounds(ms.map(m=>m.getLatLng())); if(ms.length===1){ map.setView(ms[0].getLatLng(), Math.max(map.getZoom(),16)); cluster.zoomToShowLayer(ms[0],()=>ms[0].openPopup()); } else map.fitBounds(b.pad(0.3)); };
+  const go = ()=>{
+    if(ms.length===1){ map.setView(ms[0].getLatLng(), Math.max(map.getZoom(),17)); ms[0].openPopup(); }
+    else { map.fitBounds(L.latLngBounds(ms.map(m=>m.getLatLng())).pad(0.3), {maxZoom:17}); ms[0].openPopup(); }
+  };
   if(isMobile() && !document.body.classList.contains("view-map")){ document.body.classList.add("view-map"); document.getElementById("vt-list").classList.remove("on"); document.getElementById("vt-map").classList.add("on"); setTimeout(()=>{ map.invalidateSize(); go(); }, 80); }
   else go();
 }
