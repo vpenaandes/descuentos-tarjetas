@@ -14,7 +14,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-from build_app import tarjetas_filtro, norm  # noqa: E402
+from build_app import referencias, tarjetas_filtro, norm  # noqa: E402
 from common import slug_id  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -47,7 +47,8 @@ def main():
     meta = {"mes": a.mes, "categoria": a.categoria, "generado": dt.date.today().isoformat(), "n": len(data),
             "bancos": sorted({d["b"] for d in data}), "tarjetas": sorted({t for d in data for t in d["tf"]}),
             "comunas": sorted({c for d in data for c in d["com"]}), "site": a.site,
-            "prev": diff.get("prev"), "n_nuevos": sum(1 for d in data if d["nuevo"]), "n_chg": sum(1 for d in data if d["chg"])}
+            "prev": diff.get("prev"), "n_nuevos": sum(1 for d in data if d["nuevo"]), "n_chg": sum(1 for d in data if d["chg"]),
+            "refs": referencias(items)}
     html = TEMPLATE.replace("__DATA__", json.dumps(data, ensure_ascii=False)).replace("__META__", json.dumps(meta, ensure_ascii=False))
     dst = os.path.join(outdir, f"descuentos_{a.categoria}_{a.mes}_artifact.html")
     open(dst, "w", encoding="utf-8").write(html)
@@ -141,7 +142,8 @@ footer a{color:var(--accent)}
   <div class="row"><span class="lbl">Banco</span><span id="f-banco" class="row"></span></div>
   <div class="row"><span class="lbl">Tarjeta</span><span id="f-tarj" class="row"></span></div>
   <div class="row"><span class="lbl">Comuna</span><select id="sel-com"><option value="">Todas las comunas…</option></select><span id="f-com" class="row"></span></div>
-  <div class="row"><span class="lbl">Cerca</span><button class="chip" id="geoloc" type="button">📍 Cerca de mí</button>
+  <div class="row"><span class="lbl">Desde</span><select id="ref"><option value="">— sin punto de referencia —</option></select></div>
+  <div class="row"><span class="lbl">Cerca</span><button class="chip" id="geoloc" type="button">📍 Mi ubicación</button>
     <select id="radio" style="flex:0 0 auto;min-width:90px"><option value="1">1 km</option><option value="3" selected>3 km</option><option value="5">5 km</option><option value="10">10 km</option></select>
     <span class="count" id="geostat"></span></div>
   <div class="row" id="f-flags"></div>
@@ -185,18 +187,40 @@ const sc=document.getElementById("sel-com");
 META.comunas.concat(["(sin comuna: cadena / online)"]).forEach(c=>{const o=document.createElement("option");o.value=c;o.textContent=c;sc.appendChild(o);});
 sc.onchange=()=>{ if(sc.value){ const c=sc.value; sc.value=""; if(state.com.has(c)) return; state.com.add(c); chip(document.getElementById("f-com"),c+" ✕","",true,x=>{state.com.delete(c);x.remove();render();}); render(); } };
 document.getElementById("q").oninput=e=>{state.q=normtxt(e.target.value);render();};
+const REFS = META.refs || [];
+const selRef = document.getElementById("ref");
+(() => {
+  const grupos = {};
+  REFS.forEach((r,i)=>{ (grupos[r.g] = grupos[r.g] || []).push({...r, i}); });
+  for(const g of Object.keys(grupos)){
+    const og=document.createElement("optgroup"); og.label=g;
+    grupos[g].sort((a,b)=>a.n.localeCompare(b.n,"es")).forEach(r=>{
+      const o=document.createElement("option"); o.value=String(r.i); o.textContent=r.n; og.appendChild(o);
+    });
+    selRef.appendChild(og);
+  }
+})();
+function setRef(lat,lng,label,persist=true){
+  state.me = (lat===null) ? null : [lat,lng];
+  const st=document.getElementById("geostat");
+  st.textContent = state.me ? ("desde " + (label||"punto elegido")) : "";
+  if(persist){ try{ state.me ? localStorage.setItem("ref", JSON.stringify({lat,lng,label})) : localStorage.removeItem("ref"); }catch(e){} }
+  render();
+}
+selRef.onchange = ()=>{ if(selRef.value===""){ setRef(null); return; } const r=REFS[+selRef.value]; if(r) setRef(r.lat,r.lng,r.n); };
+try{ const saved=JSON.parse(localStorage.getItem("ref")||"null"); if(saved && typeof saved.lat==="number") setRef(saved.lat,saved.lng,saved.label,false); }catch(e){}
 const ff=document.getElementById("f-flags");
 if(META.n_nuevos) chip(ff, `✨ Nuevos (${META.n_nuevos})`, "", false, c=>{ state.soloNuevos=!state.soloNuevos; c.classList.toggle("on"); render(); });
 if(META.n_chg) chip(ff, `⚠ Cambió (${META.n_chg})`, "", false, c=>{ state.soloChg=!state.soloChg; c.classList.toggle("on"); render(); });
 document.getElementById("radio").onchange=e=>{ state.radio=+e.target.value; if(state.me) render(); };
 document.getElementById("geoloc").onclick=function(){
   const st=document.getElementById("geostat"), btn=this;
-  if(state.me){ state.me=null; st.textContent=""; btn.textContent="📍 Cerca de mí"; btn.classList.remove("on"); render(); return; }
+  if(state.me){ selRef.value=""; setRef(null); btn.textContent="📍 Mi ubicación"; btn.classList.remove("on"); return; }
   if(!navigator.geolocation){ st.textContent="sin geolocalización"; return; }
   st.textContent="ubicando…";
   navigator.geolocation.getCurrentPosition(
-    pos=>{ state.me=[pos.coords.latitude,pos.coords.longitude]; st.textContent="ordenado por cercanía"; btn.textContent="📍 Quitar"; btn.classList.add("on"); render(); },
-    err=>{ st.textContent = err.code===1?"permiso denegado":"no se pudo ubicar"; },
+    pos=>{ selRef.value=""; setRef(pos.coords.latitude,pos.coords.longitude,"mi ubicación"); btn.textContent="📍 Quitar"; btn.classList.add("on"); },
+    err=>{ st.textContent = (err.code===1?"permiso denegado":"no se pudo ubicar") + " — elige un punto en \"Desde\""; selRef.focus(); },
     {enableHighAccuracy:true,timeout:10000,maximumAge:60000});
 };
 document.getElementById("clear").onclick=()=>{ state.banco.clear();state.dia.clear();state.tarj.clear();state.com.clear();state.q="";state.soloNuevos=false;state.soloChg=false; document.querySelectorAll(".chip.on").forEach(c=>c.classList.remove("on")); document.getElementById("f-com").innerHTML=""; document.getElementById("q").value=""; render(); };

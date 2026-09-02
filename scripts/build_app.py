@@ -68,6 +68,27 @@ def tarjetas_filtro(item):
     return list(dict.fromkeys(out))
 
 
+def referencias(items):
+    """Puntos de referencia para elegir "desde dónde" sin GPS: malls conocidos y
+    centros de comuna que ya estén geocodificados en los datos del mes."""
+    from geocode import MALLS
+    refs = []
+    vistos = set()
+    for _k, (nombre, _dir, comuna, lat, lng) in MALLS.items():
+        if nombre not in vistos and lat and lng:
+            vistos.add(nombre)
+            refs.append({"n": nombre, "g": "Centros comerciales / barrios", "lat": lat, "lng": lng, "c": comuna})
+    porcomuna = {}
+    for it in items:
+        for u in it.get("ubicaciones") or []:
+            c = u.get("comuna")
+            if c and u.get("lat") and c not in porcomuna:
+                porcomuna[c] = (u["lat"], u["lng"])
+    for c, (lat, lng) in sorted(porcomuna.items()):
+        refs.append({"n": c, "g": "Comunas", "lat": lat, "lng": lng, "c": c})
+    return refs
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--mes", default=dt.date.today().strftime("%Y-%m"))
@@ -100,6 +121,7 @@ def main():
             "cambios": (diff.get("cambios") or {}).get(it["id"]) or None,
         })
     meta = {"mes": a.mes, "categoria": a.categoria, "generado": dt.date.today().isoformat(), "n": len(data),
+            "refs": referencias(items),
             "bancos": sorted({d["banco"] for d in data}),
             "tarjetas": sorted({t for d in data for t in d["tf"]}),
             "comunas": sorted({c for d in data for c in d["comunas"]}),
@@ -221,7 +243,10 @@ pre.cond{white-space:pre-wrap;font:12px/1.45 ui-monospace,Consolas,monospace;bac
   <div class="fgroup col" id="f-tarj"><label>Tarjeta</label></div>
   <div class="fgroup col"><label>Comuna</label><select id="sel-com"><option value="">(agregar comuna…)</option></select><span id="f-com" class="fgroup"></span></div>
   <div class="fgroup col"><label>Buscar</label><input type="text" id="q" placeholder="comercio, tipo, lugar, condición…"></div>
-  <div class="fgroup"><button class="btn" id="geoloc" type="button">📍 Cerca de mí</button>
+  <div class="fgroup"><label>Desde</label>
+    <select id="ref"><option value="">— sin punto de referencia —</option></select>
+    <button class="btn" id="pickmap" type="button" title="Fijar el punto haciendo clic en el mapa">Elegir en el mapa</button>
+    <button class="btn" id="geoloc" type="button">📍 Mi ubicación</button>
     <select id="radio" title="radio de búsqueda"><option value="1">1 km</option><option value="3" selected>3 km</option><option value="5">5 km</option><option value="10">10 km</option></select>
     <span class="small" id="geostat"></span></div>
   <div class="fgroup" id="f-flags"></div>
@@ -278,7 +303,7 @@ function toggleSet(set,v,c){ if(set.has(v)){set.delete(v);c.classList.remove("on
 document.getElementById("q").oninput = e=>{state.q=normtxt(e.target.value);render();};
 document.getElementById("tg-aprox").onchange = e=>{state.aprox=e.target.checked;render();};
 document.getElementById("tg-geo").onchange = e=>{state.geo=e.target.checked;render();};
-document.getElementById("clear").onclick = ()=>{ state.banco.clear();state.dia.clear();state.tarj.clear();state.com.clear();state.q="";state.aprox=false;state.geo=false; document.querySelectorAll(".chip.on").forEach(c=>c.classList.remove("on")); document.getElementById("f-com").innerHTML=""; document.getElementById("q").value=""; document.getElementById("tg-aprox").checked=false; document.getElementById("tg-geo").checked=false; render(); };
+document.getElementById("clear").onclick = ()=>{ selRef.value=""; setRef(null); state.banco.clear();state.dia.clear();state.tarj.clear();state.com.clear();state.q="";state.aprox=false;state.geo=false; document.querySelectorAll(".chip.on").forEach(c=>c.classList.remove("on")); document.getElementById("f-com").innerHTML=""; document.getElementById("q").value=""; document.getElementById("tg-aprox").checked=false; document.getElementById("tg-geo").checked=false; render(); };
 
 // ---- mapa
 const map = L.map("map",{preferCanvas:true}).setView([-33.43,-70.61],11);
@@ -378,6 +403,54 @@ function setView(v){
 }
 window.addEventListener("resize", ()=>{ map.invalidateSize(); });
 let meMarker=null, meCircle=null;
+// --- punto de referencia (sirve cuando el navegador no da ubicación)
+const REFS = META.refs || [];
+const selRef = document.getElementById("ref");
+(() => {
+  const grupos = {};
+  REFS.forEach((r,i)=>{ (grupos[r.g] = grupos[r.g] || []).push({...r, i}); });
+  for(const g of Object.keys(grupos)){
+    const og=document.createElement("optgroup"); og.label=g;
+    grupos[g].sort((a,b)=>a.n.localeCompare(b.n,"es")).forEach(r=>{
+      const o=document.createElement("option"); o.value=String(r.i); o.textContent=r.n; og.appendChild(o);
+    });
+    selRef.appendChild(og);
+  }
+})();
+function setRef(lat,lng,label,persist=true){
+  state.me = (lat===null) ? null : [lat,lng];
+  drawMe();
+  const st=document.getElementById("geostat");
+  st.textContent = state.me ? ("desde " + (label||"punto elegido")) : "";
+  document.getElementById("geoloc").textContent = "📍 Mi ubicación";
+  if(persist){ try{ state.me ? localStorage.setItem("ref", JSON.stringify({lat,lng,label})) : localStorage.removeItem("ref"); }catch(e){} }
+  render();
+  if(state.me && isMobile()) setView("map");
+}
+selRef.onchange = ()=>{
+  if(selRef.value===""){ setRef(null); return; }
+  const r=REFS[+selRef.value]; if(r) setRef(r.lat, r.lng, r.n);
+};
+let pickMode=false;
+document.getElementById("pickmap").onclick = function(){
+  pickMode=!pickMode;
+  this.classList.toggle("on", pickMode);
+  this.textContent = pickMode ? "Haz clic en el mapa…" : "Elegir en el mapa";
+  map.getContainer().style.cursor = pickMode ? "crosshair" : "";
+  if(pickMode && isMobile()) setView("map");
+};
+map.on("click", e=>{
+  if(!pickMode) return;
+  pickMode=false;
+  const b=document.getElementById("pickmap");
+  b.classList.remove("on"); b.textContent="Elegir en el mapa"; map.getContainer().style.cursor="";
+  selRef.value="";
+  setRef(e.latlng.lat, e.latlng.lng, "punto elegido en el mapa");
+});
+try{
+  const saved=JSON.parse(localStorage.getItem("ref")||"null");
+  if(saved && typeof saved.lat==="number"){ setRef(saved.lat, saved.lng, saved.label, false); }
+}catch(e){}
 const _r=document.getElementById("radio"); if(_r) _r.onchange = e=>{ state.radio=+e.target.value; if(state.me){ drawMe(); render(); } };
 function drawMe(){
   if(meMarker) map.removeLayer(meMarker); if(meCircle) map.removeLayer(meCircle);
@@ -387,12 +460,12 @@ function drawMe(){
 }
 const _g=document.getElementById("geoloc"); if(_g) _g.onclick = ()=>{
   const st=document.getElementById("geostat");
-  if(state.me){ state.me=null; drawMe(); st.textContent=""; document.getElementById("geoloc").textContent="📍 Cerca de mí"; render(); return; }
+  if(state.me){ selRef.value=""; setRef(null); return; }
   if(!navigator.geolocation){ st.textContent="tu navegador no da ubicación"; return; }
   st.textContent="ubicando…";
   navigator.geolocation.getCurrentPosition(
-    pos=>{ state.me=[pos.coords.latitude,pos.coords.longitude]; drawMe(); st.textContent="ordenado por cercanía"; document.getElementById("geoloc").textContent="📍 Quitar ubicación"; render(); if(isMobile()) setView("map"); },
-    err=>{ st.textContent = err.code===1 ? "permiso denegado" : "no se pudo ubicar"; },
+    pos=>{ selRef.value=""; setRef(pos.coords.latitude, pos.coords.longitude, "mi ubicación"); document.getElementById("geoloc").textContent="📍 Quitar ubicación"; },
+    err=>{ st.textContent = (err.code===1 ? "permiso denegado" : "no se pudo ubicar") + " — usa \"Desde\" o \"Elegir en el mapa\""; selRef.focus(); },
     {enableHighAccuracy:true, timeout:10000, maximumAge:60000});
 };
 const ftoggle = document.getElementById("ftoggle");

@@ -80,7 +80,10 @@ output/AAAA-MM/               resultados de cada mes (histórico)
 ### Qué muestra la app
 - **Tipo de local** en cada fila/tarjeta (Falabella: `commerceInfoDescription`; Santander: primera
   línea de la descripción; BCI: primera línea).
-- **📍 Cerca de mí**: GPS del navegador, radio 1/3/5/10 km, orden por cercanía, círculo en el mapa.
+- **Punto de referencia**: selector "Desde" con centros comerciales/barrios y comunas, o
+  "Elegir en el mapa" (clic). No necesita GPS — pensado para el PC o cuando el navegador niega la
+  ubicación. Se recuerda en `localStorage`. **📍 Mi ubicación** usa el GPS cuando está disponible.
+- Con referencia puesta: radio 1/3/5/10 km, orden por cercanía y círculo en el mapa.
 - **Badges NUEVO / CAMBIÓ** vs el mes anterior + filtros rápidos (de `build_diff.py`).
 - **PWA**: `publish_site.py` genera `manifest.webmanifest`, `sw.js` e iconos → en el celular se
   instala con "Agregar a pantalla de inicio" y funciona offline (menos los tiles del mapa).
