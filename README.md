@@ -180,3 +180,6 @@ Candidatos: BCI, Banco de Chile, Scotiabank, Itaú, Tenpo/MACH.
 - 2026-09-01: septiembre. Falabella 94, Santander 82, BCI 76 (252). Fetch Santander automatizado con
   Playwright; se agregó BCI, tipo de local, "Cerca de mí" (GPS), PWA instalable, diff mes a mes e
   IDs estables por URL (antes dependían del índice y desparejaban las capturas).
+- 2026-10-08: octubre. Falabella 112, Santander 96, BCI 64 (272). Playwright tuvo que reinstalarse
+  (cambio de perfil de Windows). build_diff empareja también por nombre: Santander republica promos
+  con URL nueva y antes salían como alta y baja a la vez.

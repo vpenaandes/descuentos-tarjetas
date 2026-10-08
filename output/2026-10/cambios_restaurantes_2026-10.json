@@ -1,0 +1,940 @@
+{
+ "mes": "2026-10",
+ "prev": "2026-09",
+ "generado": "2026-10-08",
+ "altas": [
+  "bci-akun-bar-las-condes-desde-las-16-00-hrs-xcn7fog",
+  "bci-las-condes-y-vitacura-mnqaxi",
+  "bci-disfruta-el-domingo-xwh6yec",
+  "bci-cafe-med-las-condes-desde-las-12-00-a-las-16-00-",
+  "bci-lunes-las-condes-d6hlv4j",
+  "bci-una-carta-destacada-en-talca-cicocfq",
+  "bci-martes-valdivia-sebv3gq",
+  "banc-chilis",
+  "banc-de-barrio",
+  "banc-cantina-varas",
+  "banc-mamut",
+  "banc-hijo-del-sol-santiago",
+  "banc-prima-bar",
+  "banc-hijo-del-sol-5ta-region",
+  "banc-casa-abierta",
+  "banc-barroco-restobar",
+  "banc-carmine",
+  "banc-cosenza",
+  "banc-do-sushi",
+  "banc-dynos-chillan",
+  "banc-taberna-nose-puerto-varas",
+  "banc-docetrece",
+  "banc-pizzeria-popular",
+  "banc-umami-nikkei",
+  "banc-taringuita-mall-sport",
+  "banc-amira-sabor-y-cafe",
+  "banc-shi-nua",
+  "banc-kiara",
+  "banc-casaluz",
+  "banc-ciros",
+  "banc-shopdog",
+  "banc-cream-roll",
+  "banc-costa-sushi",
+  "banc-inca-pecador",
+  "banc-il-peccato",
+  "banc-tambo",
+  "banc-ruca-bar",
+  "banc-rossie-la-loca",
+  "banc-barbazul",
+  "banc-nikkei-57",
+  "sant-umami-nikkei",
+  "sant-sicily-5",
+  "sant-vitalicio",
+  "sant-aji-seco",
+  "sant-ocean-pacific",
+  "sant-la-braveria",
+  "sant-costa-sushi",
+  "sant-nativa-bar",
+  "sant-rock-in",
+  "sant-atipico",
+  "sant-re",
+  "sant-enebro",
+  "sant-el-meson-de-la-patagonia",
+  "sant-cafe-milano",
+  "sant-juan-cantina",
+  "sant-jeronimo",
+  "sant-miscelaneo",
+  "sant-carnivo-steakhouse",
+  "sant-casa-vitalis",
+  "sant-cascade-bistro",
+  "sant-casa-don-toro",
+  "sant-chilis",
+  "sant-tropera-drugstore",
+  "sant-zia-bistro",
+  "sant-barra-olivo",
+  "sant-bar-1005",
+  "sant-dulceria-puerto-varas",
+  "sant-nolia",
+  "sant-la-joya-cantina-sanguches",
+  "sant-quercus",
+  "sant-raymi",
+  "sant-jardin-mallinkrodt",
+  "sant-rustico-restobar",
+  "sant-la-burguesia",
+  "sant-don-camaron",
+  "sant-raidho",
+  "sant-kiara",
+  "sant-demencia-2",
+  "sant-rishtedar-2",
+  "sant-domina-bistro",
+  "sant-just-burger-3",
+  "sant-kobo-2",
+  "sant-winecaina-2",
+  "sant-barrica-94-2",
+  "sant-hestia-talca"
+ ],
+ "bajas": [
+  {
+   "id": "bci-ac-kitchen-hotel-santiago-cenco-costanera-x32q24",
+   "comercio": "Marriott",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/ac-kitchen-hotel-santiago-cenco-costanera-x32q24n"
+  },
+  {
+   "id": "bci-viernes-maitencillo-ak204pl",
+   "comercio": "Jeró Bistró",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-maitencillo-ak204pl"
+  },
+  {
+   "id": "bci-disfruta-los-viernes-a0kuqia",
+   "comercio": "La Hacienda de Machalí",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-viernes-a0kuqia"
+  },
+  {
+   "id": "bci-todos-los-dias-para-disfrutar-85s0l4",
+   "comercio": "Starburger",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-dias-para-disfrutar-85s0l4"
+  },
+  {
+   "id": "bci-cafe-med-sabado-las-condes-desde-las-13-00-hasta",
+   "comercio": "Marriott",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/cafe-med-sabado-las-condes-desde-las-13.00-hasta-las-16.00-hrs-2b61eqo"
+  },
+  {
+   "id": "bci-para-disfrutar-en-puerto-varas-r4jl7w7",
+   "comercio": "Cambalache",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/para-disfrutar-en-puerto-varas-r4jl7w7"
+  },
+  {
+   "id": "bci-cocina-de-temporada-en-vina-del-mar-lcj20ds",
+   "comercio": "Don Emelio",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/cocina-de-temporada-en-vina-del-mar-lcj20ds"
+  },
+  {
+   "id": "bci-disfruta-los-martes-en-puerto-varas-itra49g",
+   "comercio": "Atípico",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-martes-en-puerto-varas-itra49g"
+  },
+  {
+   "id": "bci-disfruta-de-este-beneficio-los-viernes-en-isidor",
+   "comercio": "Kató Tasty Caos",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-de-este-beneficio-los-viernes-en-isidora-goyenechea-77wc2jk"
+  },
+  {
+   "id": "bci-vive-una-experiencia-en-parrilladas-en-vitacura-",
+   "comercio": "La Parrilla del Guaton Jerez",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/vive-una-experiencia-en-parrilladas-en-vitacura-1oxsboq"
+  },
+  {
+   "id": "bci-viernes-en-osorno-7a6w2gc",
+   "comercio": "Parrilla el Galpón",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/viernes-en-osorno-7a6w2gc"
+  },
+  {
+   "id": "bci-disfruta-todos-los-viernes-en-vitacura-ii9k5zg",
+   "comercio": "Piegari",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-todos-los-viernes-en-vitacura-ii9k5zg"
+  },
+  {
+   "id": "bci-providenci-unq93xm",
+   "comercio": "Bar sociedad 0306",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/providenci-unq93xm"
+  },
+  {
+   "id": "bci-sabado-lo-barnechea-k6qa9h",
+   "comercio": "Burgerholic",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/sabado-lo-barnechea-k6qa9h"
+  },
+  {
+   "id": "bci-todos-los-martes-para-disfrutar-en-vina-del-mar-",
+   "comercio": "Masamá",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-martes-para-disfrutar-en-vina-del-mar-q0miwx9"
+  },
+  {
+   "id": "bci-para-disfrutar-todos-los-lunes-en-providencia-y-",
+   "comercio": "Loca Pasta",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/para-disfrutar-todos-los-lunes-en-providencia-y-vitacura-oxuv3p"
+  },
+  {
+   "id": "bci-disfruta-los-lunes-en-temuco-jrgv61w",
+   "comercio": "De Lechón a Salmón",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/disfruta-los-lunes-en-temuco-jrgv61w"
+  },
+  {
+   "id": "bci-todos-los-jueves-en-temuco-e916rie",
+   "comercio": "Fino Chalán",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/todos-los-jueves-en-temuco-e916rie"
+  },
+  {
+   "id": "bci-aprovecha-este-beneficio-en-puerto-varas-zxvpa8e",
+   "comercio": "Viviana Casa de Té",
+   "banco": "BCI",
+   "url": "https://www.bci.cl/beneficios/beneficios-bci/detalle/aprovecha-este-beneficio-en-puerto-varas-zxvpa8e"
+  },
+  {
+   "id": "banc-sicily-pizzeria",
+   "comercio": "Sicily Pizzería",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/sicily-pizzeria"
+  },
+  {
+   "id": "banc-pristino",
+   "comercio": "Pristino",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/pristino"
+  },
+  {
+   "id": "banc-la-cabrera-al-paso",
+   "comercio": "Cabrera al Paso",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/la-cabrera-al-paso"
+  },
+  {
+   "id": "banc-tropera-drugstore",
+   "comercio": "Tropera Drugstore",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/tropera-drugstore"
+  },
+  {
+   "id": "banc-naoki",
+   "comercio": "Naoki",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/naoki"
+  },
+  {
+   "id": "banc-dagan",
+   "comercio": "Dagan",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/dagan"
+  },
+  {
+   "id": "banc-40-sabor-y-aroma",
+   "comercio": "Sabor y Aroma",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/40-sabor-y-aroma"
+  },
+  {
+   "id": "banc-caoba-bar",
+   "comercio": "Caoba Bar",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/caoba-bar"
+  },
+  {
+   "id": "banc-don-carlos",
+   "comercio": "Don Carlos",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/don-carlos"
+  },
+  {
+   "id": "banc-local-burger",
+   "comercio": "Local Burger",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/local-burger"
+  },
+  {
+   "id": "banc-zulu",
+   "comercio": "Zulu",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/zulu"
+  },
+  {
+   "id": "banc-tololo-beach",
+   "comercio": "Tololo Beach ",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/tololo-beach"
+  },
+  {
+   "id": "banc-tololo-beef",
+   "comercio": "Tololo Beef",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/tololo-beef"
+  },
+  {
+   "id": "banc-cafe-haussmann",
+   "comercio": "Cafe Haussmann",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/cafe-haussmann"
+  },
+  {
+   "id": "banc-nomade-nikkei",
+   "comercio": "Nomade Nikkei",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/nomade-nikkei"
+  },
+  {
+   "id": "banc-mamma-gaucha-coyhaique",
+   "comercio": "Mamma Gaucha Coyhaique",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/mamma-gaucha-coyhaique"
+  },
+  {
+   "id": "banc-dominga-bistro-pucon",
+   "comercio": "Dominga Bistro Pucon",
+   "banco": "Banco Falabella",
+   "url": "https://www.bancofalabella.cl/descuentos/detalle/dominga-bistro-pucon"
+  },
+  {
+   "id": "sant-rubaiyat",
+   "comercio": "Rubaiyat",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/rubaiyat"
+  },
+  {
+   "id": "sant-domani",
+   "comercio": "Domani",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/domani"
+  },
+  {
+   "id": "sant-santo-aire",
+   "comercio": "Santo Aire",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/santo-aire"
+  },
+  {
+   "id": "sant-majka",
+   "comercio": "Majka",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/majka"
+  },
+  {
+   "id": "sant-taurus-steak-bar",
+   "comercio": "Taurus Steak bar",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/taurus-steak-bar"
+  },
+  {
+   "id": "sant-cosenza",
+   "comercio": "Cosenza",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/cosenza"
+  },
+  {
+   "id": "sant-torobayo",
+   "comercio": "Toro Bayo",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/torobayo"
+  },
+  {
+   "id": "sant-sushi-home",
+   "comercio": "Sushi Home",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/sushi-home"
+  },
+  {
+   "id": "sant-vicenta",
+   "comercio": "Vicenta",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/vicenta"
+  },
+  {
+   "id": "sant-1213",
+   "comercio": "1213",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/1213"
+  },
+  {
+   "id": "sant-hitomi-tomi",
+   "comercio": "Hitomi Tomi",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/hitomi-tomi"
+  },
+  {
+   "id": "sant-pizzeria-capri",
+   "comercio": "Pizzería Capri",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/pizzeria-capri"
+  },
+  {
+   "id": "sant-estacion-tropera",
+   "comercio": "Estación Tropera",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/estacion-tropera"
+  },
+  {
+   "id": "sant-exo-nuit",
+   "comercio": "Exò Nuit",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/exo-nuit"
+  },
+  {
+   "id": "sant-estro-3",
+   "comercio": "Estró",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/estro-3"
+  },
+  {
+   "id": "sant-social-bar",
+   "comercio": "Social Bar",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/social-bar"
+  },
+  {
+   "id": "sant-taringa-4",
+   "comercio": "Taringa",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/taringa-4"
+  },
+  {
+   "id": "sant-brunetti",
+   "comercio": "Brunetti",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/brunetti"
+  },
+  {
+   "id": "sant-brunapoli",
+   "comercio": "Brunapoli",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/brunapoli"
+  },
+  {
+   "id": "sant-oh-bok",
+   "comercio": "Oh Bok",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/oh-bok"
+  },
+  {
+   "id": "sant-milan",
+   "comercio": "Milán",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/milan"
+  },
+  {
+   "id": "sant-la-mulata",
+   "comercio": "La Mulata",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/la-mulata"
+  },
+  {
+   "id": "sant-sociedad-0306",
+   "comercio": "Sociedad 0306",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/sociedad-0306"
+  },
+  {
+   "id": "sant-infiltrados",
+   "comercio": "Infiltrados",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/infiltrados"
+  },
+  {
+   "id": "sant-restaurante-hotel-awa",
+   "comercio": "Restaurante Hotel AWA",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/restaurante-hotel-awa"
+  },
+  {
+   "id": "sant-ica-2",
+   "comercio": "ICA",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/ica-2"
+  },
+  {
+   "id": "sant-barraandalue",
+   "comercio": "Barra Andalúe",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/barraandalue"
+  },
+  {
+   "id": "sant-dominga-nikkei",
+   "comercio": "Dominga Nikkei",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/dominga-nikkei"
+  },
+  {
+   "id": "sant-augusta-bar",
+   "comercio": "Augusta Bar",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/augusta-bar"
+  },
+  {
+   "id": "sant-local-burger-2",
+   "comercio": "Local Burger",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/local-burger-2"
+  },
+  {
+   "id": "sant-piegari-2",
+   "comercio": "Piegari",
+   "banco": "Santander",
+   "url": "https://banco.santander.cl/beneficios/promociones/piegari-2"
+  }
+ ],
+ "cambios": {
+  "bci-ac-kitchen-hotel-santiago-cenco-costanera-e0dwk7": {
+   "descuento": {
+    "antes": "50% dcto · Todos los viernes",
+    "ahora": "40% dcto · Todos los jueves"
+   },
+   "dias": {
+    "antes": "Viernes",
+    "ahora": "Jueves"
+   },
+   "horario": {
+    "antes": "Akun Bar - Las Condes desde las 16.00 hrs",
+    "ahora": ""
+   },
+   "lugares": {
+    "antes": "Marriott, Las Condes",
+    "ahora": "Marriott, Metropolitana"
+   },
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite",
+    "ahora": "Exclusivo con tus tarjetas de Crédito Bci Mastercard Black, Visa Signature y Visa Infinite"
+   }
+  },
+  "bci-viernes-maitencillo-8fks8lm": {
+   "descuento": {
+    "antes": "40% dcto · Todos los viernes",
+    "ahora": "20% dcto · Todos los viernes"
+   },
+   "tarjetas": {
+    "antes": "Exclusivo con tus tarjetas de Crédito Bci.",
+    "ahora": "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+   }
+  },
+  "bci-aprovecha-los-martes-y-miercoles-en-calama-vtspo": {
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito o Débito Bci.",
+    "ahora": "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+   }
+  },
+  "bci-una-experiencia-oriental-en-las-condes-0mk5lde": {
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjeta de Crédito o Débito Bci.",
+    "ahora": "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+   }
+  },
+  "bci-miercoles-arica-gzp7w89": {
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Bci.",
+    "ahora": "Exclusivo con tus tarjetas de Crédito Bci."
+   }
+  },
+  "bci-viernes-antofagasta-u67bnbs": {
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Bci.",
+    "ahora": "Exclusivo con tus tarjetas de Crédito Bci."
+   }
+  },
+  "bci-para-disfrutar-tu-escapada-en-pichilemu-5fhzh1": {
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Bci.",
+    "ahora": "Exclusivo con tus tarjetas de Crédito Bci."
+   }
+  },
+  "bci-variedad-de-sabores-en-las-condes-jpj9xzn": {
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Bci.",
+    "ahora": "Exclusivo con tus tarjetas de Crédito Bci."
+   }
+  },
+  "bci-en-concepcion-o5p6bib": {
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Bci.",
+    "ahora": "Exclusivo con tus tarjetas de Crédito Bci."
+   }
+  },
+  "bci-viernes-en-renaca-54w3mph": {
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Bci.",
+    "ahora": "Exclusivo con tus tarjetas de Crédito Bci."
+   }
+  },
+  "bci-para-disfrutar-en-talca-c6wca5": {
+   "descuento": {
+    "antes": "40% dcto · Todos los jueves",
+    "ahora": "20% dcto · Todos los jueves"
+   },
+   "tope": {
+    "antes": "$40.000",
+    "ahora": "$20.000"
+   },
+   "tarjetas": {
+    "antes": "Exclusivo con tus tarjetas de Crédito Bci.",
+    "ahora": "Exclusivo con tus Tarjetas de Crédito o Débito Bci."
+   }
+  },
+  "bci-disfruta-los-jueves-en-talca-2ubk0e": {
+   "tarjetas": {
+    "antes": "Exclusivo con tus tarjetas de Crédito Bci.",
+    "ahora": "Exclusivo con tus Tarjetas de Crédito Bci."
+   }
+  },
+  "bci-sushi-en-calama-ifw5jau": {
+   "descuento": {
+    "antes": "40% dcto · Todos los viernes",
+    "ahora": "20% dcto · Todos los viernes"
+   },
+   "tope": {
+    "antes": "$40.000",
+    "ahora": "$20.000"
+   }
+  },
+  "bci-aprovecha-los-miercoles-en-talca-6li5yjd": {
+   "horario": {
+    "antes": "",
+    "ahora": "Horarios: Lunes a Sábado de 11:00 a 20:00 hrs. - Domingo de 11:00 a 18:30 hrs."
+   },
+   "lugares": {
+    "antes": "La Hacienda Talca, Maule",
+    "ahora": "San Ignacio 3020, San Miguel"
+   }
+  },
+  "bci-en-el-corazon-de-la-ciudad-uw74jal": {
+   "descuento": {
+    "antes": "40% dcto · Todos los viernes",
+    "ahora": "20% dcto · Todos los viernes"
+   },
+   "tope": {
+    "antes": "$40.000",
+    "ahora": "$20.000"
+   },
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Bci.",
+    "ahora": "Exclusivo con tus tarjetas de Crédito y debito Bci."
+   }
+  },
+  "bci-disfruta-los-domingos-en-talca-b1uae": {
+   "descuento": {
+    "antes": "40% dcto · Todos los domingos",
+    "ahora": "20% dcto · Todos los domingos"
+   },
+   "tope": {
+    "antes": "$40.000",
+    "ahora": "$20.000"
+   },
+   "tarjetas": {
+    "antes": "Exclusivo con tus tarjetas de Crédito Bci.",
+    "ahora": "Exclusivo con tus Tarjetas de Crédito o Débito Bci."
+   }
+  },
+  "bci-miercoles-en-valdivia-pi6c7jt": {
+   "descuento": {
+    "antes": "20% dcto · Todos los jueves",
+    "ahora": "40% dcto · Todos los miércoles"
+   },
+   "tope": {
+    "antes": "Sin tope",
+    "ahora": "$40.000"
+   },
+   "dias": {
+    "antes": "Jueves",
+    "ahora": "Miércoles; Jueves"
+   },
+   "tarjetas": {
+    "antes": "Exclusivo con tus tarjetas de Crédito o Débito Bci.",
+    "ahora": "Exclusivo con tus Tarjetas de Crédito Bci."
+   }
+  },
+  "bci-viernes-en-la-florida-l2k95mc": {
+   "descuento": {
+    "antes": "20% dcto · Todos los viernes",
+    "ahora": "40% dcto · Todos los viernes"
+   },
+   "tope": {
+    "antes": "Sin tope",
+    "ahora": "$40.000"
+   },
+   "tarjetas": {
+    "antes": "Exclusivo con tus tarjetas de Crédito o Débito Bci.",
+    "ahora": "Exclusivo con tus Tarjetas de Crédito Bci."
+   }
+  },
+  "bci-miercoles-para-disfrutar-con-amigos-um3jwdg": {
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito o Débito Bci.",
+    "ahora": "Exclusivo con tus tarjetas de Crédito o Débito Bci."
+   }
+  },
+  "banc-la-maestranza": {
+   "dias": {
+    "antes": "Lunes; Miércoles; Viernes",
+    "ahora": "Lunes; Miércoles"
+   }
+  },
+  "banc-la-santoria": {
+   "descuento": {
+    "antes": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a domingo)",
+    "ahora": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella)"
+   },
+   "dias": {
+    "antes": "Miércoles; Jueves; Viernes; Sábado; Domingo",
+    "ahora": "Lunes; Miércoles; Jueves; Viernes; Sábado; Domingo"
+   }
+  },
+  "banc-40-de-dcto-en-restaurantes-mallplaza-paris-texas": {
+   "lugares": {
+    "antes": "Paris Texas Mallplaza Vespucio: lunes a jueves",
+    "ahora": "Mallplaza Vespucio: lunes a jueves"
+   }
+  },
+  "banc-40-de-dcto-en-restaurantes-mallplaza-la-patrona": {
+   "lugares": {
+    "antes": "La Patrona Mall Plaza Vespucio: lunes a jueves",
+    "ahora": "Mall Plaza Vespucio: lunes a jueves"
+   }
+  },
+  "banc-vendetta": {
+   "lugares": {
+    "antes": "locales seleccionados; Mall Plaza Egaña: de lunes a jueves; Mall Plaza Los Dominicos: de lunes a jueves; Mall Plaza Vespucio: de lunes a jueves; Patio Bellavista: de lunes a jueves",
+    "ahora": "locales seleccionados"
+   }
+  },
+  "banc-tigre-bravo": {
+   "dias": {
+    "antes": "Miércoles",
+    "ahora": "Martes; Miércoles"
+   }
+  },
+  "banc-danes": {
+   "dias": {
+    "antes": "Miércoles",
+    "ahora": "Miércoles; Sábado"
+   }
+  },
+  "banc-berlin-doner-kebab": {
+   "dias": {
+    "antes": "Lunes; Martes; Jueves",
+    "ahora": "Lunes; Jueves"
+   }
+  },
+  "banc-kento-gourmet": {
+   "lugares": {
+    "antes": "Alto Las Condes (Av Presidente Kennedy Lateral 9001); Parque Arauco (Av Presidente Kennedy 5413); Av. Vitacura 5460",
+    "ahora": "Alto Las Condes (Av Presidente Kennedy Lateral 9001); Parque Arauco (Av Presidente Kennedy 5413); Av. Vitacura 5460; Pide online aquí"
+   }
+  },
+  "banc-kato": {
+   "dias": {
+    "antes": "Sábado; Domingo",
+    "ahora": "Lunes; Martes; Miércoles; Jueves; Viernes; Sábado"
+   }
+  },
+  "banc-40-de-dcto-en-restaurantes-mallplaza-el-japones": {
+   "lugares": {
+    "antes": "Mall Florida Center: lunes a domingo; Mall plaza Tobalaba : lunes a domingo; Vivo Panoramico: lunes a domingo; Isidora 3000 : viernes a domingo",
+    "ahora": "Mall Florida Center: lunes a domingo; Mallplaza Lo Dominicos: lunes a domingo; Mallplaza Tobalaba : lunes a domingo; Mercado Bulnes: lunes a domingo; Vivo Panorámico: lunes a domingo; Isidora 3000 : viernes a domingo"
+   }
+  },
+  "banc-fuente-suiza": {
+   "lugares": {
+    "antes": "Mallplaza Oeste: lunes a miércoles; Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo",
+    "ahora": "Open Kennedy: lunes y martes; Open Kennedy desde 19:00hrs: miércoles a domingo; Mallplaza Los Dominicos: todos los días"
+   }
+  },
+  "banc-sog-jalisco": {
+   "lugares": {
+    "antes": "Parque Arauco; Open Kennedy; Vivo Panomarico",
+    "ahora": "Costanera Center; Parque Arauco; Open Kennedy; Vivo Panorámico"
+   }
+  },
+  "banc-la-argentina": {
+   "descuento": {
+    "antes": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de miércoles a viernes)",
+    "ahora": "40% (40% dcto sin tope con CMR y 30% dcto sin tope con Débito Banco Falabella de lunes a domingo)"
+   },
+   "lugares": {
+    "antes": "Mall plaza Oeste: Lunes a miercoles; Mall Florida Center: Lunes a domingo; Mall plaza Tobalaba: Lunes a domingo",
+    "ahora": "Mallplaza Oeste; Mallplaza Los Dominicos; Mall Florida Center; Mallplaza Tobalaba; Mallplaza Vespucio"
+   }
+  },
+  "banc-40-de-dcto-en-restaurantes-mallplaza-muu-grill": {
+   "lugares": {
+    "antes": "Costanera Center: Todos los días; AV Isidora Goyenechea 3000, las condes: Todos los días; Mercado Bulnes: Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mall Marina Viña: Todos los días; Mallplaza Antofagasta: Lunes a miércoles",
+    "ahora": "Costanera Center: Todos los días; AV Isidora Goyenechea 3000, las condes: Todos los días; Mercado Bulnes: Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Mallplaza Egaña: Todos los días; Vivo Panorámico: Todos los días; Mall Marina Viña: Todos los días; Mallplaza Antofagasta: Lunes a miércoles"
+   }
+  },
+  "banc-40-de-dcto-en-restaurantes-mallplaza-take-a-wok": {
+   "lugares": {
+    "antes": "Parque Arauco : Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Los Dominicos: Todos los días; Mallplaza Vespucio: Todos los días; Mallplaza Tobalaba: Todos los días; Vivo Imperio: Sábado y Domingo; Mallplaza Egaña: Lunes a Jueves; Mallplaza Antofagasta: Lunes a viernes",
+    "ahora": "Parque Arauco : Todos los días; Mallplaza Oeste: Todos los días; Mallplaza Tobalaba: Todos los días; Vivo Imperio: Sábado y Domingo; Mallplaza Egaña: Lunes a Jueves; Mallplaza Antofagasta: Lunes a viernes"
+   }
+  },
+  "banc-40-de-dcto-en-restaurantes-mallplaza-tanta": {
+   "lugares": {
+    "antes": "Isidora 3000: Viernes a domingo; Mallplaza Norte: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias; Mallplaza Egaña: lunes a miércoles",
+    "ahora": "Isidora 3000: Viernes a domingo; Mallplaza Egaña: lunes a miércoles; Mallplaza Norte: lunes a jueves; Mallplaza Oeste: lunes a jueves; Mall Florida Center: Todos los dias; Mallplaza Tobalaba: Todos los dias"
+   }
+  },
+  "banc-greed-taproom": {
+   "dias": {
+    "antes": "Sábado",
+    "ahora": "Miércoles"
+   }
+  },
+  "banc-fogon-greed": {
+   "dias": {
+    "antes": "Sábado",
+    "ahora": "Miércoles"
+   }
+  },
+  "banc-social": {
+   "dias": {
+    "antes": "Viernes",
+    "ahora": "Lunes; Viernes"
+   }
+  },
+  "banc-panchita": {
+   "horario": {
+    "antes": "Descuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00",
+    "ahora": "Descuento: 40% dcto sin tope con CMR Elite de lunes a viernes hasta las 17:00 presencial"
+   }
+  },
+  "sant-streat-burger-2": {
+   "lugares": {
+    "antes": "Las Condes, Lo Barnechea, Ñuñoa, La Florida, San Francisco de Mostazal, Hijuelas, Chillán, San Fernando, Llay Llay",
+    "ahora": "Metropolitana, O'Higgins, Ñuble, Valparaíso"
+   }
+  },
+  "sant-el-mundo-del-vino-10": {
+   "lugares": {
+    "antes": " Providencia, Las Condes",
+    "ahora": "En viñas seleccionadas: Clos de Luz, Barón Philippe, Tres Palacios, Las  Veletas, San Pedro, Tarapaca, Tabali, Ventisquero, Errazuriz; Providencia, Las Condes"
+   }
+  },
+  "sant-casa-mar-sushi": {
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Santander.",
+    "ahora": "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+   }
+  },
+  "sant-ramblas": {
+   "descuento": {
+    "antes": "40% dcto. todos los martes",
+    "ahora": "40% dcto. todos los jueves"
+   },
+   "dias": {
+    "antes": "Martes",
+    "ahora": "Jueves"
+   }
+  },
+  "sant-bar-tpm": {
+   "descuento": {
+    "antes": "30% dcto. todos los miércoles",
+    "ahora": "30% dcto. todos los lunes"
+   },
+   "dias": {
+    "antes": "Miércoles",
+    "ahora": "Lunes"
+   }
+  },
+  "sant-ciros": {
+   "descuento": {
+    "antes": "40% dcto. todos los sábados",
+    "ahora": "40% dcto. todos los viernes"
+   },
+   "dias": {
+    "antes": "Sábado",
+    "ahora": "Viernes"
+   }
+  },
+  "sant-ari-nikkei": {
+   "descuento": {
+    "antes": "30%. dcto. todos los viernes",
+    "ahora": "40%. dcto. todos los viernes"
+   }
+  },
+  "sant-sumoku": {
+   "descuento": {
+    "antes": "Hasta 50%. dcto. todos los martes y miercoles",
+    "ahora": "50%. dcto. todos los martes"
+   },
+   "dias": {
+    "antes": "Martes; Miércoles",
+    "ahora": "Martes"
+   },
+   "lugares": {
+    "antes": "Bellavista 703, Reñaca.Con Tarjetas de Crédito Santander American Express; Reñaca",
+    "ahora": "Bellavista 703, Reñaca; Reñaca"
+   },
+   "tarjetas": {
+    "antes": "Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito WorldMember Limited Santander LATAM Pass",
+    "ahora": "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+   }
+  },
+  "sant-la-dicha-4": {
+   "descuento": {
+    "antes": "40% dcto. todos los lunes.",
+    "ahora": "40% dcto. todos los miércoles"
+   },
+   "dias": {
+    "antes": "Lunes",
+    "ahora": "Miércoles"
+   }
+  },
+  "sant-naoki-2": {
+   "descuento": {
+    "antes": "40%. dcto. todos los miércoles",
+    "ahora": "40%. dcto. todos los lunes"
+   },
+   "dias": {
+    "antes": "Miércoles",
+    "ahora": "Lunes"
+   }
+  },
+  "sant-pfchang": {
+   "descuento": {
+    "antes": "40% dcto. todos los miércoles",
+    "ahora": "40% dcto. todos los martes"
+   },
+   "dias": {
+    "antes": "Miércoles",
+    "ahora": "Martes"
+   }
+  },
+  "sant-la-biferia-2": {
+   "descuento": {
+    "antes": "40% dcto. todos los miércoles",
+    "ahora": "40% dcto. todos los sábados"
+   },
+   "dias": {
+    "antes": "Miércoles",
+    "ahora": "Sábado"
+   }
+  },
+  "sant-al-pesto": {
+   "descuento": {
+    "antes": "40% dcto. todos los martes.",
+    "ahora": "30% dcto. todos los miércoles"
+   },
+   "dias": {
+    "antes": "Martes",
+    "ahora": "Miércoles"
+   }
+  }
+ }
+}

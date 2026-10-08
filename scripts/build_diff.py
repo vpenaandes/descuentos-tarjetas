@@ -67,6 +67,19 @@ def main():
     # y ahogarían el diff real (pasó al sumar BCI en sept-2026).
     bancos_prev = {i["banco"] for i in prev.values()}
     bancos_nuevos = {i["banco"] for i in cur.values()} - bancos_prev
+    # Los bancos a veces republican la misma promo con URL nueva (Santander: "burger-king-3"
+    # -> "burger-king-4"). Si no calza el slug, se empareja por (banco, nombre normalizado)
+    # para no contarla como alta y baja a la vez.
+    def nkey(i):
+        return (i["banco"], re.sub(r"[^a-z0-9]", "", slug_id("", "", i["comercio"]).split("-", 1)[-1]))
+    prev_por_nombre = {}
+    for k, i in prev.items():
+        prev_por_nombre.setdefault(nkey(i), k)
+    for k in list(cur):
+        if k not in prev:
+            pk = prev_por_nombre.pop(nkey(cur[k]), None)     # pop: cada previo se usa una vez
+            if pk and pk not in cur and pk in prev:
+                prev[k] = prev.pop(pk)          # misma promo, URL nueva
     altas = [k for k in cur if k not in prev and cur[k]["banco"] not in bancos_nuevos]
     bajas = [k for k in prev if k not in cur]
     cambios = {}

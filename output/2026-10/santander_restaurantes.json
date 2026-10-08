@@ -1,0 +1,4094 @@
+[
+ {
+  "banco": "Santander",
+  "comercio": "Umami Nikkei",
+  "tipo": "",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% todos los domingos",
+  "tope": "$40.000",
+  "dias": [
+   "Domingo"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Tabancura 1530, Vitacura",
+   "Av Simón Bolivar 4576, Ñuñoa"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander.",
+   "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Recuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local\n- Tope de descuento de $40.000\n- Tabancura 1530, Vitacura\n- Av Simón Bolivar 4576, Ñuñoa\n- Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
+  "url": "https://banco.santander.cl/beneficios/promociones/umami-nikkei",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjeta-credito",
+   "latam-pass",
+   "cuarenta",
+   "miercoles-de-sabores"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Sicily",
+  "tipo": "",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto todos los jueves",
+  "tope": "$100.000",
+  "dias": [
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Miércoles",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander Latam Pass.",
+   "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander."
+  ],
+  "tarjetas_tags": [
+   "WorldMember Limited",
+   "Tarjetas de Crédito"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Recuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander Latam Pass.\n- Válido en local\n- Descuento no aplica para productos en promociones o con descuentos.\n- Tope de descuento de $100.000\n- Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
+  "url": "https://banco.santander.cl/beneficios/promociones/sicily-5",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "wm-limited",
+   "tarjeta-credito",
+   "cuarenta-jueves",
+   "miercoles-de-sabores"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Vitalicio",
+  "tipo": "",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto todos los sábados",
+  "tope": "$40.000",
+  "dias": [
+   "Sábado"
+  ],
+  "dias_tags": [
+   "Miércoles",
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "San Sebastian 2800, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander",
+   "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Recuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Válido en local\n- No acumulable con otras promociones y descuentos\n- Descuento no incluye propina\n- Válido un descuento por mesa\n- San Sebastian 2800, Las Condes\n- Tope de descuento $40.000\n- Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
+  "url": "https://banco.santander.cl/beneficios/promociones/vitalicio",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "cuarenta",
+   "sabado",
+   "tarjeta-credito",
+   "miercoles-de-sabores"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Ají Seco",
+  "tipo": "",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto todos los martes",
+  "tope": "$40.000",
+  "dias": [
+   "Martes"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Santiago, Región Metropolitana"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Recuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local \n- Santiago, Región Metropolitana \n- Descuento no aplica para productos en promociones o con descuentos.\n- Tope $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/aji-seco",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "cuarenta",
+   "tarjeta-credito",
+   "latam-pass",
+   "miercoles-de-sabores"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Ocean Pacific",
+  "tipo": "",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto todos los lunes",
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av Padre Hurtado Nte 1480, Vitacura",
+   "Ricardo Cumming 277, Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander",
+   "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Recuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Tope de descuento $40.000\n- Válido en local \n- No acumulable con otras promociones \n- Av Padre Hurtado Nte 1480, Vitacura \n- Ricardo Cumming 277, Providencia\n- Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
+  "url": "https://banco.santander.cl/beneficios/promociones/ocean-pacific",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjeta-credito",
+   "cuarenta",
+   "miercoles-de-sabores",
+   "latam-pass"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "La Bravería",
+  "tipo": "",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los jueves",
+  "tope": "$100.000",
+  "dias": [
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Callejón el Pino 1700, Curicó"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander Latam Pass."
+  ],
+  "tarjetas_tags": [
+   "WorldMember Limited",
+   "Exclusivo WorldMember Limited"
+  ],
+  "modalidad": "Presencial",
+  "region": "Regiones",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Recuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander Latam Pass.\n- Válido en local \n- Tope de descuento $100.000\n- Callejón el Pino 1700, Curicó",
+  "url": "https://banco.santander.cl/beneficios/promociones/la-braveria",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "regiones",
+   "wm-limited",
+   "exclusivo-limited",
+   "cuarenta",
+   "jueves"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Costa Sushi",
+  "tipo": "",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Central 184, Viña del Mar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander.",
+   "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "",
+  "region": "Regiones",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Recuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Tope de descuento $40.000.\n- Av. Central 184, Viña del Mar\n- Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
+  "url": "https://banco.santander.cl/beneficios/promociones/costa-sushi",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "miercoles-de-sabores",
+   "tarjeta-credito",
+   "regiones",
+   "latam-pass"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Nativa Bar",
+  "tipo": "",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Raúl Pey Casado 2861, Arica"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander.",
+   "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Recuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Tope de descuento $40.000.\n- Raúl Pey Casado 2861, Arica. \n- Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
+  "url": "https://banco.santander.cl/beneficios/promociones/nativa-bar",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjeta-credito",
+   "miercoles-de-sabores",
+   "tarjetas-credito",
+   "latam-pass"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Rock In",
+  "tipo": "",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av Pedro Aguirre Cerda N&deg; 10578 Local 400-4009, Antofagasta"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander",
+   "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "",
+  "region": "Regiones",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Recuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander \n- Av Pedro Aguirre Cerda N&deg; 10578 Local 400-4009, Antofagasta\n- Tope del descuento $40.000. \n- Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
+  "url": "https://banco.santander.cl/beneficios/promociones/rock-in",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "regiones",
+   "tarjeta-credito",
+   "miercoles-de-sabores",
+   "latam-pass"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Atípico",
+  "tipo": "",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Imperial 204, Puerto Varas"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander.",
+   "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "",
+  "region": "Regiones",
+  "vigencia": "Válido hasta el 31 de octubre de 2026",
+  "condiciones": "Recuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Imperial 204, Puerto Varas.\n- Tope de descuento $40.000\n- Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
+  "url": "https://banco.santander.cl/beneficios/promociones/atipico",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "regiones",
+   "miercoles-de-sabores",
+   "tarjeta-credito",
+   "latam-pass"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Streat Burger",
+  "tipo": "Streat Makes You Happy",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Metropolitana, O'Higgins, Ñuble, Valparaíso"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana, O'Higgins, Ñuble, Valparaíso",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Streat Makes You Happy\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en locales presenciales y en delivery a través de PedidosYa\n- Válido en locales Santiago y Carretera.\n- Válido dos cupones semanales por persona.\n- Excluye categoría helados y combo full.\n- No acumulable con otras promociones. \n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/streat-burger-2",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles",
+   "miercoles-de-sabores",
+   "cuarenta",
+   "metropolitana",
+   "regiones"
+  ],
+  "sitio_comercio": "https://streat.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Work/Café",
+  "tipo": "Comienza tu día en el mejor lugar, conoce todas las sucursales Work/Café",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los lunes y 30% dcto. de martes a viernes",
+  "tope": "Sin tope",
+  "dias": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes"
+  ],
+  "dias_tags": [
+   "Lunes",
+   "Martes",
+   "Miércoles",
+   "Jueves",
+   "Viernes"
+  ],
+  "horario": "Sin tope de descuento.Horarios de Atención: | Lunes a jueves de 9:00 a 14:00 hrs y horario tarde de 15:30 a 17:00 hrs. Viernes de 9:00 a 14:00 hrs.",
+  "lugares": [
+   "Las Condes, Vitacura, La Reina, Providencia, Ñuñoa, Santiago, San Joaquín, Huechuraba, Lo Barnechea, Independencia, Maipú"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Senior Life",
+   "Todas las tarjetas Santander",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "¡Comienza tu día en el mejor lugar, conoce todas las sucursales Work/Café!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en locales y www.workcafe.cl, 30% los otros días de la semana.\n- Pide tu descuento al momento de pagar.\n- Sin tope de descuento.Horarios de Atención: \nLunes a jueves de 9:00 a 14:00 hrs y horario tarde de 15:30 a 17:00 hrs. Viernes de 9:00 a 14:00 hrs.",
+  "url": "https://banco.santander.cl/beneficios/promociones/work-cafe-5",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "lunes",
+   "cuarenta",
+   "regiones",
+   "senior-life",
+   "todas-las-tarjetas",
+   "latam-pass",
+   "metropolitana",
+   "ml-joven-papas",
+   "martes",
+   "miercoles",
+   "jueves",
+   "viernes"
+  ],
+  "sitio_comercio": "https://www.workcafe.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Burger King",
+  "tipo": "Disfruta las mejores burger a la parrilla, desde 1954",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los jueves.",
+  "tope": "$15.000",
+  "dias": [
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Las Condes, Santiago, La Reina, Providencia, Vitacura, Ñuñoa, Peñalolén, Macul, Huechuraba, Lo Barnechea, Independencia, San Miguel, La Florida, Maipú, Quilicura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander y Débito Santander.",
+   "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander."
+  ],
+  "tarjetas_tags": [
+   "Santander Teens",
+   "Todas las tarjetas Santander"
+  ],
+  "modalidad": "",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "¡Disfruta las mejores burger a la parrilla, desde 1954!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander y Débito Santander.\n- Válido en Autoking y locales, exclusivamente en mesones, no aplica a tótem de autoservicio.\n- Descuento no aplica para productos en promociones o con descuentos.\n- Por compras mínimas de $3.000 y tope descuento de $15.000.\n- Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
+  "url": "https://banco.santander.cl/beneficios/promociones/burger-king-3",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "jueves",
+   "cuarenta",
+   "regiones",
+   "maslucas",
+   "santander-teens",
+   "todas-las-tarjetas",
+   "ml-joven-papas",
+   "metropolitana",
+   "destacado_home"
+  ],
+  "sitio_comercio": "https://www.burgerking.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Cosecha del Mar",
+  "tipo": "Explora el mundo del salmón",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los viernes",
+  "tope": "$100.000",
+  "dias": [
+   "Viernes"
+  ],
+  "dias_tags": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+   "Válido en local, pagando con tu tarjeta física."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "WorldMember Limited",
+   "Exclusivo WorldMember Limited"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "¡Explora el mundo del salmón!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en local, pagando con tu tarjeta física. \n- Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas.\n- Tope de dcto. mensual $100.000\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/cosecha-del-mar-5",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "viernes",
+   "wm-limited",
+   "cuarenta",
+   "exclusivo-limited",
+   "metropolitana",
+   "regiones"
+  ],
+  "sitio_comercio": "https://cosechadelmar.com/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "De Costa a Costa",
+  "tipo": "Los mejores productos del mar",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Los mejores productos del mar\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en locales y en decostacosta.cl\n- No acumulable con otras promociones, no incluye packs, no se pueden programar pedidos para otro día.\n- Tope dcto. $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/de-costa-a-costa-2",
+  "tags": [
+   "home-disfrutadores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles-de-sabores",
+   "cuarenta",
+   "miercoles",
+   "cat-sabores"
+  ],
+  "sitio_comercio": "https://www.decostaacosta.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Juan Esparraguito",
+  "tipo": "Mucho más que frutas y verduras, productos de temporada y seleccionados uno a uno",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto. todos los miércoles.",
+  "tope": "$100.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Las Condes, Lo Barnechea, Vitacura, La Reina, Ñuñoa, Providencia y Santiago"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "WorldMember Limited",
+   "Exclusivo WorldMember Limited"
+  ],
+  "modalidad": "Online / delivery",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Mucho más que frutas y verduras, productos de temporada y seleccionados uno a uno\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en www.juanesparraguito.com\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.\n- Descuento máximo por pedido de $100.000\n- Exclusivo en frutas y verduras.",
+  "url": "https://banco.santander.cl/beneficios/promociones/juan-esparraguito-2",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles",
+   "wm-limited",
+   "cuarenta",
+   "exclusivo-limited",
+   "metropolitana"
+  ],
+  "sitio_comercio": "https://juanesparraguito.com/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "El Mundo del Vino",
+  "tipo": "El mejor vino para ti",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los lunes en viñas seleccionadas.",
+  "tope": "$100.000",
+  "dias": [
+   "Lunes"
+  ],
+  "dias_tags": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "En viñas seleccionadas: Clos de Luz, Barón Philippe, Tres Palacios, Las  Veletas, San Pedro, Tarapaca, Tabali, Ventisquero, Errazuriz",
+   "Providencia, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "tarjetas_tags": [
+   "LATAM Pass",
+   "WorldMember Limited",
+   "Tarjetas de Crédito",
+   "Exclusivo WorldMember Limited"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "¡El mejor vino para ti!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para compras en local y www.elmundodelvino.cl\n- No acumulable a otras promociones.\n- En viñas seleccionadas: Clos de Luz, Barón Philippe, Tres Palacios, Las  Veletas, San Pedro, Tarapaca, Tabali, Ventisquero, Errazuriz.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $100.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/el-mundo-del-vino-10",
+  "tags": [
+   "latam-pass",
+   "lunes",
+   "wm-limited",
+   "tarjetas-credito",
+   "cuarenta",
+   "exclusivo-limited",
+   "home-disfrutadores",
+   "cat-sabores",
+   "metropolitana"
+  ],
+  "sitio_comercio": "https://elmundodelvino.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Helados Timaukel",
+  "tipo": "Heladería artesanal",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles.",
+  "tope": "$30.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "Todas las tarjetas Santander"
+  ],
+  "modalidad": "Online / delivery",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Heladería artesanal\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Solo online en www.timaukel.cl\n- Excluye días cyber octubre\n- No acumulable con otras promociones.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $30.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/helados-timaukel",
+  "tags": [
+   "home-disfrutadores",
+   "tarjeta-credito",
+   "todas-las-tarjetas",
+   "miercoles-de-sabores",
+   "cuarenta",
+   "cat-sabores"
+  ],
+  "sitio_comercio": "https://timaukel.cl/?srsltid=AU7gw4X4_lsUN1j4nljxiwjsKBnS3AI_O6gTaWq8-_rRHkWsmmRO-t7d"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Casa Mar Sushi",
+  "tipo": "",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto. todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Blanca Estela 1927, Concón"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Recuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local.\n- Av. Blanca Estela 1927, Concón\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/casa-mar-sushi",
+  "tags": [
+   "tarjeta-credito",
+   "latam-pass",
+   "miercoles-de-sabores",
+   "home-disfrutadores",
+   "cat-sabores",
+   "cuarenta"
+  ],
+  "sitio_comercio": "https://www.casamarsushi.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Corrales del Sur",
+  "tipo": "El mejor corte de carne en Corrales del Sur",
+  "descuento": "20%",
+  "descuento_pct": 20,
+  "bajada": "20% dcto. todos los lunes.",
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "dias_tags": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander"
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito"
+  ],
+  "modalidad": "Online / delivery",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "¡El mejor corte de carne en Corrales del Sur!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Válido en tiendas y corralesdelsur.cl\n- Exclusivo en categoría hogar.\n- No acumulable a otras promociones.\n- Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/corrales-del-sur-4",
+  "tags": [
+   "lunes",
+   "cat-descuentos",
+   "home-disfrutadores",
+   "tarjetas-credito",
+   "cat-sabores"
+  ],
+  "sitio_comercio": "https://www.corralesdelsur.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Ré",
+  "tipo": "carnes y pescados, pastas y risottos",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los domingos",
+  "tope": "$40.000",
+  "dias": [
+   "Domingo"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "AV. Manquehue norte 656, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "carnes y pescados, pastas y risottos. \nRecuerda que: \n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- AV. Manquehue norte 656, Las Condes\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/re",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "cuarenta",
+   "tarjeta-credito",
+   "miercoles-de-sabores"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Enebro",
+  "tipo": "Restaurant y Bar",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% todos los domingos",
+  "tope": "$40.000",
+  "dias": [
+   "Domingo"
+  ],
+  "dias_tags": [
+   "Miércoles",
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Ebro 2828, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Restaurant y Bar\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Ebro 2828, Las Condes\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/enebro",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "domingo",
+   "miercoles-de-sabores",
+   "tarjeta-credito"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Punta del Sol",
+  "tipo": "Cocina del mar",
+  "descuento": "50%",
+  "descuento_pct": 50,
+  "bajada": "50% de dcto. todos los lunes",
+  "tope": "$50.000",
+  "dias": [
+   "Lunes"
+  ],
+  "dias_tags": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. del Mar 2730, Maitencillo"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+  ],
+  "tarjetas_tags": [
+   "American Express Santander",
+   "Amex for Foodies",
+   "Tarjetas de Crédito",
+   "Exclusivo Amex"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Desde el 01 de junio al 30 de noviembre de 2026",
+  "condiciones": "Cocina del mar \nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Av. del Mar 2730, Maitencillo\n- Tope de descuento de $50.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/punta-del-sol",
+  "tags": [
+   "amex",
+   "amexforfoodies",
+   "lunes",
+   "cat-sabores",
+   "home-disfrutadores",
+   "tarjetas-credito",
+   "exclusivo-amex"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "El Mesón de la Patagonia",
+  "tipo": "Comida casera patagónica",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los viernes",
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "dias_tags": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Lo Barnechea 1223, Lo Barnechea"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Comida casera patagónica  \nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en locales.\n- Lo Barnechea 1223, Lo Barnechea. \n- No acumulable con otras promociones. \n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/el-meson-de-la-patagonia",
+  "tags": [
+   "cat-sabores",
+   "home-disfrutadores",
+   "cuarenta",
+   "viernes",
+   "tarjeta-credito"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Café Milan",
+  "tipo": "Sandwich Gourmet, Hamburguesas, Pizzas, Crepes y mucho mas",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Andrés Bello 580, Temuco"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Regiones",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Sandwich Gourmet, Hamburguesas, Pizzas, Crepes y mucho mas\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en locales\n- Andrés Bello 580, Temuco.\n- No acumulable con otras promociones. \n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/cafe-milano",
+  "tags": [
+   "cat-sabores",
+   "tarjetas-credito",
+   "miercoles-de-sabores",
+   "miercoles",
+   "latam-pass",
+   "cuarenta",
+   "regiones",
+   "home-disfrutadores"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Ramblas",
+  "tipo": "Bar con música en vivo",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los jueves",
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Manuel Montt 370, Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Bar con música en vivo\nRecuerda que: \n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local\n- Manuel Montt 370, Providencia\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/ramblas",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "cuarenta",
+   "jueves"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Bar TPM",
+  "tipo": "",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto. todos los lunes",
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "dias_tags": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Bar TPM\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local\n- Av. Las Condes 6766, Manuel Montt 412, Av. Tobalaba 455, Av. Italia 1226 y Av. Pedro de Valdivia 1738, Humberto Trucco 37 y Paula Jaraquemada 19\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/bar-tpm",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "sabado",
+   "cuarenta"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Juan Cantina",
+  "tipo": "",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Cochrane 1285, Concepción",
+   "Concepción"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Bío-Bío",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Juan Cantina\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local, delivery web y retiro en local.\n- Cochrane 1285, Concepción\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/juan-cantina",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "miercoles",
+   "miercoles-de-sabores",
+   "tarjetas-credito",
+   "cuarenta"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Jeronimo",
+  "tipo": "Cocina del mundo",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40%. dcto. todos los miércoles",
+  "tope": "$100.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 4355, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "WorldMember Limited"
+  ],
+  "modalidad": "Presencial",
+  "region": "Región Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Cocina del mundo\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Alonso de Córdova 4355, Vitacura.\n- Tope de descuento de $100.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/jeronimo",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "lunes",
+   "metropolitana",
+   "wm-limited"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Miscelaneo",
+  "tipo": "Comida para compartir",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40%. dcto. todos los jueves",
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Santa María 5870, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander"
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Comida para compartir\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Válido para consumo en local.\n- Santa María 5870, Vitacura.\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/miscelaneo",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "viernes",
+   "metropolitana"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Carnivo Steakhouse",
+  "tipo": "",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Los Pablos 2291, Temuco"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito"
+  ],
+  "modalidad": "Presencial",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Carnivo Steakhouse\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Av. Los Pablos 2291, Temuco\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/carnivo-steakhouse",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "miercoles",
+   "tarjetas-credito"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Vapiano",
+  "tipo": "Cadena internacional de comida italiana",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los martes y jueves",
+  "tope": "$40.000",
+  "dias": [
+   "Martes",
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Martes",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Válido con Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre 2026.",
+  "condiciones": "Cadena internacional de comida italiana\n- Válido con Tarjetas de Crédito y Débito Santander.\n- Válido presencial\n- No acumulable a otras promociones.\n- Descuento máximo es de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/vapiano-2",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "martes",
+   "jueves",
+   "tarjetas-credito",
+   "metropolitana"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Casa Vitalis",
+  "tipo": "eleva lo cotidiano a través de una buena ambientación",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los lunes",
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "dias_tags": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av Vitacura 8133",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "eleva lo cotidiano a través de una buena ambientación\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Av Vitacura 8133\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/casa-vitalis",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "cuarenta",
+   "metropolitana",
+   "sabado"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Cascade Bistró",
+  "tipo": "Calidad, más de 50 años de tradición y una renovada carta",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40%. dcto. todos los sábado",
+  "tope": "$40.000",
+  "dias": [
+   "Sábado"
+  ],
+  "dias_tags": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Costanera Sur S.J.E. de Balaguer 6400 local 8, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Calidad, más de 50 años de tradición y una renovada carta\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para compras en local.\n- Costanera Sur S.J.E. de Balaguer 6400 local 8, Vitacura\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/cascade-bistro",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "cuarenta",
+   "metropolitana",
+   "viernes"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Don Toro",
+  "tipo": "Una experiencia a las brasas frente al mar",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles",
+  "tope": "$100.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Playa Brava 3346, iquique",
+   "Iquique"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander."
+  ],
+  "tarjetas_tags": [
+   "WorldMember Limited",
+   "LATAM Pass",
+   "Exclusivo WorldMember Limited"
+  ],
+  "modalidad": "Presencial",
+  "region": "Iquique",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Una experiencia a las brasas frente al mar\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander.\n- Válido en local.\n- Playa Brava 3346, iquique\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $100.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/casa-don-toro",
+  "tags": [
+   "wm-limited",
+   "home-disfrutadores",
+   "cat-sabores",
+   "latam-pass",
+   "cuarenta",
+   "exclusivo-limited",
+   "metropolitana",
+   "regiones",
+   "martes"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Chilis",
+  "tipo": "Entregar lo mejor en comida tex-mex, como en ningún otro lugar directo en tu hogar",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [],
+  "horario": "",
+  "lugares": [
+   "Av. Italia 1484, Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Entregar lo mejor en comida tex-mex, como en ningún otro lugar directo en tu hogar!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local, delivery web y retiro en local.\n- Av. Italia 1484, Providencia\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/chilis",
+  "tags": [
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "cuarenta",
+   "home-disfrutadores"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Tropera Drugstore",
+  "tipo": "Desde la Patagonia lo que mejor sabemos hacer",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los sábado",
+  "tope": "$40.000",
+  "dias": [
+   "Sábado"
+  ],
+  "dias_tags": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Andrés de Fuenzalida 48, Providencia",
+   "Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Desde la Patagonia lo que mejor sabemos hacer\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Andrés de Fuenzalida 48, Providencia.\n- No acumulable con otras promociones.\n- Tope de descuento de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/tropera-drugstore",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "lunes",
+   "cuarenta",
+   "metropolitana"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Zía Bistro",
+  "tipo": "Una gran experiencia gastronómica",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los jueves",
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "El Rodeo 13453, Lo Barnechea",
+   "Lo Barnechea"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Una gran experiencia gastronómica.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- El Rodeo 13453, Lo Barnechea.\n- No acumulable con otras promociones.\n- Tope de descuento de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/zia-bistro",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "viernes",
+   "cuarenta",
+   "metropolitana"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Santa Brasa",
+  "tipo": "Increíbles cortes de carne",
+  "descuento": "50%",
+  "descuento_pct": 50,
+  "bajada": "50% dcto. todos los martes",
+  "tope": "$50.000",
+  "dias": [
+   "Martes"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 4260, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+  ],
+  "tarjetas_tags": [
+   "LATAM Pass",
+   "Todas las tarjetas Santander",
+   "Amex for Foodies",
+   "American Express Santander"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 30 de noviembre de 2026",
+  "condiciones": "Increíbles cortes de carne.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Alonso de Córdova 4260, Vitacura\n- Tope de descuento de $50.000.\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/santa-brasa-3",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "latam-pass",
+   "cuarenta",
+   "metropolitana",
+   "miercoles",
+   "todas-las-tarjetas",
+   "amexforfoodies",
+   "amex"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Barra Olivo",
+  "tipo": "Experiencia gastronómica única con platos para disfrutar de sabores auténticos",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los jueves",
+  "tope": "$40.000",
+  "dias": [
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Boulevard Los Ingleses de Chicureo, Local 16, Colina",
+   "Chicureo, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Experiencia gastronómica única con platos para disfrutar de sabores auténticos\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local y online con retiro en tienda.\n- Boulevard Los Ingleses de Chicureo, Local 16, Colina.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/barra-olivo",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "viernes",
+   "cuarenta",
+   "metropolitana"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Bar 1005",
+  "tipo": "Bar donde las noches se encienden",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Vicuña Mackenna 1005, Reñaca",
+   "Reñaca"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Valparaíso",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Bar donde las noches se encienden\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Vicuña Mackenna 1005, Reñaca.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/bar-1005",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles",
+   "miercoles-de-sabores",
+   "cuarenta",
+   "regiones"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Zulu",
+  "tipo": "Disfruta de la cocina Internacional",
+  "descuento": "50%",
+  "descuento_pct": 50,
+  "bajada": "50%. dcto. todos los jueves",
+  "tope": "$50.000",
+  "dias": [
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Domingo"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 2337, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "Amex for Foodies"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Desde el 1 de septiembre hasta el 30 de noviembre",
+  "condiciones": "Disfruta de la cocina Internacional\nRecuerda que:\n- \n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Alonso de Córdova 2337, Vitacura\n- Tope de descuento de $50.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/zulu",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "domingo",
+   "metropolitana",
+   "amexforfoodies"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Delivery Gourmet",
+  "tipo": "Tus comidas favoritas en un solo pedido",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro",
+   "Vitacura, Providencia, Santiago"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Tus comidas favoritas en un solo pedido\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local, delivery web y retiro en local.\n- Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/delivery-gourmet",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles",
+   "miercoles-de-sabores",
+   "metropolitana",
+   "cuarenta"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Curry",
+  "tipo": "Comida Tailandesa",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro",
+   "Vitacura, Providencia, Santiago"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Comida Tailandesa\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local, delivery web y retiro en local.\n- Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/curry-2",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles",
+   "miercoles-de-sabores",
+   "metropolitana"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Rocoto",
+  "tipo": "Sabores peruanos auténticos en tu hogar",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro",
+   "Vitacura, Providencia, Santiago"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Sabores peruanos auténticos en tu hogar\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local, delivery web y retiro en local\n- Partenón 1727, Vitacura / Av. Francisco Bilbao 2752, Providencia / Roberto Espinoza 718, Santiago Centro\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/rocoto",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles",
+   "miercoles-de-sabores"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Lima Fusión",
+  "tipo": "Gastronomía Peruana, Criollas y Nikkei se reinventa con un toque único",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Manuel Bulnes 314, Quillota",
+   "Quillota"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Valparaíso",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Gastronomía Peruana, Criollas y Nikkei se reinventa con un toque único.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Manuel Bulnes 314, Quillota.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/lima-fusion",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles",
+   "miercoles-de-sabores",
+   "cuarenta",
+   "regiones"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Prístino",
+  "tipo": "Preparaciones chilenas gourmet",
+  "descuento": "50%",
+  "descuento_pct": 50,
+  "bajada": "50% dcto. todos los sábados",
+  "tope": "$50.000",
+  "dias": [
+   "Sábado"
+  ],
+  "dias_tags": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "El Coihue 3807, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "Amex for Foodies"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Desde el 1 de septiembre hasta el 30 de noviembre de 2026.",
+  "condiciones": "Preparaciones chilenas gourmet\nRecuerda que:\n- \n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido en local.\n- El Coihue 3807, Vitacura.\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $50.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/pristino",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "cuarenta",
+   "metropolitana",
+   "sabado",
+   "amexforfoodies"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Expendio Montt",
+  "tipo": "Los mejores tacos y cervezas",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto. todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Manuel Montt 727, Providencia",
+   "Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "LATAM Pass",
+   "Tarjetas de Crédito"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Los mejores tacos y cervezas\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local.\n- Manuel Montt 727, Providencia.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/expendio-montt",
+  "tags": [
+   "latam-pass",
+   "tarjetas-credito",
+   "miercoles-de-sabores",
+   "home-disfrutadores",
+   "miercoles",
+   "cat-sabores",
+   "metropolitana"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Bar Porfirio",
+  "tipo": "Tacos, tragos y pura buena onda para cortar la semana con sabor",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto. todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Manuel Montt 697, Providencia",
+   "Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "LATAM Pass",
+   "Tarjetas de Crédito",
+   "Tarjetas de Débito"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Tacos, tragos y pura buena onda para cortar la semana con sabor\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local.\n- Manuel Montt 697, Providencia.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/bar-porfirio",
+  "tags": [
+   "latam-pass",
+   "tarjetas-credito",
+   "miercoles-de-sabores",
+   "home-disfrutadores",
+   "miercoles",
+   "cat-sabores",
+   "metropolitana",
+   "tarjetas-debito"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Kento Sushi",
+  "tipo": "Los mejores sushi, nikkei, Sin arroz, Vegetarianos, Ceviche y más",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto. todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Parque Arauco, Alto las Condes y Av. Vitacura 5460",
+   "Las Condes, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "LATAM Pass",
+   "Tarjetas de Crédito"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Los mejores sushi, nikkei, Sin arroz, Vegetarianos, Ceviche y más\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en local y online.\n- Parque Arauco, Alto las Condes y Av. Vitacura 5460\n- No acumulable con otras promociones.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/kento-sushi",
+  "tags": [
+   "latam-pass",
+   "tarjetas-credito",
+   "miercoles-de-sabores",
+   "home-disfrutadores",
+   "miercoles",
+   "cat-sabores",
+   "metropolitana",
+   "cuarenta"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Hijo del Inca",
+  "tipo": "Restaurante peruano",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Príncipe de Gales 6992, La Reina",
+   "Santa magdalena 168 local 102 Providencia",
+   "La Reina"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "LATAM Pass",
+   "Tarjetas de Crédito"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Restaurante peruano.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para compras en local.\n- Príncipe de Gales 6992, La Reina.\n- Santa magdalena 168 local 102 Providencia.\n- No acumulable con otras promociones.\n- Descuento máximo por pedido de $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/hijo-del-inca",
+  "tags": [
+   "latam-pass",
+   "tarjetas-credito",
+   "cuarenta",
+   "home-disfrutadores",
+   "cat-sabores",
+   "metropolitana",
+   "miercoles",
+   "miercoles-de-sabores"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Siete Olas",
+  "tipo": "Las mejores pizzas napolitanas y hamburguesas artesanales",
+  "descuento": "50%",
+  "descuento_pct": 50,
+  "bajada": "50%. dcto. todos los miércoles",
+  "tope": "$50.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Cachagua 269, Zapallar",
+   "Zapallar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Nuevas Tarjetas de Crédito Santander American Express."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "American Express Santander",
+   "Exclusivo Amex"
+  ],
+  "modalidad": "Presencial",
+  "region": "Valparaíso",
+  "vigencia": "Desde el 01 de junio hasta el 30 de noviembre de 2026",
+  "condiciones": "Las mejores pizzas napolitanas y hamburguesas artesanales.\nRecuerda que:\n- Exclusivo con tus Nuevas Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Av. Cachagua 269, Zapallar.\n- Tope de descuento de $50.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/siete-olas",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "jueves",
+   "amex",
+   "exclusivo-amex",
+   "regiones"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Le Vice Chocolat",
+  "tipo": "Exquisitos chocolates de la más alta calidad, elaborados con ingredientes seleccionados cuidadosamente y un toque artesa",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los jueves.",
+  "tope": "Sin tope",
+  "dias": [
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "Life y Débito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Online / delivery",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Exquisitos chocolates de la más alta calidad, elaborados con ingredientes seleccionados cuidadosamente y un toque artesanal.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en tiendas y www.levicechocolat.com\n- Sin tope de descuento.\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+  "url": "https://banco.santander.cl/beneficios/promociones/le-vice-chocolat",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "life-y-debito",
+   "latam-pass",
+   "jueves",
+   "cuarenta",
+   "metropolitana"
+  ],
+  "sitio_comercio": "https://www.levicechocolat.com"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Dulcería Puerto Varas",
+  "tipo": "Pastelería familiar de tradición alemana",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Vitacura, La Reina, Lo Barnechea"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "Life y Débito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Pastelería familiar de tradición alemana.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en locales.\n- No acumulable a otras promociones.\n- Para hacer efectivo el descuento debes mostrar y pagar con tus Tarjetas Santander.\n- Tope dcto. $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/dulceria-puerto-varas",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "life-y-debito",
+   "latam-pass",
+   "miercoles",
+   "cuarenta",
+   "metropolitana"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Berlin Döner Kebab",
+  "tipo": "Restaurant de sandwich turco-alemanes",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Ñuñoa, Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Restaurant de sandwich turco-alemanes\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/berlin-doner-kebab",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Chicken Love You",
+  "tipo": "Los mejores sandwich de pollo frito",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Santiago,Vitacura,Las Condes,Maipú,La Reina,La Florida,Lo Barnechea,Viña del Mar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander"
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana,Valparaíso",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Los mejores sandwich de pollo frito.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Válido para consumo en locales y online.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Se excluyen propinas, menús y happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/chicken-love-you",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles",
+   "miercoles-de-sabores",
+   "cuarenta",
+   "metropolitana",
+   "regiones"
+  ],
+  "sitio_comercio": "https://www.chickenloveyou.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Nolia",
+  "tipo": "Brunch bar",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los martes",
+  "tope": "$40.000",
+  "dias": [
+   "Martes"
+  ],
+  "dias_tags": [
+   "Martes",
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Nilo Azul 1737, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Brunch bar\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Nilo Azul 1737, Vitacura.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/nolia",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles-de-sabores",
+   "cuarenta",
+   "metropolitana",
+   "martes"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Bozzo",
+  "tipo": "Disfruta los mejores chocolates, receta de tradición italiana",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los martes en bozzochocolates.cl y 20% dcto. en tiendas",
+  "tope": "$40.000",
+  "dias": [
+   "Martes"
+  ],
+  "dias_tags": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Las Condes, Vitacura, Lo Barnechea, Providencia, Santiago, Peñalolén, La Florida"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Jóvenes",
+   "Todas las tarjetas Santander"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "¡Disfruta los mejores chocolates, receta de tradición italiana!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en www.bozzochocolates.cl y presencial.\n- 20% dcto. en tiendas válido solo en Región Metropolitana.\n- No acumulable a otras promociones.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Para hacer efectivo el descuento debes mostrar y pagar con tus Tarjetas Santander.\n- Descuento máximo por pedido de $40.000.\n- Descuento aplica solamente para personas naturales.",
+  "url": "https://banco.santander.cl/beneficios/promociones/bozzo-4",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "cuarenta",
+   "jovenes",
+   "destacado_home",
+   "order-1",
+   "martes",
+   "todas-las-tarjetas",
+   "regiones"
+  ],
+  "sitio_comercio": "https://bozzochocolates.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "El Taller",
+  "tipo": "Helados Artesanales de Alta Calidad, reconocidos entre los mejores del Mundo",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los martes",
+  "tope": "$15.000",
+  "dias": [
+   "Martes"
+  ],
+  "dias_tags": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Providencia 1467, Providencia",
+   "Av. La Dehesa 1570, Lo Barnechea",
+   "Av. Apoquindo 2730, Las Condes",
+   "Providencia, Lo Barnechea, Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Todas las tarjetas Santander",
+   "LATAM Pass",
+   "Life y Débito"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Helados Artesanales de Alta Calidad, reconocidos entre los mejores del Mundo\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido para consumo en locales y www.eltallerchile.cl\n- Av. Providencia 1467, Providencia.\n- Av. La Dehesa 1570, Lo Barnechea.\n- Av. Apoquindo 2730, Las Condes.\n- Tope de descuento de $15.000.\n- Para compras presenciales pide tu descuento al momento de pagar.\n- Para compras online ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/el-taller",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "todas-las-tarjetas",
+   "latam-pass",
+   "martes",
+   "cuarenta",
+   "metropolitana",
+   "life-y-debito"
+  ],
+  "sitio_comercio": "https://www.eltallerchile.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Ciros",
+  "tipo": "Comida chilena y de ultramar",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los viernes",
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "dias_tags": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Isidora Goyenechea 2971, Las Condes",
+   "Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Comida chilena y de ultramar\nRecuerda:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Isidora Goyenechea 2971, Las Condes.\n- Tope de descuento de $40.000.\n- Pide tu descuento al momento de pagar.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/ciros",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "cuarenta",
+   "metropolitana",
+   "sabado"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "La Joya Cantina & Sanguches",
+  "tipo": "Los mejores sánguches del puerto",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Eusebio Lillo 200, Valparaíso",
+   "Valparaíso"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Valparaíso",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "Los mejores sánguches del puerto\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local.\n- Eusebio Lillo 200, Valparaíso.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/la-joya-cantina-sanguches",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles",
+   "miercoles-de-sabores",
+   "cuarenta",
+   "regiones"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Quercus",
+  "tipo": "Conoce la casa cervecera más icónica del mundo",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40%. dcto. todos los martes",
+  "tope": "$40.000",
+  "dias": [
+   "Martes"
+  ],
+  "dias_tags": [
+   "Martes",
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Sta. Magdalena 61, Providencia",
+   "Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Conoce la casa cervecera más icónica del mundo\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Sta. Magdalena 61, Providencia.\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.\n- Se excluyen cervezas de cooler, cervezas en lata o botella.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/quercus",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles-de-sabores",
+   "cuarenta",
+   "metropolitana",
+   "martes"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Raymi",
+  "tipo": "Auténtica gastronomía peruana, tragos de autos y coctelería clásica",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles.",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Camino a Zapallar KM 1.4, Curicó",
+   "Curicó"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Maule",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Auténtica gastronomía peruana, tragos de autos y coctelería clásica\nRecuerda:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Camino a Zapallar KM 1.4, Curicó\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/raymi",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles",
+   "miercoles-de-sabores",
+   "cuarenta",
+   "regiones"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Jardín Mallinkrodt",
+  "tipo": "Conoce toda la gastronomía global y coctelería innovadora",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40%. dcto. todos los martes",
+  "tope": "$40.000",
+  "dias": [
+   "Martes"
+  ],
+  "dias_tags": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Vitacura 6780, local F01, Vitacura",
+   "Mallinkrodt 170, Providencia",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo pagando con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Conoce toda la gastronomía global y coctelería innovadora.\nRecuerda que:\n- Exclusivo pagando con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Av. Vitacura 6780, local F01, Vitacura.\n- Mallinkrodt 170, Providencia.\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/jardin-mallinkrodt",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "cuarenta",
+   "metropolitana",
+   "cuarenta-martes"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Rústico restobar",
+  "tipo": "Karaoke, cocteles y comida",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Presidente Manuel Bulnes 299, Punta Arenas",
+   "Punta Arenas"
+  ],
+  "tarjetas": [
+   "Exclusivo pagando con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Magallanes",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "¡Karaoke, cocteles y comida!\nRecuerda que:\n- Exclusivo pagando con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Av. Presidente Manuel Bulnes 299, Punta Arenas\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/rustico-restobar",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles",
+   "miercoles-de-sabores",
+   "cuarenta",
+   "regiones"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Ari Nikkei",
+  "tipo": "Nuevo concepto de sushi",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40%. dcto. todos los viernes",
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "dias_tags": [
+   "Miércoles",
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Las Condes"
+  ],
+  "tarjetas": [
+   "Exclusivo pagando con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Nuevo concepto de sushi\nRecuerda que:\n- Exclusivo pagando con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/ari-nikkei",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles-de-sabores",
+   "cuarenta",
+   "metropolitana",
+   "viernes"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "La Burguesía",
+  "tipo": "Las más ricas hamburguesas",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40%. dcto. todos los lunes",
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "dias_tags": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Sta. Magdalena 99, Providencia",
+   "Providencia, La Reina"
+  ],
+  "tarjetas": [
+   "Exclusivo pagando con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre  de 2026",
+  "condiciones": "Las más ricas hamburguesas \nRecuerda que:\n- Exclusivo pagando con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Sta. Magdalena 99, Providencia.\n- Tope de descuento de $40.000.\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/la-burguesia",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "cuarenta",
+   "metropolitana",
+   "lunes"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Don Camarón",
+  "tipo": "Las mejores preparaciones del mar y gastronomía circular de la Araucanía",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40%. dcto. todos los miércoles.",
+  "tope": "$100.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Rudecindo Ortega 01650, Temuco",
+   "Temuco"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "tarjetas_tags": [
+   "WorldMember Limited",
+   "Exclusivo WorldMember Limited"
+  ],
+  "modalidad": "Presencial",
+  "region": "Araucanía",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Las mejores preparaciones del mar y gastronomía circular de la Araucanía\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Av. Rudecindo Ortega 01650, Temuco.\n- Tope de descuento de $100.000.\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/don-camaron",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "cuarenta",
+   "metropolitana",
+   "regiones",
+   "miercoles",
+   "miercoles-de-sabores",
+   "wm-limited",
+   "exclusivo-limited"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Raidho",
+  "tipo": "Un nuevo viaje culinario hacia sabores inolvidables",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los viernes.",
+  "tope": "$100.000",
+  "dias": [
+   "Viernes"
+  ],
+  "dias_tags": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Camino Las Rastras Km 7, Talca",
+   "Talca"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "WorldMember Limited",
+   "Exclusivo WorldMember Limited"
+  ],
+  "modalidad": "Presencial",
+  "region": "Maule",
+  "vigencia": "Hasta el 31 de octubre 2026.",
+  "condiciones": "Un nuevo viaje culinario hacia sabores inolvidables\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en local.\n- Camino Las Rastras Km 7, Talca\n- No acumulable a otras promociones.\n- Descuento máximo de $100.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/raidho",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "wm-limited",
+   "cuarenta",
+   "exclusivo-limited",
+   "metropolitana",
+   "regiones",
+   "viernes"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Sumoku",
+  "tipo": "Comida del mar que garantiza un viaje entre clásicos sabores japoneses con notas sofisticadas de alta cocina",
+  "descuento": "50%",
+  "descuento_pct": 50,
+  "bajada": "50%. dcto. todos los martes",
+  "tope": "$50.000",
+  "dias": [
+   "Martes"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Bellavista 703, Reñaca",
+   "Reñaca"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+  ],
+  "tarjetas_tags": [
+   "LATAM Pass",
+   "Tarjetas de Crédito",
+   "American Express Santander",
+   "Exclusivo Amex"
+  ],
+  "modalidad": "Presencial",
+  "region": "Valparaíso",
+  "vigencia": "Desde el 01 de junio hasta el 30 de noviembre de 2026",
+  "condiciones": "Comida del mar que garantiza un viaje entre clásicos sabores japoneses con notas sofisticadas de alta cocina.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local.\n- Bellavista 703, Reñaca\n- Descuento aplica para los días martes\n- Tope de descuento de $50.000.\n- Pide tu descuento al momento de pagar.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/sumoku",
+  "tags": [
+   "home-disfrutadores",
+   "latam-pass",
+   "tarjetas-credito",
+   "cat-sabores",
+   "regiones",
+   "cuarenta",
+   "miercoles",
+   "amex",
+   "exclusivo-amex"
+  ],
+  "sitio_comercio": "https://www.sumoku.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Kiara",
+  "tipo": "Cocina Nikkei",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40%. dcto. todos los jueves",
+  "tope": "$100.000",
+  "dias": [
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "El Rodeo 13332, Lo Barnechea",
+   "Lo Barnechea"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "tarjetas_tags": [
+   "LATAM Pass",
+   "Tarjetas de Crédito",
+   "WorldMember Limited",
+   "Exclusivo WorldMember Limited"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Cocina Nikkei\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- El Rodeo 13332, Lo Barnechea.\n- Tope de descuento de $100.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/kiara",
+  "tags": [
+   "home-disfrutadores",
+   "latam-pass",
+   "cuarenta",
+   "metropolitana",
+   "cat-sabores",
+   "tarjetas-credito",
+   "wm-limited",
+   "exclusivo-limited",
+   "jueves"
+  ],
+  "sitio_comercio": "https://kiaranikkei.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Do Sushi",
+  "tipo": "Disfruta de la cocina Japonesa",
+  "descuento": "50%",
+  "descuento_pct": 50,
+  "bajada": "50% dcto. todos los domingos",
+  "tope": "$50.000",
+  "dias": [
+   "Domingo"
+  ],
+  "dias_tags": [
+   "Sábado"
+  ],
+  "horario": "",
+  "lugares": [
+   "Suecia 0155, local 102, Providencia",
+   "Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "American Express Santander",
+   "Amex for Foodies"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Desde el 1 de septiembre hasta el 30 de noviembre de 2026",
+  "condiciones": "Disfruta de la cocina Japonesa\nRecuerda que:\n- \n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido para consumo en local \n- Suecia 0155, local 102, Providencia.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $50.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/do-sushi-6",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "cuarenta",
+   "metropolitana",
+   "sabado",
+   "amex",
+   "amexforfoodies"
+  ],
+  "sitio_comercio": "https://www.dosushi.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Demencia",
+  "tipo": "Decoración circense y alta gastronomía, coctelería de autor y shows en vivo",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40%. dcto. todos los martes",
+  "tope": "$100.000",
+  "dias": [
+   "Martes"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Vitacura 3520, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo pagando con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "WorldMember Limited"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Decoración circense y alta gastronomía, coctelería de autor y shows en vivo.\nRecuerda que:\n- Exclusivo pagando con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Av. Vitacura 3520, Vitacura.\n- Tope de descuento de $100.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/demencia-2",
+  "tags": [
+   "home-disfrutadores",
+   "tarjetas-credito",
+   "latam-pass",
+   "metropolitana",
+   "cat-sabores",
+   "cuarenta",
+   "miercoles",
+   "wm-limited"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Carmine",
+  "tipo": "Raíces profundas de una tradición gastronómica que ha sido transmitida de generación en generación",
+  "descuento": "50%",
+  "descuento_pct": 50,
+  "bajada": "50% dcto. todos los jueves",
+  "tope": "$50.000",
+  "dias": [
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Edmundo Eluchans 595, Viña del Mar",
+   "Viña del Mar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander American Express."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "American Express Santander",
+   "Exclusivo Amex"
+  ],
+  "modalidad": "Presencial",
+  "region": "Valparaíso",
+  "vigencia": "Desde el 01 de junio hasta el 30 de novimbre de 2026",
+  "condiciones": "Raíces profundas de una tradición gastronómica que ha sido transmitida de generación en generación.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander American Express.\n- Válido en local.\n- Av. Edmundo Eluchans 595, Viña del Mar.\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $50.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/carmine",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "cuarenta",
+   "regiones",
+   "miercoles",
+   "amex",
+   "exclusivo-amex"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Rishtedar",
+  "tipo": "Platos tradicionales de la comida India",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los viernes",
+  "tope": "",
+  "dias": [
+   "Viernes"
+  ],
+  "dias_tags": [
+   "Martes",
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Vitacura 5461, Vitacura",
+   "Holanda 160, Providencia",
+   "Principe de Gales 6500 La Reina",
+   "El Rodeo 12850, loca 74 y 75, La Dehesa",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander"
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Platos tradicionales de la comida India\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Válido para consumo en local.\n- Av. Vitacura 5461, Vitacura.\n- Holanda 160, Providencia\n- Principe de Gales 6500 La Reina\n- El Rodeo 12850, loca 74 y 75, La Dehesa \n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de 40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/rishtedar-2",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "miercoles-de-sabores",
+   "cuarenta",
+   "martes"
+  ],
+  "sitio_comercio": "https://rishtedar.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "La Dicha",
+  "tipo": "Descubre los mejores platos gourmet",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles",
+  "tope": "$100.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 4355,Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "tarjetas_tags": [
+   "WorldMember Limited",
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "Exclusivo WorldMember Limited"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Descubre los mejores platos gourmet \nRecuerda que: \n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Alonso de Córdova 4355,Vitacura\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Tope de descuento $100.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/la-dicha-4",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "wm-limited",
+   "tarjetas-credito",
+   "latam-pass",
+   "exclusivo-limited",
+   "cuarenta",
+   "metropolitana",
+   "jueves"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Naoki",
+  "tipo": "Sabores y técnicas japonesas se combinan con elementos locales de la costa chilena para crear una experiencia gastronómi",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40%. dcto. todos los lunes",
+  "tope": "$100.000",
+  "dias": [
+   "Lunes"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Vitacura 3875, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tu Tarjeta de Crédito WorldMember Limited Santander"
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "WorldMember Limited"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Sabores y técnicas japonesas se combinan con elementos locales de la costa chilena para crear una experiencia gastronómica única\nRecuerda que:\n- Exclusivo con tu Tarjeta de Crédito WorldMember Limited Santander \n- Válido para consumo en local.\n- Av. Vitacura 3875, Vitacura.\n- Tope de descuento de $100.000.\n- No acumulable a otras promociones.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/naoki-2",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "metropolitana",
+   "miercoles-de-sabores",
+   "wm-limited"
+  ],
+  "sitio_comercio": "https://naoki.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Caoba Bar",
+  "tipo": "Disfruta de un increíble bar",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los lunes",
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "dias_tags": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Alonso de Córdova 4156, Vitacura",
+   "Vitacura"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander"
+  ],
+  "tarjetas_tags": [
+   "LATAM Pass",
+   "Todas las tarjetas Santander"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "¡Disfruta de un increíble bar!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander\n- Válido para consumo en local.\n- Alonso de Córdova 4156, Vitacura.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Tope de descuento $40.000",
+  "url": "https://banco.santander.cl/beneficios/promociones/caoba-bar-2",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "cuarenta",
+   "latam-pass",
+   "lunes",
+   "todas-las-tarjetas"
+  ],
+  "sitio_comercio": "https://caobabar.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "PF Chang’s",
+  "tipo": "Lo mejor de la comida asiatica",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los martes",
+  "tope": "$40.000",
+  "dias": [
+   "Martes"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Isidora Goyenechea 2940, Parque Arauco y Alto Las Condes, Las Condes",
+   "Las Condes"
+  ],
+  "tarjetas": [
+   "40% pagando con tus Tarjetas de Crédito Santander"
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "¡Lo mejor de la comida asiatica!\nRecuerda que:\n- 40% pagando con tus Tarjetas de Crédito Santander\n- Válido para consumo en local.\n- Isidora Goyenechea 2940, Parque Arauco y Alto Las Condes, Las Condes.\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/pfchang",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "cuarenta",
+   "miercoles-de-sabores",
+   "latam-pass",
+   "metropolitana",
+   "miercoles"
+  ],
+  "sitio_comercio": "https://www.pfchangs.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Dominga Bistró",
+  "tipo": "Gastronomía fusión y coctelería de autor en un solo lugar",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Filomena Valenzuela 30, Iquique"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Regiones",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Gastronomía fusión y coctelería de autor en un solo lugar\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Filomena Valenzuela 30, Iquique.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/domina-bistro",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles-de-sabores",
+   "miercoles",
+   "regiones"
+  ],
+  "sitio_comercio": "https://domingabistro.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "La Bifería",
+  "tipo": "Cortes únicos de carne a la parrilla",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los sábados",
+  "tope": "$40.000",
+  "dias": [
+   "Sábado"
+  ],
+  "dias_tags": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Pedro de Valdivia 065, Providencia",
+   "Providencia"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Cortes únicos de carne a la parrilla\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- Av. Pedro de Valdivia 065, Providencia.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/la-biferia-2",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "viernes",
+   "cuarenta"
+  ],
+  "sitio_comercio": "https://www.labiferia.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Hijo del Sol",
+  "tipo": "Disfruta del rico sabor de una causa limeña",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Reina, Las Condes, Vitacura, Santiago"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Disfruta del rico sabor de una causa limeña \nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $40.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/hijo-del-sol-2",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "miercoles-de-sabores",
+   "miercoles",
+   "latam-pass",
+   "metropolitana"
+  ],
+  "sitio_comercio": ""
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Just Burger",
+  "tipo": "Solo una hamburguesa, hasta que la pruebas",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Providencia, Las Condes, Vitacura, Santiago, Huechuraba, Maipú, Peñalolén, Machalí, Rancagua, Villa Alemana y Viña del Mar"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana, O'Higgins, Valparaíso",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Solo una hamburguesa, hasta que la pruebas\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en local y www.justburger.cl.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/just-burger-3",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "miercoles-de-sabores",
+   "latam-pass",
+   "metropolitana",
+   "regiones",
+   "miercoles"
+  ],
+  "sitio_comercio": "https://www.justburger.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Kobo Sushi",
+  "tipo": "Delicada comida de Japón con la frescura y del toque picante del Perú",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Martes",
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Providencia, Las Condes, San Miguel"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "Delicada comida de Japón con la frescura y del toque picante del Perú\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido para consumo en local y en www.kobo.cl\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/kobo-2",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "miercoles-de-sabores",
+   "tarjetas-credito",
+   "cuarenta",
+   "latam-pass",
+   "martes"
+  ],
+  "sitio_comercio": "https://kobo.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Fork",
+  "tipo": "Platos preparados todos los días, frescos y sin conservantes",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los viernes.",
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "dias_tags": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   " La Reina, Las Condes, Lo Barnechea, Providencia, Santiago, Macul, Vitacura, Ñuñoa"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander.",
+   "Válido en tiendas Fork pagando con tu tarjeta Santander. Y en Forkchile.cl ingresando los primeros 6 dígitos de tu tarjeta en el botón &quot;CÓDIGO PROMO&quot; al momento de pagar."
+  ],
+  "tarjetas_tags": [
+   "Jóvenes",
+   "Todas las tarjetas Santander",
+   "LATAM Pass"
+  ],
+  "modalidad": "Online / delivery",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "¡Platos preparados todos los días, frescos y sin conservantes!\nRecuerda que:\n40% descuento:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en tiendas Fork pagando con tu tarjeta Santander. Y en Forkchile.cl ingresando los primeros 6 dígitos de tu tarjeta en el botón &quot;CÓDIGO PROMO&quot; al momento de pagar.\n- Tope de dcto. de $40.000.\n- No acumulable con otras promociones; Productos seleccionados en https://forkchile.cl/categoria/191/descuento-santander\n- Aplica a productos Fork seleccionados: platos refrigerados individuales y familiares (excepto ensaladas, wraps y platos livianos, salmón a la gremolata y beef bourguignon), sopas, quiches individuales y familiares, sándwiches, cocktail congelado Fork, postres individuales y postres familiares (excepto tortas).\n- Descuento aplicable únicamente a los productos incluidos en la categoría &quot;Descuento Santander&quot;, no incluye productos de otras categorías.",
+  "url": "https://banco.santander.cl/beneficios/promociones/fork-4",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "cuarenta",
+   "jovenes",
+   "todas-las-tarjetas",
+   "metropolitana",
+   "latam-pass",
+   "viernes",
+   "ml-joven-papas"
+  ],
+  "sitio_comercio": "https://www.forkchile.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Winecaina",
+  "tipo": "Disfruta las clásicas preparaciones peruanas",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles",
+  "tope": "$100.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. Borgoño 22900, Concón",
+   "Concón"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "WorldMember Limited"
+  ],
+  "modalidad": "Presencial",
+  "region": "Valparaíso",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "¡Disfruta las clásicas preparaciones peruanas! \nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Av. Borgoño 22900, Concón.\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Tope de descuento de $100.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/winecaina-2",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "regiones",
+   "latam-pass",
+   "miercoles",
+   "cuarenta",
+   "wm-limited"
+  ],
+  "sitio_comercio": "https://www.winecaina.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "eCook",
+  "tipo": "Lleva tus platos favoritos con el mejor descuento",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los martes y jueves",
+  "tope": "Sin tope",
+  "dias": [
+   "Martes",
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Martes",
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "LATAM Pass",
+   "Tarjetas de Crédito",
+   "Life y Débito"
+  ],
+  "modalidad": "Online / delivery",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "¡Lleva tus platos favoritos con el mejor descuento!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en ecook.cl\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Sin tope de descuento.",
+  "url": "https://banco.santander.cl/beneficios/promociones/ecook-4",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "martes",
+   "jueves",
+   "cuarenta",
+   "latam-pass",
+   "metropolitana",
+   "tarjetas-credito",
+   "life-y-debito"
+  ],
+  "sitio_comercio": "https://descubre.ecook.cl/santander"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Dominó",
+  "tipo": "Los martes ahora son Dinámicos",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los martes.",
+  "tope": "Sin tope",
+  "dias": [
+   "Martes"
+  ],
+  "dias_tags": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Las Condes, La Reina, Providencia, Vitacura, Santiago, Ñuñoa, Peñalolén, Macul, Recoleta, La Florida, Huechuraba, Puente Alto, Maipú, Independencia, Viña del Mar, Puerto Montt, Antofagasta, Concepción"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Todas las tarjetas Santander"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana, Valparaíso, Los Lagos, Antofagasta, Bío-Bío",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "¡Los martes ahora son Dinámicos!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido todos los martes en la App Club Dominó y 20% dcto. en locales.\n- Para compras en la App Club Dominó: Selecciona tu pedido &gt; Cupones y Promos &gt; Promos &gt; Ingresa tu código Promocional (ingresando los 6 primeros dígitos de tu tarjeta) &gt; Banco Santander\n- Para compras presenciales: Pide tu descuento al momento de pagar con tus Tarjetas Santander.\n- Sin tope de descuento.\n- Excluye locales de aeropuerto.\n- No acumulable a otras promociones.",
+  "url": "https://banco.santander.cl/beneficios/promociones/domino-2",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "martes",
+   "cuarenta",
+   "maslucas",
+   "todas-las-tarjetas",
+   "regiones",
+   "ml-joven-papas",
+   "metropolitana"
+  ],
+  "sitio_comercio": "https://domino.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "CuracaRibs",
+  "tipo": "Disfruta carnes ahumadas 100% a leña",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos lunes online.",
+  "tope": "$40.000",
+  "dias": [
+   "Lunes"
+  ],
+  "dias_tags": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Florida, Cerrillos, Las Condes, Providencia, Huechuraba, Curacaví"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Online / delivery",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "¡Disfruta carnes ahumadas 100% a leña!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido en www.curacaribs.cl\n- Selecciona el medio de pago &quot;Tarjetas de Crédito Santander / Promo 40% día Lunes&quot;\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/curacaribs-4",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "cuarenta",
+   "lunes",
+   "latam-pass",
+   "metropolitana"
+  ],
+  "sitio_comercio": "https:/www.curacaribs.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Sakura",
+  "tipo": "Mucho más que sushi",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. en Rolls todos los viernes.",
+  "tope": "$40.000",
+  "dias": [
+   "Viernes"
+  ],
+  "dias_tags": [
+   "Viernes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Las Condes, Lo Barnechea, Ñuñoa, Vitacura, La Reina"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Santander Teens",
+   "Todas las tarjetas Santander",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "¡Mucho más que sushi!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en locales, www.sakura.cl\n- Tope dcto. $40.000.\n- Para compras con despacho el monto mínimo es de $12.000.\n- Exclusivo en categorías de Rolls y Hosomaki.\n- Excluye combinaciones, Bento Box.\n- No válida en días feriados.\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+  "url": "https://banco.santander.cl/beneficios/promociones/sakura-4",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "viernes",
+   "cuarenta",
+   "santander-teens",
+   "todas-las-tarjetas",
+   "latam-pass",
+   "metropolitana",
+   "ml-joven-papas"
+  ],
+  "sitio_comercio": "https://www.sakuraexpress.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Corrales del Sur",
+  "tipo": "El mejor Angus nacional en Corrales del Sur",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto. todos los jueves.",
+  "tope": "$100.000",
+  "dias": [
+   "Jueves"
+  ],
+  "dias_tags": [
+   "Jueves"
+  ],
+  "horario": "",
+  "lugares": [
+   "Vitacura, Providencia, Peñalolén, Osorno, Puerto Varas"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "tarjetas_tags": [
+   "WorldMember Limited",
+   "Exclusivo WorldMember Limited",
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana, Los Lagos",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "¡El mejor Angus nacional en Corrales del Sur!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local y en www.corralesdelsur.cl.\n- Exclusivo en carnes Corrales del Sur y embutidos.\n- No acumulable a otras promociones.\n- Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.\n- Descuento máximo por pedido de $100.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/corrales-del-sur-3",
+  "tags": [
+   "home-disfrutadores",
+   "wm-limited",
+   "jueves",
+   "exclusivo-limited",
+   "cuarenta",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "regiones",
+   "metropolitana"
+  ],
+  "sitio_comercio": "https://www.corralesdelsur.cl/"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Melt Pizzas",
+  "tipo": "Las mejores pizzas están en Melt! Arma tu pizza como más te guste",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los martes.",
+  "tope": "$40.000",
+  "dias": [
+   "Martes"
+  ],
+  "dias_tags": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [
+   "La Reina, Vitacura, Santiago, Las Condes, Providencia, Peñalolén, Recoleta, Huechuraba, Lo Barnechea, San Miguel, La Florida, Puente Alto, Ñuñoa, "
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito y Débito Santander."
+  ],
+  "tarjetas_tags": [
+   "Santander Teens",
+   "Todas las tarjetas Santander",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial y online",
+  "region": "Metropolitana, Maule, O'Higgins, Bío-Bío, Antofagasta, Valparaíso, La Araucanía",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "¡Las mejores pizzas están en Melt! Arma tu pizza como más te guste.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito y Débito Santander.\n- Válido en locales, App MELT y en www.meltpizzas.com\n- No acumulable a otras promociones.\n- Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Excluye productos de las categorías Promos, bebidas, Holy Cheese y precios promocionales.\n- Tope dcto. $40.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/melt",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "martes",
+   "cuarenta",
+   "regiones",
+   "maslucas",
+   "santander-teens",
+   "todas-las-tarjetas",
+   "ml-joven-papas",
+   "metropolitana",
+   "latam-pass",
+   "destacado_home"
+  ],
+  "sitio_comercio": "https://meltpizzas.com"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Barrica 94",
+  "tipo": "Disfruta el punto de encuentro entre el vino y la gastronomía",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los viermes",
+  "tope": "$100.000",
+  "dias": [
+   "Lunes"
+  ],
+  "dias_tags": [
+   "Lunes"
+  ],
+  "horario": "",
+  "lugares": [
+   "Av. José Alcalde Délano 10533, Lo Barnechea",
+   "Lo Barnechea"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "tarjetas_tags": [
+   "WorldMember Limited",
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "Exclusivo WorldMember Limited"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "¡Disfruta el punto de encuentro entre el vino y la gastronomía!\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido para consumo en local.\n- Av. José Alcalde Délano 10533, Lo Barnechea\n- No acumulable a otras promociones.\n- Pide tu descuento al momento de pagar.\n- Descuento máximo por pedido de $100.000.\n- Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/barrica-94-2",
+  "tags": [
+   "home-disfrutadores",
+   "wm-limited",
+   "tarjetas-credito",
+   "latam-pass",
+   "exclusivo-limited",
+   "cuarenta",
+   "cat-sabores",
+   "lunes"
+  ],
+  "sitio_comercio": "https://www.barrica94.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Aquality",
+  "tipo": "Compra pescados y mariscos congelados de calidad superior! Además, acumula 1 Milla LATAM Pass adicional del 01 al 07 de ",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los martes y acumula 1 Milla LATAM Pass adicional",
+  "tope": "$100.000",
+  "dias": [
+   "Martes"
+  ],
+  "dias_tags": [
+   "Martes"
+  ],
+  "horario": "",
+  "lugares": [],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass."
+  ],
+  "tarjetas_tags": [
+   "Exclusivo WorldMember Limited",
+   "LATAM Pass",
+   "Tarjetas de Crédito",
+   "WorldMember Limited"
+  ],
+  "modalidad": "Online / delivery",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026",
+  "condiciones": "¡Compra pescados y mariscos congelados de calidad superior! Además, acumula 1 Milla LATAM Pass adicional del 01 al 07 de cada mes.\nRecuerda que:\n- Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.\n- Válido en www.aqualitysoluciones.cl\n- No acumulable a otras promociones.\n- Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.\n- Despacho aplica en Región Metropolitana y Punto de retiro aplica en Chicureo y Concón.\n- Descuento máximo por pedido de $100.000.",
+  "url": "https://banco.santander.cl/beneficios/promociones/aquality-3",
+  "tags": [
+   "home-disfrutadores",
+   "exclusivo-limited",
+   "millas-x2",
+   "latam-pass",
+   "tarjetas-credito",
+   "cat-multiplica-millas",
+   "metropolitana",
+   "martes",
+   "wm-limited",
+   "cuarenta",
+   "cat-sabores"
+  ],
+  "sitio_comercio": "https://www.aqualitysoluciones.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Al Pesto",
+  "tipo": "Disfruta las delicias culinarias y tendencias italianas auténticas",
+  "descuento": "30%",
+  "descuento_pct": 30,
+  "bajada": "30% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Martes",
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Colina"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander.Válido para consumo en local.Boulevard Los Ingleses, Av. Chicureo Km 2, Colina.No acumulable a otras promociones.Pide tu descuento al momento de pagar.Descuento máximo por pedido de $40.000Se excluyen propinas, menús, happy hours."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass"
+  ],
+  "modalidad": "Presencial",
+  "region": "Metropolitana",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "¡Disfruta las delicias culinarias y tendencias italianas auténticas!\nRecuerda que: \nExclusivo con tus Tarjetas de Crédito Santander.Válido para consumo en local.Boulevard Los Ingleses, Av. Chicureo Km 2, Colina.No acumulable a otras promociones.Pide tu descuento al momento de pagar.Descuento máximo por pedido de $40.000Se excluyen propinas, menús, happy hours.",
+  "url": "https://banco.santander.cl/beneficios/promociones/al-pesto",
+  "tags": [
+   "home-disfrutadores",
+   "cat-sabores",
+   "tarjetas-credito",
+   "latam-pass",
+   "miercoles-de-sabores",
+   "martes"
+  ],
+  "sitio_comercio": "https://www.alpesto.cl"
+ },
+ {
+  "banco": "Santander",
+  "comercio": "Hestia",
+  "tipo": "Cámbiale el sabor a tus miércoles con los Miércoles de Sabores",
+  "descuento": "40%",
+  "descuento_pct": 40,
+  "bajada": "40% dcto. todos los miércoles",
+  "tope": "$40.000",
+  "dias": [
+   "Miércoles"
+  ],
+  "dias_tags": [
+   "Miércoles"
+  ],
+  "horario": "",
+  "lugares": [
+   "Avenida Isidoro del solar 177, Talca"
+  ],
+  "tarjetas": [
+   "Exclusivo con tus Tarjetas de Crédito Santander."
+  ],
+  "tarjetas_tags": [
+   "Tarjetas de Crédito",
+   "LATAM Pass",
+   "WorldMember Limited"
+  ],
+  "modalidad": "Presencial",
+  "region": "Regiones",
+  "vigencia": "Hasta el 31 de octubre de 2026.",
+  "condiciones": "¡Cámbiale el sabor a tus miércoles con los Miércoles de Sabores!\n- Exclusivo con tus Tarjetas de Crédito Santander.\n- Válido presencial.\n- No acumulable a otras promociones.\n- Descuento máximo por pedido de $40.000.\n- Avenida Isidoro del solar 177, Talca",
+  "url": "https://banco.santander.cl/beneficios/sabores/promociones/hestia-talca",
+  "tags": [
+   "tarjetas-credito",
+   "regiones",
+   "miercoles-de-sabores",
+   "latam-pass",
+   "wm-limited",
+   "home-disfrutadores",
+   "cat-sabores"
+  ],
+  "sitio_comercio": ""
+ }
+]
